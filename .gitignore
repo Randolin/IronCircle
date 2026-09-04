@@ -1,0 +1,20 @@
+# Build output
+site/
+
+# Rulebooks and SRD PDFs are copyrighted/large — they stay in C:\Obsidian, never in the repo
+*.pdf
+docs/Cadwallon/Rulebooks/
+docs/Documentation/**/*.txt
+
+# Obsidian workspace
+.obsidian/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

@@ -1,0 +1,68 @@
+site_name: Iron Circle
+site_description: The Iron Circle table's campaign wiki.
+site_url: https://randolin.github.io/IronCircle/
+repo_url: https://github.com/Randolin/IronCircle
+repo_name: Randolin/IronCircle
+edit_uri: edit/main/docs/
+
+docs_dir: docs
+site_dir: site
+
+# ---------------------------------------------------------------------------
+# VISIBILITY RULE (read this before adding files)
+#
+# Two things keep a page off the public site. Either one is enough:
+#   1. The page's frontmatter contains `exposure: secret`
+#      (handled by hooks/exposure.py — same field the Cadwallon schema uses)
+#   2. The page lives anywhere under a folder named `gm/`
+#      (handled by exclude_docs below)
+#
+# `exposure: public` and `exposure: rumored` both publish.
+# The repo itself is public on GitHub; "GM-only" means "not on the wiki",
+# not "hidden from anyone who reads the repo". See README.
+# ---------------------------------------------------------------------------
+exclude_docs: |
+  gm/
+  *.pdf
+  Rulebooks/
+
+hooks:
+  - hooks/exposure.py
+
+theme:
+  name: material
+  language: en
+  palette:
+    scheme: slate
+    primary: black
+    accent: amber
+  font:
+    text: Source Serif 4
+    code: JetBrains Mono
+  features:
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+
+# Obsidian compatibility: wikilinks and callouts render as they did in the vault.
+plugins:
+  - search
+  - roamlinks
+  - callouts
+
+markdown_extensions:
+  - nl2br            # required by callouts
+  - admonition       # required by callouts
+  - pymdownx.details # required by callouts
+  - pymdownx.superfences
+  - tables
+  - attr_list
+  - md_in_html
+  - footnotes
+  - toc:
+      permalink: true
