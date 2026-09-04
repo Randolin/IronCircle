@@ -360,7 +360,7 @@ config = {
         "name": "github",
         "repo": "Randolin/IronCircle",
         "branch": "main",
-        "base_url": "https://REPLACE-ME.workers.dev",
+        "base_url": "https://sveltia-cms-auth.aaron-g-holloway.workers.dev",
     },
     "site_url": "https://randolin.github.io/IronCircle/",
     "display_url": "https://randolin.github.io/IronCircle/",
