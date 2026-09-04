@@ -12,7 +12,7 @@ Companion to the [campaign doc](../campaign.md) and the [danger board](../danger
 
 The tiers sort by **relationship to the killings**, not by importance or screen time. A Tier B character may get more table time than half of Tier A; that isn't a demotion, it's the job.
 
-- **Tier A — the board.** Anyone who had a hand in the prior deaths, will have a hand in the next ones, or is shaped enough like a killer to survive scrutiny. This is the list the players are trying to shorten. Six of the fourteen names on it are innocent of murder and guilty of something else.
+- **Tier A — the board.** Anyone who had a hand in the prior deaths, will have a hand in the next ones, or is shaped enough like a killer to survive scrutiny. This is the list the players are trying to shorten. Six of the fifteen names on it are innocent of murder and guilty of something else.
 - **Tier B — the working surface.** The people the players actually spend sessions with. Each one is a route into a Tier A name: what that person did, why, and where the paper is. Sorted below by *who they open* and *what they cost*, because their payloads deliberately overlap and the scenes have to be distinguished by price rather than by prize.
 - **Tier C — the world.** Incidental. Texture, atmosphere, the occasional receipt. If one of them gets more than two scenes, promote them and rewrite the entry.
 

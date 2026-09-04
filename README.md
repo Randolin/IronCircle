@@ -15,7 +15,18 @@ The Iron Circle table's campaign wiki. Plain Markdown in `docs/`, built into a w
 
 ## Editing
 
-Every page on the site has an **edit (pencil) icon** in the top right. It opens the Markdown file in GitHub's web editor — change it, commit, and the site rebuilds in about a minute. No local tools required.
+Two ways, both in the browser, both free:
+
+**The editor — https://randolin.github.io/IronCircle/admin/** (Sveltia CMS). Sign in with GitHub, pick a section in the sidebar, edit the page, hit Save. Save is a commit to `main`; the site rebuilds in about a minute. Frontmatter fields show up as form fields so you don't have to remember the schema. You need write access to the repo — ask Aaron.
+
+**The pencil icon** in the top right of every page opens the raw Markdown file in GitHub's web editor. Same result, no forms.
+
+A few things about the editor:
+
+- Cadwallon pages edit as raw Markdown only. The rich-text mode rewrites `[[wikilinks]]` and `> [!note]` callouts, so it's switched off there.
+- New page names keep capitals and spaces (`The Docks.md`) so wikilinks resolve. Apostrophes are dropped from *new* file names; rename on GitHub if it matters.
+- The editor only knows the fields listed in `docs/admin/config.yml`. If you add a new frontmatter field to a folder, add it there too (via `tools/build-cms-config.py`) or the editor will drop it on the next save.
+- New folder under `docs/` → new collection in the same script. The editor doesn't walk subfolders.
 
 If you'd rather work locally or with an agent (Claude Code etc.), clone the repo and edit anything under `docs/`. Markdown, wikilinks (`[[Page Name]]`), and Obsidian-style callouts (`> [!note]`) all render.
 
@@ -42,6 +53,14 @@ Players: please don't read those. Yes, the repo is public and you *could*. That'
 ## Not in the repo
 
 Rulebook and SRD PDFs are copyrighted and stay on the GM's machine. `.gitignore` blocks `*.pdf` so they can't be committed by accident.
+
+## Editor setup (GM, one-time)
+
+The editor needs a small OAuth relay because GitHub Pages can't hold a client secret. Free, ~10 minutes:
+
+1. GitHub → Settings → Developer settings → OAuth Apps → **New OAuth App**. Homepage `https://randolin.github.io/IronCircle/`; callback URL `<worker-url>/callback` (fill in after step 2, then edit). Copy the client ID and generate a secret.
+2. Deploy the relay: https://deploy.workers.cloudflare.com/?url=https://github.com/sveltia/sveltia-cms-auth — set `GITHUB_CLIENT_ID`, `GITHUB_CLIENT_SECRET` (encrypted), and `ALLOWED_DOMAINS=randolin.github.io`.
+3. Put the worker URL in `docs/admin/config.yml` → `backend.base_url` (in `tools/build-cms-config.py`, then re-run it). Commit, push, open `/admin/`.
 
 ## First-time setup (GM)
 

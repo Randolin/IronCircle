@@ -26,11 +26,15 @@ docs/
       themes.md             Suno instrumental cues, one per character
       roster/               character profiles, split by tier
       sessions/             per-session plans and recaps
+.claude/commands/           slash commands — /wrap-session runs the end-of-session workflow below
 hooks/exposure.py           the secret-page filter
-tools/                      one-off scripts
+tools/                      one-off scripts; build-cms-config.py regenerates docs/admin/config.yml
+docs/admin/                 Sveltia CMS (in-browser editor at /admin/). config.yml is GENERATED — edit the script
 ```
 
 Never commit PDFs (`.gitignore` enforces).
+
+**When you add a folder under `docs/` or a new frontmatter field to a folder, update `tools/build-cms-config.py` and re-run it.** The web editor only saves declared fields and doesn't see undeclared folders.
 
 ## Conventions by project
 

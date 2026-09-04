@@ -38,6 +38,7 @@ Every note may carry these. `type` is required; the rest default as noted.
 | Field | Values | Default | Meaning |
 |---|---|---|---|
 | `type` | one of the controlled vocabulary below | — (required) | What kind of note this is. Drives every `FROM`/`WHERE`. |
+| `title` | free text | — | Display name, written only by the web editor (`/admin/`) when it creates a new page; it becomes the file name. Existing notes don't need it — the H1 and file name carry the name. Optional. |
 | `exposure` | `public` \| `rumored` \| `secret` | `public` | In-world knowledge tier. `secret` = GM-only; the GM-index queries key off this. |
 | `canon` | `core` \| `homebrew` | `core` | Source of truth. `core` = drawn from PHB / Secrets / Marine Ruins. `homebrew` = our table's invention or override (**authoritative** per [[Reference#Canon Hierarchy]]). |
 | `completeness` | `stub` \| `draft` \| `complete` | `draft` | Build state of the note itself. Lets us query "what still needs writing." |
