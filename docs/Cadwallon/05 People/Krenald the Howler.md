@@ -1,15 +1,16 @@
 ---
 type: character
-faction: "[[The Howlers]]"
-location: "[[Gamehead]]"
 status: alive
+faction: '[[The Howlers]]'
+location: '[[Gamehead]]'
 ---
+
 > Aging Wolfen alpha. The Peer who hunts no longer. Cloistered — but still the boss.
 
 ## Canon Facts
 - **Peer of [[Gamehead]]**, nominated in 963 (40 years ago) as reward for service to the city.
 - A "repentant Wolfen" — affiliated with the Yllian Wolfen who broke with the path of Vile-Tis.
-- Now elderly. Has cloistered himself and given the reins of power to [[Hadrax]].
+- Now venerable. Has cloistered himself and given the reins of power to [[Hadrax]].
 - Still considered the alpha of the pack despite his withdrawal.
 - His last mate is [[Kyx]], an exiled vestal.
 
