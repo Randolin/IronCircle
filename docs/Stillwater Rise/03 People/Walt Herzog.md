@@ -1,0 +1,37 @@
+---
+type: character
+tier: a
+board: chain
+role: "city editor, the Weaver morning paper"
+faction: [[Weaver Media]]
+status: alive
+exposure: secret
+completeness: complete
+aliases:
+  - "Herzog"
+---
+
+# Walt Herzog
+
+> *City editor, the Weaver morning paper.*
+
+The floor man who relayed Shale's Day −14 slip upstairs — routine gossip management, he thought, the kind of thing an editor passes along to stay warm with the tower. Then the woman in the gossip drowned. Herzog has done this arithmetic exactly once, at 3 a.m., and put it away unfinished. He is not brave; he is *precise*, and precision is a conscience's slowest fuse. If Shale ever confronts him, or the players show him the timeline with his relay in it, the fuse reaches the charge.
+- [the arithmetic, refused]: "I move information. That's the job. Reporter talks, editor hears, publisher likes to know his people. That's all it was. That's ALL it was. ...When did she go in the water, exactly?"
+
+**Visual:** Fifties, dry and gray as newsprint, steel spectacles, green eyeshade pushed up, sleeve garters, red grease pencil parked over the ear.
+
+**Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a dry, gray white man in his fifties with a narrow, lined, newsprint-colored face and a tight careful mouth. Thin gray eyebrows; guarded pale eyes behind small round steel spectacles; a narrow nose; short gray hair under a green celluloid eyeshade pushed up on his forehead; a red grease pencil parked over one ear. Careful, evasive expression, facing the viewer. At the bottom edge of the frame only: a white shirt collar with a loosened gray tie and visible sleeve-garter strap at the frame corner.
+
+**Image prompt — full body & wardrobe:** Full-figure view of a thin, dry white man in his fifties standing with a folded proof sheet in one hand. He wears a white shirt with sleeve garters and a loosened gray tie, gray trousers with a worn belt, a green eyeshade pushed up on his forehead, and ink-scuffed shoes.
+
+## Theme (Suno)
+
+*The copy desk, the relay, the arithmetic he did once at three in the morning and put away.*
+
+```
+Cool Jazz, minimalist. A muted trumpet plays one careful phrase and stops; upright piano answers with a single chord and waits; the percussion is a copy-desk pencil, a spike, and a telephone lifted before the second ring. Careful, complicit, precise. 74 BPM, E minor, 4/4, dry newsroom acoustic. + the phrase restarts four times and never gets past its fourth bar, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
+**Tuning:** If it develops into a full head, add `no development and no resolution`. Two takes is enough; this one is short by design.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

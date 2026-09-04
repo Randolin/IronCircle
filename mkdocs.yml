@@ -18,6 +18,8 @@ site_dir: site
 #      (handled by exclude_docs below)
 #
 # `exposure: public` and `exposure: rumored` both publish.
+# Under `docs/Stillwater Rise/` the default flips: a page publishes ONLY if it
+# says public/rumored (SECRET_BY_DEFAULT in hooks/exposure.py).
 # The repo itself is public on GitHub; "GM-only" means "not on the wiki",
 # not "hidden from anyone who reads the repo". See README.
 # ---------------------------------------------------------------------------
@@ -28,6 +30,7 @@ exclude_docs: |
 
 hooks:
   - hooks/exposure.py
+  - hooks/wikilinks.py   # disambiguates [[Name]] when two campaigns share a file name
 
 theme:
   name: material

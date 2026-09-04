@@ -207,21 +207,94 @@ def folder(name, label, path, fields, icon, create=True, rich=False, **kw):
     return c
 
 
-# --- Stillwater Rise ----------------------------------------------------------
-SW_GM_FIELDS = [
-    {"label": "Title", "name": "title", "widget": "string"},
-    hidden("exposure", "secret"),
-    hidden("campaign", "Stillwater Rise"),
+# --- Stillwater Rise (00 Reference/Schema.md in that folder) --------------
+# Secret by default: the build hook publishes a page here only if exposure is
+# public/rumored, so the hidden default below is the safe one.
+SW_UNIVERSAL = [
+    s("title", "Title (new pages only)",
+      "Becomes the file name. Leave blank when editing an existing page."),
+    s("exposure", "Exposure", "public | rumored | secret — missing = secret in this folder", default="secret"),
+    s("completeness", "Completeness", "stub | draft | complete"),
+    s("status", "Status", "In-world condition, where the type has one"),
+    lst("aliases", "Aliases"),
+    lst("tags", "Tags"),
 ]
 
+SW_REFERENCE = [s("type", "Type", "reference | moc | timeline | board"), *SW_UNIVERSAL]
 
-def sw_file(name, label, file, extra=None):
-    return {
-        "name": name,
-        "label": label,
-        "file": f"docs/stillwater-rise/gm/{file}",
-        "fields": [*SW_GM_FIELDS, *(extra or []), body()],
-    }
+SW_CITY = [
+    s("type", "Type", "place | moc", default="place"),
+    *SW_UNIVERSAL,
+    s("district", "District", "[[Place]]"),
+    s("controlled-by", "Controlled by", "[[Institution]]"),
+]
+
+SW_INSTITUTIONS = [
+    s("type", "Type", "institution | moc", default="institution"),
+    *SW_UNIVERSAL,
+    s("kind", "Kind", "agency | government | media | police | finance | press | church | crime | camp"),
+    s("hq", "HQ", "[[Place]]"),
+    s("leader", "Leader", "[[Character]]"),
+]
+
+SW_PEOPLE = [
+    s("type", "Type", "character | moc", default="character"),
+    *SW_UNIVERSAL,
+    s("tier", "Tier", "a | b | c | agency | victim"),
+    s("board", "Board", "chain | suspect | next | route | texture | agency | victim"),
+    s("role", "Role (epithet)"),
+    s("mythos", "Mythos"),
+    s("draws-fire", "Draws fire", "early | early-mid | mid | mid-late | late (suspects only)"),
+    s("opens", "Opens", "Tier B: which Tier A name this route reaches"),
+    s("faction", "Faction", "[[Institution]]"),
+    s("location", "Location", "[[Place]]"),
+]
+
+SW_MYTHOS = [s("type", "Type", "moc | concept"), *SW_UNIVERSAL]
+
+SW_CAMPAIGN = [
+    s("type", "Type", "moc | reference | board | thread"),
+    *SW_UNIVERSAL,
+    s("stakes", "Stakes"),
+    lst("related", "Related"),
+]
+
+SW_PCS = [
+    hidden("type", "pc"),
+    s("title", "Title (new pages only)", "Becomes the file name."),
+    s("exposure", "Exposure", "PCs are public", default="public"),
+    s("player", "Player"),
+    s("pronouns", "Pronouns"),
+    s("logos", "Logos (mundane name)"),
+    s("mythos", "Mythos (the figure)"),
+    s("ancestry", "Ancestry"),
+    s("mythos-ancestry", "Mythos ancestry"),
+    s("community", "Community"),
+    s("logos-class", "Logos class"),
+    s("logos-subclass", "Logos subclass"),
+    s("mythos-class", "Mythos class"),
+    s("mythos-subclass", "Mythos subclass"),
+    s("transformation", "Transformation"),
+    lst("experiences", "Experiences"),
+    lst("logos-cards", "Logos cards"),
+    lst("mythos-cards", "Mythos cards"),
+    num("level", "Level", min=1, max=10),
+    s("status", "Status", "active | retired | dead | guest"),
+    s("image", "Image", "[[Portrait.png]]"),
+    lst("aliases", "Aliases"),
+]
+
+SW_SESSIONS = [
+    hidden("type", "session"),
+    {"label": "File name", "name": "title", "widget": "string",
+     "hint": "Use Session NN, e.g. Session 02. Also the page title."},
+    hidden("exposure", "secret"),
+    num("session-number", "Session number"),
+    s("date", "Date played", "YYYY-MM-DD, blank until played"),
+    lst("present", "Present"),
+    {"label": "Status", "name": "status", "widget": "select",
+     "options": ["planning", "played"], "default": "planning"},
+]
 
 
 DISTRICT_FIEFS = [
@@ -246,56 +319,19 @@ collections = [
         ],
     },
     DIVIDER,
-    {
-        "name": "sw-public",
-        "label": "Stillwater Rise — Players",
-        "icon": "visibility",
-        "files": [
-            {"name": "index", "label": "Case file (public)", "file": "docs/stillwater-rise/index.md",
-             "fields": [{"label": "Title", "name": "title", "widget": "string"},
-                        hidden("exposure", "public"), body(rich=True)]},
-        ],
-    },
-    {
-        "name": "sw-gm",
-        "label": "Stillwater Rise — GM",
-        "icon": "visibility_off",
-        "files": [
-            sw_file("hub", "GM Hub + CURRENT STATE", "index.md"),
-            sw_file("campaign", "Campaign doc", "campaign.md",
-                    [s("status", "Status", "placeholder | draft | reconciled")]),
-            sw_file("danger-board", "Danger board", "danger-board.md"),
-            sw_file("decisions", "Decisions log", "decisions.md"),
-            sw_file("themes", "Character themes (Suno)", "themes.md"),
-            sw_file("roster-index", "Roster — index & prompt conventions", "roster/index.md"),
-            sw_file("roster-victim", "Roster — the victim", "roster/victim.md"),
-            sw_file("roster-tier-a", "Roster — Tier A (the board)", "roster/tier-a.md"),
-            sw_file("roster-tier-b", "Roster — Tier B (working surface)", "roster/tier-b.md"),
-            sw_file("roster-tier-c", "Roster — Tier C (the world)", "roster/tier-c.md"),
-            sw_file("roster-agency", "Roster — the agency", "roster/agency.md"),
-        ],
-    },
-    {
-        "name": "sw-sessions",
-        "label": "Stillwater Rise — Sessions (GM)",
-        "icon": "event_note",
-        "folder": "docs/stillwater-rise/gm/sessions",
-        "create": True,
-        "slug": "{{title}}",
-        "summary": "{{filename}} — {{status}}",
-        "sortable_fields": ["session-number", "date"],
-        "fields": [
-            {"label": "File name", "name": "title", "widget": "string",
-             "hint": "Use session-NN, e.g. session-02. Also the page title."},
-            hidden("exposure", "secret"),
-            hidden("campaign", "Stillwater Rise"),
-            num("session-number", "Session number"),
-            s("date", "Date played", "YYYY-MM-DD, blank until played"),
-            {"label": "Status", "name": "status", "widget": "select",
-             "options": ["planning", "played"], "default": "planning"},
-            body(rich=True),
-        ],
-    },
+    folder("sw-root", "Stillwater Rise — Landing", "docs/Stillwater Rise", SW_REFERENCE, "visibility", create=False),
+    folder("sw-reference", "Stillwater Rise — 00 Reference", "docs/Stillwater Rise/00 Reference", SW_REFERENCE, "menu_book", create=False),
+    folder("sw-city", "Stillwater Rise — 01 The City", "docs/Stillwater Rise/01 The City", SW_CITY, "location_city"),
+    folder("sw-institutions", "Stillwater Rise — 02 Institutions", "docs/Stillwater Rise/02 Institutions", SW_INSTITUTIONS, "diversity_3"),
+    folder("sw-people", "Stillwater Rise — 03 People", "docs/Stillwater Rise/03 People", SW_PEOPLE, "person",
+           sortable_fields=["tier", "board", "status"]),
+    folder("sw-mythos", "Stillwater Rise — 04 Mythos", "docs/Stillwater Rise/04 Mythos", SW_MYTHOS, "auto_awesome"),
+    folder("sw-timeline", "Stillwater Rise — 05 Timeline", "docs/Stillwater Rise/05 Timeline", SW_REFERENCE, "history_edu", create=False),
+    folder("sw-campaign", "Stillwater Rise — 06 Campaign (GM)", "docs/Stillwater Rise/06 Campaign", SW_CAMPAIGN, "casino"),
+    folder("sw-pcs", "Stillwater Rise — 06 Campaign / Characters (PCs)", "docs/Stillwater Rise/06 Campaign/Characters", SW_PCS, "badge",
+           summary="{{filename}} ({{player}})"),
+    folder("sw-sessions", "Stillwater Rise — 06 Campaign / Sessions", "docs/Stillwater Rise/06 Campaign/Sessions", SW_SESSIONS, "event_note",
+           slug="{{title}}", summary="{{filename}} — {{status}}", sortable_fields=["session-number", "date"], rich=True),
     DIVIDER,
     {
         "name": "ff-setting",

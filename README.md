@@ -10,7 +10,7 @@ The Iron Circle table's campaign wiki. Plain Markdown in `docs/`, built into a w
 |---|---|
 | `docs/Cadwallon/` | The Free City of Cadwallon — Daggerheart setting guide and wiki |
 | `docs/Fate Foretold/` | Kalystra / Heliakros — Daggerheart location and cast |
-| `docs/stillwater-rise/` | *Stillwater Rise* — 1962 period-noir murder mystery (City of Mist) |
+| `docs/Stillwater Rise/` | *Stillwater Rise* — 1962 period-noir murder mystery (City of Mist). Secret by default; pages opt in with `exposure: public` |
 | `docs/Documentation/` | System references |
 
 ## Editing

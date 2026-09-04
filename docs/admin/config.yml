@@ -70,266 +70,585 @@ collections:
       - rich_text
       required: false
 - divider: true
-- name: sw-public
-  label: Stillwater Rise — Players
+- name: sw-root
+  label: Stillwater Rise — Landing
   icon: visibility
-  files:
-  - name: index
-    label: Case file (public)
-    file: docs/stillwater-rise/index.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: public
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      - rich_text
-      required: false
-- name: sw-gm
-  label: Stillwater Rise — GM
-  icon: visibility_off
-  files:
-  - name: hub
-    label: GM Hub + CURRENT STATE
-    file: docs/stillwater-rise/gm/index.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: campaign
-    label: Campaign doc
-    file: docs/stillwater-rise/gm/campaign.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Status
-      name: status
-      widget: string
-      required: false
-      hint: placeholder | draft | reconciled
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: danger-board
-    label: Danger board
-    file: docs/stillwater-rise/gm/danger-board.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: decisions
-    label: Decisions log
-    file: docs/stillwater-rise/gm/decisions.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: themes
-    label: Character themes (Suno)
-    file: docs/stillwater-rise/gm/themes.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-index
-    label: Roster — index & prompt conventions
-    file: docs/stillwater-rise/gm/roster/index.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-victim
-    label: Roster — the victim
-    file: docs/stillwater-rise/gm/roster/victim.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-tier-a
-    label: Roster — Tier A (the board)
-    file: docs/stillwater-rise/gm/roster/tier-a.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-tier-b
-    label: Roster — Tier B (working surface)
-    file: docs/stillwater-rise/gm/roster/tier-b.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-tier-c
-    label: Roster — Tier C (the world)
-    file: docs/stillwater-rise/gm/roster/tier-c.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-  - name: roster-agency
-    label: Roster — the agency
-    file: docs/stillwater-rise/gm/roster/agency.md
-    fields:
-    - label: Title
-      name: title
-      widget: string
-    - name: exposure
-      widget: hidden
-      default: secret
-    - name: campaign
-      widget: hidden
-      default: Stillwater Rise
-    - label: Body
-      name: body
-      widget: markdown
-      modes:
-      - raw
-      required: false
-- name: sw-sessions
-  label: Stillwater Rise — Sessions (GM)
-  icon: event_note
-  folder: docs/stillwater-rise/gm/sessions
-  create: true
-  slug: '{{title}}'
-  summary: '{{filename}} — {{status}}'
-  sortable_fields:
-  - session-number
-  - date
+  folder: docs/Stillwater Rise
+  create: false
+  summary: '{{filename}}'
   fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: reference | moc | timeline | board
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-reference
+  label: Stillwater Rise — 00 Reference
+  icon: menu_book
+  folder: docs/Stillwater Rise/00 Reference
+  create: false
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: reference | moc | timeline | board
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-city
+  label: Stillwater Rise — 01 The City
+  icon: location_city
+  folder: docs/Stillwater Rise/01 The City
+  create: true
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: place | moc
+    default: place
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: District
+    name: district
+    widget: string
+    required: false
+    hint: '[[Place]]'
+  - label: Controlled by
+    name: controlled-by
+    widget: string
+    required: false
+    hint: '[[Institution]]'
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-institutions
+  label: Stillwater Rise — 02 Institutions
+  icon: diversity_3
+  folder: docs/Stillwater Rise/02 Institutions
+  create: true
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: institution | moc
+    default: institution
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Kind
+    name: kind
+    widget: string
+    required: false
+    hint: agency | government | media | police | finance | press | church | crime | camp
+  - label: HQ
+    name: hq
+    widget: string
+    required: false
+    hint: '[[Place]]'
+  - label: Leader
+    name: leader
+    widget: string
+    required: false
+    hint: '[[Character]]'
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-people
+  label: Stillwater Rise — 03 People
+  icon: person
+  folder: docs/Stillwater Rise/03 People
+  create: true
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: character | moc
+    default: character
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Tier
+    name: tier
+    widget: string
+    required: false
+    hint: a | b | c | agency | victim
+  - label: Board
+    name: board
+    widget: string
+    required: false
+    hint: chain | suspect | next | route | texture | agency | victim
+  - label: Role (epithet)
+    name: role
+    widget: string
+    required: false
+  - label: Mythos
+    name: mythos
+    widget: string
+    required: false
+  - label: Draws fire
+    name: draws-fire
+    widget: string
+    required: false
+    hint: early | early-mid | mid | mid-late | late (suspects only)
+  - label: Opens
+    name: opens
+    widget: string
+    required: false
+    hint: 'Tier B: which Tier A name this route reaches'
+  - label: Faction
+    name: faction
+    widget: string
+    required: false
+    hint: '[[Institution]]'
+  - label: Location
+    name: location
+    widget: string
+    required: false
+    hint: '[[Place]]'
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+  sortable_fields:
+  - tier
+  - board
+  - status
+- name: sw-mythos
+  label: Stillwater Rise — 04 Mythos
+  icon: auto_awesome
+  folder: docs/Stillwater Rise/04 Mythos
+  create: true
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: moc | concept
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-timeline
+  label: Stillwater Rise — 05 Timeline
+  icon: history_edu
+  folder: docs/Stillwater Rise/05 Timeline
+  create: false
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: reference | moc | timeline | board
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-campaign
+  label: Stillwater Rise — 06 Campaign (GM)
+  icon: casino
+  folder: docs/Stillwater Rise/06 Campaign
+  create: true
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+    hint: moc | reference | board | thread
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name. Leave blank when editing an existing page.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: public | rumored | secret — missing = secret in this folder
+    default: secret
+  - label: Completeness
+    name: completeness
+    widget: string
+    required: false
+    hint: stub | draft | complete
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: In-world condition, where the type has one
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Tags
+    name: tags
+    widget: list
+    required: false
+  - label: Stakes
+    name: stakes
+    widget: string
+    required: false
+  - label: Related
+    name: related
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-pcs
+  label: Stillwater Rise — 06 Campaign / Characters (PCs)
+  icon: badge
+  folder: docs/Stillwater Rise/06 Campaign/Characters
+  create: true
+  summary: '{{filename}} ({{player}})'
+  fields:
+  - name: type
+    widget: hidden
+    default: pc
+  - label: Title (new pages only)
+    name: title
+    widget: string
+    required: false
+    hint: Becomes the file name.
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+    hint: PCs are public
+    default: public
+  - label: Player
+    name: player
+    widget: string
+    required: false
+  - label: Pronouns
+    name: pronouns
+    widget: string
+    required: false
+  - label: Logos (mundane name)
+    name: logos
+    widget: string
+    required: false
+  - label: Mythos (the figure)
+    name: mythos
+    widget: string
+    required: false
+  - label: Ancestry
+    name: ancestry
+    widget: string
+    required: false
+  - label: Mythos ancestry
+    name: mythos-ancestry
+    widget: string
+    required: false
+  - label: Community
+    name: community
+    widget: string
+    required: false
+  - label: Logos class
+    name: logos-class
+    widget: string
+    required: false
+  - label: Logos subclass
+    name: logos-subclass
+    widget: string
+    required: false
+  - label: Mythos class
+    name: mythos-class
+    widget: string
+    required: false
+  - label: Mythos subclass
+    name: mythos-subclass
+    widget: string
+    required: false
+  - label: Transformation
+    name: transformation
+    widget: string
+    required: false
+  - label: Experiences
+    name: experiences
+    widget: list
+    required: false
+  - label: Logos cards
+    name: logos-cards
+    widget: list
+    required: false
+  - label: Mythos cards
+    name: mythos-cards
+    widget: list
+    required: false
+  - label: Level
+    name: level
+    widget: number
+    value_type: int
+    required: false
+    min: 1
+    max: 10
+  - label: Status
+    name: status
+    widget: string
+    required: false
+    hint: active | retired | dead | guest
+  - label: Image
+    name: image
+    widget: string
+    required: false
+    hint: '[[Portrait.png]]'
+  - label: Aliases
+    name: aliases
+    widget: list
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+- name: sw-sessions
+  label: Stillwater Rise — 06 Campaign / Sessions
+  icon: event_note
+  folder: docs/Stillwater Rise/06 Campaign/Sessions
+  create: true
+  summary: '{{filename}} — {{status}}'
+  fields:
+  - name: type
+    widget: hidden
+    default: session
   - label: File name
     name: title
     widget: string
-    hint: Use session-NN, e.g. session-02. Also the page title.
+    hint: Use Session NN, e.g. Session 02. Also the page title.
   - name: exposure
     widget: hidden
     default: secret
-  - name: campaign
-    widget: hidden
-    default: Stillwater Rise
   - label: Session number
     name: session-number
     widget: number
@@ -340,6 +659,10 @@ collections:
     widget: string
     required: false
     hint: YYYY-MM-DD, blank until played
+  - label: Present
+    name: present
+    widget: list
+    required: false
   - label: Status
     name: status
     widget: select
@@ -354,6 +677,10 @@ collections:
     - raw
     - rich_text
     required: false
+  slug: '{{title}}'
+  sortable_fields:
+  - session-number
+  - date
 - divider: true
 - name: ff-setting
   label: Fate Foretold — Setting

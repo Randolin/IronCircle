@@ -1,0 +1,58 @@
+---
+type: moc
+exposure: secret
+aliases: ["Campaign", "GM Hub"]
+---
+# Campaign
+
+The GM hub. Everything in this folder except [[Party]] and the player characters is GM-only. The player-facing page is [[Stillwater Rise]].
+
+## CURRENT STATE
+
+*Update this block at the end of every working session. It is the cross-session memory.*
+
+**As of 2026-09-04.**
+
+**Locked:** campaign name; the three-layer culprit structure (Bunting → Maas → Weaver); tiers by relationship to the killings; the danger board by actor; the roster (39 notes) in [[People]]; Suno cues and image prompt conventions; the wiki layout; three PCs with backgrounds, drives, and connections; **[[The Case]]** — what happened on the pier, the Mythos war, the clue web (six conclusions, three routes each), and the watchers table; Day 1 = the 1st; the agency's name, history, retainer ([[The Auberon Trust]]) and fourth staffer ([[Pearl Nazario]]); four PC-adjacent NPCs ([[Lou Padgett]], [[Fen Baiyun]], [[Amalia Reyes]], Pearl) and [[The Half Note]]; player threads in [[Plot Threads]]; [[Session 01]] planned with read-aloud blocks; **[[The Judge]]** (Enma-ō) above the Trust, the agency re-cut as his court from mixed traditions (Blum = Daniel, Oyama = Thoth, Cole deliberately Logos), with beyond-arc threads (the ledger's difference, the empty chair, Cole's count).
+
+**Open:**
+
+- **System.** City of Mist base with Daggerheart-shaped builds ([[System Notes]]). Hybrid deferred; NPC stat blocks stubbed.
+- **Session 1 date and who's present.** Then play it.
+- **Weaver's studio scene (Day 5)** and the column offer to Jack: not yet written. Needs a read-aloud block and her exact offer.
+- **The pier on Day 9** if the players are there with Herminia: the river as witness, the Tower holding a door, the Monkey not folding. Mechanics undefined until the system settles.
+- **Stat blocks** for Bunting and Klein at minimum before Day 8.
+- **PC looks** are placeholders until the players confirm; pronouns blank.
+
+**Next:** run session 1. Before it: write Weaver's Day 5 scene and a one-page GM cheat sheet of the Day 1–4 clocks.
+
+## Files
+
+| Note | What it is |
+|---|---|
+| [[Party]] | The investigators (public) |
+| [[The Case]] | The campaign doc: what happened, the Mythos war, the clue web, who's watching |
+| [[Plot Threads]] | The three layers, the clocks, the intrigue, and the player threads |
+| [[Danger Board]] | Who's at risk next, sorted by who wants them gone. Reread every session |
+| [[Decisions]] | Dated log of what's locked and why |
+| [[Timeline]] | Day-by-day clock and background timeline |
+| [[Session 01]] | Per-session plans and recaps live in `Sessions/` |
+| [[People]] | The cast, with the cross-cutting tables |
+| [[Themes]] | Suno spine and settings |
+
+## Session workflow
+
+At the end of any working session, before stopping (also `/wrap-session`):
+
+1. **[[Danger Board]]** — move at least one entry; add triggers that fired.
+2. **[[Decisions]]** — append anything newly locked, dated.
+3. **`Sessions/Session NN`** — plan before, recap after.
+4. **This block** — what's locked, what's open, what's next. Keep it short.
+
+Commit with a message that says what changed in the fiction, not just which files.
+
+## On the name
+
+*Stillwater Rise* is the Authority's brand for the whole riverfront project — the Span, the cleared Flats, and the plaza at its foot, sold as one thing. Triple duty: Maas means elevation and civic ascent; Weaver *is* the still water, and her rise from silk money to a media empire in under six years is the mythic tell; Bunting's marks walk calm into still water, and his own rise never came. Eleven people went into that river and none came back up. Vera is the only one who rose.
+
+No apostrophe — developers name subdivisions that way (Fairview Rise, Cedar Rise), so it reads as signage rather than as a title with a meaning behind it.

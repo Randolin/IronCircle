@@ -1,0 +1,64 @@
+---
+type: reference
+exposure: secret
+aliases: ["Themes", "Suno Cues"]
+---
+# Themes
+
+Instrumental cues, one per character. Every prompt is Style-field only — **set the Instrumental toggle on**; there is no Lyrics field to paste. Built on V5.5 grammar (Style cap ~1,000 chars; all prompts below sit well under it).
+
+## The locked spine
+
+Album coherence comes from keeping the texture and era layers byte-identical across every track and varying only genre, instruments, mood, tempo, and key. Every cue already ends with this exact string:
+
+```
+mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
+Don't edit it per-character. If the whole set needs to move — grittier, cleaner, a different year — change it once and regenerate everything, or the tracks stop sounding like they came from the same city.
+
+## The Piper's figure
+
+Bunting's four-note descending phrase is the arc's root motif. It appears by description in **Toby** (the whistle quote — the tell) and, transformed, in **Ida Maas** (her father's fanfare in minor).
+
+Be warned: **Suno cannot carry a literal melody between generations.** Identical descriptive wording buys a family resemblance, not the same notes. If you want an actual quotation the players can recognize by ear, generate Bunting first, then build Toby's and Ida's cues as **Covers** of that track (Audio Influence 55–65%) rather than fresh generations. That's the only reliable route, and it costs a take or two of experimentation.
+
+## Settings (all tracks)
+
+| Setting | Value |
+|---|---|
+| Model | V5.5 |
+| Mode | Custom, Instrumental toggle ON |
+| Weirdness | 35% |
+| Style Influence | 90% |
+| Takes before judging | 4 |
+
+Two of four takes will be wrong in ways that aren't the prompt's fault. Exceptions are noted per character. Where a cue asks for something deliberately broken (Shale) or structurally counted (Pell), the tuning note says so.
+
+---
+
+> [!note] Where the cues are
+> Each character's cue lives in that character's note under `## Theme (Suno)` — see [[People]]. Only the shared material is here.
+
+---
+
+## Tier C — the precinct bed (shared)
+
+*One cue for all of Tier C. Individual themes for bit players cost generations and buy nothing; vary this one instead.*
+
+```
+Noir Jazz, ambient. Walking upright bass and brushed snare loop beneath a room of typewriters, ringing telephones, and a radiator; a tenor saxophone offers only occasional two-note comments. Procedural, indifferent, ordinary. 96 BPM, A minor, 4/4, medium swing, mid-distance room mix. + this is background rather than a theme, and nothing in it should ask to be listened to, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~474 chars)*
+
+**Tuning:** Per-name variants, one axis each: Boyd `+ a young tenor sax phrase that tries to finish and gets cut off`; Kowalczyk `+ drop the sax entirely`; Brack `+ raise the telephones over the band`; Feeny `+ add switchboard tones` (this ties her to Mabel Cho, deliberately); Dubcek `+ replace the radiator with harbor water and a distant bell`. Feeny and Dubcek have moved up to Tier B but still work off this bed rather than taking standalone cues; add Herzog as `+ replace the typewriters with a single copy desk and a telephone answered before the second ring` if you want a newsroom variant of the same texture.
+
+---
+
+## Theme Workshop Notes
+
+- **Log three things per track** as you generate: the Style field verbatim, the take number you kept, and whatever you had to change. The third is the one everyone skips and the one that saves the most time on the next batch.
+- **Unexpected-cue inventory** — the deliberate anachronisms and outside-genre intrusions, so you can dial the whole set toward or away from strangeness: Bunting (tape-loop phasing), Toby (boogaloo, four years early), Klein (cantorial cello over industrial percussion), Okafor (talking drum), Ottilie (Weimar cabaret on scrap), Sato (koto), Milner (Baroque counterpoint), Lupo (surf guitar vs. swing brass), Cutty (1930s field-recording fidelity — the one intentional break in the spine), Day (AM-speaker collapse).
+- **Diegetic vs. score.** Bunting's tune, Cutty's playing, and Okafor's shop radio can exist inside the fiction; everything else is score. Keep that line clear at the table or the players will start listening for clues in the underscore.
+- **Batch order:** Bunting first (everything references it), then the Tier A board, then decoys, then the working ring. Tier C's shared bed can wait until the rest of the set has settled its texture.
+- **Two cues added in draft-2:** Herminia Vega (the only domestic cue in the set — generate it late, after the rest of the score has established how grim the baseline is, so the contrast lands) and Walt Herzog (short, unresolved, cheap to generate).
