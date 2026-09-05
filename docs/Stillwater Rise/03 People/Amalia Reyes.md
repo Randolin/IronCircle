@@ -24,11 +24,11 @@ aliases:
 
 ## Detail
 
-**Concept:** Owner of the [[The Half Note]], the jazz bar at the river end of [[The Flats]]. Ex-nurse, hence *Doc*; she still does stitches in the back room for people who can't go to the hospital. The one person [[Jack Rivers]] doesn't keep at a distance, and they both pretend otherwise.
-
-**Motivation (specific):** Keep the Half Note open and out of it. The bar is on the block after next on the docket. She has watched three landlords take the check and thinks she'll be the fourth, and she hates that she thinks it. Immediate: she liked Vera, who drank one rye and tipped a dollar, and she has decided, without telling Jack, that she'll answer whatever he asks. Once.
-
-**Performable mannerisms:** Wipes the bar in front of whoever's talking, which is how she listens. Cuts people off at three and means it. Knows the band's names and none of the customers', on principle. Keeps a suture kit under the register next to the bat.
+- **Look:** Puerto Rican woman, mid-forties, hair pinned under a folded bandana, sleeves rolled, strong forearms, bar towel on one shoulder. One gold hoop; the right earlobe is notched.
+- **Manner:** Wipes the bar in front of whoever's talking. Cuts people off at three. Knows the band's names and none of the customers'. Suture kit under the register next to the bat.
+- **The sax man:** 'Sits in Thursdays. Never drinks, won't take the twenty. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit.'
+- **The slip:** 'Shale said it to Herzog right where you're sitting. You were three stools down, Jack. You were laughing at something.'
+- **Danger:** the first Thursday the agency is in the bar, Bunting counts them from the stand.
 
 **Voice:**
 - [to Jack]: "You're in early. That means it's work. Sit at the end, you're blocking the tap."
@@ -36,17 +36,12 @@ aliases:
 - [the sax man]: "Sits in Thursdays. Sits in like he's always been sitting in. Never drinks, won't take the twenty, tips the band out of his own pocket. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit."
 - [the slip]: "Shale said it to Herzog right where you're sitting, two weeks before she went in. *She's got a list, Walt, names, she's going to print it.* Loud. You were three stools down, Jack. You were laughing at something."
 
-**Visual description:** Puerto Rican woman, mid-forties, brown skin, dark hair pinned up under a folded bandana, sleeves rolled, forearms strong. A bar towel over one shoulder. A single gold hoop in the left ear only; the right one was torn out in 1954 and she'll tell you the story if you're stitched.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a Puerto Rican woman in her mid-forties with brown skin, a strong oval face, and a firm jaw. Full dark eyebrows; steady dark brown eyes with faint lines at the corners; a broad nose; a wide mouth held level; a small gold hoop in the left ear only, the right earlobe notched. Dark hair pinned up under a folded bandana. Direct, unhurried expression, facing the viewer. At the bottom edge of the frame only: the open collar of a plain work shirt with a bar towel over one shoulder.
 
 **Image prompt — full body & wardrobe:** Full-figure view of a sturdy Puerto Rican woman in her mid-forties standing with a bar towel over one shoulder and her arms folded. She wears a plain work shirt with the sleeves rolled to the elbow, a dark apron over trousers, flat shoes, a folded bandana over pinned-up hair, and a single gold hoop earring.
-
-**Cost:** The Half Note stays out of it. No cops in the bar, no agency at the bar on a Thursday, her name in nothing. She'll answer Jack once, straight, and after that the price is the same as everybody's: what it cost somebody.
-
-**Opens:** Bunting by sight, without a name. Vera's last route, to the minute. The Day −14 slip, corroborated by someone who wasn't drunk, which makes [[Mickey Shale|Shale]]'s letter admissible in a room with a flag in it and puts [[Walt Herzog|Herzog]] on the record whether he likes it or not. And Jack: he was there. See [[Plot Threads#Player threads]].
-
-**Danger:** The night the agency walks into the Half Note on a Thursday, Bunting is on the stand. He counts them. He is courteous. He now knows what they look like.
 
 **Stat block:** — (none; the bat, the kit, and the band)
 

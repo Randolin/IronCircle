@@ -24,11 +24,13 @@ aliases:
 
 ## Detail
 
-**Concept:** Seven-medallion boss of Tin City. The vermin's answer to the Piper, fighting him for years without a name to put to him.
-
-**Motivation (specific):** Keep the census true and the camp fed through the winter and the clearances — every arrival logged in the coffee can, every departure *accounted for*, because unaccounted departure is how her people get eaten. Immediate: decide whether the agency is a tool, a threat, or the first outsiders worth the truth.
-
-**Performable mannerisms:** Holds court from a sprung armchair under the on-ramp; visitors are announced. Wears layered coats regardless of season, each pocket a filing system. Counts people compulsively and accurately — she will tell you how many are at your back. Rages loudly, forgives specifically. Feeds newcomers before questioning them; the meal *is* the questioning.
+- **Look:** Tall, powerful white woman, early thirties, wind-darkened, dark braid, hammered-tin hoops, a necklace of seven polished can-lid medallions. Layered coats. Holds court from a sprung armchair beside a coffee can on a crate.
+- **Manner:** Announces visitors. Counts people compulsively and accurately. Feeds newcomers before questioning them; the meal is the questioning. Rages loudly, forgives specifically.
+- **The can:** forty-one people the census says don't exist. Nine years of arrivals and departures, every departure accounted for.
+- **Mythos:** the Mouse King. Has moved her people ahead of the knocking man nine times without a name for him.
+- **Cost:** the Piper's name. Treats the players' word as a debt owed to the camp.
+- **Ricochet:** the camp is on no docket, so it can be cleared in an afternoon with nobody signing anything.
+- **Stat block:** faction leader; numbers, terrain, total knowledge of ground.
 
 **Voice:**
 - [holding court]: "Eleven of you came down the embankment; two hung back at the fence. Manners says all thirteen eat. Sit."
@@ -36,7 +38,8 @@ aliases:
 - [the fury]: "She took PICTURES. You know what a picture is down here? It's a name with a face on it. It's a wanted poster for whatever's doing the wanting."
 - [alliance, grudging]: "The knocking man. Yeah. I've moved my people ahead of him nine times. You bring me his name, I'll bring you nine years of everything else."
 
-**Visual description:** Tall, broad, powerfully built white woman in her early thirties — born in a Hoover camp, third generation of nothing, running camps since she was old enough to count them. Wind-darkened skin, dark hair in a thick braid down her back, hammered-tin hoops in her ears, and — quite seriously — a chain of state: a heavy necklace strung with seven polished can-lid medallions, worn without irony. Layered coats, fingerless gloves. Court held from a sprung armchair; a coffee can on a crate beside it like an orb of state.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a tall, broad-shouldered white woman in her early thirties with a broad square face and a wide, strong jaw. Strong, straight dark eyebrows; narrow pale gray eyes creased from squinting into weather; a nose set slightly crooked from an old break; windburn and sun freckles across the nose and cheeks; a wide firm mouth with one chipped front tooth. Dark hair pulled back into a thick braid; small hammered-tin hoop earrings in both ears. Level, unbothered expression, facing the viewer. At the bottom edge of the frame only: the bunched layered collars of a cardigan and wool coat, and a heavy necklace strung with seven polished can-lid medallions.
 

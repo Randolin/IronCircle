@@ -21,10 +21,15 @@ aliases:
 
 ## Detail
 
-Twenty years in, and his answer to Boyd — "drop it" — says more than Boyd's question. Stan isn't dirty; Stan is *educated*: he's watched three careers end on curiosity and has a pension arithmetic identical to Casale's, minus the itch. What he has that nobody's asked for: twenty years of night-shift geography, including which piers get quiet cars parked near them and since when.
+- **Look:** Car 6, the senior man.
+- **Manner:** Turned the wheel when the disregard came down. Doesn't discuss it.
+- Talks only after Boyd does.
+
+
+**Voice:**
 - [shutting it down]: "Kid. The radio said what it said. You know what curiosity gets you in this precinct? A crossing-guard detail in January. Drive."
 
-**Visual:** Fifties, a heavy slab of a face on a thick neck, pale gray crewcut, broad Slavic cheekbones — a man built like the door he's spent twenty years being.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a heavy white patrolman in his fifties with a wide slab face, broad flat cheekbones, and a thick neck. Pale, bushy, colorless eyebrows; small, deep-set, watchful gray eyes; a broad flattened nose; a wide, closed mouth; a pale gray crewcut. Impassive, seen-everything expression, facing the viewer. At the bottom edge of the frame only: a patrol uniform collar with twenty-year service hash marks visible at the sleeve edge.
 

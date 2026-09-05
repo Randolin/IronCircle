@@ -23,10 +23,15 @@ aliases:
 
 ## Detail
 
-Thirty years on the water; pulled the body from the grain-elevator eddy at 5:50 and has been quietly recalibrating his whole cosmology since. Keeps his own count — "Eleven piles of clothes, no floaters. Till her." — and knows the river's currents well enough to testify, plainly and credibly, that where she was found is not possible. The rare Tier C figure who can put the impossible on the record in words a coroner's jury will sit still for, if anyone thinks to call him.
+- **Look:** Sixties, face like cracked harbor leather, magnificent white walrus mustache, watch cap and oilskins, hands like dock cleats.
+- **Manner:** Says exactly what he saw, the same way, to anyone. Keeps his own count.
+- **On the record:** 'Current runs seaward past Pier 9. She was a quarter mile up. The river has rules.' A coroner's jury will sit still for it.
+
+
+**Voice:**
 - [the river]: "Current runs seaward past Pier 9, always has. She was a quarter mile UP. I've pulled two hundred souls out of this river. The river has rules. Somebody broke them, and it wasn't her."
 
-**Visual:** Sixties, face like cracked harbor leather, a magnificent white walrus mustache, pale eyes in permanent squint folds, watch cap and oilskins, hands like dock cleats.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a weathered white harbor patrolman in his sixties with a face like cracked leather and deep squint folds around pale gray eyes. Heavy white eyebrows; a thick, magnificent white walrus mustache completely covering the upper lip; a broad wind-reddened nose; a dark knit watch cap pulled low. Steady, salt-cured, unshakable expression, facing the viewer. At the bottom edge of the frame only: the high buttoned collar of black oilskins over a cable-knit sweater.
 

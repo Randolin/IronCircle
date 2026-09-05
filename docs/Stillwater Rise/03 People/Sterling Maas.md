@@ -22,11 +22,11 @@ aliases:
 
 ## Detail
 
-**Concept:** The golden commissioner. Sincere, monumental, and willingly blind — the machine with a conscience it declines to consult.
-
-**Motivation (specific):** Cut the ribbon on Stillwater Rise — the Span and the cleared riverfront behind it, sold as one thing — with the Flats already leveled, then stand re-elected officials in front of his model and hear them say his name in the same sentence as the word *future*. The daughter is a locked drawer he intends to reopen "after the project."
-
-**Performable mannerisms:** Gives tours reflexively — steers any conversation toward the model of Stillwater Rise. Handles gold objects while talking (pen, lighter, tie pin). Repeats the word "relocation" a half-beat slower than the rest of his sentences. Hair worn long over the ears; touches it when questioned closely. Genuinely warm to children and secretaries; cannot retain the names of tenants.
+- **Look:** Broad white man, sixty, expensive gray suit, gold everywhere small. Silver hair worn long over the ears. Stands like a statue of himself.
+- **Manner:** Gives tours of the model reflexively. Handles gold objects while talking. Says 'relocation' a half-beat slower than the rest. Warm to children and secretaries; can't retain a tenant's name.
+- **Midas:** everything he touches becomes plan. Television made him golden; the price is his daughter Ida, the locked drawer.
+- **The wedge:** the invoice. He has to touch it with his own hands. Learning Weaver went around him to Ida is what breaks him.
+- **Stat block:** institutional adversary; lawyers and hearings; physically nothing.
 
 **Voice:**
 - [the tour]: "Stand here. Now look — that's not a model, that's a promise. Every family in this city deserves to live in *that.*"
@@ -34,7 +34,8 @@ aliases:
 - [the wedge landing, quiet]: "Show me the invoice again. ...This didn't come through my floor. Who drafted this? *Who drafted this?*"
 - [refusing guilt]: "You want me to apologize for the future? Every city you've ever loved is built on somebody's kitchen."
 
-**Visual description:** Broad white man, sixty, expensive gray suit, gold accents everywhere small — pin, cufflinks, pen, watch. Silver hair worn conspicuously long over the ears, combed with care. A builder's hands gone soft. Stands like a statue of himself.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a broad white man of sixty with a wide, square, heavy-jowled face and the beginning of a double chin. Thin, high-arched wisps of silver eyebrows over small, close-set pale blue eyes; a large fleshy nose; a small tight mouth; large ears mostly hidden by silver hair combed long over them. Composed, confident expression, facing the viewer. At the bottom edge of the frame only: gray suit lapels, a white spread collar, and a pale silver tie with a gold tie pin.
 

@@ -23,18 +23,18 @@ aliases:
 
 ## Detail
 
-**Concept:** The department's institutional memory, twenty-two years deep, smart enough to know which cases are radioactive and tired enough to hand one off with relief — then honest enough to keep quietly helping anyway.
-
-**Motivation (specific):** The pension, seven years out, and nothing on this case is worth it. But the "jumper pile" files have itched at him for years — he pulled two of them himself off two different shores — and a cop who's stopped pursuing things hasn't necessarily stopped *noticing* them. He'll trade files for cover and future favors, and his price drops every time the players prove they're serious.
-
-**Performable mannerisms:** Toothpick, migrated corner to corner when thinking. Never writes anything down in front of anyone. Compliments the coffee wherever he is, regardless of the coffee. Tells you what the department will do a beat before it does it, always accurately, always without editorializing.
+- **Look:** Homicide. Hat pushed back, cigarette, relieved.
+- **Manner:** Gives the case away with a joke about the last guy who caught one. Says 'nine' and wishes he hadn't.
+- **Pressure on him:** the Authority pays stipends into the precinct. He needs reminding once, not threatening.
+- **Price:** deniability and future favors, falling as the players prove serious.
 
 **Voice:**
 - [the handoff]: "It's yours. Congratulations. The last guy who caught a case like this teaches traffic school in Yonkers now. Great coffee here, by the way."
 - [trading]: "Jumper files. Nine of 'em, maybe more if you count the two harbor kept. You didn't get them from me, and when this goes wrong — it's a when — I was never in this room."
 - [noticing]: "Twenty-two years, I never saw the river give one back. You want a tip for free? Neither has the river."
 
-**Visual description:** Heavy-set Italian-American man, early fifties, olive skin, permanent five-o'clock shadow, rumpled brown suit that fit him two promotions ago. Tired eyes that miss little and pursue less.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a heavy-set Italian-American man in his early fifties with a wide, tired face, olive skin, and a permanent five-o'clock shadow. Thick, dark, outward-arched skeptical eyebrows; deep bags under sharp brown eyes; a broad nose; a strong chin with an old shaving scar; wavy gray-black hair combed with minimal effort; a toothpick at the corner of his mouth. Weary, knowing expression, facing the viewer. At the bottom edge of the frame only: the wilted collar of a rumpled brown suit with a loosened brown tie.
 

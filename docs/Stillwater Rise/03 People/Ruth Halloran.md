@@ -23,20 +23,19 @@ aliases:
 
 ## Detail
 
-**Concept:** The city's most exact signature, on nine files she should never have signed. Allergic to unresolved paperwork, currently drowning in it.
-
-**Motivation (specific):** Professional truth with professional cover — she'll testify to anything she can *defend*, and nothing she can't. The private memo about the folded-clothes files has sat in her desk for two years because sending it ends her career on a guess; the inquest deadline means she now has ten days to decide whether the guess was right. What she wants from the players, though she'd never say it: enough corroboration to make honesty survivable.
-
-**Performable mannerisms:** Smokes through everything, cigarette held backwards in the European style. Corrects imprecise language reflexively, including her own. Refers to the dead by full name, never "the body." Rechecks her own measurements twice, always in the same order.
+- **Look:** Small white woman, late fifties, iron-gray bob, half-moon glasses on a chain, lab coat over a good dress. Steadiest hands at any scene.
+- **Manner:** Smokes with the cigarette held backwards. Corrects imprecise language, including her own. Calls the dead by full name. Rechecks measurements twice, same order.
+- **The lever:** the dates question. 'Nine like this in four years, all folded.' She goes still, says 'Say that again. Slower,' and throws you out. That's a win.
+- **Reports to:** the Coroner. Has met only Morrow. Signs the agency's scene pass.
+- **Inquest deadline:** ten days to decide whether the memo in her desk was right.
 
 **Voice:**
 - [at the scene]: "Cause of death is currently an argument between her lungs and the back of her skull. I'll thank you not to quote me until one of them wins."
 - [the dates question landing]: "Say that again. Slower. And then get out of my van while I pull nine files, because if you're right, I've been signing fiction for four years."
 - [deciding]: "I can defend the tissue. I can defend the timeline. What I can't defend is a coincidence with eleven decimal places."
 
-**Reports to:** the [[County Coroner]]. She has met only his chief clerk, [[Ansel Morrow]]. She signs the agency's scene pass because the referral says to, and she has never asked why the Coroner refers the ones he refers.
 
-**Visual description:** Small white woman, late fifties, iron-gray bob, half-moon reading glasses on a chain, lab coat thrown over a genuinely good dress. Deep smoker's lines; hands steadier than anyone else's at any scene.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a small white woman in her late fifties with a narrow face, a sharp chin, and deep smoker's lines around a firm mouth. Thin, straight, penciled gray-brown eyebrows; quick hazel eyes over half-moon reading glasses on a chain; a narrow, slightly upturned nose; an iron-gray bob cut level at the jaw. Composed, precise expression, facing the viewer. At the bottom edge of the frame only: the open collar of a white lab coat over a good patterned dress.
 

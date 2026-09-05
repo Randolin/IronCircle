@@ -24,18 +24,19 @@ aliases:
 
 ## Detail
 
-**Concept:** The only pair of eyes on the pier, attached to the one man in the City nobody official will believe. Korea veteran the GI Bill never reached; fishes nights under the canal side because sleep stopped cooperating in 1953.
-
-**Motivation (specific):** To have been *right* in front of somebody who writes it down — and a warm coat. He has told the truth about the walking woman exactly once to officialdom and been laughed at, which is once more than most Tin City men would have risked. He will not perform his account; it must be earned through Ottilie or through respect, and he tells it the same way every time, word for word, which is itself evidence.
-
-**Performable mannerisms:** Speaks slowly, in complete finished sentences, and stops entirely if interrupted. Rebaits the hook while talking; the hands never stop being competent. Refers to the river as "she." Can hum a bar of what he heard (inert — see table rule) and watches your face very carefully while he does it.
+- **Look:** Black man, weathered past guessing, under forty by the war. Knit cap, an army blanket worn as a cape with real dignity. The eyes are clear and steady.
+- **Manner:** Speaks slowly in finished sentences; stops entirely if interrupted. Rebaits the hook while talking. Calls the river 'she.' Can hum a bar of what he heard and watches your face while he does.
+- **The account,** same words every time: she said it to the water like the water asked her a question; the pier said it back three times, louder; then a splash. A man half yellow and half red under the lamp.
+- **Day 7:** any official interest in Brack's downgraded log surfaces him. Weaver's water column.
+- **Cost:** Ottilie's blessing first, and someone writing while he talks.
 
 **Voice:**
 - [the account]: "She said it to the water like the water asked her a question. Then the pier said it back three times, louder. You're the first ones to write while I talk."
 - [on being believed]: "Desk man heard my address before he heard my words. Address goes 'under the ramp,' words go in the trash. That's the arithmetic."
 - [the river]: "She gives back what she doesn't want. Thirty years I fished her, she never wanted anybody. Now ask me why she didn't want that lady."
 
-**Visual description:** Black man, weathered beyond age-guessing — the war says he's not yet forty; the face says otherwise. Deep-cracked skin, short gray-flecked hair under a knit cap, an army blanket worn as a cape with genuine dignity. The eyes are the tell: clear, bright, steady — the one unweathered thing.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a Black man of indeterminate middle age with a deeply weathered, cracked-leather face and broad, flat features. Sparse, patchy gray eyebrows; strikingly clear, bright, steady eyes that seem younger than the face around them; a wide nose; a firm mouth with two lower teeth missing; short gray-flecked hair beneath a dark knit cap. Dignified, level expression, facing the viewer. At the bottom edge of the frame only: the layered collars of several worn shirts under an army blanket draped over the shoulders like a cape.
 

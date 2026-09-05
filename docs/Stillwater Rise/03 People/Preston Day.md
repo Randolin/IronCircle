@@ -22,17 +22,15 @@ aliases:
 
 ## Detail
 
-**Concept:** Radio's golden king — twenty years the City's beloved morning voice, civic conscience, renewal booster — now being visibly eclipsed by a young woman with a television program. His crusading commentaries mocked Vera *respectably* for years ("our neighborhood Cassandra," delivered with a chuckle), and his network's gleaming new transmitter tower is planned for cleared Flats land.
+- **Look:** Fifties, leonine gray-blond hair, permanent radio smile, pocket square. You can hear the voice in the prompt.
+- **Manner:** Civic conscience on air. Vain off it. Being eclipsed by a girl with a television show and can't set.
+- **Looks guilty because:** the tower on cleared Flats land, a Vera file in the segment room, and two on-air calls for her to be 'dealt with' (Rimm has the tape).
+- **Actually guilty of:** vanity and boosterism. Has never knowingly lied on air; the players can verify that.
+- **Mythos:** Apollo. One Greek face on the board, on purpose.
+- **After he deflates:** the one microphone Weaver doesn't own. He'd sell the tower to scoop her.
 
-**Why he draws fire:** Follow "the media destroyed her" upward and you hit Day first — he's louder, older, and his motive is *visible*: the tower site gives him concrete stakes in the clearances, his producers kept a Vera file for segment prep, and he called for her to be "dealt with" on air (rhetorically, twice, recorded — and Rimm has the tape). A player who's smelled "the author is in broadcasting" will sit on Day for a session.
 
-**Mythos:** Apollo — the daylight voice, the sun of radio's golden age going down in front of everyone, too vain to set. (One Greek face on the board alongside Maas; the sun-king eclipsed by the spider is the media war of 1962 in one image.)
-
-**Actual guilt:** Vanity, complicity in the climate that made Vera killable, boosterism bought with the tower deal. Not the author — he lacks the patience, and the truth-god streak is real: he has never once knowingly lied on air, which players can verify and which distinguishes him from Viv in an interviewable way.
-
-**After deflation:** The platform. The one microphone in the City that Viv doesn't own, held by a man whose vanity can be aimed — scooping the television girl with the true story of the Flats is the finale he'd sell his tower for. Apollo gets his sunrise; the players get their broadcast.
-
-**Visual:** Silver where it counts and nowhere else — a leonine head of gray-blond hair, permanent radio smile, fifties, pocket square, a voice you can hear in the prompt.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a tall white man in his fifties with a big, handsome, squared head, a deep cleft chin, and an even studio tan. Thick, groomed silver-blond eyebrows; wide-set bright blue eyes with deep crow's feet; a straight broad nose; a leonine sweep of gray-blond hair. A practiced, pleasant, broadcast-ready half-smile, facing the viewer. At the bottom edge of the frame only: navy suit lapels, a club-striped tie, and the point of a silk pocket square.
 

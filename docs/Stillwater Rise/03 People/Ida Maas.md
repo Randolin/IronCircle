@@ -21,18 +21,19 @@ aliases:
 
 ## Detail
 
-**Concept:** The Authority's conscience, resigned. Former records clerk in her father's own building — which is how she saw the clearance ledger two years ago — now a settlement-house caseworker where the relocation aftermath walks through her door weekly with its bags in its hands.
-
-**Motivation (specific):** She has spent two years half-composing a letter to somebody — a prosecutor, a paper, God — and never sending it, because the addressee would have to be someone her father's money can't reach. The players may be the addressee. What she will not do, and this is the wall the players must respect or lose her: hand her father to the mob. She wants him *stopped*, and has not finished deciding whether she wants him destroyed.
-
-**Performable mannerisms:** Answers questions with procedure ("That form routes through the third floor; the third floor is where you should be asking"). Wears no gold anywhere — conspicuously, deliberately, an amputation. Feeds people who come to her office before asking anything, exactly like someone else under an on-ramp she's never met. Stands when she decides things.
+- **Look:** Tall white woman, early thirties, her father's build gone practical. Hair pinned severely plain, thick unplucked brows, a good plain coat. Not one glimmer of gold anywhere, on purpose.
+- **Manner:** Answers questions with procedure. Feeds people before asking anything. Stands up when she decides things.
+- **The wall:** no quotes, and if it ends with her father's face on a mob's placard, everything dries up in the same hour.
+- **Danger to her:** Weaver discredits her with a manufactured settlement-house scandal, because she can't be drowned without touching Maas. Maas never permitted her to be touched; learning Weaver did it anyway breaks him.
+- **The letter:** two years half-written. 'It wasn't missing an argument. It was missing an address.'
 
 **Voice:**
 - [the wedge]: "He signs on Tuesdays. Stacks. I used to bring them in. You're asking whether he reads them — you're asking the wrong question. Ask whether he'd sign if he did. I stopped being able to answer that, so I left."
 - [the wall]: "I'll give you the routing. I'll give you the ledger drawer numbers. I will not give you a quote, and if this ends with my father's face on a mob's placard, everything I gave you dries up in the same hour."
 - [the letter]: "Two years I've been writing it. Turns out it wasn't missing an argument. It was missing an address."
 
-**Visual description:** Tall white woman, early thirties, her father's build gone practical. Light brown hair pinned severely plain; thick unplucked brows worn like a statement; a plain good coat and not one glimmer of gold anywhere on her — conspicuously.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a tall white woman in her early thirties with a strong square jaw softened by youth and a broad, open face. Thick, dark, unplucked straight eyebrows; large, direct pale blue eyes; a straight nose; a firm, level mouth; light brown hair pinned back severely plain, no ornament. Steady, resolved expression, facing the viewer. At the bottom edge of the frame only: a plain dark wool coat collar over a simple pale blouse, no jewelry of any kind at the throat.
 

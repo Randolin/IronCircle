@@ -21,10 +21,15 @@ aliases:
 
 ## Detail
 
-Young, second year on the job, and the disregard order sits wrong in his stomach in a way he doesn't have the vocabulary for yet. Kowalczyk told him to drop it; he's dropping it at everyone he trusts, one coffee at a time. The soft route into dispatch — and, if the arc runs long, the precinct's next honest cop or its next casualty of learning better.
+- **Look:** Car 6, second year. Young.
+- **Manner:** The disregard order sat wrong and he hasn't said so.
+- Goes first if anyone in car 6 is going to talk.
+
+
+**Voice:**
 - [over coffee]: "We were four blocks out. Four. And dispatch says disregard, and Stan just... turns the wheel. Like it happens all the time. Does it happen all the time?"
 
-**Visual:** Early twenties, round-faced, ruddy, a cowlick regulation can't defeat, badge polished mirror-bright — the shine of a man who still likes wearing it.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a young white patrolman in his early twenties with a round, open, ruddy-cheeked face. Light, tidy eyebrows; earnest wide blue eyes; a snub nose; a soft chin; light brown hair with a stubborn cowlick at the crown escaping a regulation cut. Sincere, slightly troubled expression, facing the viewer. At the bottom edge of the frame only: a patrolman's uniform collar with a mirror-bright badge edge just visible.
 

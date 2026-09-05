@@ -23,19 +23,15 @@ aliases:
 
 ## Detail
 
-**Concept:** The Flats' lender of last resort. Her paper blankets the district — burial loans, bridge loans, liens that quietly mature on condemnation — and every clearance pays her twice. Follow the money above Maas and you reach Milner long before you reach Viv, because **Milner's money is visible and Viv's isn't.** She has funded Authority-adjacent projects, and one of her smaller loans dresses Gerry Fitch a bracket above her salary — a real thread that looks like conspiracy and is merely a lender knowing a climber when she sees one.
+- **Look:** Small, severe white woman, fifties, banker's charcoal, one antique gold spinning-wheel brooch. Never blinks first.
+- **Manner:** Reads every document twice before speaking. Answers everything, precisely, because everything she does is legal to the letter.
+- **Looks guilty because:** profits from every clearance, and total composure under questioning.
+- **Actually guilty of:** usury, legal. She'd rather the district stayed poor and indebted.
+- **Mythos:** Rumpelstiltskin. The anti-Weaver: her name is on every document. Meeting her teaches the players what an author who signs nothing looks like.
+- **The pin:** Vera's question about the flagged subsidiary. Milner answered incompletely and spent nine days deciding. Then the news came. She can't prove she's innocent and knows it.
 
-**Why she draws fire:** Profits from every disappearance-adjacent clearance; contracts with terms nobody understood they'd agreed to; a filing system that knows the district better than the census; and total, unnerving composure under questioning — she answers everything, precisely, because everything she does is *in writing and legal to the letter.*
 
-**Motive for Vera:** Nine days before the murder, Vera came to the office and asked about a payment chain running into a subsidiary Milner had once tried to trace and flagged, unresolved, in her own margin hand. Vera did not know what she had; Milner did, immediately — that the only document in the City proving she had *noticed* the invisible author was now in the hands of a woman who published weekly. Milner answered the question incompletely, politely, and spent nine days deciding what to do about it. She had not decided when the news came. She has told no one, and the fact sits in her like a swallowed pin: she is not guilty, and she cannot prove she isn't, and she is precise enough to understand the difference.
-
-**Mythos:** Rumpelstiltskin — the bargainer whose contracts are cruel and honest, who collects exactly what was promised, and whose **name is on every document she touches.** That last trait is the deflation and the lesson in one: she is the *anti-Viv*. The players learn the true author's signature style by meeting its perfect opposite — one woman who signs everything, one who signs nothing.
-
-**Actual guilt:** Usury's whole catalog, sharpened to legality. A vulture on the machine, not a hand on its wheel — she'd frankly prefer the district *stay* poor and indebted; clearance merely liquidates her positions early.
-
-**After deflation:** The financial map. Her ledgers chart every dollar moving through the Flats — including a payment chain into a subsidiary *she* couldn't reconstruct when she once tried, flagged in her own margin hand: the visible edge of Viv's invisible web, noticed by the one person in the City who reads paper that closely. She'll trade it. Her price will be exact, in writing, and worth arguing about at the table.
-
-**Visual:** Small, severe white woman, fifties, iron composure, dressed in banker's charcoal with a single antique gold spinning-wheel brooch. Reads every document twice before speaking. Never blinks first.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a small, severe white woman in her fifties with a sharp triangular face, a pointed chin, and papery pale skin. Sparse, thin gray eyebrows arched high; small, close-set pale eyes looking level over steel-rimmed reading glasses worn low on a sharp pointed nose; a thin, nearly lipless mouth; gray hair drawn back tightly. Composed, exact, unblinking expression, facing the viewer. At the bottom edge of the frame only: a white blouse collar buttoned to the throat beneath an antique gold spinning-wheel brooch.
 

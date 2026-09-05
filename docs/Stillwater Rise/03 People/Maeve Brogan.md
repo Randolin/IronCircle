@@ -22,15 +22,15 @@ aliases:
 
 ## Detail
 
-**Concept:** Inherited her ward seat — and its debts — when her husband Artie died mid-term. The machine expected a placeholder; they got an operator better at it than Artie ever was. Her ward includes the Flats; demolition contracts move through her committee; kickbacks move through her club.
+- **Look:** Irish-American, fifties, funeral-parlor elegance in committee black, a small gold cross. Counts the room.
+- **Manner:** Talks to witnesses first. Stalls records requests. Routes Pruitt's stipend list through her precinct captains.
+- **Looks guilty because:** she feuded with Vera on the record and obstructs the moment the Authority is touched.
+- **Actually guilty of:** kickbacks, patronage, obstruction. Doesn't know the machine's shape.
+- **After she deflates:** hates Maas (his clearances gutted her ward). Can delay hearings, protect the inquest, and sits on Ard's committee.
+- **Danger:** she's also who Weaver uses to reschedule the inquest away from Okonkwo.
 
-**Why she draws fire:** She feuded with Vera publicly and on the record — Vera's zine had her club's finances half-unraveled — and the moment the players' investigation brushes the Authority, Brogan begins **obstructing**: records requests stall, witnesses get talked to first, Pruitt's stipend list turns out to route through her precinct captains. Cover-up behavior is indistinguishable from murder guilt at exactly the tier where players are asking "who ordered it?"
 
-**Actual guilt:** Kickbacks, patronage, obstruction — protecting her own graft, which the investigation genuinely threatens. She had no hand in Vera and doesn't know the machine's true shape.
-
-**After deflation:** A wounded, pragmatic pol who knows where every mundane body in the ward is buried — and once she's certain the players aren't after *her*, she can be dealt with: hearings delayed, the inquest postponed, Maas's committee schedule quietly rearranged. She hates Maas (Artie's clearances gutted her ward) and would enjoy his ruin from a respectful distance.
-
-**Visual:** Irish-American woman, fifties, funeral-parlor elegance in committee-room black, a small gold cross, eyes that count the room like Ottilie counts the camp.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of an Irish-American woman in her fifties with a long rectangular face, high cheekbones, and skin drawn taut. Strong dark eyebrows barely touched by gray beneath silver-streaked auburn hair pinned formally; deep-set pale blue eyes; a strong Roman nose; a thin, firm mouth. Polite, appraising, unreadable expression, facing the viewer. At the bottom edge of the frame only: the high black neckline of a formal suit with a small gold cross at the throat.
 

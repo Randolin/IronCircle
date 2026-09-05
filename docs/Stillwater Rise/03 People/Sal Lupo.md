@@ -22,17 +22,15 @@ aliases:
 
 ## Detail
 
-**Concept:** Owner of Lupo Demolition & Removal — the old way of emptying buildings: writs, legbreakers, and wrecking balls. The Piper is silently destroying his business — blocks clear ahead of Lupo's crews without a single billable incident — and Sal is running his own furious hunt for "the guy undercutting me."
+- **Look:** Thickset Italian-American, forties, wrestler gone gray at the jaw, hooked nose, leather jacket, cigar, rings. Takes up doorways.
+- **Manner:** Screams at the Authority in public. Sends the crew ahead of himself. Thinks the Piper is a racket he can buy into.
+- **Looks guilty because:** violent trade, armed crew, Vera photographed one of his evictions, his men cased her block.
+- **Actually guilty of:** illegal evictions, assault, bid-rigging. Not murder; he'd have left marks.
+- **Mythos:** the Big Bad Wolf, furious that doors stopped opening.
+- **After he deflates:** his job logs are the clearance schedule; his hate is a weapon you can aim or fail to stop.
 
-**Why he draws fire:** Violent trade, armed crew, public screaming matches at the Authority over lost contracts — and Vera photographed one of his illegal evictions, so his men were seen casing her block. He is hunting the same man the players are, which means he keeps appearing exactly where their clues point, one step behind or ahead. A wolf circling the case looks precisely like the killer.
 
-**Mythos:** The Big Bad Wolf, well past the huffing years and furious that doors have stopped opening to it.
-
-**Actual guilt:** Illegal evictions, assault, bid-rigging. Not murder — he'd have used the crew and left marks, and he genuinely wants the "relocation man" found because he thinks it's a racket he can muscle in on.
-
-**After deflation:** His crew's job logs are an independent record of the clearance schedule, and his hatred of the Piper makes him a blunt instrument the players can aim — or fail to stop. **Danger branch:** if he finds Bunting first, he gets his crew killed or becomes a fresh corpse that muddies everything.
-
-**Visual:** Thickset Italian-American man, forties, wrestler gone to gray at the jaw, big hooked nose, black leather jacket over work clothes, cigar, rings. Takes up doorways.
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a thickset Italian-American man in his forties with a heavy round jaw, a thick neck, and blue-black stubble shadow. Heavy black eyebrows grown nearly together into a single bar; small deep-set dark eyes; a large, prominent hooked nose; one cauliflower ear; dark hair combed straight back; an unlit cigar at the corner of a wide, downturned mouth. Level, unimpressed expression, facing the viewer. At the bottom edge of the frame only: the heavy collar of a black leather jacket over an open-collared work shirt.
 

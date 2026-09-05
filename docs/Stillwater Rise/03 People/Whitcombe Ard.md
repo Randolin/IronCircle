@@ -21,24 +21,21 @@ aliases:
 
 ## Detail
 
-**Concept:** Chair of the county board's finance committee. Corporate lawyer, squash player, friend of the [[Renewal Authority]]'s counsel, twice a guest on [[Vivian Weaver|Weaver]]'s afternoon program. He can suspend the [[County Coroner]]'s retainer to the agency with one committee vote and would like a reason. He is the ordinary way a good thing gets killed.
-
-**Motivation (specific):** A seat on the Authority's board after Stillwater Rise opens, and a photograph at the ribbon-cutting. He doesn't know anything about the river. He doesn't want to. He wants the inquest firm that keeps asking Authority questions to stop costing the county money, and Weaver's Day 7 call gives him the word he needs: *conflict.*
-
-**Performable mannerisms:** Says "procedurally" before anything unpleasant. Shakes hands with both of his. Checks his watch against the wall clock. Refers to the Coroner as "our friend downstairs" and has never met him either.
+- **Look:** Tall, tanned white man, fifties, silver temples, navy chalk-stripe, club tie, signet ring. Shakes hands with both hands.
+- **Manner:** Says 'procedurally' before anything unpleasant. Checks his watch against the wall clock. Calls the Coroner 'our friend downstairs' and has never met him.
+- **Beaten by:** Blum on procedure for a week; Brogan, who sits on his committee and hates being told how to vote; Day on air, because a man who wants a ribbon-cutting photo can't survive a radio segment about cutting off a murder inquiry.
 
 **Voice:**
 - [the suspension]: "Procedurally, an inquiry firm with a family interest in an open referral can't hold the county's paper. I'm sure it's innocent. Innocent things get reviewed too."
 - [pressed]: "I don't run the Coroner's office. I fund it. Funding is a conversation, and I'm having it."
 - [the crack, late]: "She said it was a *conflict*. She didn't say what the referral was about. I didn't ask. Why would I ask?"
 
-**Visual description:** Tall, tanned white man in his fifties, silver at the temples, a navy chalk-stripe suit, a club tie, a wedding ring and a signet ring. Teeth. The handshake.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a tall, tanned white man in his fifties with a long, well-fed face, a strong jaw, and a wide practiced smile. Groomed dark eyebrows going silver; pale blue eyes; a straight nose; silver hair at the temples, dark on top, combed back. Confident, cordial expression, facing the viewer. At the bottom edge of the frame only: a white spread collar and a striped club tie under navy chalk-stripe lapels.
 
 **Image prompt — full body & wardrobe:** Full-figure view of a tall, tanned white man in his fifties standing with one hand extended as if to shake and the other in his trouser pocket. He wears a navy chalk-stripe three-piece suit, a striped club tie, a white pocket square, a signet ring, and polished black oxfords.
-
-**Use:** The paper column's hand on the agency. He is beatable by [[Esther Blum|Blum]] on procedure for a week, by [[Maeve Brogan|Brogan]] if she's been turned (she sits on the same committee and hates being told how to vote), or by [[Preston Day|Day]] on air, since a man who wants a ribbon-cutting photograph can't afford a radio segment about the county cutting off a murder inquiry. Nobody needs to threaten him. Everybody needs to embarrass him.
 
 **Stat block:** — (none)
 

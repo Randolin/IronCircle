@@ -27,11 +27,11 @@ Every populated note has:
 
 - **Frontmatter** conforming to [[Schema]] — exactly one `type`, `exposure` set explicitly.
 - **H1 title** matching the file name.
-- For characters: an italic epithet line, then a **three-line pitch** in plain language: `**Pitch:**` (who they are and where they sit in the case, one or two sentences), `**Wants:**` (one line), and `**Gives:**`, `**Threat:**`, or `**Clock:**` (what the players get from them, or what's coming). Someone reviewing the roster should be able to read only those three lines and run the character. Everything else goes under `## Detail`: concept, motivation, mannerisms, voice lines, visual, image prompts, stat block stub. Then `## Theme (Suno)`.
+- For characters: an italic epithet line, then a **three-line pitch** in plain language: `**Pitch:**` (who they are and where they sit in the case, one or two sentences), `**Wants:**` (one line), and `**Gives:**`, `**Threat:**`, or `**Clock:**` (what the players get from them, or what's coming). Someone reviewing the roster should be able to read only those three lines and run the character. Under `## Detail`: bullets only — `**Look:**`, `**Manner:**`, then a handful of facts the pitch left out (clocks, costs, what they look guilty of, what they give after they deflate). Voice lines stay as a short list. Image prompts and the stat block stub go under `## Prompts`. Then `## Theme (Suno)`.
 - **Write the pitch like a young-adult novel, not a noir paperback.** Short sentences. Say what happens. No metaphors in the pitch; save them for the voice lines.
 - For places and institutions: a one-line tag, a short overview, who's there, and hooks where useful.
 
-Length: character notes run 300–600 words plus the theme block. Places and institutions 100–300. The moc notes ([[People]], [[The City]], [[Institutions]], [[Mythos]]) hold the tables that cut across entries.
+Length: a character note should read in under a minute. Pitch plus a dozen bullets; the prompts and theme block are reference, not reading. Places and institutions 100–300. The moc notes ([[People]], [[The City]], [[Institutions]], [[Mythos]]) hold the tables that cut across entries.
 
 ## The tiers
 

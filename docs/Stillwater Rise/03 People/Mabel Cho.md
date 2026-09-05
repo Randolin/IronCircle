@@ -23,18 +23,19 @@ aliases:
 
 ## Detail
 
-**Concept:** The quietest person at the center of everything. Vera's source for a year; now the last living end of that wire.
-
-**Motivation (specific):** Finish what feeding Vera tips started — without losing the job that keeps her mother housed. She counted the cost for a year and paid it in whispers; Vera's death converted the ledger to something owed. She reaches out to the players by end of week one if they've shown decently, because grief needs an errand.
-
-**Performable mannerisms:** Speaks at switchboard volume — precisely loud enough, never more. Quotes overheard calls verbatim, with timestamps, then looks briefly ashamed of the skill. Knits between connections; the needles stop when she's listening to something she shouldn't.
+- **Look:** Chinese-American, mid-thirties, neat shoulder-length hair pinned back for the headset, cardigan buttoned at the top button only. Invisible at the center of everything.
+- **Manner:** Speaks at switchboard volume. Quotes calls verbatim with timestamps, then looks ashamed of the skill. Knits between connections; the needles stop when she's listening.
+- **Her mother** is in the Little China temple's care. Mabel visits Sundays. Zu Cheng's route to her.
+- **Day 9 onward:** anyone reconstructing who fed Vera reaches her. Weaver's water column.
+- **On Rimm:** 'Bring something worth trading. He doesn't want money.'
 
 **Voice:**
 - [deciding to talk]: "I hear forty conversations an hour. I only ever repeated them to one person. Give me a reason to make it two."
 - [the skill, ashamed of it]: "Tuesday, 4:12, three minutes, party-to-party. I don't try to remember them. They just... file."
 - [on Rimm]: "Upstairs? You knock, he doesn't answer, and the next day he knows what you had for breakfast. Bring something worth trading. He doesn't want money."
 
-**Visual description:** Chinese-American woman, mid-thirties, neat shoulder-length hair pinned back for the headset, cardigan buttoned at the top button only. The posture of someone who has learned to be invisible at the center of everything.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a Chinese-American woman in her mid-thirties with a soft square face and full cheeks. Natural, unplucked straight dark eyebrows; gentle dark eyes with a tired downturn at the outer corners; a small straight nose; a small full mouth; neat black shoulder-length hair pinned back, the band of a switchboard headset resting over it. Calm, careful expression, facing the viewer. At the bottom edge of the frame only: a Peter Pan blouse collar under a cardigan buttoned at the top button.
 

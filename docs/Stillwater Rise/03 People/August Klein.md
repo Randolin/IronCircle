@@ -22,18 +22,19 @@ aliases:
 
 ## Detail
 
-**Concept:** The deaf pressman who runs on written truth. The quarter's sleeping protector, animated by a word he keeps in his breast pocket.
-
-**Motivation (specific):** Print what Vera left, correctly, spelled right, every name verified — the only mourning he knows how to do. Standing: protect the shop, the roll, and the boy. He has already decided about the boy; no one has asked him yet.
-
-**Performable mannerisms:** Watches mouths, then eyes, then hands, in that order. Writes his half of conversations on the butcher-paper roll in swift block letters, and keeps every roll, dated. Taps twice on the counter for "yes," flat palm for "no." Immensely gentle with paper. When he decides something, he stands up first and the room notices.
+- **Look:** Enormous man, sixties, shaved head, leather pressman's apron, forearms like rolled newsprint. A single type slug on a cord or in the breast pocket.
+- **Manner:** Deaf. Watches mouths, eyes, hands, in that order. Writes his side of a conversation on the butcher-paper roll in block capitals. Taps twice for yes, flat palm for no. Stands up first when he's decided.
+- **Mythos:** the Golem. The word in his breast pocket. Overwhelming, protective, impossible to aim.
+- **The notebook:** on the imposing stone under the roll from Day 1. He hands it over Day 2 if they came in decent.
+- **Day 6–8:** Prosper's amateur break-in for the checks. The arc's planted red herring. 'MEN CAME THURSDAY. I AM STILL HERE. THEY ARE NOT.'
 
 **Voice (written, block capitals):**
 - [on the roll]: "SHE WROTE IT DOWN. SO IT HAPPENED. THAT IS THE WHOLE JOB."
 - [shown the cigarette note]: "THE ROLL. JUNE. I KEPT EVERYTHING. SIT."
 - [warning]: "MEN CAME THURSDAY. LOOKED WRONG. I AM STILL HERE. THEY ARE NOT."
 
-**Visual description:** Enormous man, sixties, shaved head, pressman's leather apron over rolled sleeves, forearms like rolled newsprint. Type-slug worn on a cord or kept in the breast pocket — a single letter, thumbed smooth. Moves with the deliberate economy of a man who knows exactly how strong he is.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of an enormous bald white man in his sixties with a massive round head, a heavy protruding brow ridge, and a bull neck. Nearly browless — only sparse pale wisps; small, calm pale blue eyes set deep beneath the ridge; a broad flattened nose; a wide mouth with a heavy lower lip; an old burn scar running along the left jaw and ear. Patient expression, facing the viewer. At the bottom edge of the frame only: a collarless band-neck work shirt, with a piece of metal letterpress type on a cord at the throat.
 

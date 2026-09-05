@@ -22,11 +22,13 @@ aliases:
 
 ## Detail
 
-**Concept:** The collector who was never paid. Session sax man, "relocation specialist," killer by appointment.
-
-**Motivation (specific):** Settle every entry. Near-term: complete the docket clearances on schedule, return the gun, restore the ledger's balance that Vera's failed collection broke — the first open line in forty years, and it itches like a wound. Long-term, unspoken even to himself: to hear his own solo on a diner radio and have one person look up.
-
-**Performable mannerisms:** Speaks softly and never interrupts. Unwraps a peppermint before anything difficult. Counts things without meaning to — steps, streetlights, the party members present. Touches the brim of his hat to women and children. When lying, he doesn't — he goes quiet instead.
+- **Look:** Lean Black man, late fifties, upright like a bandstand player. Two-tone suit, one half yellow and one half oxblood, twenty years out of date. Short-brim hat. Slim hard-shell sax case.
+- **Manner:** Soft-spoken, never interrupts. Unwraps a peppermint before anything difficult. Counts things without meaning to. Tips his hat to women and children. When lying, goes quiet instead.
+- **The tune:** four descending notes. Marks undress, fold, square the pile, walk into still water. Works on anyone who can imagine a far shore.
+- **Ledger logic:** two ways onto it: the docket, or interfering with a collection. He'll say so first and offer a chance to withdraw.
+- **Okafor:** he doesn't want him dead (being known is the closest thing to recognition he's had) and will collect him anyway. That conversation is the best window into stopping him.
+- **Sits in** with the Half Note house band on print nights. Never drinks, refuses pay.
+- **Stat block:** solo tier; compulsion tune; negotiation, not combat.
 
 **Voice:**
 - [routine, at a door]: "Morning. I'm with the relocation program. You'll want to start packing the good dishes first — movers are careless with the good dishes."
@@ -34,7 +36,8 @@ aliases:
 - [the crack, quiet]: "Forty years I kept clean books. Forty years. She looked at the water and said it was only water, and now nothing adds."
 - [negotiating]: "Everything's owed to somebody, friend. Question's never *whether* you pay. It's what they'll take instead."
 
-**Visual description:** Black man in his late fifties, lean, upright carriage of a man who spent decades on bandstands. Deep-lined face, gray at the temples under a short-brim hat. The two-tone suit — one half aged yellow, one half oxblood red — immaculate but twenty years out of fashion. Long fingers, calluses on the right thumb and lower lip. Carries a slim hard-shell case the way other men carry briefcases.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a lean Black man in his late fifties with a long, narrow face, hollow cheeks, and high prominent cheekbones. Sparse gray eyebrows over deep-set, heavy-lidded, downturned dark eyes; a broad flat nose; a thin pencil mustache; deep lines framing the mouth. Short salt-and-pepper hair beneath a short-brim hat. Calm, unreadable expression, facing the viewer. At the bottom edge of the frame only: a crisp white spread collar and narrow dark tie.
 

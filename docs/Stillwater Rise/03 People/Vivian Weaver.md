@@ -23,13 +23,12 @@ aliases:
 
 ## Detail
 
-**Concept:** The City's tastemaker — a young silk-fortune heiress who assembled a media empire implausibly fast and owns every story worth telling. "Weaver" is the broadcast name she chose herself, with private amusement.
-
-**Motivation (specific):** Close the collection. The Flats erased, its oral memory dispersed, Vera's archive recovered or burned — and the whole affair *narrated by her*, page one to obituary. Secondary, growing: identify who aimed an agency at her web, because someone did, and unattributed authorship offends her more than opposition.
-
-**The era-influencer read:** Daytime television's darling — her own afternoon program, a syndicated column, the radio hour. What Viv wears sells out by Friday; who Viv laughs at stays laughed at. The empire (paper, radio, Channel 6) technically assembled in under six years from silk money, through acquisitions nobody can quite reconstruct — which is the mythic tell, if anyone thinks to look. The sky god lost the whole hoard in one bargain too.
-
-**Performable mannerisms:** Never answers a question; answers with a story that is true and beside the point. Remembers everyone's name and one embarrassing fact. Is never photographed badly — ever, from any angle, a fact camera men discuss in bars. Her heels on marble sound, faintly, like more than two feet. The only person in the City who never hums.
+- **Look:** Chinese-American, late twenties, sleek black chignon, red lipstick, eight-strand pearl choker, scarlet silk. Long cigarette holder. Never photographed badly.
+- **Manner:** Answers every question with a true story that's beside the point. Remembers your name and one embarrassing fact. Never hums. Her heels on marble sound like more than two feet.
+- **Empire:** paper, radio hour, afternoon TV, Channel 6, assembled from silk money in six years through acquisitions nobody can reconstruct. Real name Vivian Zhu; Little China's old money paid for a temple roof in 1957.
+- **Her moves:** Day 2 Fitch as liaison; Day 3 buys Teddy's crowd frames; Day 5 tea and a column for Jack; Day 7 the call to Ard; Day 9 if Herminia is saved, she stops being careful.
+- **Ending:** never arrested. Named, out loud, on a platform she doesn't own.
+- **Stat block:** endgame; narrative warfare; never initiates violence.
 
 **Voice:**
 - [welcoming investigators]: "Sit, sit. You know, the last man who came to me with questions left with a column. Ask Mickey Shale what became of him. No — ask him. He tells it well, when he's been watered."
@@ -37,7 +36,8 @@ aliases:
 - [threat, smiling]: "I own everything that's ever been said about you. Would you like to hear some of it?"
 - [alone, on air, off script]: "Everything gets written down eventually. That was the whole arrangement."
 
-**Visual description:** Chinese-American woman, late twenties by every camera and record, poised past her years. Sleek black chignon, red lipstick, an eight-strand pearl choker worn always. Scarlet silk couture — the thread motif lives in her wardrobe. A long cigarette holder used as punctuation. Off camera, exactly the same; there is no off camera.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a poised young Chinese-American woman in her late twenties with an oval face, high wide cheekbones, and a delicately pointed chin. Precisely drawn thin arched jet-black eyebrows in the early-1960s style; long, narrow monolid dark eyes; a small straight nose; a small full mouth in red lipstick; flawless even skin. Sleek black hair in a smooth chignon. Composed, neutral expression, facing the viewer straight on. At the bottom edge of the frame only: an eight-strand pearl choker above the high mandarin collar of a scarlet silk dress.
 

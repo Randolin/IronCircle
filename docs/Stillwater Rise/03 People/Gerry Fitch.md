@@ -22,11 +22,11 @@ aliases:
 
 ## Detail
 
-**Concept:** The believer courier. Maas's loyal shadow, Weaver's actual instrument, promoted in her own mind to protagonist.
-
-**Motivation (specific):** Be *seen.* Maas calls her "my girl" and has her fetch coffee for men she out-thinks; Viv Weaver learned her first name, asked her opinion, and quoted it back a week later on television. That was the whole recruitment. Now: graduate from useful to indispensable, and stand somewhere above Maas's grave in the new city's org chart. Immediate: manage the investigation to a safe verdict before anyone reads the routing stamps too closely.
-
-**Performable mannerisms:** Dresses one price bracket above her salary, wears it precisely. Volunteers help before it's requested. Repeats the last three words of powerful people's sentences as agreement. Keeps a fountain pen she never lends. The steno pad is a prop — she forgets nothing. Touches her collar when improvising; doesn't notice she does.
+- **Look:** White woman, late thirties, tailored skirt suits a notch too sharp for a contracts office. Neat short dark hair. Fountain pen always visible.
+- **Manner:** Volunteers help before it's asked. Repeats the last three words of powerful people's sentences. Never lends the pen. Touches her collar when improvising.
+- **Recruited** by Weaver learning her first name and quoting her on TV. Maas calls her 'my girl.'
+- **Money:** dresses above her salary on a Milner loan. Looks like conspiracy; is a lender spotting a climber.
+- **Stat block:** minion-tier schemer; obstruction, paperwork, panic.
 
 **Voice:**
 - [liaison mode]: "The Commissioner wants full transparency, full cooperation — I've taken the liberty of pulling everything relevant. Everything *relevant,* you understand."
@@ -34,7 +34,8 @@ aliases:
 - [squeezed, holding]: "I file paper. Paper's filed by hundreds of clerks. You'll want to be very careful which name you say out loud first."
 - [the crack]: "She said that? Those words? ...'A resourceful girl is a *tool* you keep sharp.' She said that about me. On the air. And I laughed along, because that's the job, isn't it. Laughing along."
 
-**Visual description:** White woman, late thirties, in tailored skirt suits a notch too sharp for a contracts office. Dark hair in a neat short set; fountain pen in the jacket pocket, always visible. A face built for agreeable competence — smooth, attentive, unreadable until the collar-touch.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a composed white woman in her late thirties with a heart-shaped face and a small, slightly receding chin. Thin brown eyebrows plucked into high arches; round hazel eyes; a small upturned nose; a wide mouth with deep smile lines from professional smiling; dark brown hair in a neat, short early-1960s set with a soft fringe. Mild, attentive expression, facing the viewer. At the bottom edge of the frame only: the collar of a tailored gray jacket over a pale blouse with a soft bow at the throat.
 

@@ -23,11 +23,12 @@ aliases:
 
 ## Detail
 
-**Concept:** The watchman above the Exchange. Records everything, releases nothing, waiting for the end of the world.
-
-**Motivation (specific):** Complete the archive of the district before the district ends, and blow the horn — testify, once, totally — at the moment it will matter most, which he has privately fixed as the Stillwater Rise ribbon-cutting. Quietly: to be *asked*. No one has ever asked him what he's heard. They ask what he has.
-
-**Performable mannerisms:** Never sits with his back to the window. Pale eyes that don't blink often enough. Gold teeth shown rarely — when genuinely surprised, which has happened twice this decade. Speaks in complete sentences with long silences between them. Refers to recordings by date and duration, never content.
+- **Look:** Wiry, early thirties, reads a decade older. Black hair combed straight back, insomniac shadows, two gold teeth on the left. Shirtsleeves, suspenders, headphones around the neck.
+- **Manner:** Never sits with his back to the window. Long silences between complete sentences. Refers to recordings by date and duration, never content. Shows the gold teeth only when surprised.
+- **Mythos:** Heimdall. Hears everything; waits to blow the horn.
+- **Cost:** the right question. The wrong one burns the visit and maybe the tape. He doesn't want money.
+- **Payoff line:** 'Who do you think told your agency there was something worth seeing?'
+- **Threshold:** 'This will take eleven hours.'
 
 **Voice:**
 - [the door, through it]: "You're the agency. Fourth of the month, 9:40 in the morning, you told your office you'd 'try the weird one.' I'm the weird one. Come back when you know what to ask."
@@ -35,13 +36,12 @@ aliases:
 - [the payoff]: "Who do you think told your agency there was something worth seeing?"
 - [threshold, at last]: "It is the end of something. Close enough. Sit down. This will take eleven hours."
 
-**Visual description:** Wiry man in his early thirties who reads a decade older from sleeplessness — the youngest man at the Exchange for so long they still call him the kid. Black hair combed straight back, deep insomniac shadows under sharp dark eyes, two gold teeth on the left from a jaw broken once (ask him; he'll tell you the date and the duration of the recording). Shirtsleeves, dark suspenders, headphones around the neck like a collar. Behind him always: racks of tape reels labeled in a tiny even hand, and the window with the unfinished Span dead-ending in the sky.
+
+## Prompts
 
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a gaunt, wiry man in his early thirties with a long face, sunken cheeks, and deep eye sockets shadowed by insomnia. Heavy, straight black eyebrows; sharp dark eyes; a thin, high-bridged hawk nose; a wide thin mouth; ears that stick out; black hair with a widow's peak combed straight back. Two gold teeth just visible on the left when the lips part. Closed, neutral expression, facing the viewer. At the bottom edge of the frame only: a white shirt with an open, unbuttoned collar, bare at the throat.
 
 **Image prompt — full body & wardrobe:** Full-figure view of a wiry man in his early thirties standing very still with long hands at rest at his sides. He wears white shirtsleeves with dark suspenders, an open collar, gray wool trousers, and soft-soled shoes. Large studio headphones rest around his neck, cable dangling.
-
-**Clock:** He is editing, and has been since before the murder. The eleven-hour testimony is being *assembled* — which means reels that don't serve it get reused rather than archived. Any specific tape the players need exists on Day 1 and may not exist by Day 12. He does not experience this as destruction; he experiences it as composition, and he will say so if asked, without apology.
 
 **Stat block:** <!-- daggerheart-forge /adversary or ally-block — immovable; conflict with him is about the Hoard, not his person -->
 
