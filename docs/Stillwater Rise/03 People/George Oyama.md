@@ -38,9 +38,9 @@ aliases:
 
 **The other chair:** the desk across from his has been empty since he arrived. Cole says it was "the last records man's" and can't remember the name. Oyama dates everything and has never dated that chair. Whoever sat there last, and whatever they were, is a hook beyond this arc; do not resolve it here.
 
-**How it shows:** He can tell you the order in which a set of documents was lied on, and he's right. He reads a stamp the way other men read a face. When the docket arrives he's the first to feel the cold, and he's the one who takes it out of Cole's tray and puts it in her hand without reading it, because it isn't his to read until she's read it.
+**How it shows:** He can tell you the order in which a set of documents was lied on, and he's right. He reads a stamp the way other men read a face. When the referral arrives he's the first to feel the cold, and he's the one who takes it out of Cole's tray and puts it in her hand without reading it, because it isn't his to read until she's read it.
 
-**What he knows about upstairs:** nothing, consciously. He would recognize the signature *A. Yanagi, J.* if he saw it. He hasn't been shown it. Blum has made sure of that.
+**What he knows about upstairs:** nothing, consciously. He would recognize the Coroner's signature as wrong if he ever saw the original. He hasn't been shown it. Blum has made sure of that.
 
 ## Theme (Suno)
 

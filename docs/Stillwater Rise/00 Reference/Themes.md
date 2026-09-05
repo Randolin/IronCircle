@@ -51,7 +51,7 @@ Noir Jazz, ambient. Walking upright bass and brushed snare loop beneath a room o
 ```
 *(~474 chars)*
 
-**Tuning:** Per-name variants, one axis each: Boyd `+ a young tenor sax phrase that tries to finish and gets cut off`; Kowalczyk `+ drop the sax entirely`; Brack `+ raise the telephones over the band`; Feeny `+ add switchboard tones` (this ties her to Mabel Cho, deliberately); Dubcek `+ replace the radiator with harbor water and a distant bell`. Feeny and Dubcek have moved up to Tier B but still work off this bed rather than taking standalone cues; add Herzog as `+ replace the typewriters with a single copy desk and a telephone answered before the second ring` if you want a newsroom variant of the same texture.
+**Tuning:** Per-name variants, one axis each: Boyd `+ a young tenor sax phrase that tries to finish and gets cut off`; Kowalczyk `+ drop the sax entirely`; Brack `+ raise the telephones over the band`; Feeny `+ add switchboard tones` (this ties her to Mabel Cho, deliberately); Dubcek `+ replace the radiator with harbor water and a distant bell`. Feeny and Dubcek have moved up to Tier B but still work off this bed rather than taking standalone cues; add Herzog as `+ replace the typewriters with a single copy desk and a telephone answered before the second ring` if you want a newsroom variant of the same texture; Ard `+ replace the typewriters with a squash ball against a wall and a committee gavel`.
 
 ---
 

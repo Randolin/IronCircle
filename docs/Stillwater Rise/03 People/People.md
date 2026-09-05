@@ -109,18 +109,26 @@ Incidental. Promote anyone who earns a third scene. They share one Suno bed, in 
 - [[Danny Boyd]] — car 6, second year, the disregard sits wrong
 - [[Stan Kowalczyk]] — car 6, turned the wheel
 - [[Aldo Brack]] — the desk, the downgrade
+- [[Whitcombe Ard]] — county board finance chair. One vote; the paper column's hand on the agency
 
 ## The agency
 
 Player-side. Shape these around the PCs — [[Party]]. The agency answers to a court it doesn't know about; see [[The Judge]] and [[Mythos#The court]].
 
-- [[The Judge]] — Enma-ō. Upstairs, above upstairs. Paper only; never in the room
+- [[The Judge]] — Enma-ō. The County Coroner. Paper only; never in the room. Souls are being stolen from his court
 - [[Odessa Cole]] — Operations. Logos all the way down, on purpose
-- [[Esther Blum]] — Counsel. Daniel: reads the writing on the wall
+- [[Esther Blum]] — Counsel. Hammurabi: the law is written down, and she can read it back
 - [[George Oyama]] — Records. Thoth: the record is the thing that happened. The chair across from him is empty
 - [[Pearl Nazario]] — Front desk. Herminia Vega's niece; she doesn't know the notebook has her aunt in it yet
 
-The agency's name, history, and retainer are in [[The Agency]] and [[The Auberon Trust]].
+The Coroner's office, which the agency works for:
+
+- [[Ansel Morrow]] — chief clerk. The only one who's been in the room. Says "Tall."
+- [[Bets Halvorsen]] — wagon driver. Charon's daughter, more or less. Her notebook is the pattern, independent of the precinct
+- [[Teddy Ferrante]] — scene photographer. Twenty-two frames of the pier; Weaver wants the crowd frames by Day 3
+- [[Adaeze Okonkwo]] — inquest stenographer. The finale runs through her hands
+
+The agency's name, history, and retainer are in [[The Agency]] and [[County Coroner]].
 
 ## Stat blocks
 

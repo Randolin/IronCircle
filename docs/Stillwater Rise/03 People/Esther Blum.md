@@ -3,7 +3,7 @@ type: character
 tier: agency
 board: agency
 role: Counsel
-mythos: Daniel
+mythos: Hammurabi
 faction: [[The Agency]]
 status: alive
 exposure: secret
@@ -33,13 +33,13 @@ aliases:
 
 **Image prompt — full body & wardrobe:** Full-figure view of a compact white woman in her late fifties standing straight with a thick bound legal volume cradled in one arm. She wears a dark, well-cut skirt suit with a plain white pointed-collar blouse, sensible dark heels, and a second pair of reading glasses on a cord at her chest.
 
-**Mythos: Daniel.** The one who reads the writing on the wall. In the story of Susanna he separated two lying witnesses, asked each one question, and caught them on the detail; at Belshazzar's feast he read the sentence nobody else could and told the king what it weighed: *numbered, numbered, weighed, divided.* Blum reads what the machine has written on the wall of the City and tells the room what it means. Condemnation law is her book of Daniel: what a kingdom may take, and the one honest sentence they put in Latin so nobody would read it.
+**Mythos: Hammurabi.** The king who wrote the law down on a stone pillar so that nobody could claim they didn't know it. Blum doesn't judge people; she reads the law they already agreed to and holds them to it, word for word. Condemnation statutes are her pillar. Somewhere in every one of them is a sentence the builders wrote and forgot, and she has memorized all of them.
 
-**How it shows:** She cross-examines by separation. Two witnesses in two rooms, one question each, and the lie is in the difference. Documents left on her desk overnight come back with the false sentence underlined, and she doesn't remember doing it. When the routing stamps go up on the office wall she reads them the way Daniel read the plaster, and says what they weigh out loud before she's decided to.
+**How it shows:** Any contract, statute, or docket she reads, she can quote back without looking, including the part the other side hoped nobody would. When someone lies to her about what a document says, she recites the document. The room goes quiet. Documents left on her desk overnight come back with the clause that ends the argument underlined, and she doesn't remember doing it.
 
-**The folded clothes:** she knew what they were the moment Cole said *folded*. Twelve piles squared on a pier are twelve sentences written on a wall by something that expects nobody can read them. She can. She hasn't said so, because saying it would mean explaining what she is, and she'd rather win the inquest.
+**The folded clothes:** she knew what they were the moment Cole said *folded*. Twelve piles on a pier, all squared the same way, is a procedure. Somebody wrote a rule and is following it. Rules can be read, and read back.
 
-**What she knows about upstairs:** more than Cole. She read the witness signature on the 1953 instrument, understood it, and built the lattice so that the Trust could be attacked and the court could not. She and the Judge have never communicated. She has read the writing; she doesn't need the hand.
+**What she knows about upstairs:** more than Cole. She read the Coroner's appointment paper in 1953, read the name on it, and understood. She built the retainer so that the county board could cut it and the Coroner could not be touched. She and the Judge have never spoken. She doesn't need to; the law is written down.
 
 ## Theme (Suno)
 

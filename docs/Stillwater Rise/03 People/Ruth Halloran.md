@@ -3,7 +3,7 @@ type: character
 tier: b
 board: route
 role: Medical Examiner
-faction: [[The Precinct]]
+faction: [[County Coroner]]
 opens: "The forensic pattern, on the inquest record"
 status: alive
 exposure: secret
@@ -27,6 +27,8 @@ aliases:
 - [at the scene]: "Cause of death is currently an argument between her lungs and the back of her skull. I'll thank you not to quote me until one of them wins."
 - [the dates question landing]: "Say that again. Slower. And then get out of my van while I pull nine files, because if you're right, I've been signing fiction for four years."
 - [deciding]: "I can defend the tissue. I can defend the timeline. What I can't defend is a coincidence with eleven decimal places."
+
+**Reports to:** the [[County Coroner]]. She has met only his chief clerk, [[Ansel Morrow]]. She signs the agency's scene pass because the referral says to, and she has never asked why the Coroner refers the ones he refers.
 
 **Visual description:** Small white woman, late fifties, iron-gray bob, half-moon reading glasses on a chain, lab coat thrown over a genuinely good dress. Deep smoker's lines; hands steadier than anyone else's at any scene.
 

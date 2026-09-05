@@ -11,15 +11,15 @@ aliases: ["The Agency", "the agency", "Blum & Cole"]
 
 > The cases that don't fit the mold.
 
-The door on the third floor over a dentist on Merchant Street reads *Blum & Cole, Inquiries*. Nobody calls it that. It takes the cases nobody else wants, on retainers from people who'd rather not be named, and its people are the kind who stopped fitting molds themselves.
+The door on the third floor over a dentist on Merchant Street reads *Blum & Cole, Inquiries*. Nobody calls it that. It's a licensed, bonded inquiry firm on retainer to the County Coroner's office, which means that when a death goes to inquest instead of Homicide, the agency gets a carbon copy and a scene pass. Homicide is usually glad to see them.
 
 ## History
 
-Esther Blum opened it in 1951 as the investigative arm of a one-woman law practice that kept losing condemnation cases and winning appeals. Odessa Cole came back from Korea in 1953 and took over operations inside a month. George Oyama joined in 1955 after the agency subpoenaed a set of records he'd spent three years trying to see. The retainer that keeps the lights on arrived the same year, and Blum built the paperwork around it so that nobody upstairs has ever had to know what a case was about.
+Esther Blum opened it in 1951 as the investigative arm of a one-woman law practice that kept losing condemnation cases and winning appeals. Odessa Cole came back from Korea in 1953 and took over operations inside a month. The Coroner's retainer arrived the same year. George Oyama joined in 1955 after the agency subpoenaed a set of records he'd spent three years trying to see.
 
 The agency has closed cases that should have stayed open. Cole does not discuss which.
 
-Cases arrive as a carbon in Cole's in-tray: a name, six lines. Nobody at the agency has met a trustee. The radiator is always losing on the mornings a new one comes in.
+Cases arrive as a six-line carbon from the Coroner's office. Nobody at the agency has ever met the Coroner. The radiator is always losing on the mornings a new one comes in.
 
 ## Staff
 - **Odessa Cole** — Operations. Former Army nurse. Triage, worst bleeding first, feelings later. She answers the phone mid-first-ring and has already thought of what you're about to say.
@@ -32,8 +32,8 @@ Cases arrive as a carbon in Cole's in-tray: a name, six lines. Nobody at the age
 
 ## How it works
 - Cole briefs. Blum tells you what you can't do and how to stand next to it. Oyama reads what you bring back.
-- There's a Thursday. There's always a Thursday, and somebody upstairs who asks why on it.
-- Consultants, officially. Unofficially, the precinct never met you.
+- The scene pass is signed by the Medical Examiner. The precinct honors it because it has to, not because it wants to.
+- The retainer is a county budget line. There's always somebody on the county board asking why.
 
 ## See also
 - [[Institutions]] · [[Party]]

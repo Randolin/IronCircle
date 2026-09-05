@@ -49,7 +49,10 @@ The two interlock: Weaver decides, Bunting performs. A name on her water column 
 | **Rev. Eli Prosper** | The canceled checks surfaced publicly before he can confess to them | The pulpit — four hundred people on a Sunday, the finale's second platform |
 | **Lorna Feeny** | Transferred out of the precinct inside a week | The timestamped disregard note goes with her |
 | **Mickey Shale** | Left alone with the letter | The tip chain, unrecorded, permanently |
-| **The agency's mandate** | Two columns and one phone call to Whitcombe Ard at [[The Auberon Trust]], Day 7. The lever is [[Pearl Nazario|Pearl]]: an employee with family on the docket is a "conflict" | Cover. Blum holds it a week; then the case continues unsanctioned, or it stops |
+| **The agency's mandate** | Two columns and one phone call to [[Whitcombe Ard]] on the county board, Day 7 ([[County Coroner]]). The lever is [[Pearl Nazario|Pearl]]: an employee with family on the docket is a "conflict" | The scene pass. Blum holds the retainer a week; then the agency works without one, or it stops |
+| **Teddy Ferrante** | Bought. Ten dollars a print for the crowd frames, Day 3. Frame nineteen has a two-tone suit at the edge of the cordon | The only unedited record of the pier, and the peppermint wrapper before it was stepped on |
+| **Bets Halvorsen** | Buyable in theory, not in practice, which moves her toward the water faster than expected once the notebook is known to exist | Nine runs marked *empty*, two with no precinct file |
+| **Adaeze Okonkwo** | Not bought, not drowned: the Kestrel inquest gets *rescheduled* into a room where she isn't the stenographer. [[Maeve Brogan|Brogan]] can do that with a call | The finale's record |
 | **Amalia "Doc" Reyes** | Bought. The Half Note's block comes up on the docket early, with a better check than the neighbors got. She'll know why | The third witness to the slip, and Jack's one door that doesn't cost |
 
 ## Fired

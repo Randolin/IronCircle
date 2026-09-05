@@ -21,14 +21,14 @@ Day 1 throughout. If they push hard, Day 2 opens with the notebook.
 
 ## Cold open — the office, 8:40 a.m.
 
-Third floor over a dentist on Merchant Street; the door reads *Blum & Cole, Inquiries*. [[Pearl Nazario|Pearl]] at the front desk. [[Odessa Cole|Cole]] has the phone in one hand and a manila folder in the other.
+Third floor over a dentist on Merchant Street; the door reads *Blum & Cole, Inquiries*. [[Pearl Nazario|Pearl]] at the front desk. A thin old man in galoshes is just leaving as the players arrive; he wipes his feet on the way out. That's [[Ansel Morrow|Morrow]]. He delivered the referral. [[Odessa Cole|Cole]] has the phone in one hand and a manila folder in the other.
 
 > [!quote] Read
 > The radiator is losing an argument with the window. Pearl has the switchboard cord in her teeth and a pencil behind each ear. Cole doesn't look up. "Harbor patrol pulled a woman out of the grain-elevator eddy under Pier 9 at ten to six. Precinct wrote *jumper* before she was dry. Homicide has already given it away." She sets the folder down. Inside: one carbon, six lines, a name. *Kestrel, Vera. F. 38. Flats.* "Homicide didn't want it, which is the first interesting thing about it. Second interesting thing's in the coroner's van. Go."
 
-**If asked who's paying:** "A retainer. Don't ask which. You have until Thursday before somebody upstairs asks me why."
+**If asked who's paying:** "The Coroner referred it. That's your pass. You have until Thursday before somebody on the county board asks me why."
 
-**The docket.** The six-line carbon in the folder is not the precinct's. It has no letterhead and no postmark, and the sixth line reads *Unheard.* Cole doesn't mention it. Oyama took it out of her tray this morning without reading it and the office was cold when he did. If a player asks about the word, Cole says "Clerk's shorthand," and it isn't. See [[The Judge]]. Do not explain this for at least three sessions.
+**The referral.** The six-line carbon in the folder is from the Coroner's office, stamped. The sixth line reads *Unheard.* Cole doesn't mention it. Oyama took it out of her tray this morning without reading it and the office was cold when he did. If a player asks about the word, Cole says "Clerk's shorthand," and it isn't. See [[The Judge]]. Do not explain this for at least three sessions.
 
 **Pearl** hands them the carbon copy of the precinct log on their way out. She hasn't read the name. She's from the Delancey block. Note it for later; don't play it.
 
@@ -39,11 +39,13 @@ Third floor over a dentist on Merchant Street; the door reads *Blum & Cole, Inqu
 Cordon tape, two uniforms, a crowd of maybe twenty from the Flats. [[Frank Casale|Casale]] leaning on his car, hat pushed back, relieved.
 
 > [!quote] Read
-> The pier runs out over grey water toward a grain elevator that's been rusting since the war. Below it the eddy turns slow and brown, and there's foam in it the color of old teeth. Casale flicks his cigarette at the river. "The last guy who caught a case like this teaches traffic school in Yonkers now." He hands over a signed release without being asked. "It's yours. Officially, you're consultants. Unofficially, I never met you."
+> The pier runs out over grey water toward a grain elevator that's been rusting since the war. Below it the eddy turns slow and brown, and there's foam in it the color of old teeth. Casale flicks his cigarette at the river. "The last guy who caught a case like this teaches traffic school in Yonkers now." He hands over a signed release without being asked. "Coroner referred it, so it's an inquest, so it's yours. Halloran's got your pass in the van. Unofficially, I never met you."
 
-**Casale gives freely:** the 5:50 recovery; that the clothes were found on the pier "like a hotel maid did them"; that it's the ninth like it in four years and "they're all jumpers, ask anyone." He'll say *nine* and then look like he wishes he hadn't. That's the seed for the files. His price later is deniability; today it's free.
+**Casale gives freely:** why Homicide let it go ("inquest referral came down before we'd finished the coffee; that's not usual, and I'm not curious"); the 5:50 recovery; that the clothes were found on the pier "like a hotel maid did them"; that it's the ninth like it in four years and "they're all jumpers, ask anyone." He'll say *nine* and then look like he wishes he hadn't. That's the seed for the files. His price later is deniability; today it's free.
 
 **At the cordon:** [[Roy Pruitt|Sgt. Pruitt]], parade-crisp, checking his gig line in the car window. He positions himself to overhear, badly. First line, unprompted: "Known crank, that one. Sad case. Wouldn't spend the shoe leather, but that's not my purview, of course." Let a player catch him listening. Don't let them catch him calling. Not today.
+
+**At the cordon, with a camera:** [[Teddy Ferrante|Teddy Ferrante]], the Coroner's freelance photographer, counting frames out loud. "Twenty-two, chief. Always shoot the crowd." He has the negatives. He'll sell them to anyone by Day 3.
 
 **In the crowd:** a Black man in a careful gray suit and a carrier's fedora, route book under his arm, watching the van. If approached he's [[Nathaniel Pell|Pell]], Beacon Mutual, "paying respects to a policyholder." He flinches at *which* policy and leaves. Seed.
 
@@ -58,7 +60,7 @@ The clothes are still on the planks; Casale had them photographed and left "for 
 - The cardigan's left pocket is stretched into a rectangle. Something lived there. Nothing's in it.
 - The right pocket has a heavier stretch, lower. Also empty.
 - The glasses. Thick. A player who tries them on can't see the end of the pier. She couldn't have either.
-- A peppermint wrapper, cellophane, six feet from the pile, under the lamp post. Casale's photographer stepped on it.
+- A peppermint wrapper, cellophane, six feet from the pile, under the lamp post. The precinct's photographer stepped on it. [[Teddy Ferrante|Teddy]] shot it whole at 6:40, and doesn't know that matters.
 - Scuffing on the planks between the pile and the edge: bare heels, dragged a half-inch, then nothing. She stood there a while.
 
 **Mythos moments (one each, if they reach for it):**
@@ -76,6 +78,15 @@ The clothes are still on the planks; Casale had them photographed and left "for 
 **She gives freely:** the fracture; the drowning; time of death "between one and three, and if you make me say two I'll deny it." Ink under the nails. A fresh nick on the right index finger (mimeograph stencil). Nothing under the nails but ink.
 
 **She holds:** the memo in her desk, the nine files she signed. The lever is the *dates* question. If a player says "nine like this in four years, all folded," she goes very still: "Say that again. Slower." Then she throws them out of the van. That's a win. Don't let her give more today.
+
+## Beat 3½ — the wagon
+
+[[Bets Halvorsen|Bets]] is sitting on the van's running board with the doors open, chewing licorice. Nobody has asked her anything in twenty years.
+
+> [!quote] Read
+> "She's quiet. They're usually loud the first hour. This one's just already gone somewhere." She looks at you to see if you're going to laugh. "You want to know how many times I've said that? Nine. I write it down."
+
+If anyone asks to see it, the notebook is in the glove box: date, address, weather, one word. Nine runs marked *empty*. Two of them have no matching precinct file. That's the pattern, on Day 1, from the one person nobody upstairs has thought to edit.
 
 ## Beat 4 — Dubcek
 

@@ -47,6 +47,8 @@ Every conclusion below has at least three routes to it. Lose one to a bad roll, 
 | Clue | Where | Who confirms |
 |---|---|---|
 | "Eleven piles of clothes, no floaters. Till her" | The water | [[Earl Dubcek|Dubcek]] |
+| Nine runs marked *empty* in a glove-box notebook, two with no precinct file | The coroner's van | [[Bets Halvorsen|Bets]], for being asked |
+| Four struck passages, two from folded-clothes inquests, all of them short | The hearing room | [[Adaeze Okonkwo|Okonkwo]], to Blum only |
 | Nine jumper files, folded clothes, one signature each | The precinct | [[Frank Casale|Casale]] (for favors), [[Ruth Halloran|Halloran]] (the memo in her desk) |
 | Eleven claim denials, "suicide exclusion" | Beacon Mutual | [[Nathaniel Pell|Pell]], after he deflates |
 | Nine years in a coffee can | [[Tin City]] | [[Ottilie Mauser|Ottilie]], for a name |
@@ -64,7 +66,8 @@ Every conclusion below has at least three routes to it. Lose one to a bad roll, 
 ### 4. Who knocks
 | Clue | Where | Who confirms |
 |---|---|---|
-| A peppermint wrapper on the planks; peppermint and reed in the air, if you have the nose | [[Pier 9]] | [[Jack Rivers]]'s sense of smell; nobody else notices |
+| A peppermint wrapper on the planks; peppermint and reed in the air, if you have the nose | [[Pier 9]] | [[Jack Rivers]]'s sense of smell; [[Teddy Ferrante|Teddy]]'s frame before it was stepped on |
+| A two-tone suit at the edge of the cordon, frame nineteen | Teddy's shoebox | [[Teddy Ferrante|Teddy]], before Day 3 or at Weaver's price |
 | The tune. Toby hums it. Cutty can hum a bar. Okafor knows what it is | Everywhere | [[Dez Okafor|Okafor]], for a promise |
 | "Very polite, very quiet. Pack the good dishes first" | Every door on the docket | [[Herminia Vega]] on Day 8; families Okafor warned out |
 | "The knocking man." Moved ahead of him nine times | [[Tin City]] | [[Ottilie Mauser|Ottilie]] |
@@ -104,7 +107,7 @@ The surface story is a redevelopment murder. The story underneath is a bargain c
 
 **The tune is a beacon as well as a weapon.** [[Toby Small|Toby]] carries it between the tower and the roots the way Ratatoskr carries insults. Hummed, it does nothing (table rule). Heard by Bunting, it says where the story is. Every scene where Toby hums in public moves the second-issue clock.
 
-**The court is older than the case.** The agency answers, without knowing it, to [[The Judge]]: Enma-ō, whose court must hear every death in the City. Twelve went unheard. The folded clothes are a crossing rite performed without his court: clothes taken for a journey, nothing weighed, no name read. [[Esther Blum|Blum]] can read that sentence; [[George Oyama|Oyama]] can tell you what order it was written in. The docket that put the agency on the case said *unheard*. The verdict slip that closes it says *heard*, and it arrives only after someone reads a name aloud on the record. The players never meet him. They will notice the cold, the signature, and the empty chair.
+**The court is older than the case.** The agency works for the County Coroner, who is [[The Judge]]: Enma-ō, whose court should hear every death in the City. Twelve went unheard, and unheard souls don't stay lost; something else collects them. That is the war behind the war, and Weaver and Bunting are feeding it without knowing. The folded clothes are a crossing rite performed without his court: clothes taken for a journey, nothing weighed, no name read. [[Esther Blum|Blum]] can read that sentence; [[George Oyama|Oyama]] can tell you what order it was written in. The referral that put the agency on the case said *unheard*. The verdict slip that closes it says *heard*, and it arrives only after someone reads a name aloud on the record. The players never meet him. They will notice the cold, the signature, and the empty chair.
 
 **The river takes sides.** It gave Vera back. It has never given anyone back. [[Cutty Sloan|Cutty]] calls it "she" and is correct. If the players are on the pier the night of Day 9 with the Tower, the Monkey, and Coyote, the river is a witness that can be called.
 
@@ -121,9 +124,10 @@ Every scene the players play is seen by somebody, and that somebody tells somebo
 | [[Maeve Brogan|Brogan]] | Any request that touches the Authority | Her captains; then stalls | Records take a week instead of a day |
 | [[Hal Rimm|Rimm]] | Every call from the office | Nobody, yet | He knows what to ask them when they arrive |
 | [[Nathaniel Pell|Pell]] | Any visit to a bereaved family | His route book | The families hear the agency is asking |
+| [[Teddy Ferrante|Teddy]] | Everything at the pier, on film, before anyone edited it | Whoever pays ten a print. Weaver's paper, Day 3, unless the players ask first | The crowd frames, and frame nineteen, change hands |
 | [[Amalia Reyes|Doc Reyes]] | Who drinks with whom | [[Jack Rivers|Jack]], if he asks | Bunting learns the agency is at the Half Note the night they walk in |
 
-**Weaver's counter-moves, in order.** Day 2, Fitch arrives with a box of "everything relevant." Day 5, an invitation: tea at the studio, a column offered to [[Jack Rivers]] (Coyote and Anansi are cousins; she'd rather own him than fight him). Day 7, the first phone call to whoever sits above [[Odessa Cole|Cole]] (see [[The Agency]], [[The Auberon Trust]]). Day 9, if Herminia is saved, Weaver stops being careful: someone from the paper column turns up in the water column. That's the loudest signal in the arc.
+**Weaver's counter-moves, in order.** Day 2, Fitch arrives with a box of "everything relevant." Day 5, an invitation: tea at the studio, a column offered to [[Jack Rivers]] (Coyote and Anansi are cousins; she'd rather own him than fight him). Day 3, the paper buys Teddy's crowd frames. Day 7, the first phone call to [[Whitcombe Ard]] on the county board (see [[County Coroner]]). Day 9, if Herminia is saved, Weaver stops being careful: someone from the paper column turns up in the water column. That's the loudest signal in the arc.
 
 ## What each PC gives the agency
 

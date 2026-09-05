@@ -33,7 +33,7 @@ aliases:
 
 **Image prompt — full body & wardrobe:** Full-figure view of a slim young Puerto Rican woman of twenty-four standing upright with a steno pad held against her chest. She wears a printed blouse under a buttoned office cardigan, a straight knee-length skirt, low heels, cat-eye glasses, and a narrow ribbon band in her hair.
 
-**Use:** She is how the Delancey block reaches the office, and how the office learns that the ninth is a person. When the players find *Vega, H., the 9th* in the notebook, Pearl is at the desk. Cole didn't know until now. The [[Danger Board]] paper column can reach her: an agency employee with family on the docket is a "conflict of interest" that a well-funded firm can use to pull the mandate.
+**Use:** She is how the Delancey block reaches the office, and how the office learns that the ninth is a person. When the players find *Vega, H., the 9th* in the notebook, Pearl is at the desk. Cole didn't know until now. The [[Danger Board]] paper column can reach her: an agency employee with family on the docket is a "conflict of interest" the county board can use to suspend the Coroner's retainer.
 
 **Stat block:** — (none)
 

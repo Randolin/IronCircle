@@ -13,7 +13,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | When | What |
 |---|---|
 | ~40 years ago | [[Manny Bunting]]'s books open. Clean until Vera. |
-| 1953 | [[The Auberon Trust]] instrument drafted; witness signature *A. Yanagi, J.* The first docket arrives in [[Odessa Cole|Cole]]'s in-tray with no postmark |
+| 1953 | The [[County Coroner]] puts the agency on retainer. The first referral arrives in [[Odessa Cole|Cole]]'s in-tray with the stamp |
 | ~9 years ago | The count of the disappeared that [[Ottilie Mauser]] keeps begins. Cole's private count of dockets begins the same year; nobody has noticed |
 | 1957 | The Zhu family pays for the Three Purities temple roof. Vivian Zhu buys her first newspaper the same year. [[Little China]] is on no clearance map from then on |
 | < 6 years ago | [[Vivian Weaver]] assembles the empire from silk money |
@@ -36,19 +36,19 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 |---|---|---|
 | 1 | Body found 5:50, a quarter mile upstream. Logged as a jumper. Anonymous tip reaches the agency via an Exchange line. Pruitt's first report on the players goes in tonight | [[Earl Dubcek]], [[Aldo Brack]], [[Hal Rimm]], [[Roy Pruitt]] |
 | 2 | [[Herminia Vega]]'s name is findable in Vera's notebook ("the 9th"), at [[August Klein|Klein]]'s. [[Gerry Fitch]] arrives as Authority liaison with a box of "everything relevant" | [[August Klein]], [[Gerry Fitch]] |
-| 3 | Any request touching the Authority starts stalling | [[Maeve Brogan]] |
+| 3 | Any request touching the Authority starts stalling. Weaver's paper offers [[Teddy Ferrante|Teddy]] ten a print for the crowd frames | [[Maeve Brogan]], [[Teddy Ferrante]] |
 | 3–4 | "M. Roland" returns the .38 to Grosz | [[Solly Grosz]] |
 | 4 | Okafor starts warning families out. Blocks empty ahead of schedule; Bunting opens a line on him | [[Dez Okafor]] |
 | 5 | Weaver's invitation. Tea at the studio; a column offered to Jack | [[Vivian Weaver]], [[Jack Rivers]] |
 | 6 | Toby finds the stencils. Padgett starts counting the Tuesday minutes | [[Toby Small]], [[Lou Padgett]] |
-| 7 | Any official interest in Brack's downgraded log surfaces [[Cutty Sloan]]. Weaver's call to [[The Auberon Trust]] | — |
+| 7 | Any official interest in Brack's downgraded log surfaces [[Cutty Sloan]]. Weaver's call to [[Whitcombe Ard]] on the county board | — |
 | 8 | The knock at Herminia's door. Pearl's mother sees him | [[Manny Bunting]], [[Pearl Nazario]] |
 | 9 | Herminia's pier date. Mabel becomes a target for anyone reconstructing Vera's tips. If Herminia is saved, Weaver stops being careful | [[Herminia Vega]], [[Mabel Cho]] |
 | 10 | Shale opens the letter regardless. Bunting's line on Okafor is live | [[Mickey Shale]] |
 | 11 | First issue of the restarted *[[The Plain Truth]]* | [[Toby Small]] |
 | 12 | Any specific tape may be gone — Rimm reuses reels that don't serve the testimony | [[Hal Rimm]] |
 | 13 | The second issue makes Toby a record Weaver wants collected | [[Toby Small]] |
-| 14 | The Trust's week runs out. Unsanctioned, or stopped | [[Esther Blum]] |
+| 14 | Blum's week runs out. No scene pass, or stopped | [[Esther Blum]] |
 | demolition eve | Bunting's docket accelerates toward it. No fixed date; Padgett posts the schedule on his fence | — |
 | ribbon-cutting | Rimm's chosen moment to testify. Maas's finish line | [[Hal Rimm]], [[Sterling Maas]] |
 

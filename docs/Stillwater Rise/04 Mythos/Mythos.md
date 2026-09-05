@@ -47,12 +47,13 @@ The agency is an instrument of a court, and the court is older than the case. Th
 
 | Figure | Character | In play |
 |---|---|---|
-| Enma-ō | [[The Judge]] | Every death in the City is a case; the unheard ones are a debt, and something is spending the difference. Sees through the Mist by the mirror: anyone who stood at the river and was sent back. Acts on paper only. Never in the room |
-| Daniel | [[Esther Blum]] | Reads the writing on the wall and says what it weighs. Separates witnesses and catches the lie in the difference. Twelve folded piles are a sentence she can read; she'd rather win the inquest |
+| Enma-ō | [[The Judge]] | The County Coroner. Every death should come before his court; the unnamed ones never arrive, and something else is taking them. Sees through the Mist by the mirror: anyone who stood at the river and was sent back. Acts on paper only. Never in the room |
+| Hammurabi | [[Esther Blum]] | Wrote the law on a pillar so nobody could claim ignorance. Reads any statute or contract back word for word, including the clause you hoped she'd miss. Twelve squared piles are a procedure, and procedures can be read |
 | Thoth | [[George Oyama]] | The scribe whose record is the thing that happened. Knows the order lies were told in. The chair across from him is empty, and that is a hook beyond this arc |
 | — | [[Odessa Cole]] | Logos all the way down, on purpose. The mortal witness a judgment requires, and the wall the illusion stands on |
+| Charon's daughter | [[Bets Halvorsen]] | Drives the wagon. The dead don't lie to her. Knows when a body is *empty*, and nine have been |
 
-The folded clothes are the seam between the two stories. Bunting's tune is a crossing rite run without the court: clothes taken for a journey, nothing weighed, nobody heard. That is why the Judge's docket said *unheard* and why Vera, whose crossing failed, is the case that opened this door.
+The folded clothes are the seam between the two stories. Bunting's tune is a crossing rite run without the court: clothes taken for a journey, nothing weighed, nobody heard. That is why the Coroner's referral said *unheard* and why Vera, whose crossing failed, is the case that opened this door.
 
 ## The investigators
 | Figure | Character | In play |

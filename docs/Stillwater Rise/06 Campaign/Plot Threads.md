@@ -24,7 +24,7 @@ The arc as threads. Each resolves separately; the players can be anywhere on any
 | **The griot** — [[Dez Okafor]] | Warning families out from Day 4. Both Bunting's ledger and Weaver's collection arrive at him | open |
 | **The tapes** — [[Hal Rimm]] | Reels reused, not archived. Any specific tape may be gone by Day 12 | open |
 | **The letter** — [[Mickey Shale]] | Opens it Day 10 regardless | open |
-| **The mandate** — [[The Auberon Trust]] | Weaver's Day 7 call. Blum holds it a week. Then unsanctioned, or stopped | open |
+| **The mandate** — [[County Coroner]] | Weaver's Day 7 call to the county board. Blum holds the retainer a week. Then no pass, or stopped | open |
 
 ## The intrigue
 
@@ -39,7 +39,7 @@ The arc as threads. Each resolves separately; the players can be anywhere on any
 
 | Thread | What it is | Status |
 |---|---|---|
-| **The court** — [[The Judge]] | The City's ledger doesn't balance and something is spending the difference. Weaver's bargain is one symptom. Each arc is a case the court couldn't hear. Signals only: the cold, the signature *A. Yanagi, J.*, the docket with no postmark, the verdict slip *heard* | dormant |
+| **The stolen dead** — [[The Judge]] | Souls that die unnamed never reach the Coroner's court, and something else is collecting them. Weaver and Bunting feed it without knowing. Each arc is another route the dead are being taken by. Signals only this arc: the cold, the stamp, the referral, the closing notice *heard*, *they are not lost* | dormant |
 | **The other chair** — [[George Oyama]] | The desk across from Records has been empty since he arrived. Who sat there, and what were they? Not this arc | dormant |
 | **The count** — [[Odessa Cole]] | Nine years of dockets in the back of her shorthand book. Two she couldn't close. She's waiting to learn whether that was mercy or filing | dormant |
 
