@@ -17,6 +17,12 @@ aliases:
 
 > *Spindle & Milner Credit.*
 
+**Pitch:** The Flats' lender. Her name is on every document in the district. Vera asked her one question nine days before dying.
+**Wants:** To stay legal to the letter and never be a witness.
+**Gives:** the payment chain into Weaver's hidden subsidiary, flagged in her own hand. In writing, at her price.
+
+## Detail
+
 **Concept:** The Flats' lender of last resort. Her paper blankets the district — burial loans, bridge loans, liens that quietly mature on condemnation — and every clearance pays her twice. Follow the money above Maas and you reach Milner long before you reach Viv, because **Milner's money is visible and Viv's isn't.** She has funded Authority-adjacent projects, and one of her smaller loans dresses Gerry Fitch a bracket above her salary — a real thread that looks like conspiracy and is merely a lender knowing a climber when she sees one.
 
 **Why she draws fire:** Profits from every disappearance-adjacent clearance; contracts with terms nobody understood they'd agreed to; a filing system that knows the district better than the census; and total, unnerving composure under questioning — she answers everything, precisely, because everything she does is *in writing and legal to the letter.*

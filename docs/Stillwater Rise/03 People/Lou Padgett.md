@@ -18,6 +18,12 @@ aliases:
 
 > *The old partner.*
 
+**Pitch:** Rook's old partner. Now runs security at the Authority's field office and sits outside Fitch's door on Tuesdays.
+**Wants:** Rook to say the draft thing out loud. Then four hundred dollars. Then the gate.
+**Gives:** Fitch's office, the Tuesday stacks, the demolition schedule.
+
+## Detail
+
 **Concept:** [[Arthur Rook]]'s former partner. *Padgett & Rook, Inquiries* was a two-man shop with one desk that folded in 1959, the year Rook's draft trouble started and Lou stopped returning calls. Now he runs security for the [[Renewal Authority]]'s field office at the foot of [[The Span]]: badges the site, walks the fence, sits outside [[Gerry Fitch|Fitch]]'s door on Tuesdays while the stacks go in.
 
 **Motivation (specific):** A pension, a clean record, and never again being the partner of a man people whisper about. He thinks Rook is a coward and has said so. He also thinks Rook is the best investigator he ever met and has never said that. Rook owes him four hundred dollars from the last month of the partnership. Lou has the receipt.

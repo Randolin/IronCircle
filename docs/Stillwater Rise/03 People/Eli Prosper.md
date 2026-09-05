@@ -18,6 +18,12 @@ aliases:
 
 > *The Mission.*
 
+**Pitch:** Pastor who took Authority money to preach acceptance of the buyouts. Went to the forwarding addresses. None of them exist.
+**Wants:** To get the canceled checks back before God or the congregation sees them.
+**Gives:** the fake addresses, the checks, and a pulpit with four hundred people in it.
+
+## Detail
+
 **Concept:** The shepherd who sold the gate. Pastor of the Flats' largest congregation; took "relocation grants" to preach acceptance of the buyouts, and has been apologizing to God in installments ever since.
 
 **Motivation (specific):** Get the canceled checks back before God or the congregation sees them — hence the Day 6–8 amateur break-in at Klein's, the arc's planted red herring. Beneath the panic: he keeps a list of the families he encouraged out, and he has started visiting the addresses they were "relocated" to. Nobody answers any of the doors. He is close to understanding, and terrified of arriving.

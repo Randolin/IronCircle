@@ -17,6 +17,12 @@ aliases:
 
 > *The Watcher.*
 
+**Pitch:** Ex-cop whose career Vera's paper ended. Became her believer and stalked her with a camera. A wall of photos of the victim, a gun, no alibi.
+**Wants:** To finish her investigation himself.
+**Gives:** dated photos, including one with a two-tone suit at the edge. Danger: decides who did it and acts on it.
+
+## Detail
+
 **Concept:** Ex-detective. Vera's zine broke the planted-evidence scandal that ended his career three years ago — and then, in the wreckage, he read her back issues and became her last convert. He's been shadowing her for months, running a parallel obsessive investigation of the disappearances out of a furnished room.
 
 **Why he draws fire:** Motive (she ruined him), means (he kept a gun), no alibi, and — the gut-punch discovery — **surveillance photographs of Vera**, dated, including her last week. A bitter armed ex-cop with a wall of photos of the victim is the single most suspect-shaped object in noir.

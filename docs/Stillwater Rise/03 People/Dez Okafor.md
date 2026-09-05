@@ -16,6 +16,12 @@ aliases:
 
 > *The Griot.*
 
+**Pitch:** Barber who is the district's spoken memory. Knows what the tune is. Threw Vera out instead of telling her.
+**Wants:** A promise, out loud, that they'll do better with the song than he did.
+**Gives:** the Piper's name. Clock: warns families out from Day 4, which puts him on Bunting's list by Day 10.
+
+## Detail
+
 **Concept:** The barber who is the district's living library. Keeps the dead alive out loud, and won't hand them to paper.
 
 **Motivation (specific):** Keep the recitation intact through the clearances — every family, every name, every debt and kindness, held in the spoken line. Immediate and private: the guilt. Vera hummed him the tune and he threw her out instead of telling her what it was. He knew in eight bars. He's known the song since his grandmother's warnings.

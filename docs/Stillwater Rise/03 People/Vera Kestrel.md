@@ -15,6 +15,12 @@ completeness: complete
 
 > *The victim.*
 
+**Pitch:** Ran a mimeographed weekly out of a print shop. Spent eight months on people who were 'relocated' and never arrived anywhere. The Piper's tune failed on her, so he hit her. She is the case.
+**Wants:** In life: one official body to read a name aloud on the record.
+**Gives:** Her notebook, her archive, and the twelve names. Everyone quotes her in her own voice.
+
+## Detail
+
 **Concept:** The child who said the emperor was naked, grown old inside the joke. Counter-media crank, posthumous protagonist.
 
 **Motivation (in life):** Finish the disappeared-persons issue of *The Plain Truth* and force one official body — any one — to read a name aloud on the record. Not justice in the abstract: an acknowledgment, in a building with a flag in it, that these people existed.

@@ -15,6 +15,12 @@ aliases:
 
 > *The next name.*
 
+**Pitch:** Widow on the fourth floor of a Delancey walk-up who refused the buyout three times. Vera circled her name with a date. Pearl's aunt.
+**Wants:** To stay in her apartment.
+**Clock:** the knock Day 8, the pier Day 9. Saving her moves the date; it doesn't erase it.
+
+## Detail
+
 **Concept:** Not a myth, not a witness, not a source. A sixty-one-year-old widow on the fourth floor of a Delancey block walk-up who has refused the buyout three times, and whose name is circled in Vera's last notebook with a date written beside it: *the 9th.* She exists so the pattern stops being historical.
 
 **Motivation (specific):** Stay in the apartment. Her husband died in the back bedroom, her sister lives two doors down the hall, and the relocation office has offered her an address in a city she has never heard of. She does not think of this as resistance and would be embarrassed to hear it called courage. She thinks of it as her apartment.

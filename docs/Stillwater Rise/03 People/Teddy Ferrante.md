@@ -16,6 +16,12 @@ aliases:
 
 > *The negatives.*
 
+**Pitch:** Freelance scene photographer for the Coroner. Shot the pier at 6:40 before anyone edited it. Keeps the negatives in a shoebox.
+**Wants:** A staff job at a newspaper. Weaver's is the only one hiring.
+**Gives:** twenty-two frames, including the wrapper and a two-tone suit at the cordon. Weaver buys the crowd frames Day 3 unless the players ask first.
+
+## Detail
+
 **Concept:** Freelance photographer. Shoots crime scenes for the Coroner on weekdays and weddings on Saturdays, and is broke on both. Twenty-five, fast, cocky, honest by accident: he shoots everything because he can't tell yet what matters. His scene photos are the only record of the pier that nobody upstairs has edited, and he keeps every negative in a shoebox under his bed.
 
 **Motivation (specific):** Get out of the county's per-frame rate and into a newspaper's staff job. The Weaver morning paper is the only one hiring. Immediate: he shot Pier 9 at 6:40 on Day 1 before the precinct's own man arrived, and he thinks there's something in the frames he can sell.

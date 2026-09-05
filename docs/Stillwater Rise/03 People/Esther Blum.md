@@ -16,6 +16,12 @@ aliases:
 
 > *Counsel.*
 
+**Pitch:** The agency's lawyer. Builds the case and the courtroom. Hammurabi: the law is written down and she can recite it back, including the clause you hoped she'd miss.
+**Wants:** The machinery of law used honestly.
+**Gives:** what you can legally do and how to stand next to what you can't. Knows who the Coroner is. Has never said.
+
+## Detail
+
 **Concept:** The agency's legal architecture, all of it, in one compact woman. Keeps the odd mandate alive through a lattice of retainers, favors, and precedents nobody else has bothered to read since 1911.
 
 **Motivation (specific):** The law as a craft object — she genuinely loves the machinery, the way Klein loves type. What the renewal machine does to that craft (dockets as murder weapons, process as laundering) offends her the way a forged painting offends a restorer. Also, unstated and load-bearing: her family's building went under a "slum clearance" order in another city in another decade, and she has read every condemnation statute in this state twice since.

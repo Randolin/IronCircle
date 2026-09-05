@@ -16,6 +16,12 @@ aliases:
 
 > *The Piper.*
 
+**Pitch:** Session sax player who does 'relocations' for the Authority. His tune makes people fold their clothes and walk into the river. He killed Vera when it didn't work.
+**Wants:** To balance his ledger. Vera is the first entry in forty years that didn't.
+**Threat:** kills anyone who costs him a clearance, and tells them so first, politely.
+
+## Detail
+
 **Concept:** The collector who was never paid. Session sax man, "relocation specialist," killer by appointment.
 
 **Motivation (specific):** Settle every entry. Near-term: complete the docket clearances on schedule, return the gun, restore the ledger's balance that Vera's failed collection broke — the first open line in forty years, and it itches like a wound. Long-term, unspoken even to himself: to hear his own solo on a diner radio and have one person look up.

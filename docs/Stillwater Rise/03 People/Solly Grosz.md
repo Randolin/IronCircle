@@ -16,6 +16,12 @@ aliases:
 
 > *Three Balls Loans.*
 
+**Pitch:** Pawnbroker who sold Vera the .38 and gets it back on Day 3 or 4 from a man calling himself M. Roland.
+**Wants:** Payment, at his price, until someone says out loud what's happening in his shop.
+**Gives:** the gun, its buyer, its return.
+
+## Detail
+
 **Concept:** The neutral country. Pawnbroker to every side of every story in the Flats for thirty years; sold the .38, and may — Day 3–4 — quietly receive it back under the alias "M. Roland."
 
 **Motivation (specific):** Stay neutral, stay open, stay paid. Neutrality is not cowardice; it's the shop's entire value — everyone can walk in precisely because no one owns him. He'll sell memory at memory's price and never volunteer a syllable. But he numbers among the district's Jews who remember what disappearances smell like, and if someone ever names what's actually happening in his shop, out loud, the neutrality will develop one crack, exactly wide enough for a ledger to pass through.

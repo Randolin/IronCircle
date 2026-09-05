@@ -16,6 +16,12 @@ aliases:
 
 > *The second hand.*
 
+**Pitch:** Maas's assistant and Weaver's real courier. Her initials are on the routing stamps.
+**Wants:** To be seen as more than 'my girl.'
+**Threat:** steers the investigation to a safe verdict. Cracks when she hears what Weaver said about her on air.
+
+## Detail
+
 **Concept:** The believer courier. Maas's loyal shadow, Weaver's actual instrument, promoted in her own mind to protagonist.
 
 **Motivation (specific):** Be *seen.* Maas calls her "my girl" and has her fetch coffee for men she out-thinks; Viv Weaver learned her first name, asked her opinion, and quoted it back a week later on television. That was the whole recruitment. Now: graduate from useful to indispensable, and stand somewhere above Maas's grave in the new city's org chart. Immediate: manage the investigation to a safe verdict before anyone reads the routing stamps too closely.

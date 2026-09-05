@@ -14,6 +14,12 @@ aliases:
 
 > *The Judas.*
 
+**Pitch:** Washed-up columnist who gave Vera her mocking nickname, then secretly helped her. He let slip about her list in a bar two weeks before she died.
+**Wants:** To never open the letter she left him.
+**Gives:** the tip chain, in his own voice, if someone's with him when he opens it. Clock: Day 10, alone or not.
+
+## Detail
+
 **Concept:** The youngest columnist the City ever had, washed up by forty-six. He didn't coin the nickname — old Emmett Roan did, and died — but Mickey inherited the column at twenty-eight and made his name *reviving* the bit, sharper and crueler, for a new audience. Betrayer, source, and unexploded confession.
 
 **Motivation (specific):** Immediate: keep the letter in his coat unopened, because opening it makes it true. Beneath: one honest byline before the talent finishes rotting — the Vera story, told right, under his own name, in somebody's paper Weaver doesn't own. He knows there's no such paper. That's the joke he drinks at.

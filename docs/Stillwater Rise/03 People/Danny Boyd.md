@@ -15,6 +15,12 @@ aliases:
 
 > *Car 6.*
 
+**Pitch:** Car 6, second year. The disregard order sat wrong with him.
+**Wants:** To do the job right without losing it.
+**Gives:** a young cop who'll say what he was told, if asked gently.
+
+## Detail
+
 Young, second year on the job, and the disregard order sits wrong in his stomach in a way he doesn't have the vocabulary for yet. Kowalczyk told him to drop it; he's dropping it at everyone he trusts, one coffee at a time. The soft route into dispatch — and, if the arc runs long, the precinct's next honest cop or its next casualty of learning better.
 - [over coffee]: "We were four blocks out. Four. And dispatch says disregard, and Stan just... turns the wheel. Like it happens all the time. Does it happen all the time?"
 

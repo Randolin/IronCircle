@@ -16,6 +16,12 @@ aliases:
 
 > *The Wolf at the Door.*
 
+**Pitch:** Demolition boss whose eviction business is being silently undercut by the Piper. Looks exactly like the killer. Is hunting him.
+**Wants:** The 'relocation man' found, so he can muscle in.
+**Gives:** his crews' job logs (the clearance schedule). Danger: finds Bunting first and gets people killed.
+
+## Detail
+
 **Concept:** Owner of Lupo Demolition & Removal — the old way of emptying buildings: writs, legbreakers, and wrecking balls. The Piper is silently destroying his business — blocks clear ahead of Lupo's crews without a single billable incident — and Sal is running his own furious hunt for "the guy undercutting me."
 
 **Why he draws fire:** Violent trade, armed crew, public screaming matches at the Authority over lost contracts — and Vera photographed one of his illegal evictions, so his men were seen casing her block. He is hunting the same man the players are, which means he keeps appearing exactly where their clues point, one step behind or ahead. A wolf circling the case looks precisely like the killer.

@@ -16,6 +16,12 @@ aliases:
 
 > *The Voice of the City.*
 
+**Pitch:** Radio's aging golden voice. Mocked Vera on air for years and wants a transmitter tower on cleared Flats land. Not the author.
+**Wants:** To not be eclipsed by a girl with a television show.
+**Gives:** the one microphone Weaver doesn't own. He'd sell his tower to scoop her.
+
+## Detail
+
 **Concept:** Radio's golden king — twenty years the City's beloved morning voice, civic conscience, renewal booster — now being visibly eclipsed by a young woman with a television program. His crusading commentaries mocked Vera *respectably* for years ("our neighborhood Cassandra," delivered with a chuckle), and his network's gleaming new transmitter tower is planned for cleared Flats land.
 
 **Why he draws fire:** Follow "the media destroyed her" upward and you hit Day first — he's louder, older, and his motive is *visible*: the tower site gives him concrete stakes in the clearances, his producers kept a Vera file for segment prep, and he called for her to be "dealt with" on air (rhetorically, twice, recorded — and Rimm has the tape). A player who's smelled "the author is in broadcasting" will sit on Day for a session.

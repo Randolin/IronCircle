@@ -17,6 +17,12 @@ aliases:
 
 > *Anansi.*
 
+**Pitch:** Young television star who built a media empire in six years. She ordered Vera's death. Nobody can prove it because she signs nothing.
+**Wants:** To own every story in the City. The Flats is the last place that tells its own.
+**Threat:** buys or burns records. Drowns people only when the record is the person. Weaver decides, Bunting performs.
+
+## Detail
+
 **Concept:** The City's tastemaker — a young silk-fortune heiress who assembled a media empire implausibly fast and owns every story worth telling. "Weaver" is the broadcast name she chose herself, with private amusement.
 
 **Motivation (specific):** Close the collection. The Flats erased, its oral memory dispersed, Vera's archive recovered or burned — and the whole affair *narrated by her*, page one to obituary. Secondary, growing: identify who aimed an agency at her web, because someone did, and unattributed authorship offends her more than opposition.

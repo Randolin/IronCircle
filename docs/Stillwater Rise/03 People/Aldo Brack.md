@@ -16,6 +16,12 @@ aliases:
 
 > *The downgrade.*
 
+**Pitch:** Desk sergeant who took Cutty's 2:15 call, heard the address, and logged a drunk.
+**Wants:** To not have been wrong.
+**Gives:** the corrected log, if offered a quiet way to fix it. Digs in if pushed in public.
+
+## Detail
+
 Took Cutty's 2:15 a.m. call, heard the address before the words, and logged a drowning report as a drunk-and-disorderly caller. Defensive in exact proportion to how wrong it was — and his defensiveness is *useful*: pushed publicly, he digs in; offered a quiet way to correct the record, he might take it, and the corrected log timeline is a small clean exhibit against the machine.
 - [defensive]: "You get forty calls a night from down there. Forty. Ghosts, sirens, the Virgin Mary on a water tower. You want I should roll a car for every — the man was DRUNK."
 

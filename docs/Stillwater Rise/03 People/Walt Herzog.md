@@ -15,6 +15,12 @@ aliases:
 
 > *City editor, the Weaver morning paper.*
 
+**Pitch:** City editor who passed Shale's bar gossip upstairs to Weaver.
+**Wants:** To not do the math on when she died.
+**Gives:** the relay, on the record, if shown the timeline with his name in it.
+
+## Detail
+
 The floor man who relayed Shale's Day −14 slip upstairs — routine gossip management, he thought, the kind of thing an editor passes along to stay warm with the tower. Then the woman in the gossip drowned. Herzog has done this arithmetic exactly once, at 3 a.m., and put it away unfinished. He is not brave; he is *precise*, and precision is a conscience's slowest fuse. If Shale ever confronts him, or the players show him the timeline with his relay in it, the fuse reaches the charge.
 - [the arithmetic, refused]: "I move information. That's the job. Reporter talks, editor hears, publisher likes to know his people. That's all it was. That's ALL it was. ...When did she go in the water, exactly?"
 

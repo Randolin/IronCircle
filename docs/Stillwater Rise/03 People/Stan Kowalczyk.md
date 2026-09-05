@@ -15,6 +15,12 @@ aliases:
 
 > *Car 6.*
 
+**Pitch:** Car 6, the senior man. Turned the wheel when the disregard came down.
+**Wants:** To retire.
+**Gives:** nothing unless Boyd goes first.
+
+## Detail
+
 Twenty years in, and his answer to Boyd — "drop it" — says more than Boyd's question. Stan isn't dirty; Stan is *educated*: he's watched three careers end on curiosity and has a pension arithmetic identical to Casale's, minus the itch. What he has that nobody's asked for: twenty years of night-shift geography, including which piers get quiet cars parked near them and since when.
 - [shutting it down]: "Kid. The radio said what it said. You know what curiosity gets you in this precinct? A crossing-guard detail in January. Drive."
 

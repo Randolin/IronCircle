@@ -18,6 +18,12 @@ aliases:
 
 > *The Witness.*
 
+**Pitch:** Homeless Korea veteran who watched Vera die from under the pier. The only eyewitness. Nobody official believes him.
+**Wants:** To be written down while he talks. And a warm coat.
+**Gives:** the murder, the same words every time. Earned through Ottilie or respect, never bought.
+
+## Detail
+
 **Concept:** The only pair of eyes on the pier, attached to the one man in the City nobody official will believe. Korea veteran the GI Bill never reached; fishes nights under the canal side because sleep stopped cooperating in 1953.
 
 **Motivation (specific):** To have been *right* in front of somebody who writes it down — and a warm coat. He has told the truth about the walking woman exactly once to officialdom and been laughed at, which is once more than most Tin City men would have risked. He will not perform his account; it must be earned through Ottilie or through respect, and he tells it the same way every time, word for word, which is itself evidence.

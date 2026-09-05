@@ -17,6 +17,12 @@ aliases:
 
 > *The Exchange.*
 
+**Pitch:** Switchboard operator who fed Vera tips for a year. Remembers every call with a timestamp.
+**Wants:** A reason to trust a second person.
+**Gives:** Weaver's and the Authority's call traffic, and the way upstairs to Rimm. Reaches out by end of week one.
+
+## Detail
+
 **Concept:** The quietest person at the center of everything. Vera's source for a year; now the last living end of that wire.
 
 **Motivation (specific):** Finish what feeding Vera tips started — without losing the job that keeps her mother housed. She counted the cost for a year and paid it in whispers; Vera's death converted the ledger to something owed. She reaches out to the players by end of week one if they've shown decently, because grief needs an errand.

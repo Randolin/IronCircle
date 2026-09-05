@@ -18,6 +18,12 @@ aliases:
 
 > *The Half Note.*
 
+**Pitch:** Owns the Half Note. Ex-nurse. Bunting sits in with her house band on print nights. Jack's one door that doesn't cost.
+**Wants:** The Half Note kept out of it.
+**Gives:** Bunting by sight, Vera's last route, and the bar slip corroborated. One straight answer for Jack.
+
+## Detail
+
 **Concept:** Owner of the [[The Half Note]], the jazz bar at the river end of [[The Flats]]. Ex-nurse, hence *Doc*; she still does stitches in the back room for people who can't go to the hospital. The one person [[Jack Rivers]] doesn't keep at a distance, and they both pretend otherwise.
 
 **Motivation (specific):** Keep the Half Note open and out of it. The bar is on the block after next on the docket. She has watched three landlords take the check and thinks she'll be the fourth, and she hates that she thinks it. Immediate: she liked Vera, who drank one rye and tipped a dollar, and she has decided, without telling Jack, that she'll answer whatever he asks. Once.

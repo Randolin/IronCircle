@@ -17,6 +17,12 @@ aliases:
 
 > *Harbor patrol.*
 
+**Pitch:** Harbor patrol. Pulled Vera out a quarter mile upstream of anywhere the current could have put her.
+**Wants:** Cover. A way to say it that doesn't end the job.
+**Gives:** 'the river has rules,' plainly, to a jury. Nobody has ever asked him.
+
+## Detail
+
 Thirty years on the water; pulled the body from the grain-elevator eddy at 5:50 and has been quietly recalibrating his whole cosmology since. Keeps his own count — "Eleven piles of clothes, no floaters. Till her." — and knows the river's currents well enough to testify, plainly and credibly, that where she was found is not possible. The rare Tier C figure who can put the impossible on the record in words a coroner's jury will sit still for, if anyone thinks to call him.
 - [the river]: "Current runs seaward past Pier 9, always has. She was a quarter mile UP. I've pulled two hundred souls out of this river. The river has rules. Somebody broke them, and it wasn't her."
 

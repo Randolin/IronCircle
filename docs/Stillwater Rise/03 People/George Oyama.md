@@ -16,6 +16,12 @@ aliases:
 
 > *Records.*
 
+**Pitch:** Records. Turns whatever the field brings back into evidence. Thoth: a false document feels physically wrong to him.
+**Wants:** To catch a machine that disappears people through paperwork.
+**Gives:** the order the lies were told in. Doesn't know what he is. The chair across from him is empty.
+
+## Detail
+
 **Concept:** The agency's archivist and document man. Spent 1942–45 behind wire at Heart Mountain as a kid and came out with a cold, permanent understanding of what paperwork does to people — so he became the man paperwork cannot fool.
 
 **Motivation (specific):** Documents put his family behind a fence; documents can put a machine behind bars. He treats every file as a witness that hasn't been questioned properly yet. The Vera case is personal in a way he will never once mention: a city disappearing people through routing stamps is the mechanism he has been waiting his whole adult life to catch in the act.

@@ -16,6 +16,12 @@ aliases:
 
 > *Front desk.*
 
+**Pitch:** Front desk. Phones, typing, the door, and the agency's connection to the Delancey block. Herminia Vega's niece.
+**Wants:** To get her mother out of the Flats before the letters stop being letters.
+**Gives:** the neighborhood. Danger: the family tie is the 'conflict' Ard uses to cut the retainer.
+
+## Detail
+
 **Concept:** The agency's switchboard, typist, and door. Twenty-four, Delancey-block born, hired by [[Odessa Cole|Cole]] two years ago off a settlement-house typing certificate. [[Herminia Vega]]'s niece: her mother is the sister two doors down the hall.
 
 **Motivation (specific):** Get out of the Flats and get her mother out with her, before the letters stop being letters. She is not sentimental about the district and thinks the buyout is the smart move, which is the argument she and her aunt have every Sunday. She will be wrong about that in a way that's hard to watch. Immediate: keep the job, which is the first one she's had where nobody calls her *the girl*.

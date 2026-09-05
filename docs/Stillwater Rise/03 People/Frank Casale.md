@@ -17,6 +17,12 @@ aliases:
 
 > *Homicide.*
 
+**Pitch:** Homicide detective seven years from pension who handed the case off with relief.
+**Wants:** Deniability and future favors.
+**Gives:** the nine jumper files, and warning when the department moves. Price drops as the players prove serious.
+
+## Detail
+
 **Concept:** The department's institutional memory, twenty-two years deep, smart enough to know which cases are radioactive and tired enough to hand one off with relief — then honest enough to keep quietly helping anyway.
 
 **Motivation (specific):** The pension, seven years out, and nothing on this case is worth it. But the "jumper pile" files have itched at him for years — he pulled two of them himself off two different shores — and a cop who's stopped pursuing things hasn't necessarily stopped *noticing* them. He'll trade files for cover and future favors, and his price drops every time the players prove they're serious.

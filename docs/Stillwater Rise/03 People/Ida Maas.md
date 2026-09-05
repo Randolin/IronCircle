@@ -15,6 +15,12 @@ aliases:
 
 > *The Daughter.*
 
+**Pitch:** The Commissioner's daughter. Quit his records office after seeing the clearance ledger; now does casework for the people it relocated.
+**Wants:** Her father stopped, not destroyed.
+**Gives:** the routing, the drawer numbers, how the Tuesday signatures happen. Withdraws everything if he's handed to a mob.
+
+## Detail
+
 **Concept:** The Authority's conscience, resigned. Former records clerk in her father's own building — which is how she saw the clearance ledger two years ago — now a settlement-house caseworker where the relocation aftermath walks through her door weekly with its bags in its hands.
 
 **Motivation (specific):** She has spent two years half-composing a letter to somebody — a prosecutor, a paper, God — and never sending it, because the addressee would have to be someone her father's money can't reach. The players may be the addressee. What she will not do, and this is the wall the players must respect or lose her: hand her father to the mob. She wants him *stopped*, and has not finished deciding whether she wants him destroyed.

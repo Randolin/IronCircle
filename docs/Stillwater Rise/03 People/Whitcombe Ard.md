@@ -15,6 +15,12 @@ aliases:
 
 > *One vote.*
 
+**Pitch:** County board finance chair. Friend of the Authority, guest on Weaver's show. One vote cuts the agency's retainer.
+**Wants:** A seat on the Authority's board and a ribbon-cutting photograph.
+**Threat:** suspends the Coroner's retainer on Day 7. Beaten by embarrassment, not force.
+
+## Detail
+
 **Concept:** Chair of the county board's finance committee. Corporate lawyer, squash player, friend of the [[Renewal Authority]]'s counsel, twice a guest on [[Vivian Weaver|Weaver]]'s afternoon program. He can suspend the [[County Coroner]]'s retainer to the agency with one committee vote and would like a reason. He is the ordinary way a good thing gets killed.
 
 **Motivation (specific):** A seat on the Authority's board after Stillwater Rise opens, and a photograph at the ribbon-cutting. He doesn't know anything about the river. He doesn't want to. He wants the inquest firm that keeps asking Authority questions to stop costing the county money, and Weaver's Day 7 call gives him the word he needs: *conflict.*

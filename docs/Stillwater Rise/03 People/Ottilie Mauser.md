@@ -18,6 +18,12 @@ aliases:
 
 > *The Mouse Queen.*
 
+**Pitch:** Queen of the camp under the on-ramp. Has counted every person who vanished for nine years, in a coffee can.
+**Wants:** The Piper's name.
+**Gives:** the count, and Cutty. Treats the players' word as a debt owed to her camp.
+
+## Detail
+
 **Concept:** Seven-medallion boss of Tin City. The vermin's answer to the Piper, fighting him for years without a name to put to him.
 
 **Motivation (specific):** Keep the census true and the camp fed through the winter and the clearances — every arrival logged in the coffee can, every departure *accounted for*, because unaccounted departure is how her people get eaten. Immediate: decide whether the agency is a tool, a threat, or the first outsiders worth the truth.

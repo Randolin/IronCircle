@@ -15,6 +15,12 @@ aliases:
 
 > *Operations.*
 
+**Pitch:** Runs the agency. Former Army nurse. Assignments, deadlines, cover. No Mythos, on purpose; she's the normal one who keeps the office looking normal.
+**Wants:** To not bury a third case that deserved daylight.
+**Gives:** one more day, one more favor. Suspects she isn't really in charge and has chosen not to check.
+
+## Detail
+
 **Concept:** The agency's spine. Former Army nurse — one of the units nobody made movies about — who ran forward surgical tents and now runs casework the same way: triage, worst bleeding first, feelings later. The one who pulled the strings that got the team the pier.
 
 **Motivation (specific):** The agency's mandate survives on results and discretion, in that order, and she has buried two cases in her career that deserved daylight because the agency wouldn't have survived the exposure. Vera's case reads to her like a third — and she has privately decided she is not burying another one. The players will never hear this speech; they'll only notice she keeps finding them one more day, one more favor, one more piece of cover.

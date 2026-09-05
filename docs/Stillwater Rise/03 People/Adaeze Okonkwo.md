@@ -16,6 +16,12 @@ aliases:
 
 > *The record.*
 
+**Pitch:** Inquest stenographer. What she types is the record. Has been told to strike testimony four times and remembers all four word for word.
+**Wants:** The record to be true.
+**Gives:** the struck passages, to Blum only. The finale runs through her hands. Danger: the inquest gets rescheduled away from her.
+
+## Detail
+
 **Concept:** Inquest stenographer for the [[County Coroner]]. Nigerian, fifties, church hat, never once rattled in eleven years of hearing the worst thing that happened to somebody read into the record. What she types *is* the record. That makes her the most important person in the building for a judge who needs a name said aloud and written down.
 
 **Motivation (specific):** The record has to be true. She has been told to strike testimony from the transcript four times in eleven years, and she struck it, because that's the job. She also remembers all four, word for word, and has never been asked. Immediate: the Kestrel inquest is on her calendar, and she has noticed that the folded-clothes inquests all ran short.

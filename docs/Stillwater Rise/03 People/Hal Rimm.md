@@ -17,6 +17,12 @@ aliases:
 
 > *Heimdall.*
 
+**Pitch:** Lives above the telephone exchange and records every call in the district. He sent the tip that put the agency on the case.
+**Wants:** To testify once, totally, at the ribbon-cutting. And to be asked.
+**Gives:** everyone, on tape, for the right question. Clock: reuses reels; any specific tape may be gone by Day 12.
+
+## Detail
+
 **Concept:** The watchman above the Exchange. Records everything, releases nothing, waiting for the end of the world.
 
 **Motivation (specific):** Complete the archive of the district before the district ends, and blow the horn — testify, once, totally — at the moment it will matter most, which he has privately fixed as the Stillwater Rise ribbon-cutting. Quietly: to be *asked*. No one has ever asked him what he's heard. They ask what he has.

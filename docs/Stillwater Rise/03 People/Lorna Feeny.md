@@ -16,6 +16,12 @@ aliases:
 
 > *Dispatch.*
 
+**Pitch:** Dispatcher who heard the voice behind the disregard order and wrote down the exact time.
+**Wants:** Cover.
+**Gives:** the timestamp, and 'a rhythm with money in it.'
+
+## Detail
+
 Was on the board when the disregard came down and heard the muffled voice behind it — close enough to the microphone to catch a cadence, not a name. She's said nothing because saying something is how a dispatcher becomes a former dispatcher; but she took a stenographer's note of the exact time, because Lorna takes notes on everything, always has, and her steno pad is a tiny unofficial archive of the precinct's oddest moments. A name for later — and a natural friend for Mabel Cho, two women who hear everything and are believed about nothing.
 - [carefully]: "There was somebody behind the shift super when the order came down. I don't know voices. I know rhythm. That rhythm had money in it."
 

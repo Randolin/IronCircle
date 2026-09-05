@@ -18,6 +18,12 @@ aliases:
 
 > *The wagon.*
 
+**Pitch:** Drives the coroner's van. Talks to the dead in the back and says they answer. Charon's daughter, more or less.
+**Wants:** Every passenger delivered where they're going. And for somebody to finally ask about the nine that felt empty.
+**Gives:** a glove-box notebook of every run for twenty years. Nine marked empty, two never filed. The players' first ally.
+
+## Detail
+
 **Concept:** Drives the coroner's van. Twenty years of picking up the City's dead from piers, stairwells, and kitchens. Talks to them in the back while she drives, and says they answer. Everyone treats it as her joke. It isn't.
 
 **Motivation (specific):** Get every one of them where they're going. She thinks of the run to the morgue as the last ride anybody gets and she takes it seriously: no speeding, radio off, and she tells them where they are at each turn. Immediate: nine runs in four years "felt wrong," like the passenger wasn't in the back, and she wants somebody to finally ask her about it.

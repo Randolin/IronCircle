@@ -16,6 +16,12 @@ aliases:
 
 > *Midas.*
 
+**Pitch:** The Commissioner behind Stillwater Rise. Signs the clearance orders every Tuesday and knows enough not to read them.
+**Wants:** The ribbon-cutting, with the Flats already leveled.
+**Threat:** lawyers, hearings, budgets. Never violence. He breaks when he learns Weaver went around him to his daughter.
+
+## Detail
+
 **Concept:** The golden commissioner. Sincere, monumental, and willingly blind — the machine with a conscience it declines to consult.
 
 **Motivation (specific):** Cut the ribbon on Stillwater Rise — the Span and the cleared riverfront behind it, sold as one thing — with the Flats already leveled, then stand re-elected officials in front of his model and hear them say his name in the same sentence as the word *future*. The daughter is a locked drawer he intends to reopen "after the project."

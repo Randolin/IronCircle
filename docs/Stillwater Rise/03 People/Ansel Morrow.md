@@ -16,6 +16,12 @@ aliases:
 
 > *The only man who's been in the room.*
 
+**Pitch:** The Coroner's chief clerk. The only person who has ever been in a room with him. Delivers the referrals by hand.
+**Wants:** The office to run exactly as it always has.
+**Gives:** 'Tall.' Later, maybe, 1931. Don't decide what he is.
+
+## Detail
+
 **Concept:** Chief clerk to the [[County Coroner]]. Sixties, bald, galoshes indoors in every weather. He carries the referrals to the agency by hand, stands while [[Odessa Cole|Cole]] reads them, and leaves. He is the only living person who has been in a room with [[The Judge|the Coroner]], and he has never described it.
 
 **Motivation (specific):** Keep the office running exactly as it has always run. He has done this job for thirty-one years and the job has not changed, and he thinks that's the point of it. He is not curious about the Coroner. He was, once. He doesn't say what happened to that.

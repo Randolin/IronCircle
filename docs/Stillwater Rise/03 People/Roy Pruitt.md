@@ -16,6 +16,12 @@ aliases:
 
 > *The Cordon.*
 
+**Pitch:** Crisp precinct sergeant taking envelopes from the Authority for 'observation reports.' His reports told them where Vera would be. He's now reporting on the players nightly.
+**Wants:** The envelope and a transfer out before the dust settles.
+**Gives:** everything, once he works out what the reports were for. Hold that back. He's worth more defending himself than confessing.
+
+## Detail
+
 **Concept:** The stipend in a pressed uniform. Watches what the team examines, reports nightly from the corner box, and genuinely believes he's done nothing worse than supplement a sergeant's salary with harmless observations.
 
 **Motivation (specific):** The envelope, and a transfer out of the Flats before the dust comes down. Pruitt has convinced himself the arrangement is *administrative* — the Authority likes to know things, knowing isn't hurting — and the players catching him mid-call is the cheap early win precisely because his self-image shatters on contact. A man who thought he was a memo discovers he's an accomplice.

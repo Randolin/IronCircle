@@ -16,6 +16,12 @@ aliases:
 
 > *The Widow's Seat.*
 
+**Pitch:** Councilwoman with kickbacks to hide. Starts obstructing the moment the investigation touches the Authority. Not the killer.
+**Wants:** To protect her own graft.
+**Gives:** hearings delayed, the inquest protected, Maas's schedule rearranged, once she's sure they're not after her.
+
+## Detail
+
 **Concept:** Inherited her ward seat — and its debts — when her husband Artie died mid-term. The machine expected a placeholder; they got an operator better at it than Artie ever was. Her ward includes the Flats; demolition contracts move through her committee; kickbacks move through her club.
 
 **Why she draws fire:** She feuded with Vera publicly and on the record — Vera's zine had her club's finances half-unraveled — and the moment the players' investigation brushes the Authority, Brogan begins **obstructing**: records requests stall, witnesses get talked to first, Pruitt's stipend list turns out to route through her precinct captains. Cover-up behavior is indistinguishable from murder guilt at exactly the tier where players are asking "who ordered it?"

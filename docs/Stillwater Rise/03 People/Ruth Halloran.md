@@ -17,6 +17,12 @@ aliases:
 
 > *Medical Examiner.*
 
+**Pitch:** Medical examiner who signed nine 'jumper' files she didn't believe. The memo about it has sat in her desk for two years.
+**Wants:** Enough corroboration to make honesty survivable.
+**Gives:** the forensic pattern, on the inquest record. Reports to the Coroner; has only met his clerk.
+
+## Detail
+
 **Concept:** The city's most exact signature, on nine files she should never have signed. Allergic to unresolved paperwork, currently drowning in it.
 
 **Motivation (specific):** Professional truth with professional cover — she'll testify to anything she can *defend*, and nothing she can't. The private memo about the folded-clothes files has sat in her desk for two years because sending it ends her career on a guess; the inquest deadline means she now has ten days to decide whether the guess was right. What she wants from the players, though she'd never say it: enough corroboration to make honesty survivable.

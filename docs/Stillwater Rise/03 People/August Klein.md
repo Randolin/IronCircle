@@ -16,6 +16,12 @@ aliases:
 
 > *The Golem.*
 
+**Pitch:** Deaf pressman who printed Vera's paper. Keeps every roll of paper she ever wrote on, dated.
+**Wants:** Nothing. The names spelled right.
+**Gives:** Vera's last weeks verbatim, and the notebook on Day 2. Protects the shop and Toby with his whole body.
+
+## Detail
+
 **Concept:** The deaf pressman who runs on written truth. The quarter's sleeping protector, animated by a word he keeps in his breast pocket.
 
 **Motivation (specific):** Print what Vera left, correctly, spelled right, every name verified — the only mourning he knows how to do. Standing: protect the shop, the roll, and the boy. He has already decided about the boy; no one has asked him yet.

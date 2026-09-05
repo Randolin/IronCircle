@@ -19,6 +19,12 @@ aliases:
 
 > *The Master.*
 
+**Pitch:** Abbot of the Little China temple who raised Zu Cheng and sent him down the hill. Knew Vivian Zhu as a girl.
+**Wants:** To keep the temple standing and the district off the map, and to know what the Zhu roof cost.
+**Gives:** Weaver before the money, and a route to Mabel. Price: Cheng kneels.
+
+## Detail
+
 **Concept:** Abbot of the Three Purities temple in [[Little China]], seventy-something, the man who raised [[Zu Cheng]] from a temple orphan and sent him down the hill with the sentence *a monkey needs a mountain; go find one.* He knows exactly what Cheng is. He has never said so, and made Cheng promise never to say whose student he was.
 
 **Motivation (specific):** Keep the temple standing and the district off the map. The Zhu silk family paid for the temple roof in 1957, the year Vivian Zhu bought her first newspaper; Little China is not on any clearance schedule, and Fen has always understood those two facts as one fact. He does not know the price. He suspects it hasn't been paid yet. Immediate: decide whether the boy he sent down the hill has found a mountain or a river.

@@ -16,6 +16,12 @@ aliases:
 
 > *The Adjuster.*
 
+**Pitch:** Insurance agent who denied eleven 'suicide' claims and knew from the folded clothes they weren't. Vera confronted him about it in public.
+**Wants:** To not be found out by the families who still trust him.
+**Gives:** eleven claim files with dates and addresses. The pattern without needing Halloran.
+
+## Detail
+
 **Concept:** Beacon Mutual's man in the Flats — the Black-owned insurer that wrote policies when the downtown firms redlined the district. Pell sold burial and life policies door to door for fifteen years; he knows every family by kitchen table. Which means he has known about the folded-clothes deaths *longer than anyone alive* — eleven claim files, dates, addresses, denial letters — and said nothing, because "suicide" exclusions meant Beacon never paid, and Pell's commissions and quiet career floated on not asking why.
 
 **Why he draws fire:** He surfaces everywhere death does — at the pier the morning after, at Vera's funeral, on the stoops of the vanished. He has files on every prior victim, he visibly flinches at official questions, and Vera *confronted him* three weeks before she died, demanding the claim records (loudly, with witnesses — she'd found the denial pattern). A man with a briefcase full of the dead who fought with the victim reads as the machine's bookkeeper, or worse.

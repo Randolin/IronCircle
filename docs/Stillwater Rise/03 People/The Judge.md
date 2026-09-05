@@ -19,6 +19,12 @@ aliases:
 
 > *The Coroner. Nobody remembers voting for him.*
 
+**Pitch:** The County Coroner. Elected unopposed forever, never photographed, paper only. Enma-ō, judge of the dead. The agency works for him and doesn't know it.
+**Wants:** Every death named on the record. Souls that die unnamed never reach him, and something else is collecting them.
+**Gives:** the referral. Never in the room. The long game across arcs.
+
+## Detail
+
 **Concept:** The County Coroner, Ambrose Yanagi. He has held the office since before anyone at the agency was born, is re-elected unopposed every four years, and has never been photographed. His orders come out of the [[County Coroner|Coroner's office]] on paper, over a signature. Underneath: Enma-ō, judge of the dead. Every death in the City is supposed to come before him. Lately, a lot of them don't.
 
 **What he's actually doing:** He is losing. A soul that dies unnamed and unheard never reaches his court, and he has worked out that they aren't just lost. **Something else is taking them.** The Piper walks people into the river and they never come out; that's twelve that went to someone who isn't him. Weaver buys stories and the tellers vanish; more. For a century the City's unaccounted dead have been going *somewhere*, and whatever is collecting them has grown on it. He cannot leave his court to fight for them. The agency is how he fights. Every name read aloud on the record is a soul pulled back to his side of the river.

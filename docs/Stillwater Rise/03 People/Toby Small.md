@@ -16,6 +16,12 @@ aliases:
 
 > *Ratatoskr.*
 
+**Pitch:** Fourteen, Vera's paperboy and apprentice. Restarting her paper because nobody told him he can't. Hums the Piper's tune without knowing what it is.
+**Wants:** To find out who killed Miss Vera.
+**Clock:** stencils Day 6, first issue Day 11. The second issue, Day 13, puts him on Weaver's list. The humming tells Bunting where he is.
+
+## Detail
+
 **Concept:** The message-runner on the world-tree: paperboy at the top of the city by dawn, mimeograph crank at the bottom by dusk — and bilingual, carrying words between the tower's English and the stoops' Spanish, which is the Ratatoskr job description exactly. Currently humming.
 
 **Motivation (specific):** Immediate: find out who killed Miss Vera, by attaching himself to the only adults who seem to be trying. Beneath it: restart *The Plain Truth*, because he knows where the stencils are and nobody's told him he can't. Beneath that, unexaminable at fourteen: be somebody's apprentice again.
