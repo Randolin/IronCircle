@@ -125,17 +125,33 @@ Each block is one thing to look at. The line after it is for the GM.
 
 What they say when the players push. **Good** is a true lead. **Bad** is a false one, said sincerely. **Absent** is a door that doesn't open today. Most people give one of each.
 
+**Calibration.** Nobody at the pier explains anything. Every "good" line names a *place, a person, or a thing that is missing*, and stops there. Nobody at this scene knows what the tune is, where the vanished went, or that the Authority is involved. If a line starts to sound like an answer instead of an address, cut it short and have the speaker get called away.
+
 #### Casale
 - On the case: "Ninth like it in four years. All jumpers, ask anybody." *(Good; he regrets the number.)*
 - On suspects: "Lupo's boys were on her block last week. Sato's four blocks from here with a gun he shouldn't have. And she'd been hounding the reverend about some checks." *(Two bad, one useless; all sincere.)*
 - On the handoff: "Referral came down before we'd finished the coffee. That's not usual. I'm not curious." *(Good, if they hear the first sentence.)*
 - On the files: "There's paper. I'd need a reason that keeps my name off it." *(Absent today; the price.)*
 
-#### Pruitt
-- On the victim: "Known crank. Wrote a little paper nobody read. Sad case." *(Bad.)*
-- On suspects: "Sato. Bitter man, that one. I'd start there." *(Bad, and a steer away from the Authority.)*
-- On the delay: "Harbor found her on the dawn run. That's the record." *(Absent; he knows about the disregard and won't.)*
-- If caught listening: "Cordon's my purview. So's who crosses it." *(Absent, and he reports it.)*
+#### Sgt. Roy Pruitt
+
+The only person at the pier actively working against them, and he thinks he's being helpful. He steers, he listens, and he gives himself away by knowing too much about a woman he claims not to have known.
+
+**Volunteers, unasked:**
+- "Known crank, that one. Wrote a little paper nobody read. Sad case." *(Bad.)*
+- "Sato. Ex-cop, she wrote him out of a job, lives four blocks up. Bitter man. I'd start there." *(Bad, and a steer away from anything Authority-shaped.)*
+
+**The tell.** He knows her habits. If anyone asks how a cordon sergeant knows so much about a nobody: "You walk a post, you see who's out at night." Pushed once more, he adds a detail he has no business having, and the GM should pick one and say it flatly, without comment:
+- that she worked Thursdays late;
+- that she drank at a place two blocks off, one drink;
+- that she walked home by the pier because it's lit.
+*(Good, and he doesn't hear himself. Eight months of nightly observation reports. Do not let anyone name what that means today.)*
+
+**Absent:**
+- On the delay: "Harbor found her on the dawn run. That's the record." *(He knows about the disregard. He will not.)*
+- Caught listening: "Cordon's my purview. So's who crosses it." *(And he adds it to tonight's report.)*
+
+**Lead it opens:** watch him, not the scene. He reports from the corner call box tonight, and catching him at it later is the cheapest thread in the arc. Nobody proves anything about him on Day 1.
 
 #### Halloran
 - On cause: "Two wounds from behind and above, and lungs full of river. Both cannot be first. I'll thank you not to quote me." *(Good.)*
@@ -155,10 +171,22 @@ What they say when the players push. **Good** is a true lead. **Bad** is a false
 - On the others: "Nine times I've said that. I write it down. Glove box." *(Good; the notebook.)*
 - On the rats: "The live ones wouldn't get in the van. Stood on the pier and watched me load her." *(Good.)*
 
-#### Teddy
-- On what he shot: "Twenty-two frames, chief. The pile from four sides, the edge, the water, the crowd. Always shoot the crowd." *(Good; the negatives.)*
-- On the wrapper: "Got it before the flatfoot stepped on it. Frame six." *(Good.)*
-- On price: "County pays a dollar a print. Everybody else pays more." *(The clock; he sells Day 3.)*
+#### Teddy Ferrante
+
+Talks constantly and knows nothing, which makes him safe to be generous with. Everything he has is *undeveloped*: he can tell them what he pointed the camera at, not what's in the frame.
+
+**Free:**
+- "Twenty-two frames, chief. The pile from four sides, the edge, the water, the crowd. Always shoot the crowd. Nobody looks at the crowd." *(Good; the negatives.)*
+- "Got here at twenty of seven. Beat the precinct's guy by half an hour. He was still in the car." *(Good: Teddy's frames predate anyone tidying up.)*
+- "Got the little paper twist by the rail before the flatfoot stepped on it. Frame six." *(Good; the wrapper, whole.)*
+
+**If pressed:**
+- On the money: "County pays a dollar a print. Everybody else pays more." *(The clock. Weaver's paper offers ten a print on Day 3, for the crowd frames only.)*
+- On developing: "Tonight, in my kitchen. Come by, bring a bottle, I'll hang them wet." *(The invitation. If they take it, they see frame nineteen a week early; if they don't, they buy it back later at Weaver's price.)*
+
+**Holds back:** nothing on purpose. He cannot name the two-tone suit at the edge of frame nineteen because he has not looked at it yet, and neither has anyone else.
+
+**Lead it opens:** secure the negatives now, or race the paper for them.
 
 #### The man in the crowd (Pell)
 - On why he's here: "Paying respects. A policyholder." *(Absent.)*
@@ -191,6 +219,8 @@ He is the single richest source at the pier and he will give it all away for fre
 **What he gets wrong:** he is certain the police did it, or "the guys in the car," and he will say so loudly and repeatedly.
 
 **What he does not know:** what the tune is, that the sax man knocks on doors for the Authority, that his own block is on the docket, or that anything supernatural has happened. He also does not yet know where the stencils are; he works that out on Day 6.
+
+**Cap it.** Three of the four "if they're decent" items is plenty for one conversation. Save the rest for tomorrow, when he turns up at the office whether or not he was invited.
 
 **What he wants:** to come along. He will attach himself to whoever spoke to him like an adult, and he will be back tomorrow whether or not they invited him.
 
