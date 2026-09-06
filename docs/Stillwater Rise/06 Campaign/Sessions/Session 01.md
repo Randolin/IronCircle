@@ -30,7 +30,7 @@ Third floor over a dentist on Merchant Street, 8:40. [[Pearl Nazario|Pearl]] at 
 
 The carbon: *Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.* Coroner's stamp. "Clerk's shorthand." It isn't. Don't explain for three sessions.
 
-**The drive.** Round-robin, one question each, from [[Session 00#Session zero questions]]. Jack narrates the route. The car passes under the Span.
+**The drive.** Round-robin, one question each, from [[Session 00#Session zero questions]], and the offered contacts get accepted or refused here. Whoever has Streetwise narrates the route. The car passes under the Span.
 
 ## Beat 2: the crime scene
 
@@ -136,9 +136,9 @@ If Jack tries the rats, there aren't any to ask. That's the answer.
 
 ### The Half Note
 
-**The clue that sends them:** the matchbook; Jack's stool.
+**The clue that sends them:** the matchbook; Jack, if the Half Note is his bar.
 
-**Investigate.** [[Amalia Reyes|Doc Reyes]] behind the bar. For Jack, once: Vera was in two Thursdays ago, alone, one drink she didn't finish, watching the stand "like it owed her money." The sax man sits in Thursdays; never drinks, won't take the twenty; two-tone suit. "And a big man with a cigar was in yesterday asking if the sax player still plays Thursdays. Not a cop. I said I didn't know his name, which is true." [[Mickey Shale|Shale]] three drinks in, sunglasses on, pocket-patting: "She let me help. You understand what that—" and stops.
+**Investigate.** [[Amalia Reyes|Doc Reyes]] behind the bar. Once, for whoever she decides to trust (Jack, if he's a regular): Vera was in two Thursdays ago, alone, one drink she didn't finish, watching the stand "like it owed her money." The sax man sits in Thursdays; never drinks, won't take the twenty; two-tone suit. "And a big man with a cigar was in yesterday asking if the sax player still plays Thursdays. Not a cop. I said I didn't know his name, which is true." [[Mickey Shale|Shale]] three drinks in, sunglasses on, pocket-patting: "She let me help. You understand what that—" and stops.
 
 The bandleader, if asked: "He's not on tonight. Thursdays." Nothing about an empty chair; it's Tuesday. Out back: three rats by the stage door, sitting, not eating. Doc's had traps out a week. Caught nothing.
 

@@ -18,9 +18,12 @@ aliases:
 
 > *The Half Note.*
 
-**Pitch:** Owns the Half Note. Ex-nurse. Bunting sits in with her house band on Thursdays. Jack's one door that doesn't cost.
+**Pitch:** Owns the Half Note, the jazz basement two blocks from the pier. Ex-nurse; still does stitches in the back. Bunting sits in with her house band on Thursdays. She liked Vera.
 **Wants:** The Half Note kept out of it.
-**Gives:** Bunting by sight; Vera watching the stand on Day −10; the bar slip corroborated. One straight answer for Jack.
+**Gives:** Bunting by sight; Vera watching the stand on Day −10; the bar slip corroborated. One straight answer, once, for someone she's decided to trust.
+
+> [!note] Offered contact
+> Built to be **Jack Rivers's regular bar** if Jesse wants it (he's a dive-bar man and a freelance journalist; the Half Note is where the press drinks). If Jesse takes it: Jack has the end stool, Doc cuts him off at three, and he was three stools down the night of Shale's slip. If not, she's the owner who liked Vera and decides for herself who gets the one answer. Don't play the history until Jesse has.
 
 ## Detail
 
@@ -30,14 +33,14 @@ aliases:
 - **The cigar man:** Day 0, a big man, not a cop, asked whether the sax player still plays Thursdays. Lupo's foreman.
 - **Tuesday, Day 2:** the sax man came in, sat in for one number, played it wrong, left without his hat. The hat's behind the bar. Rats by the stage door all week; traps catch nothing.
 - **Vera:** in once, Thursday before last (Day −10), alone, one drink she didn't finish, watching the stand. Not a regular. The matchbook in her coat is from that night.
-- **The slip:** 'Shale said it to Herzog right where you're sitting. You were three stools down, Jack. You were laughing at something.'
+- **The slip:** 'Shale said it to Herzog right where you're sitting, two weeks before she went in. Loud.' If Jack is a regular, add: 'You were three stools down. You were laughing at something.'
 - **Danger:** the first Thursday the agency is in the bar, Bunting counts them from the stand.
 
 **Voice:**
-- [to Jack]: "You're in early. That means it's work. Sit at the end, you're blocking the tap."
+- [to a regular]: "You're in early. That means it's work. Sit at the end, you're blocking the tap."
 - [Vera]: "Once. Thursday before last. Sat where you're sitting and watched the stand like it owed her money. Didn't finish her drink. I told her the pier was lit for the *pier*, and she said she knew."
 - [the sax man]: "Sits in Thursdays. Sits in like he's always been sitting in. Never drinks, won't take the twenty, tips the band out of his own pocket. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit."
-- [the slip]: "Shale said it to Herzog right where you're sitting, two weeks before she went in. *She's got a list, Walt, names, she's going to print it.* Loud. You were three stools down, Jack. You were laughing at something."
+- [the slip]: "Shale said it to Herzog right where you're sitting, two weeks before she went in. *She's got a list, Walt, names, she's going to print it.* Loud."
 
 
 ## Prompts

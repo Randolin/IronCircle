@@ -57,6 +57,7 @@ The [[Danger Board]] cuts across all three and sorts by *actor*: Bunting kills e
 - Dates inside the fiction are **Day N** relative to the discovery of the body (Day 1). The [[Timeline]] is authoritative; character notes' clocks must agree with it.
 - No predominantly Greek cast; no music-heavy theming beyond the Piper; diversity is an active priority — [[The Flats]] is a Black and Puerto Rican district.
 - Corrections from Aaron are applied directly, not restated.
+- **Player characters belong to their players.** PC notes contain only what the player wrote. The GM offers contacts and hooks; the player accepts, changes, or refuses them at the table, and nothing about a PC's past is true on the wiki until the player has said it.
 
 ## Image prompts
 

@@ -18,7 +18,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | ~9 years ago | [[Ottilie Mauser]]'s coffee-can count begins. Cole's private count of referrals begins the same year |
 | 1957 | The Zhu family pays for the Three Purities temple roof. Vivian Zhu buys her first newspaper. [[Little China]] is on no clearance map from then on |
 | < 6 years ago | [[Vivian Weaver]] assembles the empire |
-| 1959 | *Padgett & Rook* folds. [[Lou Padgett]] goes to the Authority |
+| 1959 | [[Lou Padgett]]'s two-man detective agency folds; he goes to the Authority. (*Padgett & Rook*, if Erik accepts the offer) |
 | ~2 years ago | [[Ida Maas]] sees the clearance ledger and quits. [[Ruth Halloran|Halloran]] writes the memo she never sends |
 | ~18 months ago | [[August Klein|Klein]] sees a man stroll into the river, reports it in writing, is laughed out of the precinct |
 | −6 months | The Span's approach ramp is routed onto the Flats' core blocks. Ribbon-cutting goes on calendars. Dockets expand. Weaver's blight drumbeat begins. Bunting's work goes steady. [[Eli Prosper|Prosper]] takes his first grant. Vanishings go monthly → biweekly |
@@ -27,7 +27,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | −6 weeks | Vera finds the demolition-eve correlation; three piles in three weeks. Files the photo request at the Weaver morgue. Asks [[Dez Okafor|Okafor]] for the families' stories; refused (first falling-out). [[Hal Rimm|Rimm]] watches his map go dark and pulls reels into a separate rack |
 | −1 month | Final docket posts; Toby's block is on it. Bunting scouts it and tips the kid his dime. Bunting begins sitting in at the [[The Half Note|Half Note]] on Thursdays |
 | −3 weeks | Vera confronts [[Nathaniel Pell]] for the claim records, with witnesses |
-| −19 days | Vera hires [[Arthur Rook]] to find who's following her. He spots [[Ray Sato]], calls it harmless, never tells her |
+| −19 days | *(offered hook, Erik's call)* Vera hires a detective to find who's following her; he spots [[Ray Sato]] and calls it harmless |
 | −14 days | Shale tells [[Walt Herzog]] about the list, gin-warm, at the Half Note. Weaver hears by lunch and checks the morgue log |
 | −13 days | Fitch, knowing what Vera's issue would do to the project and the harvest, gets Maas's "deal with it" and drafts the abatement line item naming Vera |
 | −12 days | Maas signs the docket. Fitch takes the paper and the money to Bunting herself and presses |

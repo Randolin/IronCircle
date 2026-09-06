@@ -25,7 +25,7 @@ aliases:
 
 - **Look:** Chinese-American, mid-thirties, neat shoulder-length hair pinned back for the headset, cardigan buttoned at the top button only. Invisible at the center of everything.
 - **Manner:** Speaks at switchboard volume. Quotes calls verbatim with timestamps, then looks ashamed of the skill. Knits between connections; the needles stop when she's listening.
-- **Her mother** is in the Little China temple's care. Mabel visits Sundays. Zu Cheng's route to her.
+- **Her mother** is in the Little China temple's care. Mabel visits Sundays. A route to her for anyone the temple trusts.
 - **Day 9 onward:** anyone reconstructing who fed Vera reaches her. Weaver's water column.
 - **On Rimm:** 'Bring something worth trading. He doesn't want money.'
 - **The disconnected numbers:** she's started getting calls from lines that were cut off when the tenant vanished. No voice on them. She hasn't told anyone. It's the web.

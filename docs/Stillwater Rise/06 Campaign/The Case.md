@@ -141,7 +141,7 @@ Every resolution needs its findings in concert. Every finding has two or three s
 | A payment chain into a subsidiary nobody can reconstruct, flagged in margin hand | Spindle & Milner | [[Greta Milner|Milner]], in writing, at her price |
 | The shape of Weaver's traffic; the ordering call, laundered | The Exchange | [[Hal Rimm|Rimm]], for the right question; [[Mabel Cho|Mabel]] for the route |
 | "A resourceful girl is a tool you keep sharp" | On air | [[Gerry Fitch|Fitch]] cracks when she hears it quoted |
-| She was always like this, before the money | Little China | [[Fen Baiyun]], if [[Zu Cheng]] kneels |
+| She was always like this, before the money | Little China | [[Fen Baiyun]], for a favor to the temple (or a kneel, if he's Cheng's teacher) |
 | She never lies. She never hums. Her heels sound like more than two feet | Any room she's in | [[Zu Cheng]] sees it; [[Jack Rivers]] smells nothing at all |
 
 ## The Web
@@ -232,11 +232,14 @@ Drop when momentum dips. Each delivers a clue.
 
 ## What each PC gives the agency
 
-[[Odessa Cole|Cole]], [[Esther Blum|Blum]], and [[George Oyama|Oyama]] read paper, hold the mandate, find one more day. None of them can walk into Tin City or sit at the Half Note without being made. The three investigators were chosen because each once stood at the river and was sent back.
+[[Odessa Cole|Cole]], [[Esther Blum|Blum]], and [[George Oyama|Oyama]] read paper, hold the mandate, find one more day. None of them can walk into Tin City or sit at the Half Note without being made. The Judge chose the three investigators because his mirror showed what they are. Everything else about them is their players'.
 
-- [[Arthur Rook]] sees through it. The Tower reveals what's false and holds a door. Vera hired him on Day −19 to find who was following her; he found Sato and never told her.
-- [[Zu Cheng]] can stand on the pier when the tune plays and not fold. Little China's route to Mabel; the one who can ask what the Zhu roof cost.
-- [[Jack Rivers]] smells the peppermint. The rats under the ramp talk to him. He was three stools down from the slip.
+What their *sheets* give, which is all the GM plans around:
+- [[Arthur Rook]]: a detective's eye, Tracking, and the Tower: *Arcane Revelation* sees through the Mist; *Locking and Opening Portals* can hold a door against a knock.
+- [[Zu Cheng]]: Forensics and Pressure Points, Little China, and the Monkey: Natural Armor means he can stand where the tune plays and not fold.
+- [[Jack Rivers]]: Streetwise, a nose that literally works, and Coyote: *Supernatural Sense* reads the Mythos layer; *Nature's Tongue* can ask the rats.
+
+Offered hooks (accept, change, or refuse at session zero) are in [[Plot Threads#Offered hooks]].
 
 ## Endgame shape
 

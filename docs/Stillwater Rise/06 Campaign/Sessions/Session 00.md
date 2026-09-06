@@ -41,26 +41,30 @@ Ask in the car on Day 1, round-robin. Record the answers verbatim; they're canon
 |---|---|---|---|
 | What did you do last night? | | | |
 | Who at the precinct owes you? | | | |
-| Where were you the night you nearly died? *(don't push)* | | | |
+| Is there a night you nearly died? *(optional; the GM has a use for it if yes)* | | | |
 | Why did Cole hire you, as far as you know? | | | |
 
 ## Connections (as established at the table)
 
-| Between | What the players said | Wiki says |
-|---|---|---|
-| Rook – Cheng | | A door in Little China that shouldn't have opened |
-| Rook – Rivers | | Rivers sold him information for years, then sold him to Cole |
-| Cheng – Rivers | | One question too many about the temple; a broken nose; they drink now |
+| Between | What the players said |
+|---|---|
+| Rook – Cheng | |
+| Rook – Rivers | |
+| Cheng – Rivers | |
 
-## Personal contacts
+*Nothing is pre-written. If the players want a prompt: "How did the two of you first find out what the other one is?"*
 
-Each PC has one. Confirm or replace with the player.
+## Offered contacts
 
-| PC | Contact | Where | What they know Day 1 | Cost |
-|---|---|---|---|---|
-| Rook | [[Lou Padgett]] | Authority field office, the Span | An Authority car was at the pier at 3 a.m., before the cops | The draft admission, or a down payment on it |
-| Cheng | Old Mrs. Cho ([[Mabel Cho]]'s mother) | The temple, [[Little China]] | Her daughter says "the Authority called the precinct at 2:45" | A kindness; and later, Mabel's trust |
-| Rivers | [[Amalia Reyes|Doc Reyes]] | [[The Half Note]] | Vera was in two Thursdays ago watching the stand; a big man with a cigar asked about the sax player | One straight answer, once |
+Each PC is offered one. The player accepts, changes, or refuses; the NPC notes work either way. Record what they chose.
+
+| PC | Offer | Accepted / changed / refused | What the contact knows on Day 1 |
+|---|---|---|---|
+| Rook | [[Lou Padgett]] as his old partner (and, separately, that Vera hired him before she died) | | An Authority car was at the pier at 3 a.m., before the cops |
+| Cheng | [[Fen Baiyun]] as his teacher | | The Zhu family paid for the roof; Mabel Cho's mother is in the temple's care |
+| Rivers | [[Amalia Reyes|Doc Reyes]] and the Half Note as his bar | | Vera was in two Thursdays ago watching the stand; a cigar man asked about the sax player |
+
+*If a player brings their own contact instead, write it here and give it one Day 1 fact from the list above or a new one.*
 
 ## Running log
 

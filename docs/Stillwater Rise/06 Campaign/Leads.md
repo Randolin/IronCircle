@@ -113,8 +113,8 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 *Day −10. The suit. True lead, and Sato doesn't know what he has.*
 
 #### The other man
-> In one frame, dated nineteen days ago, the woman in glasses is talking on a stoop to a tall man in a good coat from a better year, hat brim low. He's writing in a notebook.
-*Rook. Vera hired him to find who was following her. The player thread.*
+> In one frame, dated nineteen days ago, the woman in glasses is talking on a stoop to a man in a good coat with his hat brim low. He's writing in a notebook.
+*Only if Erik accepted the offer that Vera hired Rook: it's Rook. Otherwise it's a process server, and a loose end.*
 
 #### The gun
 > On the dresser, a service revolver, cleaned, oiled, in a holster with the department's stamp still on the leather. Beside it, the back issues of a mimeographed weekly, every one, in order, with paragraphs underlined and notes in the margins in the same pressing hand.

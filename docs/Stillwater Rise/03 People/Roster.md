@@ -229,7 +229,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *The Exchange · Tier B · switchboard*
 - **Traits:** switchboard-quiet, quotes calls verbatim with timestamps, ashamed of it, knits.
 - **Logos wants:** public: her job and her mother housed. Private: to finish what feeding Vera started.
-- **Works on her:** a reason to trust a second person; her mother (Cheng's route); grief given an errand. **Doesn't:** pressure at work; anything that reaches Fitch.
+- **Works on her:** a reason to trust a second person; her mother, through the temple; grief given an errand. **Doesn't:** pressure at work; anything that reaches Fitch.
 - **Logos:** T1 Social · 11 · 4/8 · HP 3 · Stress 3 · ATK −4 · Exp: Forty Calls an Hour +3.
 
 ### Cutty Sloan
@@ -282,28 +282,28 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 - **Logos:** T1 Social · 11 · 4/8 · HP 3 · Stress 3 · ATK −4 · Exp: The Board +3.
 
 ### Lou Padgett
-*Authority site security · Tier B · Rook's old partner*
-- **Traits:** heavy, talks to Rook and looks at his friends, says "we" about the Authority, times everything.
-- **Logos wants:** public: a clean site and a pension. Private: for Rook to admit it, and four hundred dollars.
-- **Works on him:** Rook saying the draft thing out loud; the debt paid; the eleven minutes, once he's counted them. **Doesn't:** charm from anyone but Rook; badges; the Authority's name used against him.
-- **Logos:** T1 Bruiser · 12 · 7/14 · HP 7 · Stress 3 · ATK −1 · Fists (ex-boxer): Melee · 1d10+2 phy · Exp: Padgett & Rook +2, The Fence +2. Will not draw on Rook.
+*Authority site security · Tier B · offered as Rook's old partner*
+- **Traits:** heavy, says "we" about the Authority and hears himself, times everything, checks badges twice.
+- **Logos wants:** public: a clean site and a pension. Private: to never again be somebody people whisper about.
+- **Works on him:** something real; the eleven minutes, once he's counted them; if he's Rook's partner, Rook saying the draft thing out loud and paying the debt. **Doesn't:** charm; badges; the Authority's name used against him.
+- **Logos:** T1 Bruiser · 12 · 7/14 · HP 7 · Stress 3 · ATK −1 · Fists (ex-boxer): Melee · 1d10+2 phy · Exp: The Fence +2, Ex-Detective +2.
 
 ### Fen Baiyun
-*The Master · Tier B · Little China · Mythos: Subhuti*
-- **Traits:** sweeps, answers with questions, calls Cheng "the small one," laughs once when someone kneels.
+*The abbot · Tier B · Little China · offered as Cheng's teacher (Subhuti)*
+- **Traits:** sweeps, answers with questions, laughs once when someone kneels.
 - **Logos wants:** public: the temple standing. Private: to know what the Zhu roof cost before it's collected.
-- **Mythos wants:** the student to find his mountain and never say whose student he was.
-- **Works on him:** Cheng kneeling; patience; bad tea accepted. **Doesn't:** hurry; force (the hall answers); anyone but Cheng asking.
+- **Mythos wants (if he's the teacher):** the student to find his mountain and never say whose student he was.
+- **Works on him:** patience; bad tea accepted; a favor to the temple; if he's Cheng's teacher, Cheng kneeling. **Doesn't:** hurry; force (the hall answers).
 - **Logos:** T1 Social · 14 · 5/9 · HP 4 · Stress 4 · ATK −2 · Broom: Melee · 1d6 phy · Exp: The Hall +3.
-- **Mythos: Subhuti.** T3 Social · 18 · 15/28 · HP 6 · Stress 6.
+- **Mythos: Subhuti (only if the teacher).** T3 Social · 18 · 15/28 · HP 6 · Stress 6.
   - **The Hall Raises One Back – Reaction:** When a creature attacks him inside the temple, that creature must succeed on a Strength Reaction Roll (18) or be moved to Far range, outside, and marked 2 Stress.
-  - **Never Say Whose Student – Passive:** He can't be made to speak about Cheng's nature by any roll.
+  - **Never Say Whose Student – Passive:** He can't be made to speak about his student's nature by any roll.
 
 ### Amalia "Doc" Reyes
-*The Half Note · Tier B · Jack's bartender*
+*The Half Note · Tier B · offered as Jack's regular bar*
 - **Traits:** wipes the bar in front of whoever's talking, cuts you off at three, knows the band's names and not the customers'.
 - **Logos wants:** public: the bar open. Private: the bar left out of it; and she liked Vera.
-- **Works on her:** Jack, once; keeping cops out of the room; straight questions. **Doesn't:** badges; a Thursday visit in force; her name in anything.
+- **Works on her:** keeping cops out of the room; straight questions; if Jack's a regular, Jack, once. **Doesn't:** badges; a Thursday visit in force; her name in anything.
 - **Logos:** T1 Standard · 12 · 5/9 · HP 5 · Stress 3 · ATK +1 · Bat: Melee · 1d8+2 phy · Exp: Stitches +2, Who Drinks with Whom +3.
 
 ## Texture

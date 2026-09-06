@@ -50,10 +50,13 @@ The arc as threads. Each resolves separately; the players can be anywhere on any
 
 Nobody aimed these. [[Sal Lupo]] finds Bunting before the players do, or Fitch hands Lupo the docket first (Day 7) and the hunt becomes a hiring. [[Ray Sato]] reaches a conclusion and acts on it. [[Tin City]] can be cleared in an afternoon with nobody having ordered anything. See [[Danger Board]].
 
-## Player threads
+## Offered hooks
+
+One per PC, tied to the case. **Offers, not facts.** Each player accepts, changes, or refuses it at session zero; nothing here is true until they say so, and the NPC notes are written to work either way.
+
+- [[Arthur Rook]] — **Offer: an old partner.** [[Lou Padgett]] was the other half of *Padgett & Rook*, which folded when Rook's draft trouble began. Lou is now Authority site security, and his crew is the "trespass" detail Fitch sends on Day 2. Second offer: Vera came to Rook shortly before she died to find out who was following her (it was [[Ray Sato|Sato]]). Either, both, or neither.
+- [[Zu Cheng]] — **Offer: a teacher.** [[Fen Baiyun]], abbot of the Three Purities temple, raised him and sent him down the hill. Through Fen: Weaver before the money, and [[Mabel Cho|Mabel]]'s mother in the temple's care. The Zhu roof is a world fact regardless; whether Cheng has ever wondered about it is Josh's.
+- [[Jack Rivers]] — **Offer: a regular bar.** The [[The Half Note|Half Note]] and [[Amalia Reyes|Doc Reyes]]. If he drinks there, he was three stools down the night of Shale's slip and is a second witness to the tip chain without knowing it. Weaver's Day 5 column offer comes to whoever the journalist is, either way.
+
 
 One per PC, tied to the case. The player knows the surface; the GM holds the rest.
-
-- [[Arthur Rook]] — **The five dollars.** Vera hired him on Day −19 to find who was following her. He spotted [[Ray Sato|Sato]] in a day, judged it harmless, never told her. Sato's rolls include a frame of Rook. When the photos surface, so does that. And the door: [[Herminia Vega]]'s, Day 8. The Tower can hold it. Holding it costs him something visible and makes him a face Bunting will remember.
-- [[Zu Cheng]] — **The roof.** [[Fen Baiyun]] opens Weaver's past for the price of a kneel. [[Mabel Cho|Mabel]]'s mother is in the temple's care; Mabel is reachable without [[Hal Rimm|Rimm]] through Sunday visits. When the Flats are gone, Little China is what's left on the low side of the hill, and Weaver knows what she's owed. Cheng has to decide what the mountain is.
-- [[Jack Rivers]] — **Three stools down.** He was at the [[The Half Note|Half Note]] the night [[Mickey Shale|Shale]] told [[Walt Herzog|Herzog]] about the list. He's the second witness to the tip chain and [[Amalia Reyes|Doc Reyes]] is the third. Weaver's column offer is the temptation: Coyote and Anansi are cousins, and she'd rather own him than fight him. He's also the only one who smells the peppermint.

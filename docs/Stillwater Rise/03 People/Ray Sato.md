@@ -27,7 +27,7 @@ aliases:
 - **Manner:** Contained. Watches. Runs a parallel investigation from a furnished room with photos on the wall.
 - **Looks guilty because:** motive, a gun, no alibi, dated surveillance photos of the victim.
 - **Actually guilty of:** stalking, obstruction, the original planted evidence. Not murder; he was her believer.
-- **The frame:** Day −10, Vera at the Half Note, a two-tone suit at the edge of the stand. He doesn't know what he has. Also a frame of Rook, Day −19.
+- **The frame:** Day −10, Vera at the Half Note, a two-tone suit at the edge of the stand. He doesn't know what he has.
 - **After he deflates:** a trained investigator with nothing to lose. Or a man with a gun who picks his own answer.
 
 

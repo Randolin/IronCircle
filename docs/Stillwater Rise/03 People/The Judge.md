@@ -28,7 +28,7 @@ aliases:
 - **Look:** Never describe him. If forced: a very tall figure at the far end of the Coroner's corridor, window behind him, good black coat, a face the eye slides off.
 - **Manner:** Never in the room. The referral in the in-tray, the stamp, cold in the office that morning. Pearl blames the radiator; Oyama goes quiet.
 - **Logos:** Ambrose Yanagi, County Coroner. Elected unopposed every four years. Never photographed. Everything through Morrow, on paper.
-- **How he chose the three:** his mirror shows anyone who stood at the river and was sent back. Rook, Cheng, and Rivers each nearly died once. The list came to Cole as a hiring memo.
+- **How he chose the three:** his mirror shows a soul as it is. He saw the Tower, the Monkey, and Coyote and put three names on a list. The list came to Cole as a hiring memo. Why those three could see the Mist is their players' business, not his.
 - **What he writes:** the referral (*Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.*); the closing notice (*Heard.*); once, on the back of one: *Eleven outstanding. They are not lost.*
 - **The cover:** the office is a county budget line and he lets it be cut. A coroner nobody could lean on would be noticed.
 - **Beyond the arc:** Weaver is a tick on a current. The line goes somewhere out of the City, and whatever is at the far end has been receiving the dead for a century. No name yet. He doesn't know it either.

@@ -18,22 +18,26 @@ aliases:
 
 > *The old partner.*
 
-**Pitch:** Rook's old partner. Now runs security at the Authority's field office and sits outside Fitch's door on Tuesdays.
-**Wants:** Rook to say the draft thing out loud. Then four hundred dollars. Then the gate.
-**Gives:** Fitch's office, the Tuesday stacks, the demolition schedule.
+**Pitch:** Runs site security for the Authority at the foot of the Span. Ex-boxer, ex-private detective whose two-man agency folded in 1959; wears a windbreaker now and sits outside Fitch's door on Tuesdays while the stacks go in. Thinks of himself as still a detective.
+**Wants:** A pension and a clean record. To never again be somebody people whisper about.
+**Gives:** the Authority's floor: Fitch's office, the Tuesday stacks, the demolition schedule on his fence, and an Authority car at the pier at 3 a.m. before the cops. Price: something real from whoever asks; he can tell.
+
+> [!note] Offered contact
+> Built to be **Arthur Rook's old partner** if Erik wants one: the two-man shop was *Padgett & Rook*, it folded when Rook's draft trouble started, and Lou has an unpaid debt and an opinion about it. If Erik doesn't take the offer, Lou is simply the site chief, the partnership never existed, and the price is favors. Don't play the history until Erik has.
 
 ## Detail
 
 - **Look:** White man, mid-forties, heavy shoulders, boxer's nose, gray crewcut, security windbreaker over a shirt and tie. Thermos on the fence post, key ring like a fist.
-- **Manner:** Talks to Rook and looks at whoever's with him. Checks badges twice. Says 'we' about the Authority and hears himself.
-- **History:** Padgett & Rook folded in 1959 when Rook's draft trouble started. Rook owes him four hundred dollars. Lou has the receipt.
+- **Manner:** Checks badges twice. Says 'we' about the Authority and hears himself. Times everything.
 - **Day 6 onward:** starts timing the Tuesday stacks. 'Eleven minutes. There's forty families in eleven minutes.'
-- **Stat block:** bruiser; will not draw on Rook.
+- **Day 2:** his crew is the "trespass" security Fitch sends to the pier and the shop. He thinks it's a trespass matter.
+- **If he's Rook's partner:** the price is Rook saying the draft thing out loud, then four hundred dollars, then the gate. His price gets specific, never lower. He will not draw on Rook.
+- **Stat block:** bruiser; competent, reluctant.
 
 **Voice:**
-- [at the fence]: "Arthur. Huh. Didn't know they let you near a river. Who's the muscle? Who's the kid with the cigarette?"
-- [the price]: "You want past this gate, you say it. Out loud. What you did in '51 and what you had George Oyama type up so you could not do it. Then we'll talk about four hundred dollars."
-- [the crack, Day 6+]: "Tuesdays she brings him a stack this high and he signs it in eleven minutes. I timed it. I time everything, Arthur, you taught me that. Eleven minutes. There's forty families in eleven minutes."
+- [at the fence]: "Authority property. You got paper, or you got a reason I'd like better than paper?"
+- [the price, if he's Rook's partner]: "You want past this gate, you say it. Out loud. What you did and who typed it up for you. Then we'll talk about four hundred dollars."
+- [the crack, Day 6+]: "Tuesdays she brings him a stack this high and he signs it in eleven minutes. I timed it. I time everything. Eleven minutes. There's forty families in eleven minutes."
 
 
 ## Prompts
@@ -42,11 +46,11 @@ aliases:
 
 **Image prompt — full body & wardrobe:** Full-figure view of a heavy-shouldered white man in his mid-forties standing with his weight on both feet and his thumbs in his belt. He wears a dark windbreaker with a security patch on the chest over a white shirt and dark tie, gray work trousers, black shoes, and a large key ring on his belt.
 
-**Stat block:** <!-- daggerheart-forge — bruiser block; competent, reluctant, will not draw on Rook -->
+**Stat block:** <!-- daggerheart-forge — bruiser block; competent, reluctant -->
 
 ## Theme (Suno)
 
-*The fence. A thermos, a key ring, a partner he won't look at.*
+*The fence. A thermos, a key ring, a badge he checks twice.*
 
 ```
 Noir jazz, slow. Baritone saxophone carrying a heavy, plain melody over a chain-link rattle used as percussion, upright bass on two and four, a distant pile-driver keeping its own time. Stubborn, tired, honest about neither. 72 BPM, G minor, 4/4, outdoor mix. + the baritone and the pile-driver fall into step for one chorus and then out again, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish

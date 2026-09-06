@@ -61,8 +61,8 @@ The folded clothes are the seam between the two stories. Bunting's tune is a cro
 ## The investigators
 | Figure | Character | In play |
 |---|---|---|
-| The Tower | [[Arthur Rook]] | Reveals what's false; brings the wrong path down. *Arcane Revelation* sees through the Mist. *Locking and Opening Portals* holds a door against the knock — Herminia's, Day 8, at a cost. *Fireball* is the Tower falling; there is a Span in this City |
-| Sun Wukong | [[Zu Cheng]] | Fiery eyes see through disguise; the immortal body doesn't fold when the tune plays. He alone can stand on the pier that night. The mountain on him is Little China, and the Zhu family paid for the roof |
-| Coyote | [[Jack Rivers]] | Herald of the strange. *Supernatural Sense* and the nose: peppermint and reed at the pier; Weaver smells of nothing at all. *Nature's Tongue*: the rats under the ramp know the Piper. Anansi's cousin; she'll offer him a column before she fights him |
+| The Tower | [[Arthur Rook]] | Reveals what's false; brings the wrong path down. *Arcane Revelation* sees through the Mist. *Locking and Opening Portals* can hold a door against the knock. *Fireball* is the Tower falling; there is a Span in this City |
+| Sun Wukong | [[Zu Cheng]] | Natural Armor: the body that doesn't fold when the tune plays. He can stand on the pier that night. Knowledge for Strength when the Monkey is out |
+| Coyote | [[Jack Rivers]] | Herald of the strange. *Supernatural Sense* reads the Mythos layer; the nose is literal (peppermint and reed at the pier); *Nature's Tongue* can ask the rats. Anansi's cousin; she'll offer a column before she fights |
 
 Characters without a row are Logos all the way down, or haven't been assigned yet.

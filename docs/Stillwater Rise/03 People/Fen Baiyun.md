@@ -19,23 +19,26 @@ aliases:
 
 > *The Master.*
 
-**Pitch:** Abbot of the Little China temple who raised Zu Cheng and sent him down the hill. Knew Vivian Zhu as a girl.
-**Wants:** To keep the temple standing and the district off the map, and to know what the Zhu roof cost.
-**Gives:** Weaver before the money, and a route to Mabel. Price: Cheng kneels.
+**Pitch:** Abbot of the Three Purities temple in Little China, seventies, sweeps while he talks. Knew Vivian Zhu as a girl: six summers in his hall. The Zhu silk money paid for the temple roof in 1957, the year she bought her first paper, and Little China has been on no clearance map since. He thinks that's one fact, not two.
+**Wants:** The temple standing and the district off the map. To know what the roof cost before it's collected.
+**Gives:** Weaver before the money (the Mythos predates the empire); the unpaid roof; a route to Mabel Cho, whose mother is in the temple's care. Price: patience, bad tea accepted, and a favor to the temple.
+
+> [!note] Offered contact
+> Built to be **Zu Cheng's teacher** if Josh wants one (Cheng is Loreborne and Taoist; the temple is the obvious school). If Josh takes it: Fen raised him, told him never to say whose student he was, and sent him down the hill; the price becomes Cheng kneeling in the hall, and Fen's Mythos is Subhuti, the Monkey's teacher. If Josh doesn't, Fen is the abbot who knew Vivian Zhu, and no more. Don't play the history until Josh has.
 
 ## Detail
 
 - **Look:** Small, very upright Chinese man in his seventies, shaved head, long white brows, thin white beard, gray robe, cloth shoes, a broom.
-- **Manner:** Sweeps while talking; stops when the answer matters. Calls Cheng 'the small one.' Answers questions with questions you already know the answer to. Laughs once when someone kneels.
-- **Mythos:** Subhuti. Taught the Monkey; made him promise never to say whose student he was.
+- **Manner:** Sweeps while talking; stops when the answer matters. Answers questions with questions you already know the answer to.
+- **Mythos:** Subhuti, if he's Cheng's teacher. Otherwise none stated.
 - **The roof:** 'Nothing that family gives is a gift. One day someone comes to explain what it was. No one has come. That is not the same as no one coming.'
 - **On Weaver as a girl:** 'Never once told a story that was to the point. Never once told one that wasn't true.'
 
 **Voice:**
-- [gatekeeping]: "The small one brought guests. Guests who look at the roof. Everyone looks at the roof. Sit. The tea is bad; the roof is excellent."
+- [gatekeeping]: "Guests who look at the roof. Everyone looks at the roof. Sit. The tea is bad; the roof is excellent."
 - [Weaver, before]: "The Zhu girl sat in this hall for six summers. Never once told a story that was to the point. Never once told one that wasn't true. Her mother thought that was cleverness. I thought it was hunger. I am usually right, and I was not glad about it."
 - [the roof]: "Nothing that family gives is a gift. They call it a gift, and then one day someone comes to explain what it was. No one has come. That is not the same as no one coming."
-- [to Cheng, alone]: "You promised never to say whose student you were. I never said I wouldn't come to see what you did with it."
+- [to Cheng, alone, if he's the teacher]: "You promised never to say whose student you were. I never said I wouldn't come to see what you did with it."
 
 
 ## Prompts
