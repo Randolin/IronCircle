@@ -23,10 +23,10 @@ The encampment's sympathetic face is the camp itself: they hum the tune and love
 
 ## Beat 1: the office and the drive
 
-Third floor over a dentist on Merchant Street, 8:40. [[Pearl Nazario|Pearl]] at the desk. A thin old man in galoshes is leaving as they arrive and wipes his feet on the way out ([[Ansel Morrow|Morrow]]). [[Odessa Cole|Cole]] is on the phone *from the pier*.
+Third floor over a dentist on Merchant Street, 8:40. [[Pearl Nazario|Pearl]] at the desk. A thin old man in galoshes is leaving as they arrive and wipes his feet on the way out ([[Ansel Morrow|Morrow]]). [[Odessa Cole|Cole]] is in the back office with the door open, on the telephone to the Coroner's office, and she briefs them from her desk. She does not come to the pier; she never does.
 
 > [!quote] Read
-> Pearl holds the receiver out. Cole, over a generator: "Harbor patrol pulled a woman out of the grain-elevator eddy under Pier 9 at ten to six. Precinct wrote *jumper* before she was dry. The Coroner referred it before Homicide finished their coffee, and Homicide has already given it away. There's a carbon on Pearl's desk. Get here before the ME finishes. And bring a coat; there's something wrong with the rats."
+> Cole hangs up before the receiver is all the way down. "Harbor patrol pulled a woman out of the grain-elevator eddy under Pier 9 at ten to six. Precinct wrote *jumper* before she was dry. The Coroner referred it before Homicide finished their coffee, and Homicide has already given it away." She slides the carbon across the desk without looking at it. "Get there before the ME finishes. Casale's holding the scene and he wants to be rid of it, so be pleasant and be quick. And take a coat. The man on the phone said there's something wrong with the rats, and then he wouldn't say anything else about it."
 
 The carbon: *Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.* Coroner's stamp. "Clerk's shorthand." It isn't. Don't explain for three sessions.
 
