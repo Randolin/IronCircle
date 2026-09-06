@@ -21,12 +21,12 @@ The figures under the surface, and what their powers do in play. The cast draws 
 |---|---|---|---|
 | The Pied Piper | [[Manny Bunting]] | Contracted to clear the vermin; never paid; collected the children | The figure: marks undress, fold, square the pile, walk calm into still water. Works on anyone who can imagine a far shore. Failed once |
 | Anansi | [[Vivian Weaver]] | Bought all the stories in one bargain; owns them; signs nothing | Her version sticks. People misremember toward what she broadcast. She cannot be photographed badly, never hums, never answers, and can't hold a story she didn't buy. Naming her out loud on a platform she doesn't own is the only wound |
-| Midas | [[Sterling Maas]] | The golden touch; the daughter turned to gold | Everything he touches becomes plan. He cannot retain a tenant's name. The touch was granted by television, and the price is his daughter |
+| Midas | [[Sterling Maas]] | The golden touch; the donkey ears; the daughter turned to gold | Everything he touches becomes plan; things left in the Model Room overnight take a sheen. Can't tell good counsel from bad, so Fitch owns his ear. The price is his daughter |
 
 ## The board
 | Figure | Character | In play |
 |---|---|---|
-| The Child (the emperor's clothes) | [[Vera Kestrel]] | Illusions fail in front of her. Nobody knew, including her. The tune got her clothes off and could not make her see another side. The only one of twelve who rose |
+| The Child (the emperor's clothes) | [[Vera Kestrel]] | Said the true thing on a live microphone at eight and was laughed at for thirty years. Illusions fail in front of her. The tune walked her to the water and broke there. The only one of twelve who rose |
 | Rumpelstiltskin | [[Greta Milner]] | The anti-Anansi: her name is on every document. Contracts cruel and honest. She noticed the invisible author once, in margin hand |
 | The Wolf | [[Sal Lupo]] | Doors have stopped opening to him. Huffs at the wrong house |
 | Ratatoskr | [[Toby Small]] | Runs messages between the top of the tree and the roots, both languages. Carries the tune without knowing it's a message |

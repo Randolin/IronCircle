@@ -24,7 +24,8 @@ aliases:
 
 - **Look:** Broad white man, sixty, expensive gray suit, gold everywhere small. Silver hair worn long over the ears. Stands like a statue of himself.
 - **Manner:** Gives tours of the model reflexively. Handles gold objects while talking. Says 'relocation' a half-beat slower than the rest. Warm to children and secretaries; can't retain a tenant's name.
-- **Midas:** everything he touches becomes plan. Television made him golden; the price is his daughter Ida, the locked drawer.
+- **Midas:** everything he touches becomes plan. Things left overnight in the Model Room come back with a sheen. Donkey ears: he can't tell good counsel from bad, which is why Fitch owns his ear. Television made him golden; the price is his daughter Ida, the locked drawer.
+- **He knows.** Authorizes the disappearances as a necessary evil behind the word 'relocation.' Asked about Vera, his honest answer is 'who?'
 - **The wedge:** the invoice. He has to touch it with his own hands. Learning Weaver went around him to Ida is what breaks him.
 - **Stat block:** institutional adversary; lawyers and hearings; physically nothing.
 

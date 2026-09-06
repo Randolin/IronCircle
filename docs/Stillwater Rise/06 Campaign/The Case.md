@@ -6,137 +6,205 @@ aliases: ["The Case", "Campaign Doc", "Case File"]
 ---
 # The Case
 
-The regenerated campaign doc. This note holds what actually happened, what the players can find, and the two engines that keep the arc moving: the Mythos war under the surface and the fact that the case watches back. Day numbers per the [[Timeline]]. Who's at risk per the [[Danger Board]]. Session plans in `Sessions/`.
+The campaign doc, current. Rebuilt 2026-09-04 from memory, then reconciled 2026-09-05 against the recovered original ([[The Rat Line (draft-2)]]), which is archived verbatim and wins on every fact below unless a dated [[Decisions|decision]] overrode it. Day numbers per the [[Timeline]]. Who's at risk per the [[Danger Board]]. Period rulings in [[1962]].
+
+**Theme:** the disappeared were people with no story, so nobody missed them. The victim died trying to give them one.
 
 ## What actually happened
 
-**Vera's last night (Day 0, the night of the 31st/1st).** Print night. [[Vera Kestrel]] cranked the disappeared-persons issue's first pass at [[August Klein|Klein]]'s until past one, left the notebook on the imposing stone as she always did, and walked to the [[The Half Note|Half Note]] for one rye. [[Manny Bunting]] was on the stand with the house band, as he had been every print night for a month. She walked home by [[Pier 9]] at about 1:50. He followed with the case.
+**The setup.** Six months out, the Span's approach ramp was routed onto the Flats' core blocks and the clearances accelerated: monthly, then biweekly, then weekly. [[Vera Kestrel]] connected the folded-clothes "suicides" to the demolition schedule. Six weeks out she filed a photo request at the Weaver morgue; her name was now in the one building where names are inventory. Day −14, [[Mickey Shale|Shale]] told [[Walt Herzog|Herzog]] he was helping her with something big, gin-warm, at the [[The Half Note|Half Note]]. Weaver heard by lunch, checked the morgue log, and understood. She told [[Gerry Fitch|Fitch]] a true anecdote over drinks. Fitch drafted an abatement line item naming Vera and routed it to look Authority-internal. [[Sterling Maas|Maas]] signed the docket on Day −12 without reading page 31, which changes nothing about what he knew the docket was for. [[Manny Bunting|Bunting]] got a name, an address, and a deadline.
 
-Under the sodium lamp at the pier head he played the figure. It worked the way it always works: she stopped, undressed, folded everything, squared it, set the glasses on top, stepped to the edge. Then it didn't. She looked at the water and said, out loud, *"There's no other side. It's just water."* The tune has never failed in forty years. He played it three more times, louder ([[Cutty Sloan|Cutty]]: "the pier said it back three times"). She stood there naked at the edge and did not go.
+**Day −10, Thursday.** Vera came to the Half Note to surveil the "relocation man" she'd connected to the clearances. Bunting recognized her from the stand and planted the tune inside a solo. Shale, at the bar, saw them notice each other. [[Ray Sato|Sato]] photographed it through the window.
 
-He took the revolver from the folded cardigan (she'd bought it from [[Solly Grosz|Grosz]] three weeks earlier, after [[Nathaniel Pell|Pell]]) and struck her once at the back of the skull with the butt. She went in at 2:05 and drowned. [[Cutty Sloan|Cutty]] called it in from the canal side at 2:15; [[Aldo Brack|Brack]] logged it as a drunk. [[Earl Dubcek|Dubcek]] pulled her out at 5:50 a quarter mile *upstream*, where the current cannot put anything. The river gave her back.
+**Days −9 to −4.** Incubation. Her Rift kept her aware: she noticed herself humming and investigated her own infection. [[Mabel Cho|Mabel]] (dead end), [[Dez Okafor|Okafor]] (recognized it, went gray, threw her out), [[August Klein|Klein]] (deaf, safe; she wrote the notation on his roll). Day −3 she emptied the card drawer and hid the file off-site. Day −2 she cut the exposé stencil and left it unfinished. Day −1 she mailed a letter.
 
-Bunting kept the revolver because it wasn't hers to lose; he returns it to Grosz on Day 3–4 as "M. Roland." He unwrapped a peppermint before he played. The wrapper is on the planks.
+**Day 0.** She skipped her routine. 1 p.m., corner store, bought nothing, hummed at the counter. 4 p.m., Klein's, wrote one line on the roll. 7 p.m., home, one rye alone at the kitchen table. 1:30 a.m., out in coat and glasses, the same direct route every prior walker took. 1:55, [[Cutty Sloan|Cutty]] saw her arrive at the waterline under Pier 9 and stand two minutes. Bunting was on the pier; he attends every collection. He unwrapped a peppermint.
 
-**Why it went wrong.** Vera had a Mythos nobody knew about, including her: the Child who said the emperor was naked. Illusions don't hold in front of her. The tune could take her clothes off (that's just the parade) but it couldn't make her see a far shore. She is the only one of twelve who didn't walk, and the only one the river returned. See [[Mythos]].
+**2:00.** She stopped humming and said, out loud, *"There's no other side. It's just water."* Her Rift broke the glamour. The passage failed. Bunting fired three times: shoulder (panic), a miss into a piling, back of the head. She went into the water. First body in forty years.
 
-**What that did to the machine.** Both principals are wounded by this, not satisfied. Bunting's ledger has its first open line in forty years. [[Vivian Weaver|Weaver]] has a story she doesn't own, with a body attached, and an agency looking at it that somebody aimed. The arc moves because the collection *failed*, and everything the machine does from Day 1 is an attempt to close a story that came back up.
+**After.** 2:07 Cutty ran for a call box. 2:15 [[Aldo Brack|Brack]] logged a drunk. 2:40 car 6 assigned. 2:47 the disregard: car 6 pulled mid-route, on strings the agency didn't pull yet; the tip that moved them came through an untraceable Exchange line hours before anything was official. [[Hal Rimm|Rimm]] was ahead of the paperwork. 5:50 [[Earl Dubcek|Dubcek]] found her a quarter mile *upstream*, in the grain-elevator eddy. The river gave her back.
+
+The gun is still in Bunting's coat, then a coffee can in his room. He hates it; it's an unbalanced line. Day 3–4 he returns it to [[Solly Grosz|Grosz]] under the alias he bought it with, *M. Roland*, and recovers most of his money.
+
+**Why it went wrong.** Vera had a Mythos nobody knew about, including her: the child from *The Emperor's New Clothes*. The tune could take her walking, but at the waterline the glamour didn't hold. She is the only one of twelve who didn't finish, and the only one the river returned. See [[Mythos]].
+
+**What that did to the machine.** Both principals are wounded, not satisfied. Bunting's ledger has its first open line in forty years; he's been playing flat on Thursdays since. Weaver has a story with a body attached and an agency looking at it that somebody aimed. The arc moves because the collection failed.
+
+## The crime scene
+
+Full inventory in [[Session 01]]. The short version:
+
+- **The pile:** coat and shoes folded and squared shoreside, stockings folded inside the shoes. Matches eleven prior piles exactly. Nobody has said so out loud.
+- **On her:** glasses still on, unbroken. Pencil behind the ear. Hearing-attendance dress: her *fighting clothes*. Ink-stained hands, crank callus, stencil wax under two nails.
+- **Wounds:** shoulder through-and-through from behind and above; back of the skull, slug recovered, deformed. No defensive wounds. Lungs full of river water even though the head wound was instantly fatal. Both can't be first. [[Ruth Halloran|Halloran]] keeps revising.
+- **Pocket items:** Chesterfields, one flipped for luck, and folded into the cellophane a note in her hand: **SCHULD** written over and over, shakier each time, then one lucid line, *"AK — check the roll."* A Half Note matchbook. A key ring with one unmarked key. A dime. Tox: one rye around midnight.
+- **The pier:** one set of bare footprints walking in like someone crossing a room. No second set on the mud; the shooter never left the planks. Scuff marks at the rail forty feet back where someone stood a long while. A peppermint wrapper ground under a heel. No brass (revolver). The miss is in a piling: .38, clean rifling, recoverable if anyone looks for a third shot. The witness heard three; there are two wounds.
+- **The marks:** the word **SCHULD** on her tongue. Not a tattoo: scar tissue in the shape of set type, debossed like a letterpress strike, in Fraktur. It reads correctly to someone facing her. Translation: *debt* and *guilt*, one word for both. And her eyes: solid black, sclera and iris. Every photograph fogs at the eyes. Halloran writes "postmortem artifact" with a question mark she isn't proud of.
+
+> [!warning] Open decision: the tongue word
+> Draft-2 canon is **SCHULD**. The 2026-09-05 planning chat, without the doc, pitched a **number** instead (the victim's count, "SEVENTEEN"), which points forward to the encampment. Aaron hasn't confirmed. Until he does, run SCHULD; it's wired into Klein (Fraktur), Okafor (the lore), and the theme.
 
 ## The chain, as the players will meet it
 
-| Layer | Who | What they'll prove | What it takes |
+| Layer | Who | What they'll prove | Gate |
 |---|---|---|---|
-| The hand | [[Manny Bunting]] | Who knocks, how they walk into the water, that he's contracted | The tune named ([[Dez Okafor|Okafor]]), the man seen ([[The Half Note|Half Note]], [[Ray Sato|Sato]]'s frame, [[Cutty Sloan|Cutty]]), the gun's return ([[Solly Grosz|Grosz]]), the docket ([[Herminia Vega]]) |
-| The authorizer | [[Sterling Maas]] | The disappearances are policy, not a glitch | The Tuesday stacks ([[Ida Maas|Ida]]), the routing stamps ([[George Oyama|Oyama]], [[Gerry Fitch|Fitch]]), the addresses that don't exist ([[Eli Prosper|Prosper]]), the nine files ([[Frank Casale|Casale]], [[Ruth Halloran|Halloran]], [[Nathaniel Pell|Pell]]) |
-| The author | [[Vivian Weaver]] | Intent, motive, and the voice on the wire | The tip chain ([[Mickey Shale|Shale]], [[Walt Herzog|Herzog]], [[The Half Note|Doc Reyes]]), the flagged subsidiary ([[Greta Milner|Milner]]), the shape of the traffic ([[Mabel Cho|Mabel]], [[Hal Rimm|Rimm]]), what she was like before the money ([[Fen Baiyun]]) |
+| **The hand** | [[Manny Bunting]] | Identity, method, and that he was *hired* | Identity, any 2: Grosz's ledger; Ottilie's people describing the relocation man; Half Note staff placing Vera watching a sax man Day −10; the black-eyes vision. Method, any 2: the notation on Klein's roll; Okafor's reaction to the hummed tune; Toby humming it; Cutty's "she hummed while she walked." Mandate, any 1: the abatement work order; Bunting's own ledger; Fitch's routing stamp on anything |
+| **The authorizer** | [[Sterling Maas]] | The disappearances are policy, he runs it knowingly, and one line item didn't originate inside the Authority | Signature, any 1: the signed docket; Ida on the Tuesday routine. Knowledge, any 2: years of abatement line items with no receiving records; his budget notes pricing removals above any legitimate service; Ida's account of why she left; Ottilie on Authority men watching a clearance. Pattern, any 2: vanishings mapped to demolition eves; folded-clothes files on cleared blocks accelerating with the Span; the Model Room running ahead of reality |
+| **The author** | [[Vivian Weaver]] | Intent, motive, and the voice on the wire | The hand, any 2: Fitch's payments traced to a Weaver subsidiary (via Milner); Shale's confession of the slip; Ida's documents; Fitch cracked. The motive, any 2: Vera's photo request in the morgue log; the recovered card-drawer file; the morgue's Flats-shaped gaps. The voice, any 1: Rimm's reel of the ordering call; Weaver's own slip on her program |
 
-Every conclusion below has at least three routes to it. Lose one to a bad roll, a dead witness, or a reused tape and the case still closes.
+Every resolution needs its findings in concert. Every finding has two or three sources. Every tier is reachable by two paths. Order is flexible.
+
+**The Maas flip** is betrayal, not guilt. Shown that Fitch is Weaver's and that his machine was used for a private killing, he turns on Weaver out of pride, cooperating only in ways that protect the machine. Devil's-bargain ally. He never apologizes for the future.
 
 ## The clue web
 
 ### 1. It wasn't a suicide
 | Clue | Where | Who confirms |
 |---|---|---|
-| Found a quarter mile upstream of the pier; the current runs seaward | [[Pier 9]] | [[Earl Dubcek|Dubcek]], plainly, on the record if asked |
-| Depressed fracture, back of skull, curved edge. Lungs full of river. Struck, then drowned | The van | [[Ruth Halloran|Halloran]] ("not the piling") |
-| Glasses folded on top of the pile. She couldn't see a pier edge without them | The pile | Anyone who knew her; [[Toby Small|Toby]] first |
-| The 2:15 call logged as a drunk; the address heard before the words | The desk log | [[Aldo Brack|Brack]] (defensive), [[Lorna Feeny|Feeny]] (steno pad, quietly) |
-| An eyewitness under the ramp | [[Tin City]] | [[Cutty Sloan|Cutty]], via [[Ottilie Mauser|Ottilie]] |
+| Found a quarter mile upstream; the current runs seaward | [[Pier 9]] | [[Earl Dubcek|Dubcek]], plainly, on the record if asked |
+| Two gunshot wounds, from behind and above; no defensive wounds | The van | [[Ruth Halloran|Halloran]] |
+| Three shots heard, two wounds; the miss is in a piling | The pier | [[Cutty Sloan|Cutty]]; the night baker heard three cracks; the slug |
+| The 2:15 call logged as a drunk | The desk log | [[Aldo Brack|Brack]] (defensive), [[Lorna Feeny|Feeny]] (steno pad), [[Danny Boyd|Boyd]] over coffee |
+| Bare footprints walking in "like Sunday" | The mud; the walk route | A tenant on the route saw her pass at 1:40 |
 
 ### 2. She's one of twelve
 | Clue | Where | Who confirms |
 |---|---|---|
 | "Eleven piles of clothes, no floaters. Till her" | The water | [[Earl Dubcek|Dubcek]] |
-| Nine runs marked *empty* in a glove-box notebook, two with no precinct file | The coroner's van | [[Bets Halvorsen|Bets]], for being asked |
-| Four struck passages, two from folded-clothes inquests, all of them short | The hearing room | [[Adaeze Okonkwo|Okonkwo]], to Blum only |
-| Nine jumper files, folded clothes, one signature each | The precinct | [[Frank Casale|Casale]] (for favors), [[Ruth Halloran|Halloran]] (the memo in her desk) |
-| Eleven claim denials, "suicide exclusion" | Beacon Mutual | [[Nathaniel Pell|Pell]], after he deflates |
+| Nine folded-clothes files, one signature, no dates correlated | The precinct; the van | [[Frank Casale|Casale]] (for cover), [[Ruth Halloran|Halloran]] (the memo in her desk) |
+| Nine runs marked *empty*, two never filed | The coroner's van | [[Bets Halvorsen|Bets]], for being asked |
+| Eleven claim denials under the suicide exclusion | Beacon Mutual | [[Nathaniel Pell|Pell]], after he deflates |
 | Nine years in a coffee can | [[Tin City]] | [[Ottilie Mauser|Ottilie]], for a name |
-| Vera's own list, dated, on the roll and in the notebook | [[August Klein|Klein]]'s shop | Klein; the notebook from Day 2 |
+| Vera's own list, dated, and the card files | [[The Print Shop]] | [[August Klein|Klein]]; the notebook Day 2 |
 | Forwarding addresses to streets that don't exist | The Mission | [[Eli Prosper|Prosper]] |
+| Every pile on the eve of a block clearance, coming faster | The dockets against the files | Whoever lays them side by side. Halloran's worst afternoon |
 
 ### 3. Somebody knew where she'd be
 | Clue | Where | Who confirms |
 |---|---|---|
-| She walked home by the pier every print night after one rye | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]] |
-| Surveillance photos of Vera, dated, her last week | Sato's room | [[Ray Sato]], after he deflates; one frame has a two-tone suit at the edge of the stand |
-| Nightly "observation reports," eight months, in a neat hand | The corner call box | [[Roy Pruitt|Pruitt]] — **hold this**; he doesn't know what they were for |
+| Every prior walker took the same direct route to Pier 9 | The Flats | [[Ottilie Mauser|Ottilie]]'s people; the tenant on the route |
+| Vera at the Half Note on Day −10, watching a sax man | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]]; the matchbook in her coat; [[Mickey Shale|Shale]] saw them notice each other |
+| A long-lens frame through the club window, two-tone suit at the edge of the stand | Sato's room | [[Ray Sato]], after he deflates |
+| Eight months of "observation reports" in a neat hand | The corner call box | [[Roy Pruitt|Pruitt]]. **Hold this.** He doesn't know what they were for |
 | The Authority's calls to the precinct, timestamped | The switchboard | [[Mabel Cho|Mabel]], end of week one |
 
 ### 4. Who knocks
 | Clue | Where | Who confirms |
 |---|---|---|
-| A peppermint wrapper on the planks; peppermint and reed in the air, if you have the nose | [[Pier 9]] | [[Jack Rivers]]'s sense of smell; [[Teddy Ferrante|Teddy]]'s frame before it was stepped on |
-| A two-tone suit at the edge of the cordon, frame nineteen | Teddy's shoebox | [[Teddy Ferrante|Teddy]], before Day 3 or at Weaver's price |
+| Peppermint wrapper under a heel at the rail; peppermint and reed in the air | [[Pier 9]] | [[Jack Rivers]]'s nose; [[Teddy Ferrante|Teddy]]'s frame before it was stepped on |
 | The tune. Toby hums it. Cutty can hum a bar. Okafor knows what it is | Everywhere | [[Dez Okafor|Okafor]], for a promise |
+| SCHULD: the note, the tongue, the Fraktur face | The body; the shop | [[August Klein|Klein]] names the typeface on sight; Okafor or any old-country source translates it |
 | "Very polite, very quiet. Pack the good dishes first" | Every door on the docket | [[Herminia Vega]] on Day 8; families Okafor warned out |
 | "The knocking man." Moved ahead of him nine times | [[Tin City]] | [[Ottilie Mauser|Ottilie]] |
-| A revolver returned, unfired, by "M. Roland," Day 3–4 | Three Balls Loans | [[Solly Grosz|Grosz]], at his price |
-| The sax man who sits in on print nights, never drinks, refuses pay | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]] |
-| "The guy undercutting me" — blocks clearing with no billable incident | Lupo's yard | [[Sal Lupo|Lupo]], furious, hunting the same man |
+| The piling slug → rifling → make and model → a pawn-ledger canvass | Three Balls Loans | [[Solly Grosz|Grosz]]. Fast players wait for the return; slow ones get the ledger after |
+| A revolver returned by "M. Roland," Day 3–4 | Three Balls Loans | [[Solly Grosz|Grosz]]: "Who returns a revolver?" |
+| The sax man who sits in Thursdays, never drinks, refuses pay, and has played flat since | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]]; the bandleader |
+| A two-tone suit at the edge of the cordon, frame nineteen | Teddy's shoebox | [[Teddy Ferrante|Teddy]], before Day 3 |
+| "The guy undercutting me" | Lupo's yard | [[Sal Lupo|Lupo]], furious, hunting the same man |
+| The last image in her eyes: a silhouette at a rail, a slim case, a streetlight behind | The body | Gated: the right Mythos, or Okafor's rite |
 
 ### 5. It's policy
 | Clue | Where | Who confirms |
 |---|---|---|
 | Routing stamps in two hands; initials G.F. | The clearance ledger | [[George Oyama|Oyama]] reads them; [[Gerry Fitch|Fitch]] owns them |
-| "He signs on Tuesdays. Stacks." Drawer numbers | The settlement house | [[Ida Maas]] — stopped, not destroyed |
+| "He signs on Tuesdays. Stacks." Drawer numbers | The settlement house | [[Ida Maas]]: stopped, not destroyed |
+| Eleven minutes for forty families | The Model Room door | [[Lou Padgett]], Day 6 onward |
 | The disregard order, timestamped, "a rhythm with money in it" | Dispatch | [[Lorna Feeny|Feeny]], with cover |
 | Transition-assistance checks, canceled | The Mission | [[Eli Prosper|Prosper]] |
-| Stipend list routed through precinct captains | Brogan's club | [[Maeve Brogan|Brogan]], once she's sure they're not after her |
-| Site schedule accelerating toward demolition eve | The Authority field office | [[Lou Padgett]] |
+| The stipend list routed through precinct captains | Brogan's club | [[Maeve Brogan|Brogan]], once she's sure they're not after her |
+| Abatement line items with no receiving records, priced above any legitimate service | The Authority's books | Ida; Milner's ledgers sideways |
+| The model runs ahead of reality | [[The Model Room]] | Anyone who's had the tour |
 
 ### 6. Who authored it
 | Clue | Where | Who confirms |
 |---|---|---|
-| Shale's slip, Day −14, at the bar; Herzog's relay upstairs | [[The Half Note]] | [[Mickey Shale|Shale]] (the letter, Day 10), [[Walt Herzog|Herzog]] (the arithmetic), [[Amalia Reyes|Doc Reyes]] and [[Jack Rivers]] were three stools down |
+| Shale's slip, Day −14; Herzog's relay upstairs | [[The Half Note]] | [[Mickey Shale|Shale]] (the letter), [[Walt Herzog|Herzog]] (the arithmetic), [[Amalia Reyes|Doc Reyes]] and [[Jack Rivers]] were there |
+| Vera's photo request in the morgue log, six weeks out | [[The Weaver Building]] | The morgue clerk; the log |
 | A payment chain into a subsidiary nobody can reconstruct, flagged in margin hand | Spindle & Milner | [[Greta Milner|Milner]], in writing, at her price |
-| The shape of Weaver's traffic; Day's on-air call | The Exchange | [[Hal Rimm|Rimm]], for the right question; [[Mabel Cho|Mabel]] for the route |
+| The shape of Weaver's traffic; the ordering call, laundered | The Exchange | [[Hal Rimm|Rimm]], for the right question; [[Mabel Cho|Mabel]] for the route |
 | "A resourceful girl is a tool you keep sharp" | On air | [[Gerry Fitch|Fitch]] cracks when she hears it quoted |
-| She was always like this. Before the money | Little China | [[Fen Baiyun]], if [[Zu Cheng]] kneels |
-| She never hums. Her heels sound like more than two feet | Any room she's in | [[Zu Cheng]] sees it; [[Jack Rivers]] smells it |
+| She was always like this, before the money | Little China | [[Fen Baiyun]], if [[Zu Cheng]] kneels |
+| She never lies. She never hums. Her heels sound like more than two feet | Any room she's in | [[Zu Cheng]] sees it; [[Jack Rivers]] smells nothing at all |
 
 ## The Mythos war
 
-The surface story is a redevelopment murder. The story underneath is a bargain coming due. Both are true; the players solve the first one and, if they're paying attention, understand the second. Nobody in the City sees the second layer except the investigators and a handful of people who've been touched by it. See [[Mythos]] for the figures and their powers in play.
+The surface story is a redevelopment murder. Underneath, a bargain coming due. See [[Mythos]].
 
-**Weaver doesn't want the land.** Maas wants the land. Weaver wants the *telling*. The Flats is the last district in the City that keeps its own record out loud, on a roll, in a coffee can, on a wire, in a mimeographed weekly. Owning every story means no story may exist she doesn't own. The clearances are her opportunity, not her motive. That is why her collection is a list of records, why she buys before she drowns, and why Vera, the one person who could operate her own archive, went in the water.
-
-**Bunting was never paid.** The Authority contracted him to clear the docket. Payment, in the myth, was withheld; here, payment is recognition, and he has never received it. The tune is his only art anyone has ever obeyed. He collects on schedule because the ledger is the only thing that has ever been fair to him. Vera broke it.
-
-**Maas was made golden by television.** Weaver's coverage turned a competent commissioner into a monument. Everything he touches turns to plan. The price of the touch is that he cannot see a tenant as a person, and the daughter who left is the statue he cannot bring back. The invoice is the wedge because it's the one thing he has to touch with his own hands.
-
-**The tune is a beacon as well as a weapon.** [[Toby Small|Toby]] carries it between the tower and the roots the way Ratatoskr carries insults. Hummed, it does nothing (table rule). Heard by Bunting, it says where the story is. Every scene where Toby hums in public moves the second-issue clock.
-
-**The court is older than the case.** The agency works for the County Coroner, who is [[The Judge]]: Enma-ō, whose court should hear every death in the City. Twelve went unheard, and unheard souls don't stay lost; something else collects them. That is the war behind the war, and Weaver and Bunting are feeding it without knowing. The folded clothes are a crossing rite performed without his court: clothes taken for a journey, nothing weighed, no name read. [[Esther Blum|Blum]] can read that sentence; [[George Oyama|Oyama]] can tell you what order it was written in. The referral that put the agency on the case said *unheard*. The verdict slip that closes it says *heard*, and it arrives only after someone reads a name aloud on the record. The players never meet him. They will notice the cold, the signature, and the empty chair.
-
-**The river takes sides.** It gave Vera back. It has never given anyone back. [[Cutty Sloan|Cutty]] calls it "she" and is correct. If the players are on the pier the night of Day 9 with the Tower, the Monkey, and Coyote, the river is a witness that can be called.
+- **Weaver doesn't want the land.** She wants the telling. The Flats is the last district that keeps its own record out loud. Renewal burns the library. Vera was committing organized, publishable theft: writing it down.
+- **Bunting was never paid.** Rift rule: he will never be paid for the music, only the removal. He collects from the poor on behalf of the rich because the real debtors are uncollectable and tenants aren't. That's the line sympathy doesn't cross.
+- **Maas has donkey ears.** He can't tell good counsel from bad, which is why Fitch owns his ear. The Model Room touch is marginally literal.
+- **The tune is a beacon as well as a weapon.** Hummed, it does nothing (table rule). Heard by Bunting, it says where the story is.
+- **The river takes sides.** It gave Vera back.
+- **The court is older than the case.** The agency works for the County Coroner, who is [[The Judge]]: Enma-ō, whose court should hear every death in the City. Twelve went unheard, and unheard souls don't stay lost; something else is collecting them. Where the collected *go* is deliberately unresolved. Bunting may believe something about it ("resettled") he's never verified either.
 
 ## The case watches back
 
-Every scene the players play is seen by somebody, and that somebody tells somebody. Run this as a table habit: after each scene, ask *who saw this, and who do they tell?* Then move a clock.
+After each scene: *who saw this, and who do they tell?* Then move a clock.
 
 | Watcher | Sees | Tells | It changes |
 |---|---|---|---|
-| [[Roy Pruitt|Pruitt]] | Everything they examine, everyone they talk to. From Day 1 | The corner call box, nightly | [[Gerry Fitch|Fitch]] knows their route by morning |
-| [[Gerry Fitch|Fitch]] | Assigned as Authority liaison, Day 2. "Full cooperation" | [[Vivian Weaver|Weaver]], by memo | The paper column on the [[Danger Board]] moves |
-| [[Ray Sato|Sato]] | Tails them, because they're tailing the people he's tailing | Nobody. He acts | Ricochet risk climbs |
-| [[Sal Lupo|Lupo]]'s crew | Turns up wherever the clues point, one step ahead or behind | Lupo | He finds Bunting first unless slowed |
-| [[Maeve Brogan|Brogan]] | Any request that touches the Authority | Her captains; then stalls | Records take a week instead of a day |
+| [[Roy Pruitt|Pruitt]] | Everything they examine, from Day 1 | The corner call box, nightly | Fitch knows their route by morning |
+| [[Gerry Fitch|Fitch]] | Everything Pruitt reports; liaison from Day 2 | Weaver, in anecdotes; she's learning the master's grammar | The overreach, week 1–2. If squeezed she escalates; in the dangerous branch she warns Bunting |
+| [[Ray Sato|Sato]] | Tails them | Nobody. He acts | Ricochet |
+| [[Sal Lupo|Lupo]]'s crew | Wherever the clues point | Lupo | He finds Bunting first unless slowed; tears apart a location the players needed |
+| [[Maeve Brogan|Brogan]] | Any request that touches the Authority | Her captains | Records stall; the inquest date moves |
 | [[Hal Rimm|Rimm]] | Every call from the office | Nobody, yet | He knows what to ask them when they arrive |
-| [[Nathaniel Pell|Pell]] | Any visit to a bereaved family | His route book | The families hear the agency is asking |
-| [[Teddy Ferrante|Teddy]] | Everything at the pier, on film, before anyone edited it | Whoever pays ten a print. Weaver's paper, Day 3, unless the players ask first | The crowd frames, and frame nineteen, change hands |
-| [[Amalia Reyes|Doc Reyes]] | Who drinks with whom | [[Jack Rivers|Jack]], if he asks | Bunting learns the agency is at the Half Note the night they walk in |
+| [[Teddy Ferrante|Teddy]] | The pier, on film | Whoever pays ten a print | The crowd frames change hands Day 3 |
+| [[Amalia Reyes|Doc Reyes]] | Who drinks with whom | Jack, once | Bunting counts them from the stand the first Thursday they're in the room |
 
-**Weaver's counter-moves, in order.** Day 2, Fitch arrives with a box of "everything relevant." Day 5, an invitation: tea at the studio, a column offered to [[Jack Rivers]] (Coyote and Anansi are cousins; she'd rather own him than fight him). Day 3, the paper buys Teddy's crowd frames. Day 7, the first phone call to [[Whitcombe Ard]] on the county board (see [[County Coroner]]). Day 9, if Herminia is saved, Weaver stops being careful: someone from the paper column turns up in the water column. That's the loudest signal in the arc.
+**Weaver's moves, in order.** Day 1: page-7 drowning, "local character," a light joke in the afternoon monologue. Days 2–4: learns via Pruitt and Fitch that an agency, not Homicide, holds it; a friendly feature writer starts asking who these investigators are. Day 3: her paper buys Teddy's crowd frames. Day 5: the invitation, Studio B, a column offered to Jack. Day 7: the call to [[Whitcombe Ard]]. Weeks 3–4 if pressed: narrative violence, never physical. Cutty smeared in print, Halloran's competence questioned, the agency's mandate challenged. Fitch treated as disposable, which is what cracks her. Day 9, if Herminia is saved, Weaver stops being careful.
+
+## Reactive schedules
+
+What each figure does if nobody interferes. Full text in [[The Rat Line (draft-2)]].
+
+- **Bunting.** Day 1 routine; reads *body recovered* at noon and knows what it means. Days 2–3 the Next Pile on its eve; scouts Toby's block, tips the kid his dime; plays flat Thursday. Day 3–4 the gun return. Week 2 visits Klein's, just looking. Week 2 onward: the make-good is the archive (fire or theft), which wakes the Golem; then Toby's block on its eve. Cornered, he negotiates. What he asks for is what he's owed, and no one can pay it.
+- **Maas.** Nothing until the Day 14 hearing. If the pattern surfaces: Authority lawyers and an internal "audit," which Fitch runs and uses to purge and plant. The gap between what he ordered and what she executes is evidence. Flip window only after Tier 2.
+- **Fitch.** Days 1–3 monitors through Pruitt. Week 1–2 inserts herself as liaison with sanitized records. Squeezed: obstruction through Brack and Pruitt, and possibly a warning to Bunting. Cracks only on proof Weaver finds her disposable.
+- **Rimm.** Day 1 pulls last night's reels into the separate rack. Becomes more available as the ribbon-cutting nears, not less.
+- **Toby.** Grieving at the cordon Day 1, humming. Harmless-seeming for two weeks. Final week: distraction, the tune constant, one night found at the canal rail confused about how he got there. Demolition eve, ~2 a.m., the walk.
+- **Shale.** Writes the honest obituary Day 1; it's spiked. Letter Day 4–5; sits on it. Opens it Day 10. Weeks 2–3 learns his brag killed her. Source or casualty, depending who reaches him first.
+- **Klein.** Shop closed Day 1, first time anyone remembers. Shown the cigarette note, produces everything in writing. If the archive is attacked, the Golem wakes: sudden, enormous, protective, and it exposes his emet to anyone watching.
+- **Ottilie.** Lockdown Day 1. Respected: the can, the witness, the pattern. Condescended to: a wall. Told too much: she marches on the Piper herself, and mice against the piper is a massacre.
+- **Halloran.** Days 1–3 revisions. If prompted on the dates, she runs it and becomes an ally at risk; the inquest is her deadline as much as theirs.
+- **Prosper.** Day 6–8 the break-in at Klein's.
+- **Mabel.** Reaches out by end of week one. At risk from Day 10 if Fitch senses the Exchange leaking.
+- **Pruitt and Brack.** Pruitt reports nightly; catching him is cheap and rich. Brack digs in; Boyd is the soft route around him.
+
+## Floating events
+
+Drop when momentum dips. Each delivers a clue.
+
+- Toby's humming gets noticed by the party or by Klein.
+- Fitch overreaches, unasked.
+- Shale learns his slip killed her, or the letter surfaces.
+- A second collection proceeds on schedule somewhere in the Flats.
+- The ribbon-cutting moves *up*.
+- Lupo's crew tears apart a location the players needed intact.
+- Sato is spotted tailing them, or caught breaking into Vera's rooms.
+- Brogan moves the inquest date, either direction.
+- Day devotes a morning commentary to "amateur detectives troubling a grieving city." Weaver sends him flowers about it.
+- Pell is seen leaving flowers at Pier 9 at dawn and lies badly about it.
+- Milner calls a loan on someone the players need (Klein's press, Sato's room, the Half Note's lease) for balance-sheet reasons that look exactly like a conspiracy.
 
 ## What each PC gives the agency
 
-[[Odessa Cole|Cole]], [[Esther Blum|Blum]], and [[George Oyama|Oyama]] can read paper, hold a mandate together, and find one more day. Blum and Oyama are court officers, not field agents; they see what crosses their desk, not what's on the pier. Cole sees nothing uncanny at all, by design. None of them can walk into Tin City or sit at the Half Note without being made. The three were chosen because each once stood at the river and was sent back; the Judge saw what they were at the crossing.
+[[Odessa Cole|Cole]], [[Esther Blum|Blum]], and [[George Oyama|Oyama]] read paper, hold the mandate, find one more day. None of them can walk into Tin City or sit at the Half Note without being made. The three investigators were chosen because each once stood at the river and was sent back.
 
-- [[Arthur Rook]] sees through it. The Tower reveals what's false and holds a door. He's also the only one Vera ever asked for help, three weeks ago, and turned down. See [[Plot Threads#Player threads]].
-- [[Zu Cheng]] can stand on the pier when the tune plays and not fold. He is Little China's route to the Exchange ([[Mabel Cho|Mabel]]'s mother is in the temple's care) and the one person who can ask what the Zhu family bought when it paid for the temple roof.
-- [[Jack Rivers]] smells the peppermint. Coyote is the herald; the rats under the ramp will talk to him; and he was three stools down when [[Mickey Shale|Shale]] said the wrong thing to the wrong editor. He is the second witness to the tip chain and doesn't know it yet.
+- [[Arthur Rook]] sees through it. The Tower reveals what's false and holds a door. Vera hired him on Day −19 to find who was following her; he found Sato and never told her.
+- [[Zu Cheng]] can stand on the pier when the tune plays and not fold. Little China's route to Mabel; the one who can ask what the Zhu roof cost.
+- [[Jack Rivers]] smells the peppermint. The rats under the ramp talk to him. He was three stools down from the slip.
 
 ## Endgame shape
 
-Not scripted. Three platforms exist for someone to read a name aloud on the record: the inquest ([[Ruth Halloran|Halloran]] with her spine located, [[Esther Blum|Blum]] recasting it), the pulpit ([[Eli Prosper|Prosper]], four hundred on a Sunday), and the ribbon-cutting ([[Hal Rimm|Rimm]]'s eleven hours; [[Preston Day|Day]]'s microphone, the one Weaver doesn't own). Maas breaks when he learns Weaver filled the Ida gap without telling him. Bunting stops when the ledger is settled or when someone finally listens to the solo. Weaver is never arrested. She is *named*, and a name is the one thing Anansi can't buy back.
+Not scripted. Three platforms exist for a name to be read aloud on the record: the inquest (~Day 10; Halloran with her spine located, Blum recasting it, [[Adaeze Okonkwo|Okonkwo]] typing), the pulpit (Prosper, four hundred on a Sunday), and the ribbon-cutting (~Day 37; Rimm's horn, Day's microphone, Weaver's own cameras). Maas breaks on betrayal. Bunting stops when the ledger is settled or when someone finally listens to the solo. Weaver signed nothing; she is never arrested. She is *named*, and the legend collects from the true debtor.
+
+## Deliberately unresolved
+
+- Where the collected go (the door under the water, the mountain).
+- The hidden card-drawer file's location.
+- What Ida has, and whose side she takes.
+- What Weaver traded the sky god, and whether the sky god remembers.
+- Whether Rimm's horn, blown, is only a testimony.
+- What Bunting believes happens to the people he walks.
+- What is collecting the unheard dead, across arcs.

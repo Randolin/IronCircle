@@ -11,27 +11,29 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 
 *Update this block at the end of every working session. It is the cross-session memory.*
 
-**As of 2026-09-04.**
+**As of 2026-09-05.**
 
-**Locked:** campaign name; the three-layer culprit structure (Bunting → Maas → Weaver); tiers by relationship to the killings; the danger board by actor; the roster (39 notes) in [[People]]; Suno cues and image prompt conventions; the wiki layout; three PCs with backgrounds, drives, and connections; **[[The Case]]** — what happened on the pier, the Mythos war, the clue web (six conclusions, three routes each), and the watchers table; Day 1 = the 1st; the agency's name, history, retainer ([[County Coroner]]) and fourth staffer ([[Pearl Nazario]]); four PC-adjacent NPCs ([[Lou Padgett]], [[Fen Baiyun]], [[Amalia Reyes]], Pearl) and [[The Half Note]]; player threads in [[Plot Threads]]; [[Session 01]] planned with read-aloud blocks; **[[The Judge]]** (Enma-ō) is the County Coroner; the agency is his inquest firm, staffed from mixed traditions (Blum = Hammurabi, Oyama = Thoth, Cole deliberately Logos); beyond-arc threads (the stolen dead, the empty chair, Cole's count); the Coroner's office cast ([[Ansel Morrow]], [[Bets Halvorsen]], [[Teddy Ferrante]], [[Adaeze Okonkwo]], [[Whitcombe Ard]]).
+**Locked:** the original doc is recovered ([[The Rat Line (draft-2)]]) and [[The Case]] is reconciled to it (three shots, Bunting's gun, Day −10 infection, SCHULD and the black eyes, the five clocks); rules are Daggerheart; campaign name; the three-layer culprit structure (Bunting → Maas → Weaver); tiers by relationship to the killings; the danger board by actor; the roster (39 notes) in [[People]]; Suno cues and image prompt conventions; the wiki layout; three PCs with backgrounds, drives, and connections; **[[The Case]]** — what happened on the pier, the Mythos war, the clue web (six conclusions, three routes each), and the watchers table; Day 1 = the 1st; the agency's name, history, retainer ([[County Coroner]]) and fourth staffer ([[Pearl Nazario]]); four PC-adjacent NPCs ([[Lou Padgett]], [[Fen Baiyun]], [[Amalia Reyes]], Pearl) and [[The Half Note]]; player threads in [[Plot Threads]]; [[Session 01]] planned with read-aloud blocks; **[[The Judge]]** (Enma-ō) is the County Coroner; the agency is his inquest firm, staffed from mixed traditions (Blum = Hammurabi, Oyama = Thoth, Cole deliberately Logos); beyond-arc threads (the stolen dead, the empty chair, Cole's count); the Coroner's office cast ([[Ansel Morrow]], [[Bets Halvorsen]], [[Teddy Ferrante]], [[Adaeze Okonkwo]], [[Whitcombe Ard]]).
 
 **Open:**
 
-- **System.** City of Mist base with Daggerheart-shaped builds ([[System Notes]]). Hybrid deferred; NPC stat blocks stubbed.
-- **Session 1 date and who's present.** Then play it.
+- **System.** Daggerheart, locked. Stat blocks built as scenes need them ([[System Notes]]).
+- **Session 1 is tomorrow-ish.** Five calls in [[Session 01#Open decisions]]: press-shop combatants, Piper on or off stage, tongue word, the encampment's sympathetic face, stat blocks. Then the clue handout.
 - **Weaver's studio scene (Day 5)** and the column offer to Jack: not yet written. Needs a read-aloud block and her exact offer.
 - **The pier on Day 9** if the players are there with Herminia: the river as witness, the Tower holding a door, the Monkey not folding. Mechanics undefined until the system settles.
 - **Stat blocks** for Bunting and Klein at minimum before Day 8.
 - **PC looks** are placeholders until the players confirm; pronouns blank.
 
-**Next:** run session 1. Before it: write Weaver's Day 5 scene and a one-page GM cheat sheet of the Day 1–4 clocks.
+**Next:** make the five calls, stat the guaranteed fight and the rat swarm with `daggerheart-forge`, write the clue handout, run session 1.
 
 ## Files
 
 | Note | What it is |
 |---|---|
 | [[Party]] | The investigators (public) |
-| [[The Case]] | The campaign doc: what happened, the Mythos war, the clue web, who's watching |
+| [[The Case]] | The campaign doc, current: what happened, gates, clue web, schedules, floating events |
+| [[The Rat Line (draft-2)]] | The recovered original, archived verbatim. Read it once |
+| [[1962]] | Period rulings the players will force |
 | [[Plot Threads]] | The three layers, the clocks, the intrigue, and the player threads |
 | [[Danger Board]] | Who's at risk next, sorted by who wants them gone. Reread every session |
 | [[Decisions]] | Dated log of what's locked and why |

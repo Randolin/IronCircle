@@ -130,6 +130,9 @@ The Coroner's office, which the agency works for:
 
 The agency's name, history, and retainer are in [[The Agency]] and [[County Coroner]].
 
+> [!note] The recovered original
+> Every note in this folder was migrated from the draft-1 roster. The draft-2 campaign doc is archived at [[The Rat Line (draft-2)]]; reconciliation notes are in [[Decisions]] under 2026-09-05.
+
 ## Stat blocks
 
 Every note carries a `<!-- daggerheart-forge -->` comment saying what the block should do. Run `/adversary` passes once [[System Notes|the system question]] settles.

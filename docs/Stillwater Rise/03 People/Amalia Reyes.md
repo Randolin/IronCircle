@@ -18,21 +18,22 @@ aliases:
 
 > *The Half Note.*
 
-**Pitch:** Owns the Half Note. Ex-nurse. Bunting sits in with her house band on print nights. Jack's one door that doesn't cost.
+**Pitch:** Owns the Half Note. Ex-nurse. Bunting sits in with her house band on Thursdays. Jack's one door that doesn't cost.
 **Wants:** The Half Note kept out of it.
-**Gives:** Bunting by sight, Vera's last route, and the bar slip corroborated. One straight answer for Jack.
+**Gives:** Bunting by sight; Vera watching the stand on Day −10; the bar slip corroborated. One straight answer for Jack.
 
 ## Detail
 
 - **Look:** Puerto Rican woman, mid-forties, hair pinned under a folded bandana, sleeves rolled, strong forearms, bar towel on one shoulder. One gold hoop; the right earlobe is notched.
 - **Manner:** Wipes the bar in front of whoever's talking. Cuts people off at three. Knows the band's names and none of the customers'. Suture kit under the register next to the bat.
-- **The sax man:** 'Sits in Thursdays. Never drinks, won't take the twenty. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit.'
+- **The sax man:** 'Sits in Thursdays. Never drinks, won't take the twenty. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit. He's played flat two weeks running.'
+- **Vera:** in once, Thursday before last (Day −10), alone, one drink she didn't finish, watching the stand. Not a regular. The matchbook in her coat is from that night.
 - **The slip:** 'Shale said it to Herzog right where you're sitting. You were three stools down, Jack. You were laughing at something.'
 - **Danger:** the first Thursday the agency is in the bar, Bunting counts them from the stand.
 
 **Voice:**
 - [to Jack]: "You're in early. That means it's work. Sit at the end, you're blocking the tap."
-- [Vera]: "One rye, print nights. Tipped a dollar on a forty-cent drink and walked home by the pier because the pier was lit. I told her the pier was lit for the *pier*."
+- [Vera]: "Once. Thursday before last. Sat where you're sitting and watched the stand like it owed her money. Didn't finish her drink. I told her the pier was lit for the *pier*, and she said she knew."
 - [the sax man]: "Sits in Thursdays. Sits in like he's always been sitting in. Never drinks, won't take the twenty, tips the band out of his own pocket. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit."
 - [the slip]: "Shale said it to Herzog right where you're sitting, two weeks before she went in. *She's got a list, Walt, names, she's going to print it.* Loud. You were three stools down, Jack. You were laughing at something."
 

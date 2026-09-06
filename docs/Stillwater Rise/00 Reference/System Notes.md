@@ -7,6 +7,8 @@ aliases: ["System Notes", "City of Mist"]
 
 How the table runs Stillwater Rise mechanically. Kept out of character notes so the fiction survives a rules change.
 
+**Rules: Daggerheart, locked (2026-09-05).** City of Mist supplies the premise (Logos and Mythos, the Mist, the Rift); Daggerheart supplies the dice. NPC stat blocks get built with `daggerheart-forge` as scenes need them.
+
 ## The base
 
 **City of Mist.** Every character is two things at once:
@@ -25,7 +27,7 @@ Character builds borrow **Daggerheart** structure for both halves. Each side get
 | Logos | one Daggerheart class, human-scale only | what the mundane self has done | read literally (a Ranger's aim, a Bard's patter) |
 | Mythos | one Daggerheart class (Void classes and transformation templates allowed) | what the legend knows | read mythically (a Wizard's *Fireball* is the Tower falling) |
 
-The Hope/Fear economy is the table's current read on Logos/Mythos tension; a fuller Daggerheart / Fabula Ultima hybrid was discussed and deliberately set aside. Until it settles, NPC stat blocks are stubbed — each character note carries a comment saying what the block should do.
+The Hope/Fear economy is the table's read on Logos/Mythos tension. A Daggerheart / Fabula Ultima hybrid was discussed and set aside; Daggerheart as written is the rules. Stat blocks are built as scenes need them; each character note says what the block should do.
 
 ## Conventions
 

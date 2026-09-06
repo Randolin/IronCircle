@@ -27,6 +27,7 @@ aliases:
 - **Manner:** Answers every question with a true story that's beside the point. Remembers your name and one embarrassing fact. Never hums. Her heels on marble sound like more than two feet.
 - **Empire:** paper, radio hour, afternoon TV, Channel 6, assembled from silk money in six years through acquisitions nobody can reconstruct. Real name Vivian Zhu; Little China's old money paid for a temple roof in 1957.
 - **Her moves:** Day 2 Fitch as liaison; Day 3 buys Teddy's crowd frames; Day 5 tea and a column for Jack; Day 7 the call to Ard; Day 9 if Herminia is saved, she stops being careful.
+- **She never lies.** Every question gets a true story that leads elsewhere. Interviews feel like winning until the transcript is read back.
 - **Ending:** never arrested. Named, out loud, on a platform she doesn't own.
 - **Stat block:** endgame; narrative warfare; never initiates violence.
 

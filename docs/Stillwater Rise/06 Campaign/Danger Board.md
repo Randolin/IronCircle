@@ -23,7 +23,9 @@ The two interlock: Weaver decides, Bunting performs. A name on her water column 
 
 | Name | Why he opened the line | Window |
 |---|---|---|
+| **The Next Pile** | A holdout block clears on schedule. A name from Vera's archive, one the players may have just read on a card. The pattern is running | Day 2–3 |
 | **Herminia Vega** | She's on the docket. No trigger required, no animus involved, no decision to reconsider. | Knock Day 8, pier Day 9 |
+| **Toby Small** | His block is on the docket. The tune was planted directly. | Demolition eve, ~Day 18–20 at first posting; the hearing or Fitch can pull it earlier |
 | **Dez Okafor** | From Day 4 the warnings empty blocks ahead of schedule. A docket running fast is a docket running wrong, and wrong opens a line. | Day 10 onward |
 | **The players** | Any interference that costs him a clearance. He will say so first, plainly, and give them a chance to withdraw. | Whenever they earn it |
 

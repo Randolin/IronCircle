@@ -25,6 +25,8 @@ aliases:
 - **Look:** White woman, late thirties, tailored skirt suits a notch too sharp for a contracts office. Neat short dark hair. Fountain pen always visible.
 - **Manner:** Volunteers help before it's asked. Repeats the last three words of powerful people's sentences. Never lends the pen. Touches her collar when improvising.
 - **Recruited** by Weaver learning her first name and quoting her on TV. Maas calls her 'my girl.'
+- **The line item:** she drafted the abatement entry naming Vera and forged the routing to look Authority-internal. The one arrestable neck in the chain.
+- **Under pressure she doesn't fold, she gets ambitious.** Liaison, sanitized records, then obstruction. Dangerous branch: she warns Bunting. Cracks only on proof Weaver finds her disposable.
 - **Money:** dresses above her salary on a Milner loan. Looks like conspiracy; is a lender spotting a climber.
 - **Stat block:** minion-tier schemer; obstruction, paperwork, panic.
 

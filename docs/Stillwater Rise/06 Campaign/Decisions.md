@@ -5,7 +5,7 @@ aliases: ["Decisions", "Decisions Log"]
 ---
 # Decisions
 
-Dated record of what's locked and why. Newest at the bottom. Reconstructed from three chat sessions (Aug 20–22, 2026) at migration; entries before 2026-09-03 are from memory and chat summaries — the original campaign doc is lost; these entries are now the record.
+Dated record of what's locked and why. Newest at the bottom. Reconstructed from three chat sessions (Aug 20–22, 2026) at migration; entries before 2026-09-03 are from memory and chat summaries. The original campaign doc was recovered on 2026-09-05 and archived as [[The Rat Line (draft-2)]].
 
 ## 2026-08-20 — Foundations
 
@@ -63,3 +63,20 @@ Dated record of what's locked and why. Newest at the bottom. Reconstructed from 
 - **Third cut (same day):** the Judge IS the County Coroner, Ambrose Yanagi, elected unopposed, never photographed, paper only. The Auberon Trust is gone; the agency's cover and weakness is the Coroner's county budget line. Blum recut from Daniel to Hammurabi. **The Judge's real motive:** souls that die unnamed never reach his court and something else is collecting them; Weaver and Bunting feed it unknowingly. That thing is the campaign's long villain, unnamed.
 - **Coroner's office cast added** so the structure isn't four bureaucrats: [[Ansel Morrow]] (chief clerk, the only one who's been in the room, undecided what he is), [[Bets Halvorsen]] (wagon driver, Charon's daughter, the glove-box notebook: nine *empty* runs, two unfiled), [[Teddy Ferrante]] (scene photographer, twenty-two frames, Weaver buys the crowd frames Day 3), [[Adaeze Okonkwo]] (inquest stenographer, the finale's record, four struck passages), [[Whitcombe Ard]] (finance chair, one vote, beaten by embarrassment). Renamed from Kowalski to avoid Kowalczyk.
 - **The folded clothes are the seam:** Bunting's tune is a crossing rite run without the court. That's the mythic reason the Judge opened this docket.
+
+## 2026-09-05 — The original doc, recovered
+
+- **[[The Rat Line (draft-2)]] found** and archived verbatim. It is canon wherever The Case was silent; The Case is current where a dated decision overrode it. Reconciliation applied:
+  - **The shooting:** three .38 shots (shoulder, a miss into a piling, back of the head), not a blow. The gun is **Bunting's**, bought from Grosz as *M. Roland*; Vera never bought a gun. Returned Day 3–4.
+  - **The infection:** tune planted Day −10 at the Half Note while Vera surveilled him. Days −9 to −4 incubation; she investigated her own humming (Mabel, Okafor, Klein). Day −3 hid the card-drawer file; Day −2 cut the stencil; Day −1 mailed the letter.
+  - **On the body:** glasses on, pencil, hearing dress; Chesterfields with the SCHULD note and *AK — check the roll*; Half Note matchbook; key ring with an unmarked key; a dime. One rye at home around midnight, not at the bar.
+  - **The marks:** SCHULD debossed on the tongue in Fraktur; eyes solid black; film fogs at the eyes. Added to the clue web.
+  - **The delay:** 2:07 call box, 2:15 Brack, 2:40 car 6, 2:47 disregard, 5:50 Dubcek.
+  - **Clocks restored:** the Next Pile Day 2–3; inquest ~Day 10; condemnation hearing ~Day 14; Toby's demolition eve ~Day 18–20 (movable); ribbon-cutting ~Day 37. Toby's Day 11/13 issues stay.
+  - **Vera's nickname origin:** age eight, live mic, the televised model unveiling; Roan coined it.
+  - **Weaver never lies. Maas has donkey ears. Fitch drafted the line item and forged the routing.**
+  - Places added: [[The Weaver Building]], [[The Model Room]], [[The Print Shop]]. Period cheat sheet as [[1962]].
+- **Deliberate deviation kept:** Shale's Day −14 slip happens at the Half Note (draft-2: "at the paper") so Jack's thread and Doc Reyes's corroboration work.
+- **Rules: Daggerheart, locked.** City of Mist is the premise, Daggerheart the dice.
+- **Session 0/1 shape (Aaron):** intro and drive → crime scene → three doors (press shop, Tin City, Half Note), each with an investigation and a possible fight, one fight guaranteed. Opening: Cole already at the pier on the phone. Round-robin questions on the drive.
+- **Open, Aaron to call:** press-shop combatants (Fitch's crew / Renewal security / Lupo's crew; lean Lupo); Piper absent from the club on Day 1 (lean absent); tongue word SCHULD vs. a number; the sympathetic next-victim NPC at the encampment; stat blocks; the clue handout.

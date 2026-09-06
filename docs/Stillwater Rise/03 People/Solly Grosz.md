@@ -16,7 +16,7 @@ aliases:
 
 > *Three Balls Loans.*
 
-**Pitch:** Pawnbroker who sold Vera the .38 and gets it back on Day 3 or 4 from a man calling himself M. Roland.
+**Pitch:** Pawnbroker who sold a .38 to a polite man in a two-tone suit calling himself M. Roland, and gets it back from him on Day 3 or 4. Who returns a revolver?
 **Wants:** Payment, at his price, until someone says out loud what's happening in his shop.
 **Gives:** the gun, its buyer, its return.
 
@@ -25,7 +25,8 @@ aliases:
 - **Look:** Round-shouldered white man, late sixties, bald crown with a wild gray fringe, jeweler's loupe pushed up like a third eye. Banker-striped sleeves with garters.
 - **Manner:** Appraises everything that walks in, including you, visibly. Answers questions with prices. Polishes whatever's in his hands. Never forgets a face, a serial number, or an insult.
 - **The crack:** his uncle's shop had a word painted on it in 1938; he swept the glass at nine. Name what's happening in his shop out loud and he gets the book.
-- **M. Roland:** a man returned a revolver. 'Who returns a revolver? Money-back is for toasters.'
+- **M. Roland:** the alias, buying and returning. Roland: another man famous for a horn. If a player catches it, let it land.
+- **The intercept:** piling slug → rifling → make and model → pawn-ledger canvass. Fast players are waiting when he returns it; slow ones get the ledger and a description with dates bracketing the murder.
 
 **Voice:**
 - [commerce]: "Everything in this shop has two prices — what it costs, and what it cost somebody. You're asking about the second kind. That's the expensive shelf."

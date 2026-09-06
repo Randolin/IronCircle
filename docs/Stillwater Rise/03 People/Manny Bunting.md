@@ -27,7 +27,10 @@ aliases:
 - **The tune:** four descending notes. Marks undress, fold, square the pile, walk into still water. Works on anyone who can imagine a far shore.
 - **Ledger logic:** two ways onto it: the docket, or interfering with a collection. He'll say so first and offer a chance to withdraw.
 - **Okafor:** he doesn't want him dead (being known is the closest thing to recognition he's had) and will collect him anyway. That conversation is the best window into stopping him.
-- **Sits in** with the Half Note house band on print nights. Never drinks, refuses pay.
+- **The night:** planted the tune in a solo Day −10; attended the collection Day 0; when the passage failed, fired three times (shoulder, a miss into a piling, back of the head). First body in forty years.
+- **The gun:** his. A .38 bought from Grosz as *M. Roland*. In his coat, then a coffee can. Returns it Day 3–4 because throwing away money isn't in him.
+- **Sits in** with the Half Note house band on Thursdays. Never drinks, refuses pay. Has played flat since Vera.
+- **Make-good:** week 2 onward, the archive (fire or theft), which wakes the Golem. Then Toby's block on its eve.
 - **Stat block:** solo tier; compulsion tune; negotiation, not combat.
 
 **Voice:**

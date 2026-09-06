@@ -15,7 +15,7 @@ completeness: complete
 
 > *The victim.*
 
-**Pitch:** Ran a mimeographed weekly out of a print shop. Spent eight months on people who were 'relocated' and never arrived anywhere. The Piper's tune failed on her, so he hit her. She is the case.
+**Pitch:** Ran a mimeographed weekly out of a print shop. Spent eight months on people who were 'relocated' and never arrived anywhere. The Piper's tune took her to the water and failed there, so he shot her. She is the case.
 **Wants:** In life: one official body to read a name aloud on the record.
 **Gives:** Her notebook, her archive, and the twelve names. Everyone quotes her in her own voice.
 
@@ -24,7 +24,11 @@ completeness: complete
 - **Look:** Small, wiry Central American woman, late thirties. Thick round glasses, hair pinned up, ink on her fingers, always dressed one notch too formal.
 - **Manner:** Appears only in what she left behind: margins full of 'confirmed. obviously.', a filing system only she could run, a nickname everyone uses and then regrets. People imitate her voice when they quote her.
 - **Mythos (unknown to her):** the Child who said the emperor was naked. Illusions fail in front of her. That's why the tune couldn't finish.
-- **Timeline:** started the issue 8 months out; confronted Pell at 3 weeks; bought the .38 the same week; hired Rook at 19 days; asked Milner at 9 days; died the night of Day 0.
+- **Timeline:** started the issue 8 months out; morgue photo request at 6 weeks; confronted Pell at 3 weeks; hired Rook at 19 days; infected at the Half Note Day −10; asked Milner at 9 days; hid the file Day −3; cut the stencil Day −2; mailed the letter Day −1; died the night of Day 0.
+- **The nickname:** age eight, live microphone, the televised unveiling of the Renewal model. Emmett Roan coined it; Shale revived it. Never disbelieved; laughed at.
+- **On her:** glasses on, pencil behind the ear, hearing dress. Chesterfields with the SCHULD note (*AK — check the roll*), a Half Note matchbook, a key ring with one unmarked key, a dime.
+- **The marks:** SCHULD debossed on her tongue in Fraktur; eyes solid black; film fogs at the eyes.
+- **What she left:** the archive; the notation on Klein's roll; the half-cut stencil; the hidden card-drawer file; a mailed letter (Day 4–5).
 
 **Voice (from the archive, letters, the roll):**
 - [zine, masthead motto]: "Printed weekly. Right eventually."
