@@ -44,7 +44,7 @@ Zone-by-zone breakdown with rolls in [[Crime Scene]]; read-alouds in [[Session 0
 - **The pile:** coat and shoes folded and squared shoreside, stockings folded inside the shoes. Matches eleven prior piles exactly. Nobody has said so out loud.
 - **On her:** glasses still on, unbroken. Pencil behind the ear. Hearing-attendance dress: her *fighting clothes*. Ink-stained hands, crank callus, stencil wax under two nails.
 - **Wounds:** shoulder through-and-through from behind and above; back of the skull, slug recovered, deformed. No defensive wounds. Lungs full of river water even though the head wound was instantly fatal. [[Ruth Halloran|Halloran]] keeps revising.
-- **Pocket items:** Chesterfields, one flipped for luck. A Half Note matchbook. A key ring with one unmarked key. A dime. Tox: one rye around midnight.
+- **Pocket items:** Chesterfields with one flipped for luck; a Half Note matchbook; a key ring with an apartment key, the shop's back door, and one small new key that fits nothing found yet; a dime. Tox: one rye around midnight. Full inventory, including the three absences (the notebook, the camera, no handbag at all), in [[Crime Scene#The pile and the pockets]].
 - **The pier:** one set of bare footprints walking in like someone crossing a room. No second set on the mud. Scuff marks at the rail forty feet back where someone stood a long while, and a hand-grip worn into the wood. A peppermint wrapper under a heel. Rat droppings along the rail; claw marks in the creosote going up the pilings. No brass (revolver). The miss is in a piling: .38, clean rifling, recoverable if anyone looks for a third shot. The witness heard three; there are two wounds.
 
 > [!note] What came out

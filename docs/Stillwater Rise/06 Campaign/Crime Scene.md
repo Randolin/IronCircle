@@ -239,6 +239,55 @@ What each investigator can notice that the others can't, or can't in the same wa
 4. **The gulls.** Nature's Tongue on the gulls working the mudbank: they won't touch the rats. Gulls eat anything. They say the rats are *still his*.
 5. **The wire.** Supernatural Sense, near the call box at the pier head where Cutty ran: the box is warm, the way a thing is warm when something has been through it. Not the call. Something after the call. (Don't explain; it's the web, and it's the first mark of it.)
 
+## The pile and the pockets
+
+Full inventory of what she was wearing and what was in it. The fold is the tell; the contents are the leads. Read-aloud is in the clue blocks above; this is the GM's list.
+
+### The fold
+
+Everything is folded the way a shop folds a coat before it goes in the box: deliberate, unhurried, and wrong for a person about to drown herself. Coat in thirds, sleeves tucked in, squared to the edge of a plank as if the plank were a line drawn for the purpose. Stockings rolled from the toe up and tucked one into each shoe. Shoes side by side, toes to the water. Not one grain of cinder on the coat, though the whole approach is cinders.
+
+It matches the eleven prior piles exactly, in the fold, the order, and the squaring. Dubcek has seen all eleven. Halloran has photographs of nine. Neither has said so out loud.
+
+### The clothing
+
+| Item | Detail | What it says |
+|---|---|---|
+| **Coat** | Woman's cloth coat, navy, good once, cuffs gone shiny. Two patch pockets. A pin-hole cluster on the left lapel where something was worn and taken off years ago (a union pin; it's in her desk drawer at home) | Poor and careful with it |
+| **The left pocket** | Stretched into a soft rectangle from years of carrying the same thing. Empty | Her notebook lived here. She went out without it, which she never did. It's on the imposing stone at Klein's |
+| **The right pocket** | A heavier, lower stretch, and a faint ring of tarnish on the lining | She carried something dense and metal here for months. Not at the scene, not at the shop, not in her rooms |
+| **Dress** | Dark, plain, well made, with a collar. Pressed. A dress for the front row of a hearing, not for two in the morning | She dressed for something. Mabel calls these her fighting clothes |
+| **Stockings** | Mended twice at the heel, in different thread | |
+| **Shoes** | Low heels, resoled twice, the left one worn through faster at the outer edge | She walked everywhere. She had not been in a car in years |
+| **Cardigan** | Not here. She wore one every day. It's over the back of her kitchen chair at home | She changed clothes before she left |
+| **Glasses** | Still on her face, unbroken, lenses thick as bottle glass. A prescription that means she could not have seen the end of the pier | She did not walk in blind, and she did not take them off, which every real bather does |
+| **Wristwatch** | Cheap, on a thin band, still running, correct to the minute | |
+| **Wedding ring** | None. Never married | |
+| **Hair** | Pinned up for a workday, and combed since. Somebody at the scene combed a dead woman's hair | Ask who. Nobody will admit it. It was Bets |
+
+### The pockets
+
+Four paper bags, stapled and tagged, on the van's step by the time the players arrive.
+
+| Bag | Contents | Points to |
+|---|---|---|
+| 1 | **Chesterfields**, soft pack, half gone, one cigarette turned filter-down for luck. Dry, so the pack was in an inside pocket. Matches from a different place than the matchbook | The corner store where she bought them on Day 0 and hummed at the counter |
+| 2 | **Matchbook**, black, a gold musical note mostly worn off. HALF NOTE, and an address two blocks from here. Four matches gone. She didn't smoke four in one night | The Half Note, and Day −10 |
+| 3 | **Key ring**, brass tag, blank. Three keys: an apartment key, a shop back-door key older and more worn, and a third that is small, flat, new, and unscratched | Her rooms, Klein's, and a lock nobody has found. The hidden file |
+| 4 | **One dime**, 1962, bright, loose. Not fare; the fare is a token and she has none | Toby. She paid him same day, every week |
+
+Also on the tray, not bagged: **a pencil behind her ear**, worn to four inches, and her hands — mimeograph ink under the nails that doesn't wash out, a crank callus in a bar across the right palm, and blue stencil wax under two fingernails on the right hand. She worked the machine the night she died.
+
+**Tox:** clean except roughly one shot of rye taken around midnight. The bottle and one glass are on her kitchen table, and the chair is pulled out and turned toward the window.
+
+### What isn't here
+
+The three absences are worth more than the four bags. Let the players find them by asking "where's her…?"
+
+- **The notebook.** The left pocket says she carried one everywhere. It's at Klein's, on the stone, and it has [[Herminia Vega]]'s name in it with a date beside it. She left it behind on purpose, or she was already not herself when she walked out.
+- **The camera.** The right pocket's stretch and the tarnish ring are a small metal camera carried for months. She photographed evictions with it; that's how Lupo's men ended up on her block. It is not at the pier, not at the shop, and not in her rooms. *(GM: it's with the hidden card-drawer file, wherever the table decides that is. Whoever finds the file finds the film.)*
+- **A handbag.** She doesn't own one. Everything went in the pockets. That's why the pockets are stretched, and it's why there is nothing here with an address on it.
+
 ## The four oddities
 
 These are why the Coroner referred it. Free to notice; nobody at the scene can explain them.

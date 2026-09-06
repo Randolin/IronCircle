@@ -28,6 +28,10 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > Filing cabinets to the ceiling, every drawer labeled by street. Pull one: index cards, one per family, name, address, date of the notice, date they left, and where they went. On maybe one card in five the last line is blank. On maybe one in ten it says a street that isn't on the map on the wall.
 *The archive. Background on the renewal; true lead on the forwarding addresses (Prosper) and the Next Pile (a name the players may read tonight).*
 
+#### Where the camera isn't
+> On a shelf by the imposing stone, a cleared space in the ink-dust the size of a shoebox, with a developing tray and a bottle of fixer beside it and a clothesline of clips overhead with nothing on it. Klein writes: SHE KEPT IT HERE. IT IS NOT HERE.
+*Vera's camera and her film. Both went wherever the card-drawer file went on Day −3. True lead, long fuse: the unmarked key opens whatever holds them.*
+
 #### The empty drawer
 > One drawer, the one labeled with the pier's street, pulls out light. Empty. Not dusty: the runners are clean and the drawer has been used this week. A pencil rolls to the front when you open it.
 *Vera emptied it Day −3 and hid the contents. The unmarked key on her ring fits wherever they are. True lead, long fuse.*
