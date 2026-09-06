@@ -62,6 +62,16 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The court
 > A sprung armchair on a wooden pallet, under a tarp stretched between two concrete legs. A coffee can on a crate beside it. Ring of oil drums, some burning, some seats. Forty people, or close to it, and every one of them has turned to look and not one of them has stood up. Children under a table. A dog that doesn't bark. On the concrete leg behind the chair someone has chalked rows of tally marks, hundreds of them, in groups of five, going up higher than a person could reach without a ladder.
 
+
+### The paths
+> There are no streets, only ways: a gap between a shed of doors and a shed of hubcaps, a plank over a ditch, a set of stairs cut into the cinder slope and shored with bedframes. Every way has a name chalked on something at its mouth. Cook-smoke lies low and follows you. From inside the sheds, radios, three different stations, and a baby, and a saw. Rats along the base of the concrete legs, a dozen of them, sitting, not moving, watching the way cats watch.
+
+### The canal edge
+> The camp ends at the water without a fence. Old tires half sunk in the mud make a step down. A row of fishing lines tied off to spikes in the concrete, each with a tin can hung on it for a bell. Across the canal, close enough to hear the planks creak, the pier: the lamp on its bent post, the grain elevator behind it. From here the pier is a stage and the camp is the house, and every seat has been used.
+
+### Night
+> The drums burn low and the town becomes lights: a lantern in a doorway, a cigarette, a bulb on a stolen line strung from the ramp. The traffic overhead is a slow surf. Somebody is singing in Spanish, two verses, then stops. The concrete legs give back the day's heat and the fog comes up off the canal and takes the far side of the camp first, so that people you could see a minute ago are gone and their voices aren't.
+
 ## The Half Note
 
 ### The street
@@ -74,6 +84,19 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 
 ### The desk
 > Green paint to shoulder height, cream above, both older than anyone in the room. A counter with a brass rail worn bright in two places where elbows go. Behind it, a sergeant on a stool and a board of hooks with keys on it, and behind that a room of desks where typewriters are going and nobody is looking up. The bench along the wall has a drunk on it, asleep, and a woman with her purse on her lap, awake. A ceiling fan turns slowly enough to count the blades. It smells of floor wax, cigarettes, and the coffee that has been on the burner since the shift began.
+
+
+### The squad room
+> Twelve desks in two rows under fluorescent tubes, one of which flickers and has for a year. Every desk has a typewriter, an ashtray, and a wire basket, and every basket is full. Wanted sheets on the wall gone brown at the corners. A water cooler with no cups. Through a glass door at the end, an office with the blinds down and a hat on the hook. Two detectives eating sandwiches at their desks without looking at each other, and a third asleep with his chair tipped back and his hat over his face.
+
+### Dispatch
+> A room the size of a closet with a window onto the squad room and a board on the wall of switches and lamps and a radio microphone on a gooseneck. One chair, a headset, a log book the size of a ledger open to today with a pencil in the gutter. A clock with a red second hand. The room smells of Pine-Sol and hot dust from the transmitter. Over the board, a hand-lettered card: CAR NUMBER FIRST. TIME SECOND. THEN TALK.
+
+### The holding cells
+> Down a half flight, the paint changes to a green that was chosen by somebody who never had to look at it. Two cages, barred to the ceiling, a bench in each, a drain in the floor. One has a man in it asleep on the bench with his shoes off and lined up neatly under it. The corridor smells of bleach over something bleach didn't get. A window at the far end, high up, with wire in the glass, and through it the feet of people walking past on the sidewalk, who don't look down.
+
+### The evidence cage
+> A wire cage in the basement with a counter and a ledger and a sergeant behind both. Shelves of paper bags stapled shut with tags on strings. Cardboard boxes with dates. A rack of confiscated things: three baseball bats, a sword, a ventriloquist's dummy with the tag tied around its neck. A single bulb. Damp. The ledger has columns for IN and OUT and the OUT column is mostly empty.
 
 ## The Exchange
 
@@ -96,7 +119,86 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The Model Room
 > A room like a chapel, high and white, with the blinds drawn and every lamp aimed at the table in the middle. The table is the City. Thirty feet long, every street, every block, in pale wood and glass, and on the low side by the river a plaza in gold leaf where the Flats should be, with a fountain, and an expressway that arrives complete on golden legs. Tiny figures on the plaza, hundreds of them, all walking somewhere. A brass plate on the table edge with the date of a ribbon-cutting engraved on it. The room smells of floor polish and money, and it is very quiet.
 
+
+### The lobby
+> Granite steps, brass doors, a floor with the seal of the City set into it in six kinds of stone. A guard at a desk with a visitors' book and a pen on a chain. The ceiling is three stories up and painted with a mural of men building things: a bridge, a dam, a tower, all of them looking into the distance and none of them looking at each other. It is cool in here on the hottest day. Your footsteps arrive a half second after your feet.
+
+### The contracts office
+> Third floor, a long room of desks with women at typewriters and men at telephones, and along one wall a bank of rubber stamps on a rack, forty of them, each on its own hook. Wire baskets marked IN, PENDING, ROUTED. A water cooler with cups. Filing cabinets with the drawers labeled by street and block, and the last drawer in the last cabinet labeled only with a date. Nobody looks up when the door opens. Everybody looks up when it closes.
+
+### The Commissioner's outer office
+> Carpet, which stops at the door of the contracts room like a border. A secretary at a desk with a vase of roses and three telephones in a row, the middle one gold. A leather sofa nobody has ever sat on. On the wall, photographs: the Commissioner with a shovel, the Commissioner with a ribbon, the Commissioner with a senator, all of them shaking hands with the same smile. A tall door with his name on it in brass, closed, and under the door a line of light.
+
+### The Span field office
+> A trailer on blocks inside a chain-link compound at the foot of the expressway's last leg. A gate with a chain and a padlock and a man in a windbreaker beside it with a thermos on the post. Inside the fence, machines: a crane with its boom down, two bulldozers nose to tail, a mountain of gravel with a tarp over it weighted with tires. A whiteboard bolted to the trailer wall with a grid of streets and dates in grease pencil, some of the dates crossed out and written again, earlier. Overhead, the road deck ends in the sky, and the wind comes through the rebar with a sound like a bottle being blown across.
+
 ## The Weaver Building
 
 ### The lobby
 > Marble the color of cream, and a floor so polished the ceiling is in it. A wall of brass elevator doors, each with a floor indicator ticking. Above the doors, in letters a foot high, the names of a newspaper, a radio station, and a television channel, stacked. A newsstand in the corner selling the newspaper. A receptionist behind a curved desk with three telephones, all of them ringing softly, none of them being answered until she chooses. High overhead, a skylight, and through it, at the very top of the building, something green: the edge of a garden, and a thread of red silk moving in the wind.
+
+## The Mission
+
+### The street front
+> A storefront church between a laundry and a boarded shop, with MISSION OF THE REDEEMER painted on the glass in white and an hours card in the corner that says ALWAYS. Inside the door, a table with a coffee urn and a stack of cups and a jar with coins in it. Folding chairs in rows facing a lectern. A piano with the lid up. The room is warmer than the street and smells of coffee and wet wool and, under that, of floor wax laid down by someone who cared.
+
+### The sanctuary, Sunday
+> Four hundred people in a room built for two hundred, standing in the aisles, children on shoulders, hats in every color there is. The choir in robes the color of mustard, twelve voices that sound like forty. A cross made from two beams off a demolished building, still with the nail holes in it. The lectern up front, and behind it a wall of photographs, families, going back a long way, most of them smiling, and a few blank rectangles on the wall where photographs used to be.
+
+## Three Balls Loans
+
+### The shop
+> Three brass balls over the door, one of them dented. A window full of watches, guitars, a trumpet, a wedding dress on a form, and a sign that says WE BUY GOLD in letters that have faded to WE BUY. Inside, the light comes from a single bulb over the counter and from a lamp with a green shade at the far end where the counter turns a corner. Cases of rings. A wall of instruments hung by their necks. Everything has a tag, and every tag has a number and a date in the same neat hand. It smells of brass polish and old coats and the cigar that was smoked here yesterday.
+
+### Behind the counter
+> A stool, a ledger the size of a paving stone, a loupe on a headband hung on a nail. A radio playing low. A rack of pawned guns in a locked case with a wire door, each with a tag hanging from the trigger guard. Under the counter, a shelf, and on the shelf a shotgun with the stock worn pale, not tagged. A calendar from a funeral home. A curtain to a back room, and behind the curtain the sound of a kettle.
+
+## The Barbershop
+
+### The chairs
+> Two chairs, red leather cracked to pink at the arms, chrome pumps, one with a booster board across the arms for kids. A long mirror with the silver going at the bottom. Shelves of bottles in colors: green, amber, blue. A strop hanging from the first chair. A radio on the shelf playing a ballgame, and under the ballgame the sound of scissors that never stop. It smells of bay rum and talc and hot towels, and the floor has been swept so recently the broom is still against the wall.
+
+### The walls
+> Photographs, floor to ceiling, hundreds, unframed, tacked at the corners. Weddings. Teams. Men in uniform. Children on stoops that are the stoops outside. Some of the photographs are new and glossy and some have gone the brown of tea, and there is no order to them that you can see, and none of them has a name written on it anywhere. A bench along the wall under the photographs with three men on it who are not waiting for haircuts.
+
+## The Furnished Room
+
+### The stairs and the hall
+> A rooming house four blocks from the river, with a sign in the window that says ROOMS and a landlady's door that opens two inches when you come in and closes when you go up. Stairs with a runner worn through to the wood in the middle of each tread. A hall with six doors and one bathroom and a smell of gas rings and boiled something. Under one door, light, and the sound of a radio turned down to nothing.
+
+### The room
+> A bed made tight enough to bounce a coin. A hot plate. A chair. A window onto an air shaft with a line of pigeons on the sill. And a wall. The whole wall, floor to ceiling, is photographs and index cards and string: a map of the district in the middle, and around it faces, dozens, some of them the same face a dozen times, and dates under each in a hand that presses hard enough to dent the card. On the dresser, a developing tray, a bottle of fixer, and a camera with a lens as long as a forearm.
+
+## Lupo Demolition & Removal
+
+### The yard
+> A lot behind a fence of corrugated tin with a gate wide enough for a truck. Inside, a wrecking ball on a crane, two flatbeds, a bulldozer, and a mountain of what buildings are made of once they aren't: brick, lath, radiators, doors, a claw-foot tub, a staircase going nowhere. A shed office with a stovepipe. A dog on a chain long enough to reach the gate and not the office. Men in work clothes eating lunch on a running board who stop eating to look. The whole yard smells of plaster dust and diesel and the dog.
+
+## The Delancey Block, Fourth Floor
+
+### The stairwell
+> Four flights, tile treads worn to a dip, a rail that's been painted so many times it's round. Every landing has a smell: onions, bleach, a baby, cigarettes. Doors with numbers painted on and numbers on tin over the paint. A skylight at the top with one pane broken and a pigeon feather stuck to the wire. On the fourth landing the floor has been mopped and is still wet, and a mat outside one door says nothing at all, worn blank.
+
+### The apartment
+> A front room with a sofa under a slipcover, a television with a doily on it, a wedding photograph on top of the television, and a radiator painted silver that ticks. The kitchen through an arch: a table with oilcloth, four chairs, and on the stove a pot that is always on. A window onto the street with a plant in it and a view straight down the block to the white plywood fence and the sky over it where buildings used to be. Everything is clean. Everything has been here a long time. The good dishes are in a cabinet with glass doors and nobody has used them since a funeral.
+
+## The County Morgue
+
+### The corridor
+> Below street level, tile floor, tile walls to shoulder height, the color of a bad tooth. Doors with frosted glass and numbers. A gurney against the wall with a folded sheet on it. The air is cold in a way that is not weather and smells of formalin and something under the formalin that the formalin is for. Fluorescent tubes end to end down the ceiling, all of them working, which is its own kind of wrong. At the far end, a door with a rubber seal and a temperature gauge beside it.
+
+### The examination room
+> Two steel tables with drains. A scale hanging from the ceiling like a grocer's. A tray of instruments under a cloth. A blackboard with weights and measures on it in chalk and a column of dates. Cabinets with glass doors. A radio on a shelf, off. A stool by the table with an ashtray on the floor beside it, and in the ashtray, a cigarette that was put out backwards.
+
+## The Hearing Room
+
+### The inquest
+> A county courtroom on the second floor with a flag in the corner and a portrait of somebody nobody remembers. Oak rail, oak benches, oak dais with a chair on it for the Coroner and nobody in it. A table for the jury, six chairs. A stenographer's desk to one side with a machine on it under a cover. Radiators clanking. A clock on the back wall that runs two minutes fast. The benches hold twelve people, and eleven of them are from the same neighborhood, and they have dressed for it.
+
+## The Sax Man's Room
+
+### The building
+> A five-story walk-up on the river side of the district with a fire escape down the front and a bakery on the ground floor, so that the whole building smells of bread at five in the morning and of nothing by noon. The mailboxes in the entry have names on cards and one has no card. The stairs are dark. On the top landing there is a window onto the fire escape, and on the fire escape, in a row along the rail, rats, sitting, facing the window.
+
+### The room
+> A single room under the roof, hot in summer, and it is summer. An iron bed made with a blanket pulled tight. A chair by the window. A stand with a suit on it under a sheet. On the wall, a photograph of a band on a stand, eleven men, with the saxophone player at the end half cut off by the frame. A coffee can on the shelf. A music stand with nothing on it. A saxophone case, closed, on the bed, where a person would lie.
