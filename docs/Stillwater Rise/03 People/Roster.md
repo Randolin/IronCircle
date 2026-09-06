@@ -204,16 +204,19 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
   - **Surface – Reaction:** When the archive is attacked with fire or theft, or Toby marks HP within Close range, spend a Fear to swap.
 
 ### Ottilie Mauser
-*The Mouse Queen · Tier B · Tin City*
+*The Mouse Queen, the Rat King · Tier B · Tin City*
 - **Traits:** counts you, feeds you, rages loudly, forgives specifically, the meal is the questioning.
 - **Logos wants:** public: the camp fed and left alone. Private: the knocking man's name.
-- **Mythos wants:** her people accounted for; the Piper beaten by vermin.
-- **Works on her:** eat what she gives you; a name; respect. **Doesn't:** raids; condescension (a wall, permanently); taking pictures.
+- **Mythos wants:** her people accounted for; the knocking man beaten by vermin. She has never put his name next to the sax man who plays for the camp some nights, the only audience he has left. Her people hum his tune and love him for it.
+- **Works on her:** eat what she gives you; a name; respect; the truth about the sax man, told carefully. **Doesn't:** raids; condescension (a wall, permanently); taking pictures; the truth about the sax man, told carelessly (she marches, and mice against the piper is a massacre).
 - **Logos:** T1 Leader · 13 · 7/14 · HP 6 · Stress 4 · ATK +1 · Pipe wrench: Melee · 1d8+3 phy · Exp: The Census +3, Nine Years +2.
-- **Mythos: the Mouse Queen.** T2 Leader · 15 · 10/20 · HP 8 · Stress 4 · ATK +2.
+- **Mythos (Surfaced): the Rat King.** T2 Leader · 15 · 10/20 · HP 8 · Stress 4 · ATK +3 · Crown of Tails: Very Close · 2d8+4 phy. Ottilie, and the rats, and no clear line between them; tails knotted through her coats.
   - **The Count – Passive:** She knows how many creatures are within Far range and where. Her people can't be Surprised.
   - **Seven Crowns – Action:** Spend a Fear. Six Tin City Crowd arrive at Close range and act immediately.
   - **Mice Against the Piper – Passive:** Her people are immune to the tune while she is within Far range. If she attacks the Piper directly, she isn't.
+  - **Many Bodies – Passive:** While any Swarm or Tide is within Close range, she can't be Restrained and can move through creatures and closed doors. The rats are hers as much as his.
+  - **All of Us – Action:** Spend a Fear. Every Swarm, Tide, Camp Rat, and Tin City Crowd within Far range makes its standard attack against a target within its range.
+  - **Surface – Reaction:** When she marks Severe damage, or when she learns who the knocking man is, spend a Fear to swap to this block.
 
 ### Ruth Halloran
 *Medical Examiner · Tier B · County Coroner*
@@ -423,7 +426,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 | Hal Rimm | Heimdall | Social | 2 |
 | Dez Okafor | the Griot | action + reaction | 1 |
 | August Klein | the Golem | Surfaced Solo | 3 |
-| Ottilie Mauser | the Mouse Queen | Leader | 2 |
+| Ottilie Mauser | the Mouse Queen, the Rat King | Surfaced Leader | 2 |
 | Fen Baiyun | Subhuti | Social | 3 |
 | Esther Blum | Hammurabi | passive | 2 |
 | George Oyama | Thoth | passive | 2 |
@@ -432,4 +435,4 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 | Vera Kestrel | the Child | none; dead | — |
 | The Judge | Enma-ō | none; never | — |
 
-Wharf Rats, Big Augie the Rat King, the Swarm, and the Tide are in [[Adversaries]].
+Camp Rats, the Swarm, and the Tide are in [[Adversaries]]. The Rat King is Ottilie.

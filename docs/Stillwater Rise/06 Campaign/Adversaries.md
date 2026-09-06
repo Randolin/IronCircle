@@ -39,26 +39,26 @@ The Swarm when the Piper is cornered or playing. Use this block instead of the S
 - **Pull Under – Action:** Spend a Fear to target every creature within Very Close range. Each must succeed on an Agility Reaction Roll (14) or take 2d8+3 physical damage and become Restrained.
 - **He Didn't Ask – Reaction:** When the Piper marks HP within Far range, the Tide clears 2 HP and must be spotlighted next.
 
-## The Piper's friends
+## Tin City's changed
 
-The only people who still call him Manny. Dockworkers, a few of them ex-fighters, all of them owed something by the same people he's owed by. They don't know what he does. They know he buys the round when he can. Two of them have started to change.
+The camp under the ramp is the only audience the sax man has left. He comes down some nights and plays for nothing; they hum his tune and love him for it; they don't know he's the knocking man. A few of them have been near the music too long and have started to change. Their queen is [[Ottilie Mauser]], the Rat King; her Surfaced block is in [[Roster]].
 
-### Wharf Rat
+### Camp Rat
 *Tier 1 Bruiser (Logos)*
-A big dock hand in a pea coat with a length of pipe, loyal to the sax man for reasons he'd have to think about.
-**Motives & Tactics:** Block the door, get between, hit hard, stay close to Manny
+A big man from under the ramp in three coats, loyal to the sax man for reasons he'd have to think about.
+**Motives & Tactics:** Block the door, get between, hit hard, stay close to the music
 **Difficulty:** 12 | **Thresholds:** 7/14 | **HP:** 7 | **Stress:** 4
-**ATK:** −2 | **Lead Pipe:** Melee | 1d10+4 phy
-**Experience:** Docks +2, Strongarm +2
+**ATK:** −2 | **Length of Pipe:** Melee | 1d10+4 phy
+**Experience:** The Embankment +2, Strongarm +2
 
 - **Haymaker – Action:** Make an attack against a target within Very Close range. On a success, deal 1d10+4 direct physical damage.
 - **Get Between – Reaction:** When an ally within Very Close range would take damage, mark a Stress to take the damage instead.
-- **Surface – Reaction:** When this adversary marks Severe damage, spend a Fear to swap to the Wharf Rat (Surfaced) block. Describe the change.
+- **Surface – Reaction:** When this adversary marks Severe damage, spend a Fear to swap to the Camp Rat (Surfaced) block. Describe the change.
 
-### Wharf Rat (Surfaced)
+### Camp Rat (Surfaced)
 *Tier 2 Bruiser (Mythos)*
-The pea coat splits at the shoulders. Teeth too long for the mouth. He is still trying to say Manny's name.
-**Motives & Tactics:** Gnaw, hold on, drag toward the water, protect him
+The coats split at the shoulders. Teeth too long for the mouth. He is still humming.
+**Motives & Tactics:** Gnaw, hold on, drag toward the water, protect the music
 **Difficulty:** 14 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 4
 **ATK:** 0 | **Teeth and Claws:** Melee | 2d10+3 phy
 **Experience:** Nowhere They Can't Go +2
@@ -66,30 +66,6 @@ The pea coat splits at the shoulders. Teeth too long for the mouth. He is still 
 - **Vermin's Vigor – Passive:** While any Swarm or Tide is within Close range, this adversary clears 1 HP at the start of each GM turn.
 - **Gnaw Through – Action:** Make an attack against a target within Melee range. On a success, deal 2d10+3 physical damage and the target must mark an Armor Slot without gaining its benefit.
 - **Hold On – Reaction:** When this adversary deals damage to a creature, mark a Stress to make that creature Restrained until they succeed on a Strength Reaction Roll (14).
-
-### Big Augie Dorsey, the Rat King
-*Tier 1 Leader (Logos)*
-Ex-longshoreman, ex-club fighter, a face like a dropped pie. Runs the crew that drinks with Manny and has decided nobody gets to him without going through Augie. Named; if he earns a third scene, give him a People note.
-**Motives & Tactics:** Command, cover Manny, hit first, take the blame
-**Difficulty:** 13 | **Thresholds:** 7/14 | **HP:** 6 | **Stress:** 3
-**ATK:** +2 | **Sawed-Off:** Close | 1d8+3 phy
-**Experience:** Docks +2, Loyal +3
-
-- **Rally the Boys – Action:** Spend a Fear to summon two Wharf Rats, who appear at Far range.
-- **Hard Knocks – Reaction:** When an ally within Close range marks HP, mark a Stress to let that ally clear the HP; Augie marks it instead.
-- **Surface – Reaction:** When Augie marks Severe damage, or when the Piper within Far range marks his last HP, spend a Fear to swap to the Rat King (Surfaced) block.
-
-### The Rat King (Surfaced)
-*Tier 2 Leader (Mythos)*
-Augie, and the rats, and no clear line between them. Tails knotted through his coat. He speaks for all of them.
-**Motives & Tactics:** Be everywhere, spend the swarm, keep the Piper standing
-**Difficulty:** 15 | **Thresholds:** 10/20 | **HP:** 8 | **Stress:** 4
-**ATK:** +3 | **Crown of Tails:** Very Close | 2d8+4 phy
-**Experience:** Nowhere They Can't Go +3, Loyal +3
-
-- **Many Bodies – Passive:** While any Swarm or Tide is within Close range, the Rat King can't be Restrained and can move through creatures and closed doors.
-- **All of Us – Action:** Spend a Fear. Every Swarm, Tide, and Wharf Rat within Far range makes its standard attack against a target within its range.
-- **Tied Together – Reaction:** When the Rat King would mark HP, mark a Stress to have a Swarm or Tide within Very Close range mark it instead.
 
 ## Faction muscle
 
@@ -203,4 +179,4 @@ Ottilie's people: coats, sticks, numbers. They don't want to fight. They will.
 
 **Tin City, if they end there:** two Swarms passing through, not attacking unless attacked. The goal is not to be carried to the water. Tin City Crowd climb; they don't fight the rats.
 
-**Not yet:** the Piper himself. He negotiates; the Tide and the Rat King are his fight.
+**Not yet:** the Piper himself. He negotiates; the Tide is his fight, and if it happens under the ramp, the Rat King is the question.

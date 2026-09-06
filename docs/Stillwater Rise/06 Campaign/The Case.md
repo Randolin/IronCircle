@@ -162,7 +162,8 @@ The surface story is a redevelopment murder. Underneath, a harvest. See [[Mythos
 - **Weaver** built it and knows exactly what it is, and doesn't fully understand the current she's sitting in.
 - **Fitch** knows everything Weaver knows and worships her for it. Keeps the paper and the publicity cycle turning after each collection. Hates Maas; keeps him running because the project is the harvest.
 - **Maas** knows nothing past the project. Relocation is relocation. He asked for Vera to be dealt with because she was in the way.
-- **Bunting** doesn't know where they go and has never asked.
+- **Bunting** doesn't know where they go and has never asked. He plays for Tin City some nights, for nothing; they're the only ones who ever asked him back, and he's walked nine of them in without putting the two facts together.
+- **Ottilie** and her people love the sax man's music and hum it. They don't know he's the knocking man. She is the Rat King; the rats are hers as much as his.
 - **The Judge** knows the City's dead are going somewhere that isn't his court, and not how or why. He put the agency on it to find out.
 - **Rimm** has the silence on tape and doesn't know what it is until someone tells him.
 - **Klein** runs on written truth; the web runs on written lies. The archive is the one record in the district the web didn't make and can't carry.

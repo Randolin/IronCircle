@@ -41,7 +41,7 @@ The figures under the surface, and what their powers do in play. The cast draws 
 | Heimdall | [[Hal Rimm]] | Hears everything. Has the district's silence on tape without knowing what it is. Once told, he can hear the web, map it, and cut it. Wants to be asked |
 | The Griot | [[Dez Okafor]] | The unwritten record. Knows the song from his grandmother's warnings. The only one who can name it |
 | The Golem | [[August Klein]] | Animated by a word in his breast pocket. Runs on written truth; the web runs on written lies, and has no door into him. The archive is the record the wire can't carry. Guards the shop, the roll, and the boy |
-| The Mouse King | [[Ottilie Mauser]] | Seven medallions, the true census. The vermin's answer to the Piper; has moved her people ahead of him nine times |
+| The Mouse King, the Rat King | [[Ottilie Mauser]] | Seven medallions, the true census. Vermin royalty from the Piper's own folk soil; has moved her people ahead of the knocking man nine times. Her camp is the only audience he has left, and they love his music. The rats are hers as much as his |
 | Subhuti | [[Fen Baiyun]] | Taught the Monkey and told him never to say whose student he was. Knows what Vivian Zhu was before the money |
 
 ## The court

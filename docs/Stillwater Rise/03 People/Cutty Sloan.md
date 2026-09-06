@@ -29,6 +29,7 @@ aliases:
 - **The account,** same words every time: she said it to the water like the water asked her a question; the pier said it back three times, louder; then a splash. A man half yellow and half red under the lamp.
 - **Day 7:** any official interest in Brack's downgraded log surfaces him. Weaver's water column.
 - **Cost:** Ottilie's blessing first, and someone writing while he talks.
+- **The tune:** he knows it. Everybody in the camp does; the sax man plays it under the ramp. He heard it coming down the path that night before he saw her, and he has not said so to Ottilie, because he hasn't let himself finish the thought.
 
 **Voice:**
 - [the account]: "She said it to the water like the water asked her a question. Then the pier said it back three times, louder. You're the first ones to write while I talk."

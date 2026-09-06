@@ -18,8 +18,8 @@ aliases:
 
 > *The Mouse Queen.*
 
-**Pitch:** Queen of the camp under the on-ramp. Has counted every person who vanished for nine years, in a coffee can.
-**Wants:** The Piper's name.
+**Pitch:** Queen of the camp under the on-ramp; the Rat King, with seven can-lid crowns. Has counted every person who vanished for nine years, in a coffee can. Her people are the only audience the sax man has left: he comes down some nights and plays for nothing, and they love him for it. They don't know he's the knocking man.
+**Wants:** The knocking man's name. She has never put it next to the sax man's face.
 **Gives:** the count, and Cutty. Treats the players' word as a debt owed to her camp.
 
 ## Detail
@@ -27,7 +27,9 @@ aliases:
 - **Look:** Tall, powerful white woman, early thirties, wind-darkened, dark braid, hammered-tin hoops, a necklace of seven polished can-lid medallions. Layered coats. Holds court from a sprung armchair beside a coffee can on a crate.
 - **Manner:** Announces visitors. Counts people compulsively and accurately. Feeds newcomers before questioning them; the meal is the questioning. Rages loudly, forgives specifically.
 - **The can:** forty-one people the census says don't exist. Nine years of arrivals and departures, every departure accounted for.
-- **Mythos:** the Mouse King. Has moved her people ahead of the knocking man nine times without a name for him.
+- **Mythos:** the Mouse King, the Rat King: vermin royalty from the same folk soil as the Piper. Has moved her people ahead of the knocking man nine times without a name for him.
+- **The music:** the sax man plays under the ramp some nights, for nothing, the only room that ever asked him back. The camp hums his tune. She thinks it's a kindness. It's the same tune that walks her people into the river, and her being near is the only reason it hasn't taken more of them.
+- **When she learns:** the worst scene in the arc, and one of the best. Either the Mouse Queen marches on the Piper (mice against the piper is a massacre), or she asks him to play once more and he can't. The players decide which by what they tell her and how.
 - **Cost:** the Piper's name. Treats the players' word as a debt owed to the camp.
 - **Ricochet:** the camp is on no docket, so it can be cleared in an afternoon with nobody signing anything.
 - **Stat block:** faction leader; numbers, terrain, total knowledge of ground.

@@ -14,7 +14,7 @@ exposure: secret
 
 They leave with **three usual suspects, a tune nobody can place, rats where rats don't go, and the knowledge that somebody else is asking about a sax player.** They should be arguing about Lupo. They should not have a name for the Piper, and they should not know there's a machine, and nothing about the web. One seed only: every room they enter has a radio on.
 
-Still open, Aaron's call: the sympathetic face at the encampment. Default below is [[Herminia Vega]] through Toby, on the walk home.
+The encampment's sympathetic face is the camp itself: they hum the tune and love the man who plays it, and they don't know. On Day 1 that shows only as humming under the ramp and Ottilie's "first quiet night I've had." [[Herminia Vega]] through Toby, on the walk home, is the other face.
 
 ## Prologue (no PCs)
 
@@ -128,7 +128,7 @@ Toby: knows her route, knows she'd been "watching somebody" for two weeks and wo
 
 **The clue that sends them:** Brack's log (a "drunk" from the canal box at 2:15); Dubcek: "ask the camp."
 
-**Investigate.** Under the on-ramp the light goes green. [[Ottilie Mauser|Ottilie]] counts them before they reach the bottom. "Three came down. One hung back. Manners says all four eat. Sit." The meal is the questioning. She gives the can (forty-one, nine years) and *not* Cutty; Cutty is earned, or bought with a name. She'll also say: the rats left the embankment last night, all at once, toward the pier, and haven't come back. "Nine years I've slept next to them. First quiet night I've had. I didn't like it."
+**Investigate.** Under the on-ramp the light goes green. [[Ottilie Mauser|Ottilie]] counts them before they reach the bottom. "Three came down. One hung back. Manners says all four eat. Sit." The meal is the questioning. She gives the can (forty-one, nine years) and *not* Cutty; Cutty is earned, or bought with a name. She'll also say: the rats left the embankment last night, all at once, toward the pier, and haven't come back. "Nine years I've slept next to them. First quiet night I've had. I didn't like it." Somebody by a drum is humming four notes. If asked, "the sax man's tune," and nothing more tonight; the camp doesn't talk about its guests to strangers.
 
 If Jack tries the rats, there aren't any to ask. That's the answer.
 
