@@ -8,7 +8,7 @@ exposure: secret
 ---
 # Session 01
 
-*Plan first; recap after. Read-aloud in `> [!quote]`; everything else is GM. Table details and the running log live in [[Session 00]]. Structure: intro and drive → crime scene → three doors, one guaranteed fight.*
+*Plan first; recap after. Read-aloud in `> [!quote]`; everything else is GM. Table details and the running log live in [[Session 00]]; the pier by zone, with rolls, is [[Crime Scene]]. Structure: intro and drive → crime scene → three doors, one guaranteed fight.*
 
 ## What this session is for
 

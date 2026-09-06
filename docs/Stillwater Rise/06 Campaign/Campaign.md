@@ -38,6 +38,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 | [[Danger Board]] | Who's at risk next, sorted by who wants them gone. Reread every session |
 | [[Decisions]] | Dated log of what's locked and why |
 | [[Timeline]] | Day-by-day clock and background timeline |
+| [[Crime Scene]] | Pier 9 by zone: what is free, what needs a roll, what a bad roll costs |
 | [[Session 00]] | The table sheet: players, contacts, and the running log of what the table knows |
 | [[Session 01]] | Per-session plans and recaps live in `Sessions/` |
 | [[People]] | The cast, with the cross-cutting tables |

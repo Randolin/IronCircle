@@ -32,7 +32,7 @@ Bunting's been in his room since, the .38 in a coffee can. Day 2 (Tuesday) he ca
 
 ## The crime scene
 
-Full inventory in [[Session 01]]. The short version:
+Zone-by-zone breakdown with rolls in [[Crime Scene]]; read-alouds in [[Session 01]]. The short version:
 
 - **The oddities, which are why the Coroner referred it:** a ring of drowned rats around the body, all facing in; anyone who stands at the pile for a minute starts humming four notes and doesn't notice; she was recovered a quarter mile upstream; her eyes were brown and the body's are hazy river-green.
 - **The pile:** coat and shoes folded and squared shoreside, stockings folded inside the shoes. Matches eleven prior piles exactly. Nobody has said so out loud.
