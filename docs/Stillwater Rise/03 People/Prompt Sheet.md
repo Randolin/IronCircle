@@ -10,6 +10,10 @@ Every character's two ComfyUI prompts on one page, for batch generation. Convent
 
 **Artwork on hand (2026-09-06):** August Klein, Dez Okafor, Gerry Fitch, Greta Milner, Hal Rimm, Maeve Brogan, Manny Bunting, Mickey Shale, Nathaniel Pell, Ottilie Mauser, Preston Day, Ray Sato, Sal Lupo, Sterling Maas, Toby Small, Vera Kestrel, Vivian Weaver.
 
+## Player characters
+
+No prompts here on purpose: the PCs' looks belong to Erik, Josh, and Jesse. Ask each for a headshot description (or a reference image) and write the prompt from that, in the same two-prompt format.
+
 ## Still to generate
 
 ### Adaeze Okonkwo

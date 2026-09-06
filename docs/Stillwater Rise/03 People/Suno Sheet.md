@@ -296,3 +296,7 @@ One cue in [[Themes#Tier C — the precinct bed (shared)]]; add the variant line
 - **Lorna Feeny** — `+ add switchboard tones`
 - **Stan Kowalczyk** — `+ drop the sax entirely`
 - **Whitcombe Ard** — `+ replace the typewriters with a squash ball against a wall and a committee gavel`
+
+## The investigators
+
+Six cues (Logos and Mythos per PC) in [[Themes#The investigators]]. GM-side; not on the PC pages.

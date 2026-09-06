@@ -55,6 +55,60 @@ Noir Jazz, ambient. Walking upright bass and brushed snare loop beneath a room o
 
 ---
 
+## The investigators
+
+Two cues each: a **Logos** theme for the character at rest, and a **Mythos** cue for surfacing (one action, a scene, or an Incarnation; see [[Two Sheets]]). Built only from what the players wrote and the Mythos figure; nothing about their pasts. If a player wants a different sound, theirs wins. These are not on the public PC pages.
+
+### Arthur Rook — Logos
+*Down on his luck. A detective's patience and a draft-dodger's exits.*
+
+```
+Noir jazz, slow. A muted trumpet carrying a tired, careful melody over brushed snare and a walking upright bass, a rainy-window piano answering in the gaps, one revolver-cylinder click used as a rhythmic accent every sixteen bars. Patient, worn, watching the door. 70 BPM, D minor, 4/4, small office mix. + the trumpet never resolves its last phrase, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~430 chars)*
+
+### Arthur Rook — Mythos: The Tower
+*Illusions fail. The wrong path comes down.*
+
+```
+Orchestral noir, sudden. A single struck bell followed by a descending brass chord that collapses into low strings and timpani, then silence, then the same muted trumpet from before playing alone in a much larger room. Revelation, then rubble. 60 BPM, D minor, free meter, cathedral-to-office mix. + a stone door closing somewhere far off at the very end, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~420 chars)*
+
+### Zu Cheng — Logos
+*Little China, uphill. A Taoist who is usually right about it.*
+
+```
+Cool jazz with Chinese instrumentation. A clean-toned electric guitar playing a spare, superior melody over a soft ride cymbal and upright bass, a guzheng answering in short precise phrases, a wooden fish block keeping a second, slower time. Composed, disdainful, exact. 84 BPM, A minor pentatonic, 4/4, temple-courtyard mix. + the guzheng corrects the guitar once, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~440 chars)*
+
+### Zu Cheng — Mythos: Sun Wukong
+*Knowledge for Strength. The Monkey is out.*
+
+```
+Percussive, driving. Chinese opera drums and gongs breaking into a hard-bop rhythm section at double time, a suona blaring a war-cry figure over it, the guzheng from before now hammered, every phrase landing like a blow. Joyous, violent, immortal. 168 BPM, A minor pentatonic, 4/4, wide live-room mix. + one bar of total silence before the last hit, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~420 chars)*
+
+### Jack Rivers — Logos
+*Chain-smoking, dive-bar, a joker who keeps his distance.*
+
+```
+Barroom jazz, loose. An upright piano slightly out of tune playing a wry, shuffling melody over a brushed kit and a lazy bass, a harmonica commenting from the far end of the bar, glasses and a slow ceiling fan in the room. Easy, amused, one step back from everyone. 96 BPM, F major, 4/4 shuffle, end-of-the-bar mix. + the piano quotes a different song for two bars and grins about it, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~450 chars)*
+
+### Jack Rivers — Mythos: Coyote
+*Herald of the strange. The dark inside the closet.*
+
+```
+Dark folk-jazz, uncanny. A bowed double bass and a lone clarinet in a minor mode trading a crooked, curious melody, a soft frame drum, wind through a gap somewhere, and under it all a low animal breath kept in time. Whimsical, wrong, waiting around the bend. 72 BPM, E minor, 6/8, night-street mix. + the clarinet laughs once, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~400 chars)*
+
+**Tuning:** Generate the Logos cues after the Tier A board so they sit inside the same city. The Mythos cues should share one instrument with their Logos cue (the trumpet, the guzheng, the clarinet answering the harmonica) so surfacing sounds like the same person.
+
 ## Theme Workshop Notes
 
 - **Log three things per track** as you generate: the Style field verbatim, the take number you kept, and whatever you had to change. The third is the one everyone skips and the one that saves the most time on the next batch.
