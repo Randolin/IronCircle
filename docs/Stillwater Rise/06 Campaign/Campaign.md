@@ -18,13 +18,13 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 **Open:**
 
 - **System.** Daggerheart, locked. Stat blocks built as scenes need them ([[System Notes]]).
-- **Session 1.** One call left: the encampment's sympathetic face (default Herminia via Toby). Then the clue handout. Stat blocks are in [[Adversaries]].
+- **Session 1.** One call left: the encampment's sympathetic face (default Herminia via Toby). Stat blocks in [[Adversaries]]; boxed text in [[Read-Aloud]], [[Crime Scene]], and [[Leads]].
 - **Weaver's studio scene (Day 5)** and the column offer to Jack: not yet written. Needs a read-aloud block and her exact offer.
 - **The pier on Day 9** if the players are there with Herminia: the river as witness, the Tower holding a door, the Monkey not folding. Mechanics undefined until the system settles.
 - **Stat blocks** for Bunting and Klein at minimum before Day 8.
 - **PC looks** are placeholders until the players confirm; pronouns blank.
 
-**Next:** write the clue handout, run session 1, then fill [[Session 00]].
+**Next:** run session 1, then fill [[Session 00]]. The clue handout is [[Leads]] plus the Crime Scene boxed text.
 
 ## Files
 
@@ -40,6 +40,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 | [[Timeline]] | Day-by-day clock and background timeline |
 | [[Adversaries]] | Stat blocks: the rats, the Piper's friends, faction muscle |
 | [[Read-Aloud]] | Boxed text per location, sensory only, read as is |
+| [[Leads]] | Read-aloud clue blocks at every follow-up location, with true / false / background tags |
 | [[Crime Scene]] | Pier 9 by zone: what is free, what needs a roll, what a bad roll costs |
 | [[Session 00]] | The table sheet: players, contacts, and the running log of what the table knows |
 | [[Session 01]] | Per-session plans and recaps live in `Sessions/` |

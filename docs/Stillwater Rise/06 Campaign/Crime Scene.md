@@ -121,6 +121,66 @@ Each block is one thing to look at. The line after it is for the GM.
 #### The witness (later, under the ramp)
 > He's on a milk crate at the water's edge with a line in and a bait can beside him, an army blanket over his shoulders like a cape, a knit cap, a face weathered past any age you'd guess. He doesn't get up. He doesn't look at you until you've stopped moving. When he does, his eyes are the one thing about him that isn't worn: clear, steady, and younger than the rest of him by twenty years. He says, "You writing this down?" and waits to see if you are.
 
+### Pressed
+
+What they say when the players push. **Good** is a true lead. **Bad** is a false one, said sincerely. **Absent** is a door that doesn't open today. Most people give one of each.
+
+#### Casale
+- On the case: "Ninth like it in four years. All jumpers, ask anybody." *(Good; he regrets the number.)*
+- On suspects: "Lupo's boys were on her block last week. Sato's four blocks from here with a gun he shouldn't have. And she'd been hounding the reverend about some checks." *(Two bad, one useless; all sincere.)*
+- On the handoff: "Referral came down before we'd finished the coffee. That's not usual. I'm not curious." *(Good, if they hear the first sentence.)*
+- On the files: "There's paper. I'd need a reason that keeps my name off it." *(Absent today; the price.)*
+
+#### Pruitt
+- On the victim: "Known crank. Wrote a little paper nobody read. Sad case." *(Bad.)*
+- On suspects: "Sato. Bitter man, that one. I'd start there." *(Bad, and a steer away from the Authority.)*
+- On the delay: "Harbor found her on the dawn run. That's the record." *(Absent; he knows about the disregard and won't.)*
+- If caught listening: "Cordon's my purview. So's who crosses it." *(Absent, and he reports it.)*
+
+#### Halloran
+- On cause: "Two wounds from behind and above, and lungs full of river. Both cannot be first. I'll thank you not to quote me." *(Good.)*
+- On the eyes: "Lividity. Or the chemical plant upriver. I have her license and it says brown, and I'm writing a question mark." *(Bad, offered to be disbelieved.)*
+- On the others: "I sign what I can defend." *(Absent; the memo stays in the desk.)*
+- If someone says *nine, all folded, four years*: "Say that again. Slower." Then out of the van. *(Good; don't give more today.)*
+
+#### Dubcek
+- On the river: "Current runs seaward past Nine. She was a quarter mile up. The river has rules." *(Good.)*
+- On the piles: "Eleven piles of clothes I've seen on these piers. No floaters. Till her." *(Good.)*
+- On the rats: "Never saw a rat drown in my life. Won't put a hook in 'em." *(Good.)*
+- On where to ask: "People go missing under the ramp and nobody files. Ask the camp." *(Good; the route to Cutty.)*
+- On the record: "Nobody's asked." *(Good; he'll say it to a jury.)*
+
+#### Bets
+- On the body: "She's quiet. They're usually loud the first hour. This one's already gone somewhere." *(Good, if they can hear it.)*
+- On the others: "Nine times I've said that. I write it down. Glove box." *(Good; the notebook.)*
+- On the rats: "The live ones wouldn't get in the van. Stood on the pier and watched me load her." *(Good.)*
+
+#### Teddy
+- On what he shot: "Twenty-two frames, chief. The pile from four sides, the edge, the water, the crowd. Always shoot the crowd." *(Good; the negatives.)*
+- On the wrapper: "Got it before the flatfoot stepped on it. Frame six." *(Good.)*
+- On price: "County pays a dollar a print. Everybody else pays more." *(The clock; he sells Day 3.)*
+
+#### The man in the crowd (Pell)
+- On why he's here: "Paying respects. A policyholder." *(Absent.)*
+- On which policy: He polishes his glasses. "Beacon Mutual writes the whole district." Then he leaves. *(Good, if they notice the flinch.)*
+
+#### The boy (Toby)
+- On Vera: "Everybody calls her the joke name. She wasn't a joke. She paid me same day, every week." *(Good: the dime.)*
+- On her last weeks: "She'd been watching somebody. Two weeks. Wouldn't say who. Said I'd read about it." *(Good.)*
+- On the tune, if asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" *(Good; move on fast. Don't let anyone connect it tonight.)*
+- On where she worked: "Klein's. I'll show you. He don't hear, so you gotta write." *(The exit.)*
+
+#### The uniforms at the tape
+- Boyd, if alone: "We got called off. Two-forty-seven. Somebody said disregard." *(Good.)*
+- Kowalczyk, if present: "Drop it, Danny." *(Absent, and it confirms Boyd.)*
+- Either, on the crowd: "They've been here since it got light. Nobody's said a word." *(Neutral.)*
+
+#### The witness (later, under the ramp)
+- Before Ottilie's nod: "I told the desk. Desk heard my address before my words." *(Absent; the route is the camp.)*
+- After: "She said it to the water like the water asked her a question. Then the pier said it back three times, louder." *(Good.)*
+- On what he heard before that: "She was humming coming down the path. Pretty, like off a record." *(Good; only if asked what he heard.)*
+- On the man: "A hat at the rail. Something long set down beside him with a shine on it. Half of him yellow under the lamp." *(Good; the suit, the case.)*
+
 ## The four oddities
 
 These are why the Coroner referred it. Free to notice; nobody at the scene can explain them.
