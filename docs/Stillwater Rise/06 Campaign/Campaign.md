@@ -41,6 +41,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 | [[Decisions]] | Dated log of what's locked and why |
 | [[Timeline]] | Day-by-day clock and background timeline |
 | [[Adversaries]] | Stat blocks: the rats, the Piper's friends, faction muscle |
+| [[Location Prompts]] | Splash-art prompts and Suno beds for twelve key locations |
 | [[Read-Aloud]] | Boxed text per location, sensory only, read as is |
 | [[Leads]] | Read-aloud clue blocks at every follow-up location, with true / false / background tags |
 | [[Crime Scene]] | Pier 9 by zone: what is free, what needs a roll, what a bad roll costs |

@@ -109,6 +109,10 @@ Dark folk-jazz, uncanny. A bowed double bass and a lone clarinet in a minor mode
 
 **Tuning:** Generate the Logos cues after the Tier A board so they sit inside the same city. The Mythos cues should share one instrument with their Logos cue (the trumpet, the guzheng, the clarinet answering the harmonica) so surfacing sounds like the same person.
 
+## Locations
+
+Twelve location beds (the pier at dawn, the print shop, Tin City at night, the Half Note on a Thursday, the precinct desk, the Exchange upstairs, the Model Room, the Span field office, Studio B, Delancey Street, the agency, the temple hall, the morgue) are in [[Location Prompts]] with their splash-art prompts. Same spine.
+
 ## Theme Workshop Notes
 
 - **Log three things per track** as you generate: the Style field verbatim, the take number you kept, and whatever you had to change. The third is the one everyone skips and the one that saves the most time on the next batch.
