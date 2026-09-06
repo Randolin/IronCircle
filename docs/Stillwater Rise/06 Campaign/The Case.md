@@ -32,6 +32,8 @@ Bunting's been in his room since, the .38 in a coffee can. Day 2 (Tuesday) he ca
 
 **What that did to the machine.** A body came up, which has never happened, and a body is a record the web didn't make. [[Gerry Fitch|Fitch]] reads Pruitt's Day 1 report, understands the hit man botched it, and can't tell Maas, who thinks Vera was dealt with the ordinary way. She sends Authority site security to the pier and the print shop on Day 2 "for trespass" ([[Lou Padgett|Padgett]]'s crew, who think it's a trespass matter), and she gets the page-seven paragraph and the afternoon joke run on schedule anyway, because the publicity is what carries the soul and Weaver wants Vera's badly. Weaver sends a feature writer to find out who the agency is. **Nobody sends anyone to help Bunting.** He is alone, and the players will figure that out before he does.
 
+**The second killer.** Fitch doesn't trust the Piper after Day 1. Around Day 7 she brings in [[Sal Lupo|Lupo]] as a blunt instrument, through the same contractor channel and with the same paperwork, without telling him what he's replacing; Lupo thinks he's finally been let in on the racket. Lupo's collections leave marks and bodies. Weaver doesn't mind; the paper carries them all the same. If Lupo fails or gets loud, the wildcard is Weaver's own fixer, who has a Mythos nobody has seen: the Sandman. People stop waking up. Fitch keeps her hands clean through all of it until she can't. The Piper, learning he's been replaced, is at his most turnable.
+
 **And Vera didn't go through clean.** Her Rift broke the glamour at the water and it's still broken: the web took her and she's *in it wrong*, a knot. The hum in the spot, the rats that drowned facing in, the river giving her back, the green in her eyes: those are the web failing to close over her. Weaver can feel the knot and doesn't know yet that it's Vera.
 
 ## The crime scene
@@ -146,11 +148,15 @@ Every resolution needs its findings in concert. Every finding has two or three s
 
 The surface story is a redevelopment murder. Underneath, a harvest. See [[Mythos]].
 
+**The words.** The Authority's program is **Stillwater Rise Resettlement**; its letters say *resettled*; the checks to Prosper say *transition assistance*; the contractor line on the docket says *abatement*; tenants say *relocated*; Tin City is where the ones who take neither the check nor the walk end up. Maas says "resettled" a half-beat slow.
+
 **The mechanism.** A person is put on the docket. The Piper knocks, plays, and days later they walk into the river. Around that death the project makes paper and noise: the condemnation notice, the routing stamp, the harbor log that says jumper, the four inches on page seven, the joke on the afternoon program. That publicity is the thread. The soul rides it into the City's wires, telephone, radio, television, newsprint, and Weaver owns all four. She sits at the center and takes what the soul knew as it passes. Then it goes on, down a line out of the City, to something that was receiving the dead before she was born. She has never looked. She doesn't care where. She cares about the yield and the web's integrity.
 
 **Why the disappeared leave no trace.** The record of them travels with them. A file that would have named them goes quiet the way the district's phone lines have been going quiet: block by block, call by call. Rimm has been recording the silence for months.
 
 **Why it's accelerating.** The Span schedule compresses the dockets, so the collections come faster, so Weaver knows more sooner. By the ribbon-cutting she means to have the whole district.
+
+**Why Maas's project, specifically.** Scale and quiet. Resettlement means a great many deaths that nobody files, each with its own little paper trail to ride, and a city that thanks the man responsible. Any publicity carries a soul; discretion is what keeps the harvest running. Vera's body coming up costs Weaver nothing, and the second killer's bodies will cost her nothing, so long as her involvement stays undiscovered. She is upset about the turn of events the way a careful person is upset about noise, not the way a guilty one is.
 
 **Who knows what.**
 - **Weaver** built it and knows exactly what it is, and doesn't fully understand the current she's sitting in.

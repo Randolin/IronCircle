@@ -161,6 +161,20 @@ Hired, competent, and never in the same room twice. The most dangerous person th
 - **Cleanup – Passive:** Instinct or Knowledge rolls to identify or track this adversary after a scene are made at Difficulty 17.
 - **Vanish – Reaction:** After this adversary makes an attack, mark a Stress to become Hidden.
 - **Someone Else's Problem – Action:** Spend a Fear to make a PC's ally NPC within the scene unavailable for the rest of the session (arrested, transferred, bought, frightened). The GM chooses one and says how.
+- **Surface – Reaction:** When Fitch names a person to him and the Piper and Lupo have both failed, or when he marks Severe damage, spend a Fear to swap to the Sandman block. Nobody has seen it.
+
+### The Sandman (Weaver's Fixer, Surfaced)
+*Tier 3 Skulk (Mythos)*
+The fixer, with his hat off. People he visits stop waking up. There are no marks, no folded clothes, no water; the paper says *in his sleep*, and the paper carries it just the same.
+**Motives & Tactics:** Enter unseen, put the room to sleep, finish one, leave nothing
+**Difficulty:** 17 | **Thresholds:** 18/30 | **HP:** 7 | **Stress:** 4
+**ATK:** +3 | **Handful of Sand:** Very Close | 3d6+4 magic
+**Experience:** Never There +3, Every Bedroom in the City +2
+
+- **Unseen – Passive:** While Hidden, this adversary can't be targeted, and Instinct rolls to find him are at Difficulty 20.
+- **Sand – Action:** Every creature within Close range must succeed on an Instinct Reaction Roll (17) or mark 2 Stress and become Vulnerable; a creature that marks its last Stress this way falls asleep and can't act until an ally spends an action to wake them.
+- **In His Sleep – Action:** Spend a Fear to make an attack against a sleeping or Vulnerable target within Very Close range. On a success, deal 3d6+4 direct magic damage.
+- **Gone by Morning – Reaction:** When this adversary marks HP, mark a Stress to become Hidden and move to Far range.
 
 ### Milner's Collector
 *Tier 1 Social*

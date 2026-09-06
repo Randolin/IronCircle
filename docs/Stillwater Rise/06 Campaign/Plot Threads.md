@@ -48,7 +48,7 @@ The arc as threads. Each resolves separately; the players can be anywhere on any
 
 ## The ricochets
 
-Nobody aimed these. [[Sal Lupo]] finds Bunting before the players do. [[Ray Sato]] reaches a conclusion and acts on it. [[Tin City]] can be cleared in an afternoon with nobody having ordered anything. See [[Danger Board]].
+Nobody aimed these. [[Sal Lupo]] finds Bunting before the players do, or Fitch hands Lupo the docket first (Day 7) and the hunt becomes a hiring. [[Ray Sato]] reaches a conclusion and acts on it. [[Tin City]] can be cleared in an afternoon with nobody having ordered anything. See [[Danger Board]].
 
 ## Player threads
 

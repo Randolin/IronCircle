@@ -71,8 +71,8 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | 5 | Weaver's invitation. Studio B; a column offered to Jack | [[Vivian Weaver]], [[Jack Rivers]] |
 | 6 | Toby finds the stencils. Padgett starts counting the Tuesday minutes | [[Toby Small]], [[Lou Padgett]] |
 | 6–8 | Prosper's break-in at Klein's. The red herring | [[Eli Prosper]] |
-| 7 | Official interest in Brack's log surfaces Cutty. Weaver's call to Ard | [[Cutty Sloan]], [[Whitcombe Ard]] |
-| 8 | The knock at Herminia's door. Pearl's mother sees him | [[Herminia Vega]], [[Pearl Nazario]] |
+| 7 | Official interest in Brack's log surfaces Cutty. Weaver's call to Ard. Fitch hires Lupo through the contractor channel; the Piper is replaced and doesn't know it yet | [[Cutty Sloan]], [[Whitcombe Ard]], [[Sal Lupo]], [[Gerry Fitch]] |
+| 8 | The knock at Herminia's door. Pearl's mother sees him. If Lupo has the docket by now, it isn't a knock | [[Herminia Vega]], [[Pearl Nazario]] |
 | 9 | Herminia's pier date. Mabel becomes a target. If Herminia is saved, Weaver stops being careful | [[Herminia Vega]], [[Mabel Cho]] |
 | ~10 | **The Inquest.** Official ruling: suicide, unless challenged or delayed. Closes the file, cuts evidence access, buries Halloran's doubts. Shale opens the letter regardless. Okafor is on the docket | [[Ruth Halloran]], [[Adaeze Okonkwo]], [[Mickey Shale]] |
 | 11 | First issue of the restarted *[[The Plain Truth]]* | [[Toby Small]] |

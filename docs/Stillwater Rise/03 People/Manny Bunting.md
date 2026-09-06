@@ -34,6 +34,7 @@ aliases:
 - **Vera:** Fitch brought it herself, with the paper and too much money, and pressed. Not a debt. He took it because the rent was due. Day −10 he played for her at the Half Note. Day 0 he waited at the pier rail to make sure. She stopped at the edge, said something to the water, and stood there. He fired three times, shoulder, miss, head, and ran with the case.
 - **Since:** two days in his room. The .38 in a coffee can. He bought it at Grosz's as *M. Roland* and will return it Day 3–4 on his way to the gig, because it's money.
 - **Thursday (Day 4):** he plays. He's a wreck on the stand. He played one number Tuesday (Day 2), got it wrong, and left without his hat.
+- **Replaced:** around Day 7 he learns the Authority has hired Lupo. That's the moment he'll talk to anyone who asks him about the music.
 - **Nobody is coming to help him.** Fitch knows the job was botched and can't tell Maas. Weaver protects the story, not the man. He'll work that out after the players do.
 - **Okafor:** the only person who knows what the tune is. Bunting doesn't know Okafor knows.
 - **Stat block:** solo tier, but the fight is the rats; he negotiates, and what he asks for is to be paid for the music.

@@ -28,6 +28,7 @@ aliases:
 - **Actually guilty of:** illegal evictions, assault, bid-rigging. Not murder; he'd have left marks.
 - **Mythos:** the Big Bad Wolf, furious that doors stopped opening.
 - **After he deflates:** his job logs are the clearance schedule; his hate is a weapon you can aim or fail to stop.
+- **Day 7, the turn:** Fitch hires him. He thinks he's been let into the racket at last. His collections are crowbars and marks and bodies in stairwells, on the docket's schedule. He's now the second killer, and he doesn't know what the first one was.
 
 
 ## Prompts

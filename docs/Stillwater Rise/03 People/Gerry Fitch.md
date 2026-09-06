@@ -28,6 +28,7 @@ aliases:
 - **The line item:** she drafted the abatement entry naming Vera, forged the routing to look Authority-internal, got Maas's 'deal with it,' and took the paper and the money to the Piper herself. The one arrestable neck in the chain.
 - **What she knows:** everything Weaver knows about the web. She keeps the notices, the dockets, the page-seven paragraphs on schedule; that's the thread the souls travel.
 - **Maas:** she hates him and keeps him running because the project is the harvest.
+- **The replacement:** she doesn't trust the Piper after Day 1. Around Day 7 she brings in Lupo through the same contractor channel, paperwork and all, without telling him what he's replacing. If that fails, the fixer. She keeps her own hands clean until the last week, when she can't.
 - **Under pressure she doesn't fold, she gets ambitious.** Liaison, sanitized records, then obstruction. Dangerous branch: she warns Bunting. Cracks only on proof Weaver finds her disposable.
 - **Money:** dresses above her salary on a Milner loan. Looks like conspiracy; is a lender spotting a climber.
 - **Stat block:** minion-tier schemer; obstruction, paperwork, panic.

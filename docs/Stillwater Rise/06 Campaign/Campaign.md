@@ -18,6 +18,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 **Open:**
 
 - **System.** Daggerheart, locked. Stat blocks built as scenes need them ([[System Notes]]).
+- **Middle pressure:** Day 7 Fitch replaces the Piper with Lupo; the Sandman is the wildcard. Not yet placed in a session plan.
 - **The web at the table.** Three discoveries, three sessions apart (the wire listens; the silence on the tapes is souls; it can be cut). Not yet scheduled to specific sessions.
 - **Session 1.** One call left: the encampment's sympathetic face (default Herminia via Toby). Stat blocks in [[Adversaries]]; boxed text in [[Read-Aloud]], [[Crime Scene]], and [[Leads]].
 - **Weaver's studio scene (Day 5)** and the column offer to Jack: not yet written. Needs a read-aloud block and her exact offer.

@@ -57,6 +57,10 @@ The two interlock: Weaver decides, Fitch routes, Bunting performs. A name on her
 | **Adaeze Okonkwo** | Not bought, not drowned: the Kestrel inquest gets *rescheduled* into a room where she isn't the stenographer. [[Maeve Brogan|Brogan]] can do that with a call | The finale's record |
 | **Amalia "Doc" Reyes** | Bought. The Half Note's block comes up on the docket early, with a better check than the neighbors got. She'll know why | The third witness to the slip, and Jack's one door that doesn't cost |
 
+## The second killer
+
+From ~Day 7, [[Gerry Fitch|Fitch]] runs the docket through [[Sal Lupo|Lupo]] instead of the Piper. Lupo's collections leave marks; the paper carries them anyway. Names on the docket move up, because Lupo doesn't need days of humming, he needs an evening. If Lupo fails or gets loud, the fixer surfaces as the Sandman ([[Adversaries]]) and people stop waking up. The Piper, replaced, becomes the most talkative man in the City.
+
 ## Fired
 
 - **Day 1:** Pruitt's first report on the players goes in tonight. Fitch reads it by morning. *(fires at the end of session 1 regardless of what they did)*

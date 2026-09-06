@@ -27,6 +27,7 @@ aliases:
 - **Manner:** Answers every question with a true story that's beside the point. Remembers your name and one embarrassing fact. Never hums. Her heels on marble sound like more than two feet.
 - **Empire:** paper, radio hour, afternoon TV, Channel 6, assembled from silk money in six years. Real name Vivian Zhu; Little China's old money paid for a temple roof in 1957.
 - **The web:** telephone, radio, television, newsprint. She owns all four. A relocated soul rides the publicity of its own death (notice, docket, page seven, the afternoon joke) into the wires, and she takes what it knew as it passes. Then it goes on down a line she has never looked at. She latched onto a current older than her and doesn't fully understand it.
+- **Publicity:** any publicity carries a soul. Good publicity that's secretly bad is best. She prefers discretion because discretion keeps the harvest running, and she's upset about Vera's body the way a careful person is upset about noise. It costs her nothing as long as her involvement stays undiscovered.
 - **What she knows:** more every week. By Day 10, things the players said on a telephone. Face to face and handwritten don't reach her.
 - **Vera:** a knot. Vera went in with her Rift broken and the web hasn't closed over her. Weaver can feel it and doesn't know yet that it's Vera.
 - **Her moves:** Day 2 Fitch as liaison; Day 3 buys Teddy's crowd frames; Day 5 tea and a column for Jack; Day 7 the call to Ard; Day 9 if Herminia is saved, she stops being careful.
