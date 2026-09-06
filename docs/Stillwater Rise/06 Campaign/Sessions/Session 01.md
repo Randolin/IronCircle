@@ -110,9 +110,11 @@ He'll say it all to a coroner's jury. "Nobody's asked." About the piles: "People
 
 Not here. [[Cutty Sloan|Cutty]] is under the ramp and [[Tin City]] is locked down. Brack's log says a drunk called it in at 2:15 from the canal-side box. That's the thread. The humming detail comes out only if someone asks Cutty what he *heard*.
 
-## Beat 3: three doors
+## Beat 3: the doors
 
-Let them choose. One fight is guaranteed (the print shop). Two doors is a full night; three is two sessions.
+Let them choose the order. **The fight is at her apartment** and it happens whenever they get there; the other three are quiet. Two doors is a full night; four is two sessions.
+
+Her apartment and Klein's shop are six blocks apart and Toby will walk them to either.
 
 ### Vera's apartment (the fight)
 
