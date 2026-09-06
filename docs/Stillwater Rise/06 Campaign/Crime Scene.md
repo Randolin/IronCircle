@@ -165,10 +165,34 @@ What they say when the players push. **Good** is a true lead. **Bad** is a false
 - On which policy: He polishes his glasses. "Beacon Mutual writes the whole district." Then he leaves. *(Good, if they notice the flinch.)*
 
 #### The boy (Toby)
-- On Vera: "Everybody calls her the joke name. She wasn't a joke. She paid me same day, every week." *(Good: the dime.)*
-- On her last weeks: "She'd been watching somebody. Two weeks. Wouldn't say who. Said I'd read about it." *(Good.)*
-- On the tune, if asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" *(Good; move on fast. Don't let anyone connect it tonight.)*
-- On where she worked: "Klein's. I'll show you. He don't hear, so you gotta write." *(The exit.)*
+
+He is the single richest source at the pier and he will give it all away for free, to whoever is kindest, in headline order and out of sequence. He does not know what any of it means.
+
+**Free, immediately:**
+- "Everybody calls her the joke name. She wasn't a joke. She paid me same day, every week, which is more than the OTHER paper does." *(The dime.)*
+- Her routine: the shop most days, print nights Thursday, one drink after, home along the pier "because the pier's lit."
+- "Klein's. I'll show you. He don't hear, so you gotta write." *(The exit from the scene.)*
+
+**If they're decent to him, or ask about the last few weeks:**
+- **"She'd been watching somebody. Two weeks. Wouldn't say who. Said I'd read about it."** *(Day −10 onward. True.)*
+- **The humming.** "She started doing that a couple weeks ago. Humming. All the time, like a lady with a radio in her head. I asked her what it was and she said *that's the question*, which is a Miss Vera answer." *(She knew she was infected and was investigating it.)*
+- **The bundle.** "Three, four days ago she took a bunch of cards out of the drawer and put them in a bag and took them somewhere. Didn't take me. She always takes me." *(Day −3, the emptied drawer and the camera. He does not know where she went.)*
+- **The letter.** "Last night before last she mailed something herself. Walked to the box. She never does that, that's my job, that's a nickel." *(Day −1. The insurance letter.)*
+- **The camera.** "She had a little camera she kept at the shop for the pictures. Haven't seen it. It goes in her right pocket."
+
+**Things he'll mention as gossip, correctly:**
+- She and Mr. Okafor "had words" twice and the second time he put her on the sidewalk.
+- She yelled at "the insurance man" in the street about three weeks ago, loud, in front of everybody.
+- "Some guys were on the block last week. Not from here. Sitting in a car." *(Lupo's men, after the eviction negatives.)*
+- She was in the corner store yesterday at lunch, bought nothing, hummed at the counter, left. *(He heard this from the man behind the counter.)*
+
+**The accidental one:** between sentences, when his mouth has nothing else to do, he hums four descending notes. If someone asks: **"This? I dunno. The sax man taught me. The one that knocks on doors. It's pretty, ain't it?"** Then move on fast. Do not let the table connect it tonight; he cannot give a name, only "the sax man," and he thinks of him as the nice man who tips a dime.
+
+**What he gets wrong:** he is certain the police did it, or "the guys in the car," and he will say so loudly and repeatedly.
+
+**What he does not know:** what the tune is, that the sax man knocks on doors for the Authority, that his own block is on the docket, or that anything supernatural has happened. He also does not yet know where the stencils are; he works that out on Day 6.
+
+**What he wants:** to come along. He will attach himself to whoever spoke to him like an adult, and he will be back tomorrow whether or not they invited him.
 
 #### The uniforms at the tape
 - Boyd, if alone: "We got called off. Two-forty-seven. Somebody said disregard." *(Good.)*
