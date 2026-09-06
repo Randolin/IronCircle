@@ -57,6 +57,3 @@ One per PC, tied to the case. **Offers, not facts.** Each player accepts, change
 - [[Arthur Rook]] — **Offer: an old partner.** [[Lou Padgett]] was the other half of *Padgett & Rook*, which folded when Rook's draft trouble began. Lou is now Authority site security, and his crew is the "trespass" detail Fitch sends on Day 2. Second offer: Vera came to Rook shortly before she died to find out who was following her (it was [[Ray Sato|Sato]]). Either, both, or neither.
 - [[Zu Cheng]] — **Offer: a teacher.** [[Fen Baiyun]], abbot of the Three Purities temple, raised him and sent him down the hill. Through Fen: Weaver before the money, and [[Mabel Cho|Mabel]]'s mother in the temple's care. The Zhu roof is a world fact regardless; whether Cheng has ever wondered about it is Josh's.
 - [[Jack Rivers]] — **Offer: a regular bar.** The [[The Half Note|Half Note]] and [[Amalia Reyes|Doc Reyes]]. If he drinks there, he was three stools down the night of Shale's slip and is a second witness to the tip chain without knowing it. Weaver's Day 5 column offer comes to whoever the journalist is, either way.
-
-
-One per PC, tied to the case. The player knows the surface; the GM holds the rest.
