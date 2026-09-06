@@ -114,7 +114,7 @@ Not here. [[Cutty Sloan|Cutty]] is under the ramp and [[Tin City]] is locked dow
 
 Let them choose. One fight is guaranteed (the print shop). Two doors is a full night; three is two sessions.
 
-### The Print Shop: [[The Print Shop|Klein's]]
+### Klein Job Printing: [[Klein Job Printing|Klein's]]
 
 **The clue that sends them:** the key ring; Toby; "she ran a paper."
 

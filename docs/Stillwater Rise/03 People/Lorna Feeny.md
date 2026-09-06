@@ -3,7 +3,7 @@ type: character
 tier: b
 board: route
 role: dispatch
-faction: [[The Precinct]]
+faction: [[The Precinct|the 14th Precinct]]
 opens: "The disregard order — timestamped, and the voice behind it"
 status: alive
 exposure: secret

@@ -3,7 +3,7 @@ type: character
 tier: b
 board: route
 role: Homicide
-faction: [[The Precinct]]
+faction: [[The Precinct|the 14th Precinct]]
 opens: "The nine jumper files; advance warning of department moves"
 status: alive
 exposure: secret

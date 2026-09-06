@@ -71,7 +71,7 @@ The coats split at the shoulders. Teeth too long for the mouth. He is still humm
 
 Ordinary people. One block each. Efficacy and style differ on purpose; the players should be able to tell who sent them by how they fight.
 
-### Lupo Demolition Crew
+### Lupo Brothers Crew
 *Tier 1 Standard*
 Four men with crowbars and one with a cigar. They leave marks, and they want you to know it was them.
 **Motives & Tactics:** Break it open, find the paperwork, make a point, get paid
@@ -80,7 +80,7 @@ Four men with crowbars and one with a cigar. They leave marks, and they want you
 **Experience:** Wrecking +2
 
 - **Loudmouth – Passive:** This adversary can't become Hidden. Rolls to track or identify this crew afterward are made with advantage.
-- **Pile On – Reaction:** When another Lupo Demolition Crew within Very Close range deals damage to a creature, mark a Stress to make a standard attack against the same creature. On a success, combine the damage.
+- **Pile On – Reaction:** When another Lupo Brothers Crew within Very Close range deals damage to a creature, mark a Stress to make a standard attack against the same creature. On a success, combine the damage.
 
 ### Lupo's Foreman (the cigar man)
 *Tier 1 Standard*
@@ -175,7 +175,7 @@ Ottilie's people: coats, sticks, numbers. They don't want to fight. They will.
 
 ## Building the Session 1 fight
 
-**The print shop, Day 1:** four Lupo Demolition Crew and the Foreman. Per SRD battle points (p. 94–95) that's a Standard-heavy fight for three level-1 PCs, on the easy side, which is right for a first fight. Klein is not a combatant unless the Golem wakes; he isn't statted here on purpose.
+**The print shop, Day 1:** four Lupo Brothers Crew and the Foreman. Per SRD battle points (p. 94–95) that's a Standard-heavy fight for three level-1 PCs, on the easy side, which is right for a first fight. Klein is not a combatant unless the Golem wakes; he isn't statted here on purpose.
 
 **Tin City, if they end there:** two Swarms passing through, not attacking unless attacked. The goal is not to be carried to the water. Tin City Crowd climb; they don't fight the rats.
 

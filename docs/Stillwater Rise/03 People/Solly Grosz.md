@@ -2,7 +2,7 @@
 type: character
 tier: b
 board: route
-role: Three Balls Loans
+role: Grosz Loans & Appraisal
 location: [[The Flats]]
 opens: "The weapon, its buyer, and its return"
 status: alive
@@ -14,7 +14,7 @@ aliases:
 
 # Solly Grosz
 
-> *Three Balls Loans.*
+> *Grosz Loans & Appraisal.*
 
 **Pitch:** Pawnbroker who sold a .38 to a polite man in a two-tone suit calling himself M. Roland, and gets it back from him on Day 3 or 4. Who returns a revolver?
 **Wants:** Payment, at his price, until someone says out loud what's happening in his shop.

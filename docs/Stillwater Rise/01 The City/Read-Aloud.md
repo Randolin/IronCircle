@@ -43,7 +43,7 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### Under the Span
 > The expressway comes down out of the sky on concrete legs sixty feet tall and stops. Just stops, a hundred feet up, the road deck ending in rebar and air like a diving board for buses. The sound underneath it is wrong, a hum with no source, and the light is a permanent four in the afternoon. Pigeons in the joints. Water running down one leg from somewhere that shouldn't leak. Somebody has painted a name on the concrete at head height and somebody else has painted over it in the Authority's white.
 
-## The Print Shop
+## Klein Job Printing
 
 ### The street door
 > A narrow shopfront with the glass painted black to waist height and gold lettering above it flaking: JOB PRINTING. A bell bracket over the door with no bell in it. Through the clear part of the glass, a room of machines under sheets, and a single bulb burning. The smell reaches the sidewalk: ink, hot metal, and something sweet like gum. A stack of newsprint against the inside of the window has gone yellow on the side that faces the street and stayed white on the other.
@@ -80,7 +80,7 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The room
 > Low ceiling, pressed tin, gone the color of a smoker's thumb. A bar along the right wall with a mirror behind it that's lost its silver in patches, so that the room looks back at itself with holes in it. Twelve tables, red candles in jars, half of them lit. A stand at the far end the size of a kitchen table, with a piano, a drum kit with a cracked cymbal, an upright bass leaning in the corner, and one empty chair with a music stand in front of it. The band plays standards and doesn't look up. Over the bar, a photograph of the room from a better decade, with more people in it.
 
-## The Precinct
+## The 14th Precinct
 
 ### The desk
 > Green paint to shoulder height, cream above, both older than anyone in the room. A counter with a brass rail worn bright in two places where elbows go. Behind it, a sergeant on a stool and a board of hooks with keys on it, and behind that a room of desks where typewriters are going and nobody is looking up. The bench along the wall has a drunk on it, asleep, and a woman with her purse on her lap, awake. A ceiling fan turns slowly enough to count the blades. It smells of floor wax, cigarettes, and the coffee that has been on the burner since the shift began.
@@ -145,7 +145,7 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The sanctuary, Sunday
 > Four hundred people in a room built for two hundred, standing in the aisles, children on shoulders, hats in every color there is. The choir in robes the color of mustard, twelve voices that sound like forty. A cross made from two beams off a demolished building, still with the nail holes in it. The lectern up front, and behind it a wall of photographs, families, going back a long way, most of them smiling, and a few blank rectangles on the wall where photographs used to be.
 
-## Three Balls Loans
+## Grosz Loans & Appraisal
 
 ### The shop
 > Three brass balls over the door, one of them dented. A window full of watches, guitars, a trumpet, a wedding dress on a form, and a sign that says WE BUY GOLD in letters that have faded to WE BUY. Inside, the light comes from a single bulb over the counter and from a lamp with a green shade at the far end where the counter turns a corner. Cases of rings. A wall of instruments hung by their necks. Everything has a tag, and every tag has a number and a date in the same neat hand. It smells of brass polish and old coats and the cigar that was smoked here yesterday.
@@ -169,7 +169,7 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The room
 > A bed made tight enough to bounce a coin. A hot plate. A chair. A window onto an air shaft with a line of pigeons on the sill. And a wall. The whole wall, floor to ceiling, is photographs and index cards and string: a map of the district in the middle, and around it faces, dozens, some of them the same face a dozen times, and dates under each in a hand that presses hard enough to dent the card. On the dresser, a developing tray, a bottle of fixer, and a camera with a lens as long as a forearm.
 
-## Lupo Demolition & Removal
+## Lupo Brothers Wrecking & Salvage
 
 ### The yard
 > A lot behind a fence of corrugated tin with a gate wide enough for a truck. Inside, a wrecking ball on a crane, two flatbeds, a bulldozer, and a mountain of what buildings are made of once they aren't: brick, lath, radiators, doors, a claw-foot tub, a staircase going nowhere. A shed office with a stovepipe. A dog on a chain long enough to reach the gate and not the office. Men in work clothes eating lunch on a running board who stop eating to look. The whole yard smells of plaster dust and diesel and the dog.

@@ -3,7 +3,7 @@ type: character
 tier: c
 board: texture
 role: the downgrade
-faction: [[The Precinct]]
+faction: [[The Precinct|the 14th Precinct]]
 status: alive
 exposure: secret
 completeness: complete

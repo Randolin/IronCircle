@@ -91,7 +91,7 @@ Every resolution needs its findings in concert. Every finding has two or three s
 | Nine runs marked *empty*, two never filed | The coroner's van | [[Bets Halvorsen|Bets]], for being asked |
 | Eleven claim denials under the suicide exclusion | Beacon Mutual | [[Nathaniel Pell|Pell]], after he deflates |
 | Nine years in a coffee can | [[Tin City]] | [[Ottilie Mauser|Ottilie]], for a name |
-| Vera's own list, dated, and the card files | [[The Print Shop]] | [[August Klein|Klein]]; the notebook Day 2 |
+| Vera's own list, dated, and the card files | [[Klein Job Printing]] | [[August Klein|Klein]]; the notebook Day 2 |
 | Forwarding addresses to streets that don't exist | The Mission | [[Eli Prosper|Prosper]] |
 | Every pile on the eve of a block clearance, coming faster | The dockets against the files | Whoever lays them side by side. Halloran's worst afternoon |
 
@@ -113,8 +113,8 @@ Every resolution needs its findings in concert. Every finding has two or three s
 | Rats. Drowned in a ring at the pier; fled the embankment that night; three at the Half Note's stage door; on his fire escape | Everywhere he's been | [[Earl Dubcek|Dubcek]], [[Ottilie Mauser|Ottilie]], [[Amalia Reyes|Doc Reyes]]; the rats themselves, to Jack: *the man with the case* |
 | "Very polite, very quiet. Pack the good dishes first" | Every door on the docket | [[Herminia Vega]] on Day 8; families Okafor warned out |
 | "The knocking man." Moved ahead of him nine times | [[Tin City]] | [[Ottilie Mauser|Ottilie]] |
-| The piling slug → rifling → make and model → a pawn-ledger canvass | Three Balls Loans | [[Solly Grosz|Grosz]]. Fast players wait for the return; slow ones get the ledger after |
-| A revolver returned by "M. Roland," Day 3–4 | Three Balls Loans | [[Solly Grosz|Grosz]]: "Who returns a revolver?" |
+| The piling slug → rifling → make and model → a pawn-ledger canvass | Grosz Loans & Appraisal | [[Solly Grosz|Grosz]]. Fast players wait for the return; slow ones get the ledger after |
+| A revolver returned by "M. Roland," Day 3–4 | Grosz Loans & Appraisal | [[Solly Grosz|Grosz]]: "Who returns a revolver?" |
 | The sax man who sits in Thursdays, never drinks, refuses pay; came in Tuesday, played one number wrong, left his hat | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]]; the bandleader; the hat behind the bar |
 | A big man with a cigar asked whether the sax player still plays Thursdays | [[The Half Note]] | Doc Reyes. It's Lupo's man; somebody else is hunting him |
 | A two-tone suit at the edge of the cordon, frame nineteen | Teddy's shoebox | [[Teddy Ferrante|Teddy]], before Day 3 |

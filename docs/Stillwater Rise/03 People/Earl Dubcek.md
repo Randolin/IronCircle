@@ -3,7 +3,7 @@ type: character
 tier: b
 board: route
 role: harbor patrol
-faction: [[The Precinct]]
+faction: [[The Precinct|the 14th Precinct]]
 location: [[Pier 9]]
 opens: "That the body's location is physically impossible"
 status: alive

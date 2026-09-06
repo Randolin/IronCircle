@@ -4,7 +4,7 @@ tier: a
 board: suspect
 role: the Watcher
 draws-fire: early
-faction: [[The Precinct]]
+faction: [[The Precinct|the 14th Precinct]]
 status: alive
 exposure: secret
 completeness: complete

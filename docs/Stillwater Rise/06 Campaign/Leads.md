@@ -10,7 +10,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 
 ---
 
-## The Print Shop
+## Klein Job Printing
 
 #### The roll
 > A yard of butcher paper pulled off the spindle and pinned flat with a type slug at each corner. Block capitals in one hand, and in another hand, smaller, slanting, a line of marks that aren't letters: dots and dashes and a few little arrows, in groups of four, over and over down the margin, with the word *TUNE* written once and underlined twice.
@@ -92,7 +92,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > Over the bar, photographs of the room in better years, the band on the stand, the crowd. In one of them, eleven men on a stand twice this size, and at the end, half out of the frame, a saxophone player in a suit that's two colors.
 *Background: he used to be somebody. True lead if anyone looks twice.*
 
-## Lupo Demolition & Removal
+## Lupo Brothers Wrecking & Salvage
 
 #### The whiteboard
 > A board in the shed office with streets and dates in grease pencil, and beside each date a dollar figure, and beside half the dollar figures a word in capitals: LOST. The dates run in order down the board and the LOSTs get closer together toward the bottom.
@@ -144,7 +144,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > Three men on the bench who aren't waiting for haircuts. When the scissors stop, they look up. When the scissors start again, they don't.
 *The district is listening. Whatever is said here is on the Flats by noon.*
 
-## The Precinct
+## The 14th Precinct
 
 #### The desk log
 > A ledger open on the sergeant's counter, and eleven lines up from today's date: 2:15 AM, CANAL ST BOX, D&D CALLER, RE: PIER 9, NO CAR. The entry has been written over once to make it darker.
@@ -158,7 +158,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > In a cabinet nobody has opened in a year, a run of folders with the same word stamped on each tab: JUMPER. Nine of them. Each has one page, a photograph of a pile of folded clothes on a shore, and a signature at the bottom in the same exact hand. No two photographs are of the same pier. All nine piles are folded the same way.
 *Halloran signed them all. True lead on the pattern; Casale's price to pull them.*
 
-## Three Balls Loans
+## Grosz Loans & Appraisal
 
 #### The ledger
 > A page in the pawn ledger, three weeks back: REVOLVER, .38, S&W, one line, a price, and a name in the buyer's column in the same neat hand as everything else: M. ROLAND. No address. Two lines down the page, a watch, a trumpet, a wedding ring.

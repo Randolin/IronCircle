@@ -3,13 +3,13 @@ type: place
 district: [[The Flats]]
 exposure: secret
 completeness: draft
-aliases: ["The Print Shop", "Klein's", "Vera's rooms", "the Archive"]
+aliases: ["Klein Job Printing", "The Print Shop", "Klein's", "Vera's rooms", "the Archive"]
 ---
-# The Print Shop
+# Klein Job Printing
 
 > She wrote it down. So it happened.
 
-[[August Klein|Klein]]'s shop below, [[Vera Kestrel|Vera]]'s rooms above, back stairs between. Every issue of *[[The Plain Truth]]* was set here.
+KLEIN — JOB PRINTING on the glass, gold letters flaking. [[August Klein|Klein]]'s shop below, [[Vera Kestrel|Vera]]'s rooms above, back stairs between. Every issue of *[[The Plain Truth]]* was set here.
 
 ## What's here
 

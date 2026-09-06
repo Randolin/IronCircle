@@ -240,7 +240,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 - **Logos:** T1 Standard · 11 · 5/9 · HP 4 · Stress 3 · ATK 0 · Filleting knife: Melee · 1d6+1 phy · Exp: Korea +2, The River +3.
 
 ### Solly Grosz
-*Three Balls Loans · Tier B · the pawnshop*
+*Grosz Loans & Appraisal · Tier B · the pawnshop*
 - **Traits:** appraises you visibly, answers with prices, polishes things, forgets nothing.
 - **Logos wants:** public: neutrality and payment. Private: to not be holding the receipts for something he remembers from 1938.
 - **Works on him:** paying his price; naming what's happening in his shop, out loud. **Doesn't:** threats (the shop's value is that nobody owns him); charm without money.

@@ -13,7 +13,7 @@ A district of walk-ups and stoops on the river side of the City — a barbershop
 ## Locations
 - **The print shop** — where *[[The Plain Truth]]* was run off every week.
 - **The barbershop** — the district's memory.
-- **The pawnshop** — Three Balls Loans.
+- **The pawnshop** — Grosz Loans & Appraisal.
 - [[Tin City]] — the camp under the on-ramp, at the district's edge.
 
 ## See also
