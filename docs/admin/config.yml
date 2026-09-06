@@ -70,6 +70,41 @@ collections:
       - rich_text
       required: false
 - divider: true
+- name: dh-srd
+  label: Documentation — Daggerheart SRD (generated; read-only)
+  icon: menu_book
+  folder: docs/Documentation/Daggerheart SRD
+  create: false
+  summary: '{{filename}}'
+  fields:
+  - label: Type
+    name: type
+    widget: string
+    required: false
+  - label: Exposure
+    name: exposure
+    widget: string
+    required: false
+  - label: Source
+    name: source
+    widget: string
+    required: false
+  - label: PDF pages
+    name: pages
+    widget: string
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
+  - label: Body
+    name: body
+    widget: markdown
+    modes:
+    - raw
+    required: false
 - name: sw-root
   label: Stillwater Rise — Landing
   icon: visibility

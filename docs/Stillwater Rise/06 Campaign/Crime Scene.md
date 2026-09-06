@@ -8,7 +8,7 @@ aliases: ["Crime Scene", "Pier 9 Scene", "Node 0"]
 
 Pier 9, Day 1, just before full light. The GM's breakdown by zone: what's there, what's free, what needs a roll, what a bad roll costs. Read-alouds are in [[Session 01]]. The clue web is in [[The Case]]. This note is the one open on the table.
 
-**Daggerheart terms.** Action rolls use the trait named; Difficulty 10 is easy, 15 average, 20 hard. Success with Fear gives the clue *and* a complication from the "on Fear" line. An Experience like *Detective* or *Forensics* adds when it plainly applies. Nothing on the pier requires a roll to find; rolls buy detail, speed, and privacy.
+**Daggerheart terms.** Action rolls use the trait named. Difficulties follow the SRD benchmark table (SRD p. 88: 5 trivial, 10 easy, 15 moderate, 20 hard, 25 very hard, 30 nearly impossible); everything on this pier sits at 10–15 because it is daylight, unhurried, and nobody is stopping them. Success with Fear gives the clue *and* the complication from the "on Fear" column, and the GM gains Fear (SRD p. 49). An Experience like *Detective* or *Forensics* adds when it plainly applies (SRD p. 5). Nothing on the pier requires a roll to find; rolls buy detail, speed, and privacy.
 
 ## The four oddities
 

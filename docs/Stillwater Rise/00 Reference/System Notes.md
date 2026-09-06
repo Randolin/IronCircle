@@ -7,7 +7,7 @@ aliases: ["System Notes", "City of Mist"]
 
 How the table runs Stillwater Rise mechanically. Kept out of character notes so the fiction survives a rules change.
 
-**Rules: Daggerheart, locked (2026-09-05).** City of Mist supplies the premise (Logos and Mythos, the Mist, the Rift); Daggerheart supplies the dice. NPC stat blocks get built with `daggerheart-forge` as scenes need them.
+**Rules: Daggerheart, locked (2026-09-05).** City of Mist supplies the premise (Logos and Mythos, the Mist, the Rift); Daggerheart supplies the dice. NPC stat blocks get built with `daggerheart-forge` as scenes need them. Rules authority: [[Daggerheart SRD]].
 
 ## The base
 

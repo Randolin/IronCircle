@@ -15,7 +15,7 @@ docs/
   index.md                  landing page
   Cadwallon/                Daggerheart setting wiki (numbered folders; schema in 00 Reference/Schema.md)
   Fate Foretold/            Daggerheart location + cast
-  Documentation/            system references
+  Documentation/            system references; Daggerheart SRD/ is the rules authority (see below)
   Stillwater Rise/          City of Mist noir; layout mirrors Cadwallon; SECRET BY DEFAULT
     Stillwater Rise.md      PUBLIC landing page — the spoiler-free case file
     00 Reference/           Reference.md (style), Schema.md (frontmatter), System Notes.md, Themes.md (Suno spine)
@@ -35,6 +35,10 @@ docs/admin/                 Sveltia CMS (in-browser editor at /admin/). config.y
 Never commit PDFs (`.gitignore` enforces).
 
 **When you add a folder under `docs/` or a new frontmatter field to a folder, update `tools/build-cms-config.py` and re-run it.** The web editor only saves declared fields and doesn't see undeclared folders.
+
+## Rules authority
+
+**Daggerheart rules live in `docs/Documentation/Daggerheart SRD/`** (SRD 2.0, eleven markdown files, generated from the PDF by `tools/srd_split.py`; never edit them by hand). Before answering any Daggerheart mechanics question or writing a stat block, Difficulty, or card text: grep the SRD folder, read the page window around the `<!-- SRD p.N -->` marker, and cite **SRD p. N**. Do not answer Daggerheart rules from memory. The index at `Daggerheart SRD.md` has the section map and quick lookups. PDFs themselves are never committed.
 
 ## Conventions by project
 
