@@ -19,7 +19,7 @@ The [[Renewal Authority]]'s showpiece: a gilt scale model of the future City, th
 ## Hooks
 
 - The Day 14 condemnation hearing is held under the model.
-- A player who has seen the tongue word will understand the model differently.
+- A player who has stood at the pile and hummed will hear the model room differently: it is very quiet.
 
 ## See also
 - [[Renewal Authority]] · [[The Span]] · [[The City]]

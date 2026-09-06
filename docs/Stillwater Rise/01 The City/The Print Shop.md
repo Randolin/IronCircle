@@ -23,7 +23,7 @@ aliases: ["The Print Shop", "Klein's", "Vera's rooms", "the Archive"]
 
 - Day 6–8: [[Eli Prosper|Prosper]]'s clumsy break-in for his canceled checks. The red herring.
 - Week 2: [[Manny Bunting|Bunting]] visits, professionally curious, if the stencil or "relocation man" talk surfaces.
-- Week 2 onward: an attempt on the archive (fire or theft) as Bunting's make-good for the unbalanced entry. That is what wakes the Golem.
+- Week 2 onward: an attempt on the archive (fire or theft), the Authority's cleanup, with Bunting sent to do it because the rent's due. That is what wakes the Golem.
 
 ## See also
 - [[The Flats]] · [[The Plain Truth]] · [[The Case]]
