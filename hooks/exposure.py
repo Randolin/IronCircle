@@ -14,11 +14,16 @@ published only if its frontmatter says `exposure: public` or `exposure: rumored`
 Missing or malformed frontmatter means the page stays off the site.
 """
 import logging
+import os
 import re
 
 from mkdocs.structure.files import Files
 
 log = logging.getLogger("mkdocs.hooks.exposure")
+
+# Local GM preview: set IRON_GM=1 to build EVERYTHING, secret pages and gm/
+# folders included. Never set this in CI; the deploy workflow doesn't.
+GM_PREVIEW = os.environ.get("IRON_GM", "") not in ("", "0", "false")
 
 _FRONTMATTER = re.compile(r"\A---\s*\n(.*?)\n---", re.S)
 _SECRET = re.compile(r"^\s*exposure\s*:\s*['\"]?secret['\"]?\s*$", re.M | re.I)
@@ -40,7 +45,16 @@ def _is_secret(path: str, src_uri: str = "") -> bool:
     return bool(m and _SECRET.search(m.group(1)))
 
 
+def on_config(config):
+    if GM_PREVIEW:
+        log.warning("exposure: IRON_GM set — GM PREVIEW, secret pages and gm/ folders INCLUDED")
+        config["exclude_docs"] = ""
+    return config
+
+
 def on_files(files: Files, config) -> Files:
+    if GM_PREVIEW:
+        return files
     kept = []
     dropped = 0
     for f in files:

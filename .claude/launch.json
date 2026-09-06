@@ -1,0 +1,25 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "gm-preview",
+      "runtimeExecutable": "pwsh",
+      "runtimeArgs": [
+        "-NoProfile",
+        "-Command",
+        "$env:IRON_GM='1'; if (-not (Test-Path .venv)) { python -m venv .venv; .venv/Scripts/python -m pip install -q -r requirements.txt }; .venv/Scripts/python -m mkdocs serve -a 0.0.0.0:8000"
+      ],
+      "port": 8000
+    },
+    {
+      "name": "public-preview",
+      "runtimeExecutable": "pwsh",
+      "runtimeArgs": [
+        "-NoProfile",
+        "-Command",
+        "if (-not (Test-Path .venv)) { python -m venv .venv; .venv/Scripts/python -m pip install -q -r requirements.txt }; .venv/Scripts/python -m mkdocs serve -a 0.0.0.0:8001"
+      ],
+      "port": 8001
+    }
+  ]
+}
