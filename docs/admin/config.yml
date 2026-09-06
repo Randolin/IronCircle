@@ -99,12 +99,6 @@ collections:
     modes:
     - raw
     required: false
-  - label: Body
-    name: body
-    widget: markdown
-    modes:
-    - raw
-    required: false
 - name: sw-root
   label: Stillwater Rise — Landing
   icon: visibility

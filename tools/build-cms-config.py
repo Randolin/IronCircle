@@ -320,7 +320,7 @@ collections = [
     },
     DIVIDER,
     folder("dh-srd", "Documentation — Daggerheart SRD (generated; read-only)", "docs/Documentation/Daggerheart SRD",
-           [s("type", "Type"), s("exposure", "Exposure"), s("source", "Source"), s("pages", "PDF pages"), body(rich=False)],
+           [s("type", "Type"), s("exposure", "Exposure"), s("source", "Source"), s("pages", "PDF pages")],
            "menu_book", create=False),
     folder("sw-root", "Stillwater Rise — Landing", "docs/Stillwater Rise", SW_REFERENCE, "visibility", create=False),
     folder("sw-reference", "Stillwater Rise — 00 Reference", "docs/Stillwater Rise/00 Reference", SW_REFERENCE, "menu_book", create=False),
