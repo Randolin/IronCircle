@@ -20,7 +20,7 @@ Homicide didn't want it. That's the first interesting thing about it.
 
 ## The City, 1962
 
-The river runs through it and the Flats sit low against the water — a district of walk-ups, stoops, a barbershop that remembers everything, a pawnshop that appraises everyone, and a camp of tin and coats under the on-ramp that the census says is empty. Above it all, the unfinished [[The Span|Span]] dead-ends in the sky, the centerpiece of **Stillwater Rise**: the [[Renewal Authority]]'s plan to clear the riverfront and build the future on it. There's a model on the Commissioner's desk. He gives tours.
+The river runs through it and the Flats sit low against the water — a district of walk-ups, stoops, a barbershop that remembers everything, a pawnshop that appraises everyone, and a camp of tin and coats under the on-ramp that the census says is empty. Above it all, the unfinished [[The Span|Stillwater Span]] dead-ends in the sky, the centerpiece of **Stillwater Rise**: the [[Renewal Authority]]'s plan to clear the riverfront and build the future on it. There's a model on the Commissioner's desk. He gives tours.
 
 ## Start here
 

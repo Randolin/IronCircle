@@ -16,7 +16,7 @@ aliases:
 
 > *The Wolf at the Door.*
 
-**Pitch:** Demolition boss whose eviction business is being silently undercut by the Piper. Looks exactly like the killer. Is hunting him.
+**Pitch:** Owner of Lupo Brothers Wrecking & Salvage, a licensed demolition firm with a yard; demolition boss whose eviction business is being silently undercut by the Piper. Looks exactly like the killer. Is hunting him.
 **Wants:** The 'relocation man' found, so he can muscle in.
 **Gives:** his crews' job logs (the clearance schedule). Danger: finds Bunting first and gets people killed.
 

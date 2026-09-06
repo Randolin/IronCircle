@@ -9,8 +9,8 @@ aliases: ["Institutions", "Factions"]
 
 Who runs what in the City. Each note lists its people; the people notes link back.
 
-- [[The Agency]] — takes the cases that don't fit the mold. Who the investigators work for.
+- [[The Agency]] — *Blum & Cole, Inquiries*. Takes the cases that don't fit the mold; who the investigators work for.
 - [[Renewal Authority]] — Stillwater Rise. The Span, the clearances, the relocation program.
 - [[The Plain Truth]] — Vera Kestrel's mimeographed weekly.
-- **The precinct** — Homicide didn't want the case.
+- **The 14th Precinct** — the riverfront house. Homicide didn't want the case.
 - [[Tin City]] — the camp, listed here because it has a queen.

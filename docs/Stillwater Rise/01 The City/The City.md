@@ -11,9 +11,9 @@ A fictionalized American city, 1962. Never named; everyone just says *the City*.
 
 ## Places
 
-- [[The Flats]] — the low district against the water. Walk-ups, stoops, a barbershop, a pawnshop, a print shop.
+- [[The Flats|Carver Flats]] — the Flats; the low district against the water. Walk-ups, stoops, a barbershop, a pawnshop, a print shop.
 - [[Pier 9]] — where the body came up. The grain-elevator eddy.
-- [[The Span]] — the unfinished bridge that dead-ends in the sky. The centerpiece of Stillwater Rise.
+- [[The Span|The Stillwater Span]] — the unfinished bridge that dead-ends in the sky. The centerpiece of Stillwater Rise.
 - [[Tin City]] — the camp under the on-ramp that the census says is empty.
 - [[Little China]] — where [[Zu Cheng]] comes from.
 
