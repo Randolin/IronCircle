@@ -114,50 +114,60 @@ Not here. [[Cutty Sloan|Cutty]] is under the ramp and [[Tin City]] is locked dow
 
 Let them choose. One fight is guaranteed (the print shop). Two doors is a full night; three is two sessions.
 
-### Klein Job Printing: [[Klein Job Printing|Klein's]]
+### Vera's apartment (the fight)
 
-**The clue that sends them:** the key ring; Toby; "she ran a paper."
+**The clue that sends them:** the apartment key on her ring; Toby, who will walk them there; anyone at the tape who knows where she lived.
 
-**Investigate.** Bell taken down. [[August Klein|Klein]] at the imposing stone with his back to them; Toby tugs his sleeve; he turns, looks at mouths, eyes, hands, taps twice. He writes on the roll. *"SHE WROTE IT DOWN. SO IT HAPPENED. THAT IS THE WHOLE JOB."* He gives: the archive upstairs (card files, records-request carbons, photos of tenants the City says never lived there); Vera's list of the vanished; her notes on a "relocation man" with a horn case, no name; the half-cut stencil; his own laughed-off report of a man strolling into the river eighteen months ago. One drawer is empty. The notebook is on the stone; Day 2 he hands it over.
+A third-floor walk-up six blocks from the pier. Toby has been up those stairs a hundred times and goes quiet on the second landing.
 
-Toby: knows her route, knows she'd been "watching somebody" for two weeks and wouldn't say who, hums. If asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" Move on fast. Don't let anyone connect it tonight.
+**Lupo's crew is inside, and has been for twenty minutes.** Two errands, one trip: Vera photographed one of Lupo's illegal evictions and the paper ran it with his company named, which is prison and not embarrassment, so he wants the negatives; and blocks keep clearing ahead of his crews with no billable incidents, so he wants anything in her files that names the man undercutting him. They have found neither, because the camera, the film, and one drawer of cards went off-site on Day −3. Twenty minutes of finding nothing is why they're wrecking the place.
 
-**The fight (guaranteed).** [[Sal Lupo|Lupo]]'s crew is upstairs *right now*, and has been for about twenty minutes.
+**The tell, on the landing.** Pick one: the door is ajar an inch and the lock is newer than the door; a drawer hits a floor inside; a man laughs; Toby stops on the stairs and says "that's her door."
 
-**Why they're here.** Two errands, one trip. Vera photographed one of Lupo's illegal evictions and the paper ran it with his company named, which is prison and not embarrassment, so he wants the negatives. And blocks have been clearing ahead of his crews with no billable incidents, so he wants anything in her files that names the man undercutting him. They have found neither, because the camera, the film, and the card-drawer file went off-site on Day −3. Twenty minutes of finding nothing is why they're being destructive.
+**Three ways in.**
+- **Quiet:** Agility (14) on the landing and the hinge. Success buys one free round and a look at the front room before anyone sees them.
+- **Loud:** kick it. The crew scatters to the four rooms and the fire escape.
+- **Wait them out:** they come down the stairs in ones and twos over ten minutes, which turns one fight into three easy ones and lets the last man out the window with whatever he's carrying (nothing, but the players won't know that).
 
-**The tell, before anyone goes up.** Klein is deaf and has his back to the room and the press running. Pick one: dust sifting down between the ceiling boards; the bare bulb over the counter swinging very slightly; a drawer hitting a floor two rooms above; Toby stopping mid-sentence and looking up.
+**The fight.** Four **Lupo Brothers Crew** and the **Foreman** ([[Adversaries]]). Crowbars and a sap, no guns. Four rooms and a hallway is a good brawl map: the front room is wall-to-wall filing cabinets and terrible to swing a crowbar in, the kitchen has a window onto the airshaft, and the back room is a darkroom with a blacked-out window and one way out.
 
-**The choice.** Back stairs are steep with a rope for a rail and a door at the top that sticks, so quiet is possible but not free. Three ways in, and the players pick:
-- **Quiet:** an Agility roll (14) each on the stairs; success means one free round.
-- **Loud:** through the shop door and up. The crew scatters to the two rooms and the window.
-- **Get Klein out first:** the humane play and the slow one. Writing on the roll takes time; the crew hears the shouting; they're at the top of the stairs before the party is.
+**Toby is here.** He came up with them. Get him behind something or he tries to hit a grown man with a paper sack. Nobody rolls dice at Toby; if a crowbar comes near him the crew member who did it becomes the one the party remembers.
 
-**The fight.** Four **Lupo Brothers Crew** and the **Foreman** ([[Adversaries]]). Crowbars, a sap, no guns. Mundane, on the easy side, and they fight to leave rather than to win: two rounds in, whoever is worst hurt goes out the window onto the fire escape. Klein comes up the stairs on round two. **Pull him out before he decides anything.** If the archive is threatened in front of him, the Golem surfaces, which is a Day 8 reveal arriving on Day 1 and ends the session in the wrong place.
+**Afterward.** One of them on the stairs, bleeding: *"Sal just wants the guy. Same as you. He'll pay."* By morning Lupo knows who they are and wants a meeting.
 
-**Afterward.** One of them, bleeding, sitting on the stairs: *"Sal just wants the guy. Same as you. He'll pay."* By tomorrow morning Lupo knows who they are and wants a meeting. He is not sorry.
+**If they arrive after.** Crew gone by evening; the door open; the landlord in the hallway complaining about the noise and about re-letting by Friday. Everything below still applies and the fight moves to the yard on Day 2, where Lupo is expecting them.
 
-**If they arrive after.** If they went somewhere else first, the crew is gone by evening and Klein is standing in the wreckage with the roll under his arm, having found it himself. Everything below still applies; the fight moves to the yard on Day 2, where Lupo is expecting them.
+### Vera's apartment, after
 
-### Vera's rooms, after
+Four rooms and three of them are the paper. What survives matters more than what doesn't.
 
-Two rooms up the back stairs. What survives the search matters more than what doesn't.
-
-**Wrecked:** the mattress is cut open, the corkboard is off the wall, the card drawers are pulled and dumped, and the district map is face-down on the floor with the pins still in it. Nothing is burned. Nothing is taken.
+**Wrecked:** mattress cut open, corkboard off the wall, card drawers pulled and dumped, the district map face-down with the pins still in it. Nothing burned. Nothing taken.
 
 **Intact, because the crew didn't know what they were looking at:**
-- **The card files**, scattered but complete: one card per family, name, address, date of the notice, date they left, and where they went. One card in five has the last line blank. One in ten names a street that isn't on any map. Restoring them is hours of work, or an evening with [[George Oyama|Oyama]].
-- **The map and its pins**, if anyone picks it up: red on the river blocks, blue following a month behind, white on blocks not gone yet, and one white pin on the block outside the window.
-- **The kitchen table:** oilcloth, one chair pulled out and turned toward the window, a bottle with the cap off, one glass with a finger of rye in it. The window looks at the white fence.
-- **Her cardigan** over the back of the chair. She wore one every day and she changed clothes before she left.
-- **The framed first issue** by the stairs, eleven years old, purple gone gray: THE PLAIN TRUTH. PRINTED WEEKLY. RIGHT EVENTUALLY.
+- **The card files**, scattered but complete: one per family, name, address, date of the notice, date they left, where they went. One card in five has a blank last line. One in ten names a street that isn't on any map. Restoring them is hours of work, or an evening with [[George Oyama|Oyama]].
+- **The map and its pins:** red on the river blocks, blue a month behind, white on blocks not gone yet, and one white pin on the block outside the window.
+- **The kitchen table:** one chair pulled out and turned toward the front room, a bottle with the cap off, a glass with a finger of rye in it. Her cardigan over the chair back. She changed clothes before she left.
+- **The framed first issue** by the door, purple gone gray: THE PLAIN TRUTH. PRINTED WEEKLY. RIGHT EVENTUALLY.
+- **The nightstand:** a stack of official denials with numbers written in the margins, each number larger than the last.
 
 **The absences, which are the actual leads:**
-- **One drawer empty** and clean on the runners, the one labeled with the pier's street. Emptied on purpose three days ago.
-- **The camera and the film gone** from the shelf downstairs, where there is a cleared space in the ink-dust the size of a shoebox, a developing tray, and an empty clothesline.
-- Both go wherever the small new key on her ring fits, and nobody has found that yet.
+- **One card drawer empty** and clean on the runners, the one labeled with the pier's street. Emptied three days ago.
+- **The darkroom's camera and every negative, gone.** A cleared rectangle in the dust the size of a shoebox, an empty clothesline, chemistry still capped.
+- Both go wherever the small new key on her ring fits, and nobody has found that.
 
-Full read-aloud and the GM lines for each item are in [[Leads#Klein Job Printing]].
+Read-aloud for all four rooms is in [[Read-Aloud#Vera's Apartment]]; the clue blocks are in [[Leads#Vera's Apartment]].
+
+### Klein Job Printing (the quiet door)
+
+**The clue that sends them:** the shop's back-door key; Toby ("Klein's. I'll show you. He don't hear, so you gotta write"); "she ran a paper."
+
+Six blocks from her apartment. Bell taken down. [[August Klein|Klein]] at the imposing stone with his back to them; Toby tugs his sleeve; he turns, looks at mouths, eyes, hands, taps twice. He writes on the roll: *"SHE WROTE IT DOWN. SO IT HAPPENED. THAT IS THE WHOLE JOB."*
+
+He gives: the roll with her tune notation in a system she invented and her last line on it from four o'clock the afternoon she died; the half-cut stencil still in the machine, headline THE NINTH; his own laughed-off report of a man strolling into the river eighteen months ago. Her notebook is on the imposing stone; he hands it over on Day 2 if they came in decent. He does **not** have the archive; that's at her apartment.
+
+Toby: knows her route, knows she'd been "watching somebody" for two weeks and wouldn't say who, and hums. If asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" Move on fast. Don't let anyone connect it tonight.
+
+No fight here on Day 1. If the players tell Klein his friend's apartment was just tossed, he closes the shop, puts the roll under his arm, and walks there, and the GM should let them watch a very large man decide something.
 
 ### Tin City
 

@@ -51,8 +51,25 @@ Boxed text for the key locations. Each block stands alone and is written to be r
 ### The shop floor
 > Iron everywhere. A flatbed press the size of a car under a canvas shroud, a hand press, a paper cutter with a blade like a guillotine, and a mimeograph on a table by itself with its drum still faintly purple. Type cases along one wall, hundreds of little drawers, each with a scrap of paper in a brass holder saying what's inside. A roll of butcher paper on a spindle at the counter, pulled out a yard, with writing on it in block capitals that stops mid-line. Every surface has a layer of ink so thin it's just a darkness.
 
-### The rooms upstairs
-> Back stairs, steep, with a rope for a rail. A door at the top that doesn't lock so much as stick. Two rooms: a kitchen with one chair and a bottle and a glass on the oilcloth, and a bedroom that is not a bedroom because the bed is against the wall on its side to make room for the filing cabinets. Card drawers, floor to ceiling, labeled by street. A corkboard with a map of the district on it and pins in the map in three colors. The window looks at the fence, and the fence looks back.
+### The back room
+> Past the presses, a room of paper stock in reams to the ceiling, and behind a curtain on a wire, a cot made up tight with an army blanket, a shelf with a razor and a mug on it, and a photograph of a woman propped against the wall. He sleeps here more nights than he doesn't. There is no lamp; there is a window with a sheet of newsprint taped over the lower half.
+
+## Vera's Apartment
+
+### The landing
+> Third floor, and the stairwell smells of other people's dinners. A door with a number screwed on crooked and a strip of tape under it where a second name used to be. The lock is a good one, newer than the door. From here you can hear the airshaft: somebody's radio two floors down, a tap running, a pigeon. Under the door, no light.
+
+### The kitchen
+> Oilcloth on a square table with four chairs, and only one of them has ever been sat in; the others still have the shine on the seat. A stove with one pot. A window onto an airshaft you could touch the far wall of. On the table, a bottle with the cap off beside it and a single glass with a finger of rye left in it, and the chair is pushed back and turned away from the table, toward the doorway and the front room beyond it.
+
+### The front room
+> There is no sofa. There is no chair for a guest. The walls are card drawers, floor to ceiling on three sides, each drawer labeled by street in a small even hand, and where the fourth wall would be there is a desk, a lamp, and a corkboard with a map of the district on it, stuck with pins in three colors. A framed sheet of mimeographed paper hangs by the door, purple gone gray with age. The one window looks straight down the block at a twelve-foot white fence, and the chair at the desk faces it.
+
+### The bedroom
+> A bed on its side against the wall, standing up like a door, to make room for four more filing cabinets. A wardrobe with three dresses in it and space for six. A nightstand with a lamp, a glass of water gone flat, and a stack of official denials with numbers written on them in the margins, each number larger than the last.
+
+### The back room
+> A box room with the window blacked out and a smell of vinegar. An enlarger on a bench, three shallow trays, a line strung corner to corner with wooden clips on it and nothing hanging. Bottles of chemistry on a shelf, capped. On the bench beside the enlarger, a cleared rectangle in the dust about the size of a shoebox.
 
 ## Tin City
 

@@ -28,7 +28,8 @@ aliases:
 - **Against the web:** he runs on written truth and the web runs on written lies (notices, dockets, obituaries). The tune has no door into him. The archive is the one record in the district the wire didn't make and can't carry. Once the players understand the web, he's the one who can print against it.
 - **Against the web:** he runs on written truth and the web runs on written lies (notices, dockets, obituaries). The tune has no door into him. The archive is the one record in the district the wire didn't make and can't carry. Once the players understand the web, he's the one who can print against it.
 - **Holdings:** Vera's tune notation in her invented system; the half-cut stencil; his own laughed-off report of a river-walk eighteen months ago; the roll line from Day 0, 4 p.m.
-- **The notebook:** on the imposing stone under the roll from Day 1. He hands it over Day 2 if they came in decent.
+- **The notebook:** she left it on the imposing stone the last afternoon. He hands it over Day 2 if they came in decent.
+- **He does not have the archive.** That's six blocks away at [[Vera's Apartment]]. He has the roll, the stencil, and eleven years of her handwriting.
 - **Day 6–8:** Prosper's amateur break-in for the checks. The arc's planted red herring. 'MEN CAME THURSDAY. I AM STILL HERE. THEY ARE NOT.'
 
 **Voice (written, block capitals):**

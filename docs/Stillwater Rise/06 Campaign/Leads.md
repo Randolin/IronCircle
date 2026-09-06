@@ -24,13 +24,11 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > From a drawer under the counter: a carbon of a letter to the precinct, eighteen months old, in block capitals, describing a man in a coat walking into the river at Pier 9 at two in the morning "WITHOUT HURRY," and a reply clipped to it on precinct letterhead, two lines long, thanking the writer for his concern.
 *Klein saw a walker and was laughed off. Background on the pattern; true lead that the precinct has known for a year and a half. Note the carbon: he wrote it by hand and it never went anywhere a wire could carry it, which is why it still exists.*
 
+## Vera's Apartment
+
 #### The card drawers
 > Filing cabinets to the ceiling, every drawer labeled by street. Pull one: index cards, one per family, name, address, date of the notice, date they left, and where they went. On maybe one card in five the last line is blank. On maybe one in ten it says a street that isn't on the map on the wall.
 *The archive. Background on the renewal; true lead on the forwarding addresses (Prosper) and the Next Pile (a name the players may read tonight).*
-
-#### Where the camera isn't
-> On a shelf by the imposing stone, a cleared space in the ink-dust the size of a shoebox, with a developing tray and a bottle of fixer beside it and a clothesline of clips overhead with nothing on it. Klein writes: SHE KEPT IT HERE. IT IS NOT HERE.
-*Vera's camera and her film. Both went wherever the card-drawer file went on Day −3. True lead, long fuse: the unmarked key opens whatever holds them.*
 
 #### The empty drawer
 > One drawer, the one labeled with the pier's street, pulls out light. Empty. Not dusty: the runners are clean and the drawer has been used this week. A pencil rolls to the front when you open it.
@@ -40,7 +38,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 > A district map on the corkboard, and in it pins in three colors. The red ones cluster on the river blocks. The blue ones follow the red a month behind. The white ones are on blocks that aren't gone yet, and one of them is on the block outside this window.
 *Red: a pile. Blue: the demolition that followed. White: dockets posted. Background on the pattern; the white pin on this block is Toby's.*
 
-#### The kitchen table upstairs
+#### The kitchen table
 > Oilcloth, one chair, one glass with a finger of rye still in it, one bottle with the cap off. The chair is pulled out and turned toward the window, and the window looks at the white fence.
 *One drink alone before the walk. Background: what she did with her last evening.*
 
@@ -51,6 +49,10 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 #### The clipping
 > Taped inside a type-case drawer where nobody would look: a newspaper photograph gone brown, thirty years old, of a stage with a scale model on it and a row of men in suits, and at the edge of the stage, a small girl in a dress with thick glasses and her mouth open, and a caption that gives her a nickname and doesn't give her name.
 *Background: the nickname's origin. Weaver's paper printed it. Vera kept it.*
+
+#### Where the camera isn't
+> The back room is a darkroom: enlarger, trays, chemistry, a line of wooden clips strung corner to corner with nothing on it. On the bench beside the enlarger there is a cleared rectangle in the dust about the size of a shoebox, and no camera in the apartment anywhere.
+*Her camera and every negative went wherever the card-drawer file went on Day −3. True lead, long fuse: the small new key opens whatever holds them. Klein, asked later, writes: SHE TOOK THE BAG. SHE DID NOT SAY WHERE.*
 
 #### After Lupo's crew
 > Upstairs, drawers on the floor, cards everywhere like a dropped deck, the mattress cut open, the corkboard torn down. Nothing burned. Nothing taken that you can tell. Whoever did this was looking for something with a name on it and didn't find it, and wanted you to know they'd been.

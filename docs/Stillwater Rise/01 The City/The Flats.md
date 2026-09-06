@@ -12,6 +12,7 @@ aliases: ["Carver Flats", "The Flats", "Flats"]
 
 ## Locations
 - **Klein Job Printing** — where *[[The Plain Truth]]* was run off every week.
+- **[[Vera's Apartment]]** — third floor, six blocks from the shop. Three of its four rooms are the archive.
 - **Okafor's barbershop** — the district's memory.
 - **Grosz Loans & Appraisal** — the pawnshop.
 - **The Half Note** — the jazz basement two blocks from the pier.

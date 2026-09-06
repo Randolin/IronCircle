@@ -3,19 +3,19 @@ type: place
 district: [[The Flats]]
 exposure: secret
 completeness: draft
-aliases: ["Klein Job Printing", "The Print Shop", "Klein's", "Vera's rooms", "the Archive"]
+aliases: ["Klein Job Printing", "The Print Shop", "Klein's"]
 ---
 # Klein Job Printing
 
 > She wrote it down. So it happened.
 
-KLEIN — JOB PRINTING on the glass, gold letters flaking. [[August Klein|Klein]]'s shop below, [[Vera Kestrel|Vera]]'s rooms above, back stairs between. Every issue of *[[The Plain Truth]]* was set here.
+KLEIN — JOB PRINTING on the glass, gold letters flaking. One long room, a back room of paper stock, and a cot behind a curtain where Klein sleeps most nights. Every issue of *[[The Plain Truth]]* was set here. [[Vera Kestrel|Vera]] worked here most days and lived six blocks away at [[Vera's Apartment]].
 
 ## What's here
 
 - **The roll.** Butcher paper, dated, every conversation Klein ever had in writing. Vera's tune notation is on it in her own invented system, and one line from ~4 p.m. on Day 0 (a location hint for the hidden file; content TBD at table).
 - **The stencil.** The exposé, half cut, left in the machine on Day −2.
-- **The Archive** (upstairs). Card files by name and address, carbons of every records request, photos of tenants the City says never lived there, condemnation notices with names penciled on the backs. **One drawer is empty.** Vera emptied it on Day −3 and hid the contents off-site (Toby dead-drop, mission floorboards, or the Half Note; decide at table). The unmarked key on her ring fits wherever that is.
+- **The archive is not here.** It's at [[Vera's Apartment]]. What the shop has is the *making* of the paper, not the files behind it.
 - **The notebook** on the imposing stone. [[Herminia Vega]]'s name and *the 9th* are in it. Klein hands it over on Day 2.
 - **Klein's own report** of a river-walk he saw eighteen months ago, laughed out of the precinct.
 

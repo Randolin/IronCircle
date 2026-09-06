@@ -58,7 +58,7 @@ Three sessions, not one. Nobody says his name on Day 1.
 - **Session 2** deflates Lupo (violently) and Sato (photographs). The photographs show a two-tone suit at the edge of a bandstand. Okafor names the tune if they've earned him. Grosz gets a revolver back from "M. Roland" and remembers the suit.
 - **Session 3** puts a name on the suit through the pawn ledger, the bandleader, or Ottilie's people, and the players reach the Half Note on a Thursday. He's on the stand. He knows they know. Rats in every corner of the room.
 
-**Aggressive false leads.** Lupo's crew is tossing Vera's rooms when the players arrive (the Day 1 fight); afterward Lupo wants to hire them. Sato is a cornered ex-cop with a gun; kick his door and it's a standoff, knock and he talks. Pell runs, literally, and drops a claim file.
+**Aggressive false leads.** Lupo's crew is tossing [[Vera's Apartment|Vera's apartment]] when the players arrive (the Day 1 fight); afterward Lupo wants to hire them. Sato is a cornered ex-cop with a gun; kick his door and it's a standoff, knock and he talks. Pell runs, literally, and drops a claim file.
 
 ## The chain, as the players will meet it
 
@@ -91,7 +91,7 @@ Every resolution needs its findings in concert. Every finding has two or three s
 | Nine runs marked *empty*, two never filed | The coroner's van | [[Bets Halvorsen|Bets]], for being asked |
 | Eleven claim denials under the suicide exclusion | Beacon Mutual | [[Nathaniel Pell|Pell]], after he deflates |
 | Nine years in a coffee can | [[Tin City]] | [[Ottilie Mauser|Ottilie]], for a name |
-| Vera's own list, dated, and the card files | [[Klein Job Printing]] | [[August Klein|Klein]]; the notebook Day 2 |
+| Vera's own list, dated, and the card files | [[Vera's Apartment]]; the roll at [[Klein Job Printing]] | [[August Klein|Klein]]; the notebook Day 2 |
 | Forwarding addresses to streets that don't exist | The Mission | [[Eli Prosper|Prosper]] |
 | Every pile on the eve of a block clearance, coming faster | The dockets against the files | Whoever lays them side by side. Halloran's worst afternoon |
 
@@ -224,7 +224,7 @@ Drop when momentum dips. Each delivers a clue.
 - A second collection proceeds on schedule somewhere in the Flats.
 - The ribbon-cutting moves *up*.
 - Lupo's crew tears apart a location the players needed intact.
-- Sato is spotted tailing them, or caught breaking into Vera's rooms.
+- Sato is spotted tailing them, or caught breaking into [[Vera's Apartment|Vera's apartment]].
 - Brogan moves the inquest date, either direction.
 - Day devotes a morning commentary to "amateur detectives troubling a grieving city." Weaver sends him flowers about it.
 - Pell is seen leaving flowers at Pier 9 at dawn and lies badly about it.
