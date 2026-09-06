@@ -37,4 +37,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ a young tenor sax phrase that tries to finish and gets cut off`.
+*Car 6, second year. The disregard sat wrong.*
+
+```
+Noir jazz, young. A tenor saxophone trying to finish a phrase over a walking bass and brushed snare, and getting cut off each time by a car door or a radio call, a typewriter far off. Earnest, bothered, not yet tired. 100 BPM, A minor, 4/4, patrol-car mix with engine idle. + on the last chorus the phrase finishes, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~415 chars)*
+
+**Tuning:** Generate after Kowalczyk; the two should share the bass line.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

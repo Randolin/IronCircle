@@ -38,4 +38,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ raise the telephones over the band`.
+*The desk. Forty calls a night from down there.*
+
+```
+Ambient noir, defensive. A ringing telephone as the melody, answered late every time, a ledger page turning, a ceiling fan, a radiator, a bass clarinet grumbling under it all in a low register. Florid, dug in, wrong in proportion. 88 BPM, D minor, 4/4, precinct-desk mix. + one telephone rings and is not answered, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~414 chars)*
+
+**Tuning:** If the telephone reads as a sound effect rather than a line, describe it as `a telephone bell struck in a repeating two-note pattern`.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

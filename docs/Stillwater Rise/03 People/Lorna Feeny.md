@@ -39,4 +39,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ add switchboard tones`.
+*The board. Car number first, time second, then talk.*
+
+```
+Cool jazz, small. Switchboard tones and a dispatch radio's squelch as the melody, a soft brushed cymbal, a pencil scratching on a steno pad kept as a second rhythm, a clarinet answering in short careful phrases. Quick, quiet, writes everything down. 84 BPM, A minor, 4/4, closet-sized room mix. + the clarinet plays a rhythm that has money in it and stops, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~456 chars)*
+
+**Tuning:** Ties to Mabel Cho's cue on purpose (switchboard tones). If the radio squelch reads as static, describe it as `a short radio click before each phrase`.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

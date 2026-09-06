@@ -44,7 +44,7 @@ Two of four takes will be wrong in ways that aren't the prompt's fault. Exceptio
 
 ## Tier C — the precinct bed (shared)
 
-*One cue for all of Tier C. Individual themes for bit players cost generations and buy nothing; vary this one instead.*
+*Originally one cue for all of Tier C. As of 2026-09-06 every character has an individual cue (see the [[Suno Sheet]]); keep this bed as the precinct's room tone and as a fallback for walk-ons.*
 
 ```
 Noir Jazz, ambient. Walking upright bass and brushed snare loop beneath a room of typewriters, ringing telephones, and a radiator; a tenor saxophone offers only occasional two-note comments. Procedural, indifferent, ordinary. 96 BPM, A minor, 4/4, medium swing, mid-distance room mix. + this is background rather than a theme, and nothing in it should ask to be listened to, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish

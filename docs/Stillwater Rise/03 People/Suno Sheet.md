@@ -8,15 +8,22 @@ aliases: ["Suno Sheet", "Music Prompts"]
 
 Every character's Style-field cue on one page, for batch generation. Settings, the locked spine, and the Piper's figure are in [[Themes]]; per-character tuning notes stay in the character files. Regenerate this note from the character files when cues change; don't edit cues here.
 
-Generate **Manny Bunting first** (the root motif), then make Toby Small's and Ida Maas's cues as Covers of that track. Tier C uses one shared bed with a per-name variant line.
+Generate **Manny Bunting first** (the root motif), then make Toby Small's and Ida Maas's cues as Covers of that track. Boyd and Kowalczyk share a bass line; generate Kowalczyk first.
 
-## Cues
+## Cues (45)
 
 ### Adaeze Okonkwo
 *The record. Forty minutes if anyone asks a question.*
 
 ```
 Highlife-inflected jazz, restrained. A stenotype's soft rapid keys as the rhythm under a warm muted trumpet melody, a palm-wine guitar figure answering, upright bass steady, no drums. Composed, exact, quietly unbending. 92 BPM, Eb major, 4/4, hearing-room mix. + the keys stop for two bars and the trumpet holds one note over the silence, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
+### Aldo Brack
+*The desk. Forty calls a night from down there.*
+
+```
+Ambient noir, defensive. A ringing telephone as the melody, answered late every time, a ledger page turning, a ceiling fan, a radiator, a bass clarinet grumbling under it all in a low register. Florid, dug in, wrong in proportion. 88 BPM, D minor, 4/4, precinct-desk mix. + one telephone rings and is not answered, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
 ### Amalia Reyes
@@ -54,11 +61,25 @@ Slow country-blues, instrumental. A lone harmonica over a steady low engine hum 
 Delta Blues, acoustic. Bottleneck slide on a resonator guitar is the lead voice, cross-harp harmonica answering, a foot stomp on planking for time, water lapping beneath it all. Weathered, dignified, unheard. 72 BPM, E, laid-back shuffle, single-microphone recording. + no band and no drum kit, one man playing outdoors, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
+### Danny Boyd
+*Car 6, second year. The disregard sat wrong.*
+
+```
+Noir jazz, young. A tenor saxophone trying to finish a phrase over a walking bass and brushed snare, and getting cut off each time by a car door or a radio call, a typewriter far off. Earnest, bothered, not yet tired. 100 BPM, A minor, 4/4, patrol-car mix with engine idle. + on the last chorus the phrase finishes, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
 ### Dez Okafor
 *The barbershop. The trio is the shop; the talking drum is the recitation nobody outside gets to hear.*
 
 ```
 Soul Jazz, organ trio. Hammond B-3, hollow-body electric guitar comping, brushed drums, and beneath them a West African talking drum holding a conversation the trio never acknowledges. Warm, proud, guarded. 92 BPM, F major, 4/4, medium swing, small-room mix. + the guitar and organ trade a call-and-response phrase that repeats like a recited list, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
+### Earl Dubcek
+*Thirty years on the water. Eleven piles, no floaters, till her.*
+
+```
+Sea shanty, instrumental, slow. A concertina and a single fiddle playing a plain rolling melody in waltz time over harbor water lapping a hull, a coiling rope creak as percussion, a distant bell buoy on the downbeat. Steady, weathered, unhurried, tells it the same way every time. 66 BPM, G major, 3/4, open-water mix. + the fiddle holds one long note while the water keeps moving, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
 ### Eli Prosper
@@ -129,6 +150,13 @@ Bolero, acoustic. A single Puerto Rican cuatro carries a slow unhurried melody; 
 
 ```
 Chamber Jazz, ballad. Solo piano plays a brass fanfare slowly and in a minor key, one note at a time; a cello enters underneath halfway through; nothing else ever joins. Restrained, exhausted, two years of an unsent letter. 58 BPM, C minor, rubato, extremely sparse. + it is recognizably the same theme as a civic fanfare, with all ceremony removed, and no brass at all, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
+### Lorna Feeny
+*The board. Car number first, time second, then talk.*
+
+```
+Cool jazz, small. Switchboard tones and a dispatch radio's squelch as the melody, a soft brushed cymbal, a pencil scratching on a steno pad kept as a second rhythm, a clarinet answering in short careful phrases. Quick, quiet, writes everything down. 84 BPM, A minor, 4/4, closet-sized room mix. + the clarinet plays a rhythm that has money in it and stops, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
 ### Lou Padgett
@@ -236,6 +264,13 @@ Garage Rock, big band. Fuzz-toned baritone electric guitar plays the hook, answe
 Klezmer, jazz. Clarinet leads in a minor mode with lazy swing behind it; tenor banjo and upright bass keep a shuffling two-feel; a shelf of mismatched clocks ticks in the background. Shrewd, neutral, endlessly patient. 100 BPM, D harmonic minor, 4/4. + the clarinet bargains with itself, phrase and counter-phrase, and never lands on the tonic, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
+### Stan Kowalczyk
+*Car 6, twenty years in. Turned the wheel.*
+
+```
+Noir jazz, bare. The same walking bass and brushed snare as the young cop's cue with no horn at all, a windshield-wiper rhythm, an engine idling, a cigarette lighter. Tired, closed, drop it. 100 BPM, A minor, 4/4, patrol-car mix with engine idle. + the bass stops walking and holds one note for the last eight bars, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+
 ### Sterling Maas
 *The model, the tour, the ribbon. A mid-century industrial-film score selling the future.*
 
@@ -285,18 +320,18 @@ Exotica, lounge orchestra. Lush strings, vibraphone, harp glissandi and nylon gu
 Cool Jazz, minimalist. A muted trumpet plays one careful phrase and stops; upright piano answers with a single chord and waits; the percussion is a copy-desk pencil, a spike, and a telephone lifted before the second ring. Careful, complicit, precise. 74 BPM, E minor, 4/4, dry newsroom acoustic. + the phrase restarts four times and never gets past its fourth bar, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
 ```
 
+### Whitcombe Ard
+*One vote. Procedurally.*
 
-## Tier C, shared bed
+```
+Light chamber jazz, polished. A string quartet playing a pleasant, reasonable waltz with a piano comping, a squash ball struck against a wall on the off-beats, a committee gavel once per section, a wristwatch ticking under everything. Cordial, tanned, entirely ordinary. 120 BPM, Bb major, 3/4, boardroom mix with carpet. + the quartet resolves a beat early and the gavel falls, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
 
-One cue in [[Themes#Tier C — the precinct bed (shared)]]; add the variant line per name:
-
-- **Aldo Brack** — `+ raise the telephones over the band`
-- **Danny Boyd** — `+ a young tenor sax phrase that tries to finish and gets cut off`
-- **Earl Dubcek** — `+ replace the radiator with harbor water and a distant bell`
-- **Lorna Feeny** — `+ add switchboard tones`
-- **Stan Kowalczyk** — `+ drop the sax entirely`
-- **Whitcombe Ard** — `+ replace the typewriters with a squash ball against a wall and a committee gavel`
 
 ## The investigators
 
 Six cues (Logos and Mythos per PC) in [[Themes#The investigators]]. GM-side; not on the PC pages.
+
+## Location beds
+
+Twelve in [[Location Prompts]].

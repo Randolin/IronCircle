@@ -37,4 +37,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ drop the sax entirely`.
+*Car 6, twenty years in. Turned the wheel.*
+
+```
+Noir jazz, bare. The same walking bass and brushed snare as the young cop's cue with no horn at all, a windshield-wiper rhythm, an engine idling, a cigarette lighter. Tired, closed, drop it. 100 BPM, A minor, 4/4, patrol-car mix with engine idle. + the bass stops walking and holds one note for the last eight bars, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~415 chars)*
+
+**Tuning:** Pair with Boyd. If Suno adds a horn anyway, put `no saxophone, no trumpet` at the front.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

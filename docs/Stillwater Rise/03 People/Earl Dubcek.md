@@ -39,4 +39,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ replace the radiator with harbor water and a distant bell`.
+*Thirty years on the water. Eleven piles, no floaters, till her.*
+
+```
+Sea shanty, instrumental, slow. A concertina and a single fiddle playing a plain rolling melody in waltz time over harbor water lapping a hull, a coiling rope creak as percussion, a distant bell buoy on the downbeat. Steady, weathered, unhurried, tells it the same way every time. 66 BPM, G major, 3/4, open-water mix. + the fiddle holds one long note while the water keeps moving, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~481 chars)*
+
+**Tuning:** If it goes jaunty, add `mournful, restrained` and cut the tempo to 60.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.

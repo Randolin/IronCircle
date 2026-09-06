@@ -41,4 +41,13 @@ aliases:
 
 ## Theme (Suno)
 
-Uses the Tier C precinct bed in [[Themes]] with `+ replace the typewriters with a squash ball against a wall and a committee gavel`.
+*One vote. Procedurally.*
+
+```
+Light chamber jazz, polished. A string quartet playing a pleasant, reasonable waltz with a piano comping, a squash ball struck against a wall on the off-beats, a committee gavel once per section, a wristwatch ticking under everything. Cordial, tanned, entirely ordinary. 120 BPM, Bb major, 3/4, boardroom mix with carpet. + the quartet resolves a beat early and the gavel falls, mono-leaning tape, warm room reverb, light vinyl noise, 1962 recording, no vocals, no modern polish
+```
+*(~478 chars)*
+
+**Tuning:** The blandest cue in the set, deliberately. If it acquires menace, remove `gavel` and let the watch carry it.
+
+> [!note] Spine and settings live in [[Themes]]. Don't edit the trailing spine string per track.
