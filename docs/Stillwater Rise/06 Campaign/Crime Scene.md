@@ -10,6 +10,117 @@ Pier 9, Day 1, just before full light. The GM's breakdown by zone: what's there,
 
 **Daggerheart terms.** Action rolls use the trait named. Difficulties follow the SRD benchmark table (SRD p. 88: 5 trivial, 10 easy, 15 moderate, 20 hard, 25 very hard, 30 nearly impossible); everything on this pier sits at 10–15 because it is daylight, unhurried, and nobody is stopping them. Success with Fear gives the clue *and* the complication from the "on Fear" column, and the GM gains Fear (SRD p. 49). An Experience like *Detective* or *Forensics* adds when it plainly applies (SRD p. 5). Nothing on the pier requires a roll to find; rolls buy detail, speed, and privacy.
 
+## Boxed text
+
+Read as is. The long one on arrival; the clue blocks when a player looks at the thing; the faces when they first turn toward someone. Generic location blocks (the approach, the pier, under the pier) are in [[Read-Aloud]].
+
+### Arrival
+
+> Six-forty in the morning and the sky hasn't decided. Grey over the river, grey over the elevator, a smear of yellow in the east that could be sun or could be the refinery. Cold enough to see your breath and wet enough that it doesn't rise. The tide is slack; the river has stopped pretending to go anywhere and just lies there, brown, with a skin on it. Under the grain elevator the eddy turns, slow as a clock, and floating in it, in a ring the size of a kitchen, are rats. Dozens. Drowned. All of them facing in toward the same empty circle of water, like something was there and they were waiting for it to come back. Nobody on the harbor launch will go near them.
+>
+> The pier runs out over the water on black pilings, and there's tape across the landward end, and two uniforms behind the tape stamping their feet. The coroner's van is nosed up to the pier head with its back doors open and a generator running on the tailgate, and the light from inside the van is the only warm color for a mile. The body is in the van, on the tray, under a sheet that has been pulled back to the collarbone. She is small. Her hair has been combed by somebody. Her glasses are on her face, thick as bottle glass, unbroken, and her mouth is closed, and she looks like a woman who has been asked a question and is about to answer it.
+>
+> Twelve feet from the end of the pier, in the pool of the sodium lamp that nobody has turned off, her clothes. A coat folded in thirds and squared to the planks. Low heels side by side with the toes to the water. Stockings rolled and tucked into the shoes. It looks like a chair in a hospital room where someone has been very tidy about leaving.
+>
+> The precinct has been here since five-fifty and has already gone home in every way but the physical. There is a carbon on the detective's clipboard with six lines on it and the word JUMPER. There is a harbor patrol report, one paragraph, on the launch's dashboard under a coffee cup. There are four paper evidence bags on the van's step, stapled and tagged: a pack of cigarettes, a matchbook, a key ring, a dime. There are eleven flashbulbs on the planks where the precinct photographer dropped them. There is a second photographer, not the precinct's, still working. And there is a crowd at the tape, twenty people from the Flats, none of them talking, all of them looking at the van, and a boy at the edge of the crowd with a paper sack over his shoulder who is humming something under his breath and doesn't know it.
+
+### The clues
+
+Each block is one thing to look at. The line after it is for the GM.
+
+#### The pile
+> Folded in thirds. Not dropped, not heaped: folded, the way a coat is folded in a shop before it goes in the box. The stockings are rolled from the toe up and tucked one into each shoe. The shoes are squared to the edge of a plank as if the plank were a line drawn for the purpose. There is not a grain of cinder on the coat. Whoever folded this was not in a hurry and was not upset.
+*Points to: the eleven other piles. Dubcek and Halloran have both seen this before and neither has said so.*
+
+#### The glasses
+> They're still on her face, and the lenses are so thick they make her eyes swim. Hold them up to your own and the pier goes to smears. She could not have seen the end of this pier without them. She could not have seen the water.
+*Points to: she didn't walk in blind. Something took her there that didn't need eyes.*
+
+#### The footprints
+> One set of bare prints in the mud, woman's size, starting exactly where the shoes stop and going into the water. Even stride. No stumble, no turn, no place where she stopped to think about it. They walk in the way you'd walk across a kitchen to answer the door. Between the street and the pile, on the cinder path, nothing at all.
+*Points to: the walk. The route every prior walker took. Ottilie's people know it.*
+
+#### The rail
+> Forty feet back from the pile, on the pier's one good rail, the paint is worn through to the wood in two grips a hand-width apart, and the wood is pale where the grip has been hard and recent. Under the rail, the planks are scuffed in a half-circle, the way a floor is scuffed in front of a window where somebody has stood a long time and shifted their weight.
+*Points to: someone who waited, and didn't get what he waited for.*
+
+#### The wrapper
+> Ground under a heel into the plank, right at the rail: a twist of waxed paper, white with red stripes, the kind a peppermint comes in. The precinct photographer stepped on it. Somebody stood here long enough to want something in his mouth.
+*Points to: the Piper's tell. It recurs wherever he waits. Teddy's frame nineteen has it whole.*
+
+#### The droppings and the claw marks
+> Rat droppings along the rail in a line, more than a pier should have, and on the pilings below the rail, in the creosote, fresh claw marks going up. Not down. Up, toward the planks, toward where the hand held the rail.
+*Points to: the rats came to him, not to her. They go where he goes.*
+
+#### The third shot
+> A witness said three. She has two holes in her. Out at the end of the pier, chest high on the last piling on the water side, there's a fresh bright scar in the black creosote the size of a thumbnail, with splinters standing up around it like hair.
+*Points to: a .38 slug with clean rifling. Ballistics, a make, and a pawn ledger.*
+
+#### The cigarettes
+> A pack of Chesterfields, soft pack, half gone. One cigarette turned around with the filter down, the way people do for luck: the last one, saved. She never got to it.
+*Points to: Vera's habits; the corner store where she bought them, where she hummed at the counter on Day 0.*
+
+#### The matchbook
+> Black cover, a musical note stamped on it in gold that's mostly worn off. HALF NOTE, and an address two blocks from here. Four matches gone.
+*Points to: the Half Note. Day −10.*
+
+#### The key ring
+> Three keys on a ring with a brass tag that says nothing. Two of them are cheap house keys, one older than the other, worn bright on the shoulders. The third is small and flat and new, the kind that opens a drawer or a box, and it has never been on a ring long enough to get scratched.
+*Points to: the apartment, the shop's back door, and a lock nobody has found. The hidden file.*
+
+#### The dime
+> One dime, loose in the coat pocket, 1962, bright. Not a fare, not change from anything. The kind of dime you put in your pocket to give to a kid.
+*Points to: Toby. She paid him same day, every week.*
+
+#### The hands
+> Ink under the nails, and not the kind that comes off. A callus across the right palm in a bar, the shape of a crank handle. Stencil wax under two fingernails, blue. These are hands that worked the night before they came here.
+*Points to: the print shop, and a stencil cut and left unfinished.*
+
+#### The dress
+> Under the sheet, a dress that is not a dress for two in the morning. Dark, plain, good, with a collar: the kind of dress a woman wears to sit in the front row of a hearing and be seen sitting there. She dressed for something.
+*Points to: Mabel will call it her fighting clothes. Vera expected to be somewhere on the record.*
+
+#### The eyes
+> The ME lifts an eyelid with her thumb. The eye underneath is green. Not hazel, not brown gone cloudy: green, the green of the river under the pier when the light comes through it, and it is hazy, as if there were something behind the color, a long way back. The other one is the same. The license in the evidence bag says BRN.
+*Points to: what took her wasn't only a man. Gated: the right Mythos, or Okafor's rite, to see what's behind the color.*
+
+#### The drowned rats
+> From the end of the pier you can look straight down into the eddy. The rats turn with it, slowly, a ring of them, bellies up, all facing the same empty middle. They are wet and small and they look like they were arranged. Rats swim. Every one of these could have swum.
+*Points to: the rats are his. They went in after her.*
+
+#### The hum
+> You've been standing at the pile a minute, maybe two, and you realize you're humming. Four notes, going down. You didn't start it. You can't remember when it began. A uniform ten feet away is humming the same four notes and looking at the water, and when he notices you noticing, he stops, and then a moment later he doesn't.
+*Points to: the tune. Okafor can name it. Toby hums it. It's in the spot.*
+
+### First impressions
+
+#### Det. Frank Casale
+> A big man in a good coat gone shapeless, hat pushed back, cigarette in the corner of his mouth burning with nobody drawing on it. He's leaning on his car like the car is the only thing keeping him up. When he sees you he doesn't straighten. He looks relieved, the way a man looks when the doctor says it's somebody else's.
+
+#### Sgt. Roy Pruitt
+> The one uniform on the pier whose shoes shine. Creases you could cut bread with, cap dead level, hands behind his back. He's standing a little too near the van and a little too far from the tape to be doing either job, and every time someone speaks he turns his head a half inch toward it. When he catches your eye he nods like a man who's been expecting you and would rather he hadn't.
+
+#### Dr. Ruth Halloran
+> Small, gray, a lab coat over a dress that cost more than the van. A cigarette held backwards between two fingers, lit end in toward the palm, the way sailors and Europeans do it. She's looking at the body the way a bookkeeper looks at a column that won't add, and she has already looked twice.
+
+#### Earl Dubcek
+> On the harbor launch, coiling line hand over hand without looking at it. Sixties, a face like cracked harbor leather, a white walrus mustache with river in it, oilskins, a watch cap. He's not part of the scene; he's part of the water, and he's watching the eddy the way you'd watch a dog you've known thirty years that just did something new.
+
+#### Bets Halvorsen
+> Sitting on the running board of the coroner's van with the doors open behind her and a stick of licorice in her teeth, a broad woman in a man's work jacket and a county cap, and she's talking. Quietly. Not to the uniforms. Into the van. When she sees you looking she doesn't stop.
+
+#### Teddy Ferrante
+> A kid in a snap-brim with a camera the size of a lunchbox and a flash bag on the other shoulder, moving along the tape like the tape is a bar and he's working it. He counts out loud every time the bulb pops. He has fixer burns on his cuffs and a cigarette behind his ear he hasn't lit and a grin that arrived before he did.
+
+#### The man in the crowd
+> Middle of the crowd, not with it: a Black man in a gray suit and a carrier's fedora, a leather book under his arm worn shiny, standing very straight and looking at the van and nowhere else. He polishes his glasses without taking his eyes off it. He is the only person at the tape who looks like he came here on purpose.
+
+#### The boy
+> Edge of the crowd, all elbows, a flat cap and a canvas paper sack worn crosswise and one sock down. He's crying and angry about crying and telling anyone who'll listen that she paid him same day, every week. Between sentences, without knowing he's doing it, he hums: four notes, going down.
+
+#### The witness (later, under the ramp)
+> He's on a milk crate at the water's edge with a line in and a bait can beside him, an army blanket over his shoulders like a cape, a knit cap, a face weathered past any age you'd guess. He doesn't get up. He doesn't look at you until you've stopped moving. When he does, his eyes are the one thing about him that isn't worn: clear, steady, and younger than the rest of him by twenty years. He says, "You writing this down?" and waits to see if you are.
+
 ## The four oddities
 
 These are why the Coroner referred it. Free to notice; nobody at the scene can explain them.
