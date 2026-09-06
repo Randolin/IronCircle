@@ -14,35 +14,45 @@ The campaign doc, current. Rebuilt 2026-09-04 from memory, then reconciled 2026-
 
 **The setup.** Six months out, the Span's approach ramp was routed onto the Flats' core blocks and the clearances accelerated: monthly, then biweekly, then weekly. [[Vera Kestrel]] connected the folded-clothes "suicides" to the demolition schedule. Six weeks out she filed a photo request at the Weaver morgue; her name was now in the one building where names are inventory. Day −14, [[Mickey Shale|Shale]] told [[Walt Herzog|Herzog]] he was helping her with something big, gin-warm, at the [[The Half Note|Half Note]]. Weaver heard by lunch, checked the morgue log, and understood. She told [[Gerry Fitch|Fitch]] a true anecdote over drinks. Fitch drafted an abatement line item naming Vera and routed it to look Authority-internal. [[Sterling Maas|Maas]] signed the docket on Day −12 without reading page 31, which changes nothing about what he knew the docket was for. [[Manny Bunting|Bunting]] got a name, an address, and a deadline.
 
-**Day −10, Thursday.** Vera came to the Half Note to surveil the "relocation man" she'd connected to the clearances. Bunting recognized her from the stand and planted the tune inside a solo. Shale, at the bar, saw them notice each other. [[Ray Sato|Sato]] photographed it through the window.
+**Day −10, Thursday.** Vera came to the Half Note to surveil the "relocation man" she'd connected to the clearances. Bunting recognized her from the stand and played for her. He doesn't know what the playing does beyond *they leave*. Shale, at the bar, saw them notice each other. [[Ray Sato|Sato]] photographed it through the window.
 
 **Days −9 to −4.** Incubation. Her Rift kept her aware: she noticed herself humming and investigated her own infection. [[Mabel Cho|Mabel]] (dead end), [[Dez Okafor|Okafor]] (recognized it, went gray, threw her out), [[August Klein|Klein]] (deaf, safe; she wrote the notation on his roll). Day −3 she emptied the card drawer and hid the file off-site. Day −2 she cut the exposé stencil and left it unfinished. Day −1 she mailed a letter.
 
-**Day 0.** She skipped her routine. 1 p.m., corner store, bought nothing, hummed at the counter. 4 p.m., Klein's, wrote one line on the roll. 7 p.m., home, one rye alone at the kitchen table. 1:30 a.m., out in coat and glasses, the same direct route every prior walker took. 1:55, [[Cutty Sloan|Cutty]] saw her arrive at the waterline under Pier 9 and stand two minutes. Bunting was on the pier; he attends every collection. He unwrapped a peppermint.
+**Day 0.** She skipped her routine. 1 p.m., corner store, bought nothing, hummed at the counter. 4 p.m., Klein's, wrote one line on the roll. 7 p.m., home, one rye alone at the kitchen table. 1:30 a.m., out in coat and glasses, the same direct route every prior walker took. 1:55, [[Cutty Sloan|Cutty]] saw her arrive at the waterline under Pier 9 and stand two minutes. Bunting was at the pier rail, forty feet back, to make sure. He'd never watched one go in before. The rats had followed him down from the embankment. He unwrapped a peppermint.
 
-**2:00.** She stopped humming and said, out loud, *"There's no other side. It's just water."* Her Rift broke the glamour. The passage failed. Bunting fired three times: shoulder (panic), a miss into a piling, back of the head. She went into the water. First body in forty years.
+**2:00.** She stopped humming and said, out loud, *"There's no other side. It's just water."* Her Rift broke the glamour. She didn't go in. Bunting waited, and nothing happened, and he panicked. Three shots: shoulder, a miss into a piling, back of the head. She went into the water. He ran with the case. The rats went into the river after her and drowned in a ring around her, facing in. Rats swim.
 
-**After.** 2:07 Cutty ran for a call box. 2:15 [[Aldo Brack|Brack]] logged a drunk. 2:40 car 6 assigned. 2:47 the disregard: car 6 pulled mid-route, on strings the agency didn't pull yet; the tip that moved them came through an untraceable Exchange line hours before anything was official. [[Hal Rimm|Rimm]] was ahead of the paperwork. 5:50 [[Earl Dubcek|Dubcek]] found her a quarter mile *upstream*, in the grain-elevator eddy. The river gave her back.
+**After.** 2:07 Cutty ran for a call box. 2:15 [[Aldo Brack|Brack]] logged a drunk. 2:40 car 6 assigned. 2:47 the disregard: car 6 pulled mid-route, on strings the agency didn't pull yet; the tip that moved them came through an untraceable Exchange line hours before anything was official. [[Hal Rimm|Rimm]] was ahead of the paperwork. 5:50 [[Earl Dubcek|Dubcek]] found her a quarter mile *upstream*, in the grain-elevator eddy, with the rats. The river gave her back.
 
-The gun is still in Bunting's coat, then a coffee can in his room. He hates it; it's an unbalanced line. Day 3–4 he returns it to [[Solly Grosz|Grosz]] under the alias he bought it with, *M. Roland*, and recovers most of his money.
+Bunting's been in his room since, the .38 in a coffee can. Day 2 (Tuesday) he came out for one number at the Half Note, played it wrong, and left without his hat. Day 3–4 he returns the gun to [[Solly Grosz|Grosz]] under the alias he bought it with, *M. Roland*, on his way to the Thursday gig, because it's money. Day 4 he plays. He's a wreck.
 
 **Why it went wrong.** Vera had a Mythos nobody knew about, including her: the child from *The Emperor's New Clothes*. The tune could take her walking, but at the waterline the glamour didn't hold. She is the only one of twelve who didn't finish, and the only one the river returned. See [[Mythos]].
 
-**What that did to the machine.** Both principals are wounded, not satisfied. Bunting's ledger has its first open line in forty years; he's been playing flat on Thursdays since. Weaver has a story with a body attached and an agency looking at it that somebody aimed. The arc moves because the collection failed.
+**What that did to the machine.** [[Gerry Fitch|Fitch]] reads Pruitt's Day 1 report and understands the hit man botched it and a body came up. She can't tell Maas; he doesn't know Vera was a hit. She sends Authority site security to the pier and the print shop on Day 2 "for trespass," which is [[Lou Padgett|Padgett]]'s crew, who think it's a trespass matter. Weaver, separately, sends a feature writer to find out who the agency is. **Nobody sends anyone to help Bunting.** He is alone, and the players will figure that out before he does.
 
 ## The crime scene
 
 Full inventory in [[Session 01]]. The short version:
 
+- **The oddities, which are why the Coroner referred it:** a ring of drowned rats around the body, all facing in; anyone who stands at the pile for a minute starts humming four notes and doesn't notice; she was recovered a quarter mile upstream; her eyes were brown and the body's are hazy river-green.
 - **The pile:** coat and shoes folded and squared shoreside, stockings folded inside the shoes. Matches eleven prior piles exactly. Nobody has said so out loud.
 - **On her:** glasses still on, unbroken. Pencil behind the ear. Hearing-attendance dress: her *fighting clothes*. Ink-stained hands, crank callus, stencil wax under two nails.
-- **Wounds:** shoulder through-and-through from behind and above; back of the skull, slug recovered, deformed. No defensive wounds. Lungs full of river water even though the head wound was instantly fatal. Both can't be first. [[Ruth Halloran|Halloran]] keeps revising.
-- **Pocket items:** Chesterfields, one flipped for luck, and folded into the cellophane a note in her hand: **SCHULD** written over and over, shakier each time, then one lucid line, *"AK — check the roll."* A Half Note matchbook. A key ring with one unmarked key. A dime. Tox: one rye around midnight.
-- **The pier:** one set of bare footprints walking in like someone crossing a room. No second set on the mud; the shooter never left the planks. Scuff marks at the rail forty feet back where someone stood a long while. A peppermint wrapper ground under a heel. No brass (revolver). The miss is in a piling: .38, clean rifling, recoverable if anyone looks for a third shot. The witness heard three; there are two wounds.
-- **The marks:** the word **SCHULD** on her tongue. Not a tattoo: scar tissue in the shape of set type, debossed like a letterpress strike, in Fraktur. It reads correctly to someone facing her. Translation: *debt* and *guilt*, one word for both. And her eyes: solid black, sclera and iris. Every photograph fogs at the eyes. Halloran writes "postmortem artifact" with a question mark she isn't proud of.
+- **Wounds:** shoulder through-and-through from behind and above; back of the skull, slug recovered, deformed. No defensive wounds. Lungs full of river water even though the head wound was instantly fatal. [[Ruth Halloran|Halloran]] keeps revising.
+- **Pocket items:** Chesterfields, one flipped for luck. A Half Note matchbook. A key ring with one unmarked key. A dime. Tox: one rye around midnight.
+- **The pier:** one set of bare footprints walking in like someone crossing a room. No second set on the mud. Scuff marks at the rail forty feet back where someone stood a long while, and a hand-grip worn into the wood. A peppermint wrapper under a heel. Rat droppings along the rail; claw marks in the creosote going up the pilings. No brass (revolver). The miss is in a piling: .38, clean rifling, recoverable if anyone looks for a third shot. The witness heard three; there are two wounds.
 
-> [!warning] Open decision: the tongue word
-> Draft-2 canon is **SCHULD**. The 2026-09-05 planning chat, without the doc, pitched a **number** instead (the victim's count, "SEVENTEEN"), which points forward to the encampment. Aaron hasn't confirmed. Until he does, run SCHULD; it's wired into Klein (Fraktur), Okafor (the lore), and the theme.
+> [!note] What came out
+> Draft-2's SCHULD note, the debossed tongue, and the black eyes that fog film were dropped on 2026-09-06 (they didn't fit a hit man who doesn't understand his own power). The rats, the hum in the spot, and the green eyes replace them.
+
+## The puzzle to the Piper
+
+Three sessions, not one. Nobody says his name on Day 1.
+
+- **Session 1** ends with three usual suspects (Lupo, Sato, Prosper), a tune nobody can place, rats where they shouldn't be, and somebody else asking about a sax player. They should be arguing about Lupo.
+- **Session 2** deflates Lupo (violently) and Sato (photographs). The photographs show a two-tone suit at the edge of a bandstand. Okafor names the tune if they've earned him. Grosz gets a revolver back from "M. Roland" and remembers the suit.
+- **Session 3** puts a name on the suit through the pawn ledger, the bandleader, or Ottilie's people, and the players reach the Half Note on a Thursday. He's on the stand. He knows they know. Rats in every corner of the room.
+
+**Aggressive false leads.** Lupo's crew is tossing Vera's rooms when the players arrive (the Day 1 fight); afterward Lupo wants to hire them. Sato is a cornered ex-cop with a gun; kick his door and it's a standoff, knock and he talks. Pell runs, literally, and drops a claim file.
 
 ## The chain, as the players will meet it
 
@@ -93,15 +103,17 @@ Every resolution needs its findings in concert. Every finding has two or three s
 |---|---|---|
 | Peppermint wrapper under a heel at the rail; peppermint and reed in the air | [[Pier 9]] | [[Jack Rivers]]'s nose; [[Teddy Ferrante|Teddy]]'s frame before it was stepped on |
 | The tune. Toby hums it. Cutty can hum a bar. Okafor knows what it is | Everywhere | [[Dez Okafor|Okafor]], for a promise |
-| SCHULD: the note, the tongue, the Fraktur face | The body; the shop | [[August Klein|Klein]] names the typeface on sight; Okafor or any old-country source translates it |
+| The hum in the spot; Toby humming; Vera's notation on the roll | The pier; the shop | Anyone who lingers at the pile; [[August Klein|Klein]]'s roll; [[Dez Okafor|Okafor]] names it |
+| Rats. Drowned in a ring at the pier; fled the embankment that night; three at the Half Note's stage door; on his fire escape | Everywhere he's been | [[Earl Dubcek|Dubcek]], [[Ottilie Mauser|Ottilie]], [[Amalia Reyes|Doc Reyes]]; the rats themselves, to Jack: *the man with the case* |
 | "Very polite, very quiet. Pack the good dishes first" | Every door on the docket | [[Herminia Vega]] on Day 8; families Okafor warned out |
 | "The knocking man." Moved ahead of him nine times | [[Tin City]] | [[Ottilie Mauser|Ottilie]] |
 | The piling slug → rifling → make and model → a pawn-ledger canvass | Three Balls Loans | [[Solly Grosz|Grosz]]. Fast players wait for the return; slow ones get the ledger after |
 | A revolver returned by "M. Roland," Day 3–4 | Three Balls Loans | [[Solly Grosz|Grosz]]: "Who returns a revolver?" |
-| The sax man who sits in Thursdays, never drinks, refuses pay, and has played flat since | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]]; the bandleader |
+| The sax man who sits in Thursdays, never drinks, refuses pay; came in Tuesday, played one number wrong, left his hat | [[The Half Note]] | [[Amalia Reyes|Doc Reyes]]; the bandleader; the hat behind the bar |
+| A big man with a cigar asked whether the sax player still plays Thursdays | [[The Half Note]] | Doc Reyes. It's Lupo's man; somebody else is hunting him |
 | A two-tone suit at the edge of the cordon, frame nineteen | Teddy's shoebox | [[Teddy Ferrante|Teddy]], before Day 3 |
 | "The guy undercutting me" | Lupo's yard | [[Sal Lupo|Lupo]], furious, hunting the same man |
-| The last image in her eyes: a silhouette at a rail, a slim case, a streetlight behind | The body | Gated: the right Mythos, or Okafor's rite |
+| The green eyes; what's behind them | The body | Gated: the right Mythos, or Okafor's rite. A silhouette at a rail, a slim case, a streetlight behind |
 
 ### 5. It's policy
 | Clue | Where | Who confirms |
@@ -131,7 +143,7 @@ Every resolution needs its findings in concert. Every finding has two or three s
 The surface story is a redevelopment murder. Underneath, a bargain coming due. See [[Mythos]].
 
 - **Weaver doesn't want the land.** She wants the telling. The Flats is the last district that keeps its own record out loud. Renewal burns the library. Vera was committing organized, publishable theft: writing it down.
-- **Bunting was never paid.** Rift rule: he will never be paid for the music, only the removal. He collects from the poor on behalf of the rich because the real debtors are uncollectable and tenants aren't. That's the line sympathy doesn't cross.
+- **Bunting can't get paid for the music.** Rift rule: only for the removal. He doesn't know it's a rule. He takes jobs on people who owe because that's the line he can live with, and Vera was the first job that wasn't a debt. The rats protect him whether he wants it or not.
 - **Maas has donkey ears.** He can't tell good counsel from bad, which is why Fitch owns his ear. The Model Room touch is marginally literal.
 - **The tune is a beacon as well as a weapon.** Hummed, it does nothing (table rule). Heard by Bunting, it says where the story is.
 - **The river takes sides.** It gave Vera back.
@@ -158,9 +170,9 @@ After each scene: *who saw this, and who do they tell?* Then move a clock.
 
 What each figure does if nobody interferes. Full text in [[The Rat Line (draft-2)]].
 
-- **Bunting.** Day 1 routine; reads *body recovered* at noon and knows what it means. Days 2–3 the Next Pile on its eve; scouts Toby's block, tips the kid his dime; plays flat Thursday. Day 3–4 the gun return. Week 2 visits Klein's, just looking. Week 2 onward: the make-good is the archive (fire or theft), which wakes the Golem; then Toby's block on its eve. Cornered, he negotiates. What he asks for is what he's owed, and no one can pay it.
+- **Bunting.** Days 1–3 in his room, laying low, gun in a coffee can; reads *body recovered* at noon on Day 1. Day 2 one number at the Half Note, wrong, leaves his hat. Day 2–3 the Next Pile happens anyway; the docket doesn't care that he's scared. Day 3–4 the gun return. Day 4 the gig, on edge. Week 2, if the shop is talked about, he visits Klein's, just looking. Week 2 onward the Authority leans on him for the archive and Toby's block; he does it because the rent's due. Cornered, he negotiates. What he asks for is to be paid for the music, and no one can.
 - **Maas.** Nothing until the Day 14 hearing. If the pattern surfaces: Authority lawyers and an internal "audit," which Fitch runs and uses to purge and plant. The gap between what he ordered and what she executes is evidence. Flip window only after Tier 2.
-- **Fitch.** Days 1–3 monitors through Pruitt. Week 1–2 inserts herself as liaison with sanitized records. Squeezed: obstruction through Brack and Pruitt, and possibly a warning to Bunting. Cracks only on proof Weaver finds her disposable.
+- **Fitch.** Day 1 learns from Pruitt the hit was botched; can't tell Maas. Day 2 sends site security (Padgett's crew) to the pier and the shop for "trespass," and arrives as liaison with sanitized records. Squeezed: obstruction through Brack and Pruitt, and possibly a warning to Bunting. Cracks only on proof Weaver finds her disposable.
 - **Rimm.** Day 1 pulls last night's reels into the separate rack. Becomes more available as the ribbon-cutting nears, not less.
 - **Toby.** Grieving at the cordon Day 1, humming. Harmless-seeming for two weeks. Final week: distraction, the tune constant, one night found at the canal rail confused about how he got there. Demolition eve, ~2 a.m., the walk.
 - **Shale.** Writes the honest obituary Day 1; it's spiked. Letter Day 4–5; sits on it. Opens it Day 10. Weeks 2–3 learns his brag killed her. Source or casualty, depending who reaches him first.

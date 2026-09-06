@@ -12,14 +12,15 @@ The figures under the surface, and what their powers do in play. The cast draws 
 ## Table rules
 
 - **Nobody sees it.** The Mist holds. Ordinary people explain the Mythos layer away in the same sentence they notice it. The investigators see it; so do the touched (Okafor, Ottilie, Cutty, Klein, Rimm, Fen Baiyun).
-- **The tune is inert when hummed.** Toby, Cutty, and Ida's fanfare are carriers, not weapons. Only Bunting playing it does anything. Hummed in public, it tells Bunting where the story is.
+- **The tune is inert when hummed.** Toby, Cutty, and Ida's fanfare are carriers, not weapons. Only Bunting playing it does anything. But the spot where he played it *holds* it: stand at the pile a minute and you hum without noticing.
+- **The rats are his without his consent.** They gather where he's been, protect him when he's cornered, and can be asked (Coyote) what they're afraid of.
 - **Powers cost.** A Mythos move on the surface leaves a mark: a door that won't open for anyone else afterward, a tape that records a voice as more than two feet, a rat that answers. Weaver notices marks.
 - **The river is a witness.** It gave Vera back. Treat it as a character who can be called on the pier and nowhere else.
 
 ## The chain
 | Figure | Character | What the myth does here | In play |
 |---|---|---|---|
-| The Pied Piper | [[Manny Bunting]] | Contracted to clear the vermin; never paid; collected the children | The figure: marks undress, fold, square the pile, walk calm into still water. Works on anyone who can imagine a far shore. Failed once |
+| The Pied Piper | [[Manny Bunting]] | Paid to clear the vermin; never paid for the music; the rats follow him | Four notes; marks hum for days, then fold their clothes and walk calm into still water. He calls it persuasion. The rats come whether he calls them or not; they drowned for Vera. Failed once |
 | Anansi | [[Vivian Weaver]] | Bought all the stories in one bargain; owns them; signs nothing | Her version sticks. People misremember toward what she broadcast. She cannot be photographed badly, never hums, never answers, and can't hold a story she didn't buy. Naming her out loud on a platform she doesn't own is the only wound |
 | Midas | [[Sterling Maas]] | The golden touch; the donkey ears; the daughter turned to gold | Everything he touches becomes plan; things left in the Model Room overnight take a sheen. Can't tell good counsel from bad, so Fitch owns his ear. The price is his daughter |
 

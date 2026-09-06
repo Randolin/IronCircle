@@ -16,7 +16,8 @@ A jazz bar at the river end of [[The Flats]], two blocks from [[Pier 9]]. Long b
 - [[Amalia Reyes|Doc Reyes]] — the bar, the kit, the bat.
 - [[Jack Rivers]] — the end stool.
 - [[Mickey Shale]] — sunglasses on, expense account still mysteriously working. The Day −14 slip happened here, to [[Walt Herzog|Herzog]], loud.
-- [[Manny Bunting]] — sits in with the band on Thursdays. Never drinks. Won't take pay. Has played flat since Vera.
+- [[Manny Bunting]] — sits in with the band on Thursdays. Never drinks. Won't take pay. Came in Tuesday (Day 2), played one number wrong, left his hat. Rats by the stage door.
+- Lupo's foreman, cigar, asked on Day 0 whether the sax player still plays Thursdays.
 - [[Vera Kestrel]] came once, Day −10, to surveil the relocation man. He planted the tune in a solo. [[Ray Sato|Sato]] photographed it through the front window; a two-tone suit is at the edge of the stand. The matchbook in her coat is from that night.
 
 ## Hooks

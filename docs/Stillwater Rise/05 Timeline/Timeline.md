@@ -12,7 +12,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 
 | When | What |
 |---|---|
-| ~40 years ago | [[Manny Bunting]]'s books open. Clean until Vera |
+| ~40 years ago | [[Manny Bunting]]'s first "relocation." No body has ever come up until Vera |
 | ~30 years ago | Vera, age eight, says the true thing on a live microphone at the televised unveiling of the Renewal model. Emmett Roan coins the nickname. The City laughs for thirty years |
 | 1953 | The [[County Coroner]] puts the agency on retainer. The first referral arrives in [[Odessa Cole|Cole]]'s tray |
 | ~9 years ago | [[Ottilie Mauser]]'s coffee-can count begins. Cole's private count of referrals begins the same year |
@@ -49,7 +49,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | ~1:30 a.m. | Leaves in coat and glasses; the same route every walker took |
 | ~1:40 | A tenant sees her pass under the streetlight, "walking like Sunday" |
 | ~1:55 | Arrives at the waterline. [[Cutty Sloan|Cutty]] watching from across the canal. Bunting on the pier |
-| ~2:00 | Stops humming. *"There's no other side. It's just water."* Three shots. She goes in |
+| ~2:00 | Stops humming. *"There's no other side. It's just water."* She doesn't go in. Three shots. She goes in. The rats follow her and drown |
 | ~2:07 | Cutty runs for a call box |
 | 2:15 | [[Aldo Brack|Brack]] logs a drunk-and-disorderly caller |
 | ~2:40 | Car 6 assigned |
@@ -61,11 +61,12 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | Day | What fires | Who |
 |---|---|---|
 | 1 | Body found. Logged as a jumper. Coroner's referral at the agency by 8:40. Pruitt's first report on the players tonight. Weaver: page 7, a joke in the monologue. Shale's honest obituary spiked. Klein's shop closed. Tin City locks down. Rimm pulls the reels | everyone |
-| 2 | Herminia's name findable in Vera's notebook at Klein's. Fitch arrives as liaison with a box of "everything relevant." A feature writer starts asking about the agency | [[August Klein]], [[Gerry Fitch]] |
+| 2 (Tue) | Herminia's name findable in Vera's notebook at Klein's. Fitch arrives as liaison; site security (Padgett's crew) at the pier and the shop "for trespass" by noon. A feature writer starts asking about the agency. Bunting sits in for one number at the Half Note, plays it wrong, leaves his hat | [[August Klein]], [[Gerry Fitch]], [[Lou Padgett]], [[Manny Bunting]] |
 | 2–3 | **The Next Pile.** A holdout block clears on schedule. A name from Vera's archive leaves folded clothes on a shore. The pattern is running, not historical | [[Manny Bunting]] |
 | 3 | Requests touching the Authority start stalling. Weaver's paper offers Teddy ten a print for the crowd frames | [[Maeve Brogan]], [[Teddy Ferrante]] |
-| 3–4 | "M. Roland" returns the .38 to Grosz. The intercept window | [[Solly Grosz]] |
-| 4 | Okafor starts warning families out. Blocks empty ahead of schedule; Bunting opens a line on him | [[Dez Okafor]] |
+| 3–4 | "M. Roland" returns the .38 to Grosz on his way to the gig. The intercept window | [[Solly Grosz]] |
+| 4 (Thu) | Bunting plays the Half Note. On edge. Rats in the alley | [[Manny Bunting]] |
+| 4 | Okafor starts warning families out. Blocks empty ahead of schedule; the Authority notices | [[Dez Okafor]] |
 | 4–5 | Vera's letter arrives. Its holder sits on it | [[Mickey Shale]] |
 | 5 | Weaver's invitation. Studio B; a column offered to Jack | [[Vivian Weaver]], [[Jack Rivers]] |
 | 6 | Toby finds the stencils. Padgett starts counting the Tuesday minutes | [[Toby Small]], [[Lou Padgett]] |
@@ -73,7 +74,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | 7 | Official interest in Brack's log surfaces Cutty. Weaver's call to Ard | [[Cutty Sloan]], [[Whitcombe Ard]] |
 | 8 | The knock at Herminia's door. Pearl's mother sees him | [[Herminia Vega]], [[Pearl Nazario]] |
 | 9 | Herminia's pier date. Mabel becomes a target. If Herminia is saved, Weaver stops being careful | [[Herminia Vega]], [[Mabel Cho]] |
-| ~10 | **The Inquest.** Official ruling: suicide, unless challenged or delayed. Closes the file, cuts evidence access, buries Halloran's doubts. Shale opens the letter regardless. Bunting's line on Okafor is live | [[Ruth Halloran]], [[Adaeze Okonkwo]], [[Mickey Shale]] |
+| ~10 | **The Inquest.** Official ruling: suicide, unless challenged or delayed. Closes the file, cuts evidence access, buries Halloran's doubts. Shale opens the letter regardless. Okafor is on the docket | [[Ruth Halloran]], [[Adaeze Okonkwo]], [[Mickey Shale]] |
 | 11 | First issue of the restarted *[[The Plain Truth]]* | [[Toby Small]] |
 | 12 | Any specific tape may be gone | [[Hal Rimm]] |
 | 13 | The second issue makes Toby a record Weaver wants collected | [[Toby Small]] |

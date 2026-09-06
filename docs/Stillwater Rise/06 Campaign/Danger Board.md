@@ -11,15 +11,15 @@ It sorts by **who wants them gone**, not by method, because the three principals
 
 ## The three kill logics
 
-**Bunting kills entries.** He has no enemies and no appetite. He has a ledger, and a thing that doesn't balance becomes a line in it. Two sources of entries: the docket he's been contracted to clear, and interference with a collection in progress. That is all. He will explain this to anyone who asks, courteously, including people he is about to collect — including the players, who enter the ledger on exactly the same terms as everyone else the moment they cost him a clearance.
+**Bunting kills for rent.** He has no enemies and no appetite. He takes the docket the Authority hands him and tells himself they all owed something. Vera was the first who didn't, and he panicked. He isn't hunting anyone; he's hiding. The danger from him is the docket running on schedule regardless, and the rats, which protect him whether he asks or not. Corner him and the room fills.
 
 **Maas kills nobody.** He wants people *gone*, believes the relocation program is real, and declines to check. His threat is institutional: lawyers, hearings, delay, an inquest rescheduled, a career ended, a contract not renewed. If someone in his way is physically harmed, it genuinely wasn't him — and that fact is an instrument the players can use, because it is the one thing about himself he can be made to prove.
 
 **Weaver kills records.** People are incidental to her. She would always rather buy a record, burn it, or discredit its holder, and she reaches for water only when the record is *inseparable from the person holding it.* That is the whole selection principle: Okafor **is** his recitation, Cutty **is** his account, Mabel **is** the calls she remembers, Vera **was** the only person who could operate her own archive. Anything that can be bought gets bought.
 
-The two interlock: Weaver decides, Bunting performs. A name on her water column becomes a line in his ledger by contract. His own entries she never hears about.
+The two interlock: Weaver decides, Bunting performs. A name on her water column becomes a job on his docket, through Fitch. He never hears her name.
 
-## Bunting's ledger — entries he opened himself
+## Bunting's docket — what runs whether he's scared or not
 
 | Name | Why he opened the line | Window |
 |---|---|---|
@@ -27,9 +27,9 @@ The two interlock: Weaver decides, Bunting performs. A name on her water column 
 | **Herminia Vega** | She's on the docket. No trigger required, no animus involved, no decision to reconsider. | Knock Day 8, pier Day 9 |
 | **Toby Small** | His block is on the docket. The tune was planted directly. | Demolition eve, ~Day 18–20 at first posting; the hearing or Fitch can pull it earlier |
 | **Dez Okafor** | From Day 4 the warnings empty blocks ahead of schedule. A docket running fast is a docket running wrong, and wrong opens a line. | Day 10 onward |
-| **The players** | Any interference that costs him a clearance. He will say so first, plainly, and give them a chance to withdraw. | Whenever they earn it |
+| **The players** | Not by his choice. If they corner him, the rats decide. If they hurt him, the swarm attacks and he apologizes while it happens. | Whenever they find him |
 
-**The complication:** he does not want Okafor dead. Okafor is the only living person who knows what he is, and being known is the nearest thing to recognition Bunting has had in forty years. He will collect him on schedule anyway, and he will be sorry about it in a way that is entirely sincere and changes nothing. If the players are present for that conversation, it is the best window they will ever get into how he can be stopped.
+**The complication:** Okafor is the only living person who knows what the tune is, and Bunting doesn't know that. When the Authority puts Okafor on the docket for emptying blocks early, Bunting will go to the barbershop with the case, and Okafor will *name it* to his face. That is the first time anyone has told Bunting what he is. If the players are present, it is the best window they will ever get into how he can be stopped.
 
 ## Weaver's collection — records she can't buy or burn
 

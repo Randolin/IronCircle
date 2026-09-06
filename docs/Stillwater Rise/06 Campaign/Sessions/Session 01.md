@@ -8,153 +8,164 @@ exposure: secret
 ---
 # Session 01
 
-*Session 0/1. Plan first; recap after. Read-aloud in `> [!quote]`; everything else is GM. Structure per Aaron's 2026-09-05 planning chat: intro and drive → crime scene → a limited open world of three locations, each with an investigation and a possible fight, one fight guaranteed.*
+*Plan first; recap after. Read-aloud in `> [!quote]`; everything else is GM. Table details and the running log live in [[Session 00]]. Structure: intro and drive → crime scene → three doors, one guaranteed fight.*
 
-## Open decisions (Aaron to call)
+## What this session is for
 
-- [ ] **Press-shop combatants.** Fitch's muscle (mundane, foreshadows Weaver; but draft-2 has Fitch only *monitoring* on Days 1–3) vs. Renewal security (points at Maas early) vs. **Lupo's crew** tossing Vera's rooms hunting the "relocation man" (canon floating event, mundane, and Lupo is supposed to enter week one). Lean: Lupo's crew.
-- [ ] **Is the Piper on stage at the Half Note?** Draft-2: his Thursday chair, and he's played flat since. Planning chat preference: he's *not there*; the empty chair is the clue. Lean: absent. Day 1 isn't a Thursday.
-- [ ] **The tongue word.** SCHULD (canon) or a number (the count). See [[The Case#The crime scene]].
-- [ ] **Sympathetic next-victim NPC at the encampment.** [[Herminia Vega]] is the docket's next name but lives in the Delancey block, not Tin City. Options: meet Herminia via Toby on the walk home (ending 3 below), or give Tin City its own face: one of Ottilie's who's on the Next Pile block (Day 2–3).
-- [ ] Rules: **Daggerheart, locked.** Stat the fight and the rat swarm (`daggerheart-forge`) once the combatant call is made.
-- [ ] Crime-scene clue handout.
+They leave with **three usual suspects, a tune nobody can place, rats where rats don't go, and the knowledge that somebody else is asking about a sax player.** They should be arguing about Lupo. They should not have a name for the Piper, and they should not know there's a machine.
 
-## Goals
-
-1. They leave certain it wasn't a suicide and unsure of everything else.
-2. They meet three doors and learn what each costs.
-3. Each PC gets one moment where the Mythos layer shows and nobody else in the room sees it.
-4. Seeds, no payoffs: Toby humming; Pruitt overhearing; Casale's *nine*; the model on the Commissioner's desk.
-
-Day 1 throughout. Day 2 opens with the notebook if they push.
+Still open, Aaron's call: the sympathetic face at the encampment. Default below is [[Herminia Vega]] through Toby, on the walk home.
 
 ## Prologue (no PCs)
 
 > [!quote] Read
 > 2:40 a.m. Car 6, Kowalczyk driving, Boyd riding. The radio says Pier 9, a caller, probably nothing. Above the on-ramp the Renewal billboard catches the last of the moon: STILLWATER RISE, a golden plaza where the Flats are. Boyd is reaching for the spotlight when dispatch comes back. *Disregard, car 6. Return to patrol.* Kowalczyk turns the wheel without a word. Boyd says, "Who calls off a—" and Kowalczyk says, "Drop it." Hard cut.
 
-## Beat 1: the office, 8:40 a.m., and the drive
+## Beat 1: the office and the drive
 
-Third floor over a dentist on Merchant Street. [[Pearl Nazario|Pearl]] at the desk. A thin old man in galoshes is leaving as they arrive and wipes his feet on the way out ([[Ansel Morrow|Morrow]]; he delivered the referral). [[Odessa Cole|Cole]] is not here. She's on the phone *from the pier*.
+Third floor over a dentist on Merchant Street, 8:40. [[Pearl Nazario|Pearl]] at the desk. A thin old man in galoshes is leaving as they arrive and wipes his feet on the way out ([[Ansel Morrow|Morrow]]). [[Odessa Cole|Cole]] is on the phone *from the pier*.
 
 > [!quote] Read
-> Pearl holds the receiver out. Cole's voice, over a generator: "Harbor patrol pulled a woman out of the grain-elevator eddy under Pier 9 at ten to six. Precinct wrote *jumper* before she was dry. The Coroner referred it before Homicide finished their coffee, and Homicide has already given it away. Get here before the ME finishes. There's a carbon on Pearl's desk. Bring it."
+> Pearl holds the receiver out. Cole, over a generator: "Harbor patrol pulled a woman out of the grain-elevator eddy under Pier 9 at ten to six. Precinct wrote *jumper* before she was dry. The Coroner referred it before Homicide finished their coffee, and Homicide has already given it away. There's a carbon on Pearl's desk. Get here before the ME finishes. And bring a coat; there's something wrong with the rats."
 
-The carbon: *Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.* Coroner's stamp. If asked about the last word, Pearl says "clerk's shorthand." It isn't. Don't explain for three sessions.
+The carbon: *Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.* Coroner's stamp. "Clerk's shorthand." It isn't. Don't explain for three sessions.
 
-**The drive.** One question each, in character, round-robin: *What did you do last night? Who at the precinct owes you? Where were you the night you nearly died?* (Don't push the third; plant it.) Jack knows the Flats' streets; let him narrate the route. The car passes under the Span, dead-ending in the sky.
+**The drive.** Round-robin, one question each, from [[Session 00#Session zero questions]]. Jack narrates the route. The car passes under the Span.
 
 ## Beat 2: the crime scene
 
-Just before full light. Cordon up, uniforms keeping their distance. The ME's van at the pier head, generator running. Across the canal, the billboard.
+Just before full light. Cordon up, uniforms keeping their distance. The van at the pier head, generator running. The billboard across the canal. And rats.
+
+### The oddities (what got the agency called)
+
+Four things nobody at the scene can explain. Let the players find them; let the NPCs mutter about them.
+
+1. **The rats.** She was found in the eddy with a ring of drowned rats around her. Dozens. Floating in a circle, all facing in. Rats swim. [[Earl Dubcek|Dubcek]]: "Rats don't drown. These did. All at once." The harbor crew won't touch them; they're still in the water.
+2. **The hum.** Anyone who stands where the pile is for more than a minute starts humming four descending notes and doesn't notice. A uniform did it. The ME's assistant did it. Toby does it constantly. A player who lingers does it too; say so out loud and let the table react. The tune is *in the spot*.
+3. **Upstream.** Found a quarter mile up-current of where she went in. The river doesn't do that.
+4. **The eyes.** Vera's eyes were brown. The body's are a hazy river-green, both of them, like something's behind them. Halloran has no word for it and writes "lividity?" on the form.
 
 ### The handoff: [[Frank Casale|Casale]]
 
-Territorial for ninety seconds, then relieved. "The last guy who caught a case like this teaches traffic school in Yonkers now." Signs the release unasked. Gives freely: the 5:50 recovery, the pile "like a hotel maid did them," *"ninth like it in four years, they're all jumpers, ask anyone,"* and then looks like he wishes he hadn't said nine. Why Homicide let it go: "Inquest referral came down before we'd finished the coffee. That's not usual, and I'm not curious." Price later: deniability. Today: free.
+Territorial for ninety seconds, then relieved. "The last guy who caught a case like this teaches traffic school in Yonkers now." Signs the release unasked. Why Homicide let it go: "Inquest referral came down before we'd finished the coffee. That's not usual, and I'm not curious."
 
-### The cordon: [[Roy Pruitt|Pruitt]] and [[Teddy Ferrante|Teddy]]
+**His three names, with a shrug:** "The usual."
+- **Sal Lupo.** "She photographed one of his evictions. His guys were on her block last week."
+- **Ray Sato.** "Ex-cop she wrote out of a job. Lives four blocks from here. Kept his gun."
+- **Rev. Prosper.** "She'd been hounding him about some checks. Wouldn't have thought it, but."
 
-Pruitt, parade-crisp, checking his gig line in the car window, positioned to overhear. Unprompted: "Known crank, that one. Sad case. Not my purview, of course." Let a player catch him listening. Not calling. Not today.
+He'll also say *ninth like it in four years, they're all jumpers,* and then look like he wishes he hadn't said nine.
 
-Teddy at the tape with the Speed Graphic. "Twenty-two frames, chief. Always shoot the crowd." He has the negatives. He'll sell them to anyone by Day 3.
+### The cordon: [[Roy Pruitt|Pruitt]], [[Teddy Ferrante|Teddy]], the crowd
 
-In the crowd: a Black man in a careful gray suit with a route book, watching the van. [[Nathaniel Pell|Pell]], "paying respects to a policyholder." Flinches at *which policy*. Leaves. And at the cordon's edge, a kid in a flat cap with a paper sack, grieving loudly: [[Toby Small|Toby]]. He attaches himself to whoever's kindest. He's humming when his mouth has nothing else to do. Nobody reacts.
+Pruitt, parade-crisp, positioned to overhear. Unprompted: "Sato. Bitter man. I'd start there." Steering away from anything Authority-shaped. Let a player catch him listening. Not calling. Not today.
+
+Teddy at the tape with the Speed Graphic. "Twenty-two frames, chief. Always shoot the crowd." He has the negatives. He'll sell them by Day 3.
+
+In the crowd: a Black man in a gray suit with a route book ([[Nathaniel Pell|Pell]], "a policyholder"; flinches at *which policy*; leaves). At the edge, a kid in a flat cap with a paper sack, grieving loudly: [[Toby Small|Toby]]. He attaches himself to whoever's kindest. He's humming.
 
 ### The pile
 
 > [!quote] Read
-> Twelve feet from the end of the pier, in the pool of the sodium lamp: a coat folded in thirds, squared to the planks. Low heels side by side, toes to the water. Stockings rolled and tucked inside the shoes. It's precise. Unhurried. It looks like a chair in a hospital room.
+> Twelve feet from the end of the pier, in the pool of the sodium lamp: a coat folded in thirds, squared to the planks. Low heels side by side, toes to the water. Stockings rolled and tucked inside the shoes. Precise. Unhurried. It looks like a chair in a hospital room.
 
-- One set of bare footprints in the mud from the shoes to the water. Even stride, no hesitation, no turning. Walking in like crossing a room.
-- No second set. The shooter never left the planks.
+- One set of bare footprints from the shoes to the water. Even stride, no hesitation. Walking in like crossing a room.
+- No second set on the mud. The shooter never left the planks.
 - Scuff marks at the rail, forty feet back, where someone stood a long while. A waxed-paper peppermint wrapper ground under a heel. The precinct's photographer stepped on it; Teddy shot it whole at 6:40.
-- No brass anywhere. Revolver.
-- The third shot: Cutty heard three; the body has two wounds. The miss is in a piling. .38, pristine rifling. Nobody finds it unless someone thinks to look for it.
-- Streetlight at the pier head: the shooter was backlit, which is why the witness saw only a silhouette, and why the silhouette never saw the witness.
+- Rat droppings along the rail. A lot. Under the pier, on the pilings, claw marks in the creosote going *up*.
+- No brass. Revolver.
+- Cutty heard three shots; the body has two wounds. The miss is in a piling. .38, clean rifling. Nobody finds it unless someone looks for a third shot.
+- The shooter was backlit by the pier-head streetlight. The witness saw a silhouette; the silhouette never saw the witness.
 
 **Mythos moments, one each, if they reach:**
-- **Rook / Arcane Revelation.** The pile isn't a suicide's. It's a departure's. Packed for a journey, and the journey was the lie.
-- **Rivers / the nose.** Peppermint, still, at the rail. Under it something like a wet reed. Nobody else smells anything but river.
-- **Cheng / the eye.** The footprints walk in obedient. The scuffs at the rail are a man who *waited*, and then didn't get what he waited for.
+- **Rook / Arcane Revelation.** The pile isn't a suicide's. It's a departure's. Packed for a journey, and the journey was the lie. And the hum: he can see it, a shape on the planks like heat.
+- **Rivers / the nose.** Peppermint, still, at the rail. Wet reed under it. Rat, everywhere, and under the rat something that smells like the inside of a saxophone case. If he asks the rats (Nature's Tongue), the ones still alive under the pier say *the man with the case* and won't say more. They're afraid of him.
+- **Cheng / the eye.** The footprints walk in obedient. The scuffs at the rail are a man who *waited* and then didn't get what he waited for, and then ran. The rail's worn where a hand gripped it hard.
 
 ### The van: [[Ruth Halloran|Halloran]]
 
 > [!quote] Read
-> "Cause of death is currently an argument between her lungs and the back of her skull. I'll thank you not to quote me until one of them wins." She folds the sheet to the shoulders. Vera Kestrel is small. Her glasses are still on her face, unbroken, the lenses thick as bottle glass. There's a pencil behind her ear. Somebody has combed her hair. "Two entries from behind and above. Shoulder, through and through. Skull, slug recovered, deformed. No defensive wounds. And her lungs are full of river, which they have no business being, because the second shot was instant. Both cannot be first."
+> "Cause of death is currently an argument between her lungs and the back of her skull. I'll thank you not to quote me until one of them wins." She folds the sheet to the shoulders. Vera Kestrel is small. Her glasses are still on, unbroken, the lenses thick as bottle glass. A pencil behind her ear. Somebody has combed her hair. "Two entries from behind and above. Shoulder, through and through. Skull, slug recovered, deformed. No defensive wounds. Lungs full of river, which they have no business being, because the second shot was instant." She lifts an eyelid with her thumb. "And her eyes were brown. I have her license."
 
-**She gives freely:** the wounds; time of death "between one and three"; the hearing dress ("she dressed for something"); ink under the nails, crank callus, stencil wax; tox: one rye around midnight. The pocket items, bagged: a pack of Chesterfields with one flipped, and folded into the cellophane a note in her handwriting, *SCHULD* over and over, shakier each time, then *"AK — check the roll."* A Half Note matchbook. A key ring: apartment, shop back door, one key that matches nothing. A dime.
+**She gives freely:** the wounds; time of death between one and three; the hearing dress ("she dressed for something"); ink under the nails, crank callus, stencil wax; tox, one rye around midnight. Pocket items, bagged: Chesterfields with one flipped for luck; a Half Note matchbook; a key ring (apartment, shop back door, one key that fits nothing); a dime.
 
-**The marks, if they ask to see the body, or if she's rattled enough to show them:**
-- The tongue. Not a tattoo, no pigment. Under her glass: scar tissue in the shape of set type, debossed like a letterpress strike, blackletter. It reads correctly to someone facing her. Halloran: "Postmortem artifact." With a question mark. She is not proud of the question mark. Her one wrong theory, offered so the players can disbelieve it: dye, or a cult.
-- The eyes. She lifts a lid. Solid black, sclera and iris. "Every photograph fogs. Two neat circles. I've shot four."
+**Her one wrong theory,** offered so the players can disbelieve it: "Lividity. Or something in the water. There's a chemical plant upriver." She doesn't believe it either.
 
-**She holds:** the memo in her desk, the nine files she signed. The lever is the dates. If a player says *nine like this, all folded, in four years*, she goes still: "Say that again. Slower." Then throws them out of the van. That's a win. No more today.
+**She holds:** the memo in her desk, the nine files she signed. The lever is the dates. If a player says *nine like this, all folded, in four years*, she goes still: "Say that again. Slower." Then throws them out. That's a win. No more today.
 
 ### The wagon: [[Bets Halvorsen|Bets]]
 
-On the running board, licorice, doors open.
-
-> [!quote] Read
-> "She's quiet. They're usually loud the first hour. This one's just already gone somewhere." She looks to see if you'll laugh. "You want to know how many times I've said that? Nine. I write it down."
-
-Glove box: date, address, weather, one word. Nine marked *empty*. Two have no precinct file.
+On the running board, licorice, doors open. "She's quiet. They're usually loud the first hour. This one's just already gone somewhere. Nine times I've said that. I write it down." Glove box: date, address, weather, one word. Nine *empty*. Two with no precinct file. And about the rats: "They wouldn't get in the van. The live ones. Stood on the pier and watched me load her."
 
 ### The water: [[Earl Dubcek|Dubcek]]
 
-On the launch, coiling line. The veteran who volunteers the big picture if anyone lingers.
+On the launch, coiling line. The veteran who volunteers if anyone lingers.
 
 > [!quote] Read
-> "Current runs seaward past Pier 9. Always has. She was a quarter mile *up*." He points with his chin at the Span. "I've pulled two hundred souls out of this river. The river has rules. Somebody broke them, and it wasn't her." Back to the line. "Eleven piles of clothes I've seen on these piers. No floaters. Till her."
+> "Current runs seaward past Pier 9. Always has. She was a quarter mile *up*." Chin at the Span. "Two hundred souls I've pulled out of this river. It has rules. Somebody broke them, and it wasn't her." Back to the line. "Eleven piles of clothes I've seen on these piers. No floaters. Till her. And I never saw a rat drown in my life."
 
-He'll say all of it to a coroner's jury in the same words. "Nobody's asked." He'll also say, if asked about the piles: "People go missing down under the ramp and nobody files. Ask the camp."
+He'll say it all to a coroner's jury. "Nobody's asked." About the piles: "People go missing under the ramp and nobody files. Ask the camp."
 
 ### The witness
 
-Not here. [[Cutty Sloan|Cutty]] is under the ramp and Tin City is locked down. Brack's log says a drunk called it in at 2:15 from the canal-side box. That's the thread. The humming detail comes out only if someone asks Cutty what he *heard*, not what he saw.
+Not here. [[Cutty Sloan|Cutty]] is under the ramp and [[Tin City]] is locked down. Brack's log says a drunk called it in at 2:15 from the canal-side box. That's the thread. The humming detail comes out only if someone asks Cutty what he *heard*.
 
 ## Beat 3: three doors
 
-Let them choose the order. Each has an investigation and a fight that can happen. Only one fight is guaranteed (open decision above). Three fights plus this crime scene is two sessions; if they do two doors tonight, that's the session.
+Let them choose. One fight is guaranteed (the print shop). Two doors is a full night; three is two sessions.
 
-### Door 1: [[The Print Shop]]
+### The Print Shop: [[The Print Shop|Klein's]]
 
-**Investigate.** Bell taken down. Ink, hot metal, gum arabic. [[August Klein|Klein]] at the imposing stone with his back to you; Toby tugs his sleeve; he turns and looks at your mouths, eyes, hands, then taps twice. He speaks by writing on the roll. Shown the cigarette note, he produces everything: the notation in Vera's invented system; the half-cut stencil; his own eighteen-month-old report of a man strolling into the river. *"SHE WROTE IT DOWN. SO IT HAPPENED. THAT IS THE WHOLE JOB."* Upstairs, the Archive, and one drawer empty. The notebook is on the stone; he hands it over Day 2. He names the tongue's typeface on sight if shown a sketch: Fraktur, pre-war foundry. He may own the case.
+**The clue that sends them:** the key ring; Toby; "she ran a paper."
 
-Toby knows her route, knows she'd been "watching somebody" for two weeks and wouldn't say who, and hums. If asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" Move on fast.
+**Investigate.** Bell taken down. [[August Klein|Klein]] at the imposing stone with his back to them; Toby tugs his sleeve; he turns, looks at mouths, eyes, hands, taps twice. He writes on the roll. *"SHE WROTE IT DOWN. SO IT HAPPENED. THAT IS THE WHOLE JOB."* He gives: the archive upstairs (card files, records-request carbons, photos of tenants the City says never lived there); Vera's list of the vanished; her notes on a "relocation man" with a horn case, no name; the half-cut stencil; his own laughed-off report of a man strolling into the river eighteen months ago. One drawer is empty. The notebook is on the stone; Day 2 he hands it over.
 
-**Fight (guaranteed, whoever it is).** The party walks in on men tossing Vera's rooms upstairs. Klein hasn't heard them; he's about to. If it's Lupo's crew they want "the relocation man's" paperwork and leave marks; if it's Fitch's they want the files and leave nothing. Either way: mundane, four to five bodies, Klein wakes if it goes badly and that's a preview nobody should get on Day 1. Pull him before it comes to that.
+Toby: knows her route, knows she'd been "watching somebody" for two weeks and wouldn't say who, hums. If asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" Move on fast. Don't let anyone connect it tonight.
 
-### Door 2: [[Tin City]]
+**The fight (guaranteed).** [[Sal Lupo|Lupo]]'s crew is upstairs tossing Vera's rooms for the "relocation man's" paperwork. Four men, crowbars, a foreman with a cigar. Mundane. They leave marks. Klein hasn't heard them; he's about to. Pull him before the Golem shows; that's not a Day 1 reveal. Afterward, one of them, bleeding: "Sal just wants the guy. Same as you. He'll pay." Lupo wants to *hire* them.
 
-**Investigate.** Under the on-ramp the light goes green. [[Ottilie Mauser|Ottilie]] counts them before they reach the bottom. "Three of you came down. One hung back. Manners says all four eat. Sit." The meal is the questioning. She gives the can (forty-one, nine years) and *not* Cutty; Cutty is earned, or bought with a name. If Jack tries Nature's Tongue on the rats, they're terrified of something with a case, and Ottilie notices him doing it. That gets him a second look and a shorter route. Physical: the spot where the last walker went in, and where Cutty fishes, sightline across the canal to the pier lamp.
+### Tin City
 
-**Fight (set-piece, optional).** Rats. A swarm out of the embankment, first mythic showing, ties to the title. Save it for wherever the night ends. Or the Renewal "clearance crew with a permit" if they've been loud about the Authority. Rats are better.
+**The clue that sends them:** Brack's log (a "drunk" from the canal box at 2:15); Dubcek: "ask the camp."
 
-### Door 3: [[The Half Note]]
+**Investigate.** Under the on-ramp the light goes green. [[Ottilie Mauser|Ottilie]] counts them before they reach the bottom. "Three came down. One hung back. Manners says all four eat. Sit." The meal is the questioning. She gives the can (forty-one, nine years) and *not* Cutty; Cutty is earned, or bought with a name. She'll also say: the rats left the embankment last night, all at once, toward the pier, and haven't come back. "Nine years I've slept next to them. First quiet night I've had. I didn't like it."
 
-**Investigate.** [[Amalia Reyes|Doc Reyes]] behind the bar; Jack's stool. The bandleader: "Sax chair's been empty two nights." Doc, once, for Jack: Vera was in here Thursday before last, alone, nursing one drink, watching the stand. "The sax man. Sits in Thursdays. Never drinks, won't take the twenty. Two-tone suit. He's played flat since." [[Mickey Shale|Shale]] three drinks in, sunglasses on, patting his pocket: "She let me help. You understand what that—" and stops. Shale saw Vera and the sax man notice each other that night. He won't say so tonight.
+If Jack tries the rats, there aren't any to ask. That's the answer.
 
-**Fight (avoidable).** Bouncers if they push Shale or the band too hard. Or the trumpet player, who's jealous of the sax chair and wrong about everything. Don't put Bunting on stage on Day 1.
+**The fight (optional, set-piece).** If they end the night here: the rats come back. From the pier. Through the camp. Not attacking, *passing through*, thousands, and the players in the middle of it. Swarm rules; the goal is to not be carried into the water. Ottilie's people know to climb. That's the first mythic showing and it ties to the title.
+
+### The Half Note
+
+**The clue that sends them:** the matchbook; Jack's stool.
+
+**Investigate.** [[Amalia Reyes|Doc Reyes]] behind the bar. For Jack, once: Vera was in two Thursdays ago, alone, one drink she didn't finish, watching the stand "like it owed her money." The sax man sits in Thursdays; never drinks, won't take the twenty; two-tone suit. "And a big man with a cigar was in yesterday asking if the sax player still plays Thursdays. Not a cop. I said I didn't know his name, which is true." [[Mickey Shale|Shale]] three drinks in, sunglasses on, pocket-patting: "She let me help. You understand what that—" and stops.
+
+The bandleader, if asked: "He's not on tonight. Thursdays." Nothing about an empty chair; it's Tuesday. Out back: three rats by the stage door, sitting, not eating. Doc's had traps out a week. Caught nothing.
+
+**The fight (avoidable).** Bouncers if they push Shale or the band. Or Lupo's cigar man, back for a second look, and they've just beaten his friends at the print shop. Not Bunting. He's in his room.
+
+### If they go for the usual suspects instead
+
+- **Lupo's yard.** He's there. "You the agency? You cost me four guys." A fight or a deal; he wants the same man. His job logs are the clearance schedule, later.
+- **Sato's room.** Four blocks from the pier. A cornered ex-cop with a gun and a wall of photographs of the victim. Kick the door: a standoff. Knock: he talks, hostile, and won't show the photos yet. Session 2.
+- **The Mission.** Prosper, halting at eye level, terrified about checks. Wrong for the murder, right for the pattern. Session 2.
 
 ## Endings
 
-Pick the one the night earned.
-
-1. **The hum.** Toby on the stoop, feet swinging, four notes to the street. A window across the way closes.
-2. **The call.** Office, 6 p.m. Pearl: "A man called. Wouldn't leave a name. Said: *you told your office you'd try the weird one.*" ([[Hal Rimm|Rimm]], quoting whatever they actually said this morning.)
-3. **The knock.** Walking Toby home through the Delancey block, a fourth-floor door, a small broad woman with a hearing aid feeding a boy. "You're not from the office. The office knocks like it owns the hallway." [[Herminia Vega]]. Don't name her. Pearl's mother is two doors down.
+1. **The hum.** Toby on the stoop, feet swinging, four notes to the street. Across the way a rat sits on a stoop and listens.
+2. **The knock.** Walking Toby home through the Delancey block, a fourth-floor door, a small broad woman with a hearing aid feeding a boy. "You're not from the office. The office knocks like it owns the hallway." [[Herminia Vega]]. Don't name her. Pearl's mother is two doors down.
+3. **The call.** Office, 6 p.m. Pearl: "A man called. Wouldn't leave a name. Said: *you told your office you'd try the weird one.*" ([[Hal Rimm|Rimm]], quoting whatever they said that morning.)
 4. **The rats.** If they ended at Tin City.
 
 ## Danger board at session start
 
-- [[Herminia Vega]]: Day 2 her name is findable. Nothing else has fired.
-- The Next Pile is Day 2–3. A name from the archive, if they've read the cards.
-- Pruitt reports tonight. Fitch reads it by morning.
+- The Next Pile is Day 2–3. A name from the archive, if they read the cards tonight.
+- Pruitt reports tonight. Fitch reads it by 9 a.m. and sends site security to "check the pier for trespass" by noon on Day 2.
 
 ## Seeds (plant, don't pay)
 
-Toby humming. Pruitt overhearing. Casale's *nine*. Pell in the crowd. Shale's breast pocket. The empty sax chair. Somebody mentions the model on the Commissioner's desk; he gives tours.
+Toby humming. Pruitt overhearing. Casale's *nine*. Pell in the crowd. Shale's pocket. The cigar man. Somebody mentions the model on the Commissioner's desk.
 
 ## Recap
 
-*(after play)*
+*(after play; then move details to [[Session 00]])*

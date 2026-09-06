@@ -26,6 +26,7 @@ aliases:
 - **Look:** Small white woman, late fifties, iron-gray bob, half-moon glasses on a chain, lab coat over a good dress. Steadiest hands at any scene.
 - **Manner:** Smokes with the cigarette held backwards. Corrects imprecise language, including her own. Calls the dead by full name. Rechecks measurements twice, same order.
 - **The lever:** the dates question. 'Nine like this in four years, all folded.' She goes still, says 'Say that again. Slower,' and throws you out. That's a win.
+- **The oddities:** the eyes ("her eyes were brown; I have her license"); the lungs; the rats. Her wrong theory, offered to be disbelieved: lividity, or the chemical plant upriver.
 - **Reports to:** the Coroner. Has met only Morrow. Signs the agency's scene pass.
 - **Inquest deadline:** ten days to decide whether the memo in her desk was right.
 

@@ -26,8 +26,8 @@ completeness: complete
 - **Mythos (unknown to her):** the Child who said the emperor was naked. Illusions fail in front of her. That's why the tune couldn't finish.
 - **Timeline:** started the issue 8 months out; morgue photo request at 6 weeks; confronted Pell at 3 weeks; hired Rook at 19 days; infected at the Half Note Day −10; asked Milner at 9 days; hid the file Day −3; cut the stencil Day −2; mailed the letter Day −1; died the night of Day 0.
 - **The nickname:** age eight, live microphone, the televised unveiling of the Renewal model. Emmett Roan coined it; Shale revived it. Never disbelieved; laughed at.
-- **On her:** glasses on, pencil behind the ear, hearing dress. Chesterfields with the SCHULD note (*AK — check the roll*), a Half Note matchbook, a key ring with one unmarked key, a dime.
-- **The marks:** SCHULD debossed on her tongue in Fraktur; eyes solid black; film fogs at the eyes.
+- **On her:** glasses on, pencil behind the ear, hearing dress. Chesterfields with one flipped, a Half Note matchbook, a key ring with one unmarked key, a dime.
+- **The oddities:** found upstream in a ring of drowned rats; her brown eyes are river-green; the spot where her clothes lie makes people hum.
 - **What she left:** the archive; the notation on Klein's roll; the half-cut stencil; the hidden card-drawer file; a mailed letter (Day 4–5).
 
 **Voice (from the archive, letters, the roll):**

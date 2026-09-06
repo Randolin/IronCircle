@@ -27,6 +27,8 @@ aliases:
 - **Look:** Puerto Rican woman, mid-forties, hair pinned under a folded bandana, sleeves rolled, strong forearms, bar towel on one shoulder. One gold hoop; the right earlobe is notched.
 - **Manner:** Wipes the bar in front of whoever's talking. Cuts people off at three. Knows the band's names and none of the customers'. Suture kit under the register next to the bat.
 - **The sax man:** 'Sits in Thursdays. Never drinks, won't take the twenty. Clean, pretty, nothing you'd remember. Two-tone suit. I remember the suit. He's played flat two weeks running.'
+- **The cigar man:** Day 0, a big man, not a cop, asked whether the sax player still plays Thursdays. Lupo's foreman.
+- **Tuesday, Day 2:** the sax man came in, sat in for one number, played it wrong, left without his hat. The hat's behind the bar. Rats by the stage door all week; traps catch nothing.
 - **Vera:** in once, Thursday before last (Day −10), alone, one drink she didn't finish, watching the stand. Not a regular. The matchbook in her coat is from that night.
 - **The slip:** 'Shale said it to Herzog right where you're sitting. You were three stools down, Jack. You were laughing at something.'
 - **Danger:** the first Thursday the agency is in the bar, Bunting counts them from the stand.

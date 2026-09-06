@@ -80,3 +80,15 @@ Dated record of what's locked and why. Newest at the bottom. Reconstructed from 
 - **Rules: Daggerheart, locked.** City of Mist is the premise, Daggerheart the dice.
 - **Session 0/1 shape (Aaron):** intro and drive → crime scene → three doors (press shop, Tin City, Half Note), each with an investigation and a possible fight, one fight guaranteed. Opening: Cole already at the pier on the phone. Round-robin questions on the drive.
 - **Open, Aaron to call:** press-shop combatants (Fitch's crew / Renewal security / Lupo's crew; lean Lupo); Piper absent from the club on Day 1 (lean absent); tongue word SCHULD vs. a number; the sympathetic next-victim NPC at the encampment; stat blocks; the clue handout.
+
+## 2026-09-06 — Bunting re-cut; the scene gets strange
+
+- **Bunting is a hit man who doesn't understand his own power.** Takes jobs on people who owe; a sax player nobody hires and he doesn't know why; when he plays for someone they walk into the river and he calls it persuasion. **Rats follow and protect him whether he wants it or not.** Vera was the first job that wasn't a debt; the money was too good. When she didn't go in he panicked, shot her three times, ran. Days 1–3 in his room; Day 2 one wrong number at the Half Note (leaves his hat); Day 4 the Thursday gig because he can't afford to miss it. The ledger metaphysics and "forty years of clean books" are gone.
+- **SCHULD is out.** The note, the debossed tongue, and the film-fogging black eyes didn't fit. **In:** a ring of drowned rats around the body, facing in; the hum in the spot (stand at the pile a minute and you hum); recovered upstream; her brown eyes are hazy river-green.
+- **The empty chair is out.** The club clue is Doc Reyes: a cigar man (Lupo's foreman) asked on Day 0 whether the sax player still plays Thursdays; Tuesday's wrong number and the hat; rats by the stage door.
+- **Cops give leads.** Casale's three names: Lupo, Sato, Prosper. Pruitt steers to Sato. Boyd gives the disregard. Each PC has one personal contact with Day 1 information (Padgett, Mrs. Cho, Doc Reyes).
+- **The puzzle to the Piper takes three sessions:** suspects → the suit in Sato's photo and Grosz's memory → the stand on a Thursday. Nobody names him in Session 1.
+- **Backup:** Fitch learns the botch Day 1, can't tell Maas, sends Padgett's crew as "trespass" security Day 2. Weaver sends a feature writer. Nobody helps Bunting.
+- **Aggressive false leads:** Lupo's crew tossing Vera's rooms is the Session 1 fight; Sato is a standoff if the door is kicked; Pell runs.
+- **[[Session 00]] created** as the table tracking sheet: players, session-zero answers, connections, contacts, and running logs (facts revealed, NPCs met, clues found, suspects in the players' words, marks left, promises, clocks, loose ends).
+- Still open: the sympathetic face at the encampment (default: Herminia via Toby on the walk home); stat blocks for Lupo's crew and the rat swarm; the clue handout.
