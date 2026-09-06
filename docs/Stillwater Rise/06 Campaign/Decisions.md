@@ -96,3 +96,9 @@ Dated record of what's locked and why. Newest at the bottom. Reconstructed from 
 ## 2026-09-06 — Two Sheets
 
 - **House rules locked** ([[Two Sheets]], public; Session 00 keeps the logs): each PC is a level 1 Logos sheet and a level 4 Mythos sheet, one body (HP, Stress, Armor, Hope shared). **Surfacing** = one action or reaction on the Mythos sheet. A 3-box Surface track per session; free surfaces on Severe damage, last Stress, or GM offer; **Surge** = spend 6 Hope for a scene; **Incarnation** replaces Avoid Death and Risk It All (surface for the scene, clear HP and Stress), followed by a **Scar** (cross a Hope slot, record a tell). Every surface costs the GM side 1 Fear or one clock tick. Death moves as written apply only while already incarnated. No tuning section; the GM decides.
+
+## 2026-09-06 — Adversaries
+
+- **Convention:** ordinary people are one Logos block. A potent Mythos side is one tier higher, or two blocks with a *Surface* reaction to swap (HP and Stress carry as counts). In [[System Notes#Adversaries]].
+- **Blocks written** ([[Adversaries]]): the Swarm (T1 Horde) and the Tide (T2 Horde, hive-mind, protects the Piper); Wharf Rat (T1 Bruiser) with a Surfaced T2 block; Big Augie Dorsey the Rat King (T1 Leader) with a Surfaced T2 block. The Piper's friends are dock hands who drink with him and don't know what he does; two are changing. Faction muscle: Lupo Demolition Crew and the Foreman (loud, leave marks), Authority Site Security (procedure, calls it in), Precinct Uniform (the Heat countdown), Weaver's Feature Writer (Social) and Weaver's Fixer (T2 Skulk, the competent one), Milner's Collector (Social), Tin City Crowd (Minion).
+- Session 1 fight: four Crew and the Foreman at the print shop. Klein deliberately unstatted.

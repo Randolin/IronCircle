@@ -35,6 +35,12 @@ Each PC runs two sheets, a level 1 Logos and a level 4 Mythos, as one character.
 - Mythos ancestry may differ from Logos ancestry (Coyote is Infernis; Jack Rivers is human). Note both on the character's frontmatter.
 - Nobody rolls dice at Toby.
 
+## Adversaries
+
+- **Ordinary people are one Logos stat block** at the tier the scene calls for. Most of the City is Logos all the way down.
+- **A potent solo with a strong Mythos side, or a Mythos-only thing**, works the way the PCs do: either **one tier higher** than its Logos peers, or **two blocks**, a Logos block and a Mythos block it swaps into on a trigger (a *Surface* reaction). Marked HP and Stress carry across the swap as counts; thresholds come from the new block; it doesn't swap back.
+- Stat blocks live in `06 Campaign/Adversaries.md` (GM only) and are built to the [[Daggerheart SRD]].
+
 ## See also
 
 - [[Party]] — the current builds

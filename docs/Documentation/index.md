@@ -9,6 +9,7 @@ System references for the games we play. Rulebook PDFs are not stored in this re
 ## Daggerheart
 
 - **[[Daggerheart SRD]]** — System Reference Document 2.0 (2026-08-25), split into eleven markdown files with page markers. **The rules authority for every Daggerheart table here.** Public Game Content under the Darrington Press Community Gaming License.
+- Known extraction flaw: tier digits in adversary headers ("Tier  Horde") were ligatures and dropped; tier is in the file name and the section. 
 - Not on the wiki: the Homebrew Kit, Age of Umbra adversaries, Sablewood, character sheets. Local PDFs only.
 
 ## D&D 5E (2024)

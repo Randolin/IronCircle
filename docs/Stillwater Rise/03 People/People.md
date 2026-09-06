@@ -109,6 +109,7 @@ Incidental. Promote anyone who earns a third scene. They share one Suno bed, in 
 - [[Danny Boyd]] — car 6, second year, the disregard sits wrong
 - [[Stan Kowalczyk]] — car 6, turned the wheel
 - [[Aldo Brack]] — the desk, the downgrade
+- **Big Augie Dorsey** — the Rat King; runs the crew that drinks with Manny. Stat block only, in [[Adversaries]]; promote if he earns a third scene
 - [[Whitcombe Ard]] — county board finance chair. One vote; the paper column's hand on the agency
 
 ## The agency
