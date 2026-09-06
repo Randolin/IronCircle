@@ -23,3 +23,6 @@ The [[Renewal Authority]]'s showpiece: a gilt scale model of the future City, th
 
 ## See also
 - [[Renewal Authority]] · [[The Span]] · [[The City]]
+
+## Read-aloud
+Boxed text in [[Read-Aloud]].

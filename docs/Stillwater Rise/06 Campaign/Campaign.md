@@ -39,6 +39,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 | [[Decisions]] | Dated log of what's locked and why |
 | [[Timeline]] | Day-by-day clock and background timeline |
 | [[Adversaries]] | Stat blocks: the rats, the Piper's friends, faction muscle |
+| [[Read-Aloud]] | Boxed text per location, sensory only, read as is |
 | [[Crime Scene]] | Pier 9 by zone: what is free, what needs a roll, what a bad roll costs |
 | [[Session 00]] | The table sheet: players, contacts, and the running log of what the table knows |
 | [[Session 01]] | Per-session plans and recaps live in `Sessions/` |

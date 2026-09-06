@@ -27,3 +27,6 @@ aliases: ["The Print Shop", "Klein's", "Vera's rooms", "the Archive"]
 
 ## See also
 - [[The Flats]] · [[The Plain Truth]] · [[The Case]]
+
+## Read-aloud
+Boxed text in [[Read-Aloud]].
