@@ -181,6 +181,64 @@ What they say when the players push. **Good** is a true lead. **Bad** is a false
 - On what he heard before that: "She was humming coming down the path. Pretty, like off a record." *(Good; only if asked what he heard.)*
 - On the man: "A hat at the rail. Something long set down beside him with a shine on it. Half of him yellow under the lamp." *(Good; the suit, the case.)*
 
+## By PC
+
+What each investigator can notice that the others can't, or can't in the same way. Derived from their sheets only. Offer these when the player looks in the right place; don't hand them out.
+
+### Arthur Rook
+
+**Logos** (Ranger; Detective, Draft-Dodger; Tracking, Dodging)
+1. **The prints.** Tracking reads gait. One set, even stride, no hesitation, and none between the street and the shoes. She didn't walk *to* the pile; she walked *from* it.
+2. **The rail.** Someone stood forty feet back a long time and gripped hard. A stakeout, not an ambush; he can say how long from the scuff arc, and that the man was watching her, not waiting for her.
+3. **The count.** Cutty said three shots; the body has two. He's the one who goes looking for the piling.
+4. **Pruitt.** Draft-Dodger is knowing when paper and a uniform don't match. Shoes too good for the salary, standing where a man stands to listen.
+5. **The handoff.** Casale gave it away too fast and the referral beat the coffee. Rook knows what it looks like when someone upstairs has already decided.
+6. **The lamp.** Still burning in daylight. Somebody wanted the pier lit last night and nobody has turned it off since; that's a switch somewhere, and a person who threw it.
+7. **The tape.** Dodging is knowing where the exits are. The cordon has one gap, on the canal side, and it's the side the witness would have come from.
+
+**Mythos** (The Tower; Guiding Bolt, Fireball, Arcane Revelation, Locking and Opening Portals)
+1. **Arcane Revelation at the pile.** Not a suicide's pile; a departure's. She was dressed for a journey and the journey was the lie. He sees the shape of what was told to her, not the words.
+2. **The hum has a shape.** He can see it on the planks, like heat off a road, centered on the spot. The tune is in the place, not the people.
+3. **The door.** At the water's edge the Tower knows a threshold. There was a door here open at two in the morning, and it's shut now, from the wrong side.
+4. **The wrong path.** The Tower destroys and blocks false roads. Casale's three names arrive with a feeling: two of them are roads that go somewhere, and one is a road that was built to be walked down. He can't say which yet.
+5. **The billboard.** Across the water, the gold plaza. Arcane Revelation, if he looks at it long enough: it isn't a picture of the future. It's a picture of something that is already true somewhere, and this pier is where it's being paid for.
+
+### Zu Cheng
+
+**Logos** (Brawler; Forensics, Pressure Points; Dodge, Movement; Simian; Loreborne)
+1. **The two wounds.** The shoulder shot came first from shaking hands; the head shot was steadier and closer. A first-timer, then a decision.
+2. **The lungs.** She was breathing when she went in and the head wound should have ended that instantly. The order is wrong, and he knows what a wrong order means on a body.
+3. **The hands.** Ink, a crank callus, stencil wax under two nails. She worked a mimeograph the night she died.
+4. **The scuffs.** Pressure Points is where weight goes. The man shifted foot to foot a long time, then forward hard, then away fast. Waited, acted, ran.
+5. **The roof on the hill.** Loreborne, Little China: he knows the new green tile went on in 1957 and who paid, whether or not he's ever wondered why.
+6. **The pilings.** Movement and a Simian's eye for a climb: the claw marks in the creosote go *up*, and they're fresh, and something the size of a rat doesn't need to climb a piling to reach a pier unless it's going to someone.
+7. **The combed hair.** Somebody combed the dead woman's hair before the players arrived. Forensics says it wasn't the river. Who at this scene would do that, and why?
+
+**Mythos** (Sun Wukong; Natural Armor, Body Bashing; Knowledge for Strength)
+1. **Standing at the pile and not humming.** Natural Armor. Everyone else who lingers starts the four notes. He doesn't, so he's the one who can see it being done to people.
+2. **The eyes.** The Monkey sees through disguise. The green isn't lividity and isn't chemical; there's something behind the color, a long way back, and it isn't her.
+3. **The rats.** Drowned facing in, on purpose. To the Monkey that's an army, not an accident. Something commanded them and it wasn't the woman.
+4. **The rail, again.** Strength for Knowledge: he doesn't deduce the grip, he *feels* it. Hand on the worn place and the Monkey knows how frightened the man was. Very.
+5. **The water.** The river gave her back. The Monkey has been under water for a long time once and came up; he knows what it's like to be refused by the far shore. This river refused her. That is not something rivers do.
+
+### Jack Rivers
+
+**Logos** (Wordsmith Bard; Streetwise, Keen Sense of Smell; Inspirational Words, Enrapture)
+1. **Peppermint.** At the rail, still, under the river smell. He can follow it down the planks to where the man stood.
+2. **The Half Note matchbook.** He knows the bar, that it's two blocks off, who drinks there and on which nights.
+3. **The crowd.** Twenty people from the Flats, none talking, all watching the van, and one man in a gray suit with a route book who came on purpose.
+4. **Toby.** A grieving kid attaches to a joker. Enrapture is a conversation; Toby tells Jack she was "watching somebody" before he tells anyone else.
+5. **Page seven.** He strings for the morning paper. A "local character drowns" paragraph is a decision somebody made before dawn, and he knows which desk makes it.
+6. **Bets.** Streetwise is knowing who at a scene nobody has asked. The wagon driver on the running board is talking to the van, and she's been doing this twenty years.
+7. **The fixer's absence.** Inspirational Words is reading a room's morale. The uniforms are bored, the detective is relieved, the sergeant is alert, and nobody here is *afraid*. Whoever did this isn't a person these people fear. Yet.
+
+**Mythos** (Coyote; Supernatural Sense, Exploit Weakness; Nature's Tongue, Voice of Dread, Siphon Essence, Towering Stalk, Healing Field)
+1. **Supernatural Sense at the pile.** The hum registers as a presence with an edge, not a mood. He can say the scene is haunted, in the plain sense, before anyone has a word for it.
+2. **Nature's Tongue under the pier.** The live rats say *the man with the case* and nothing more, and they're afraid of him. Only Jack can get that sentence on Day 1.
+3. **Exploit Weakness on the shooter.** The rail, the wrapper, three shots for two wounds: a man who panicked. Coyote knows a man who can be made to talk.
+4. **The gulls.** Nature's Tongue on the gulls working the mudbank: they won't touch the rats. Gulls eat anything. They say the rats are *still his*.
+5. **The wire.** Supernatural Sense, near the call box at the pier head where Cutty ran: the box is warm, the way a thing is warm when something has been through it. Not the call. Something after the call. (Don't explain; it's the web, and it's the first mark of it.)
+
 ## The four oddities
 
 These are why the Coroner referred it. Free to notice; nobody at the scene can explain them.
