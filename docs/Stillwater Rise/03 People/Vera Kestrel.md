@@ -29,6 +29,8 @@ completeness: complete
 - **On her:** glasses on, pencil behind the ear, hearing dress. Chesterfields with one flipped, a Half Note matchbook, a key ring with one unmarked key, a dime.
 - **The oddities:** found upstream in a ring of drowned rats; her brown eyes are river-green; the spot where her clothes lie makes people hum.
 - **What she left:** the archive; the notation on Klein's roll; the half-cut stencil; the hidden card-drawer file; a mailed letter (Day 4–5).
+- **In the web:** she went in with her Rift broken and the web hasn't closed over her. She's a knot in it. The oddities at the pier are the knot. Weaver can feel it.
+- **In the web:** she went in with her Rift broken and the web hasn't closed over her. She's a knot in it. The oddities at the pier are the knot. Weaver can feel it.
 
 **Voice (from the archive, letters, the roll):**
 - [zine, masthead motto]: "Printed weekly. Right eventually."

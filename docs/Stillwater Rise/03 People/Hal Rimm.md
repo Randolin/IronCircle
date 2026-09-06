@@ -17,15 +17,19 @@ aliases:
 
 > *Heimdall.*
 
-**Pitch:** Lives above the telephone exchange and records every call in the district. He sent the tip that put the agency on the case.
+**Pitch:** Lives above the telephone exchange and records every call in the district. He has months of the Flats going silent on tape and doesn't know what the silence is. He sent the tip that put the agency on the case. Once he understands the web, he's the one who can hear it, map it, and cut it.
 **Wants:** To testify once, totally, at the ribbon-cutting. And to be asked.
-**Gives:** everyone, on tape, for the right question. Clock: reuses reels; any specific tape may be gone by Day 12.
+**Gives:** everyone, on tape, for the right question; later, the web itself. Clock: reuses reels; any specific tape may be gone by Day 12.
 
 ## Detail
 
 - **Look:** Wiry, early thirties, reads a decade older. Black hair combed straight back, insomniac shadows, two gold teeth on the left. Shirtsleeves, suspenders, headphones around the neck.
 - **Manner:** Never sits with his back to the window. Long silences between complete sentences. Refers to recordings by date and duration, never content. Shows the gold teeth only when surprised.
 - **Mythos:** Heimdall. Hears everything; waits to blow the horn.
+- **The silence:** exchanges in the Flats thinning call by call for months. He pulled those reels into a separate rack. He thinks it's the district dying. It's the souls leaving on the wire.
+- **Ally:** tell him what the web is and he can find its lines, its choke points, and the one line that goes out of the City. He'll want to be asked first.
+- **The silence:** exchanges in the Flats thinning call by call for months. He pulled those reels into a separate rack. He thinks it's the district dying. It's the souls leaving on the wire.
+- **Ally:** tell him what the web is and he can find its lines, its choke points, and the one line that goes out of the City. He'll want to be asked first.
 - **Cost:** the right question. The wrong one burns the visit and maybe the tape. He doesn't want money.
 - **Payoff line:** 'Who do you think told your agency there was something worth seeing?'
 - **Threshold:** 'This will take eleven hours.'

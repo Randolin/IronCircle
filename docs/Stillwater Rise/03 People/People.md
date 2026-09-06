@@ -9,7 +9,7 @@ One note per character. The tiers sort by **relationship to the killings**, not 
 
 **For running them at the table, use [[Roster]]:** every named NPC on one page with traits, Logos and Mythos motives, what works on them and what doesn't, and stat lines (Mythos blocks where they have one).
 
-**GM key — the actual structure:** [[Vivian Weaver|Weaver]] authored it, [[Sterling Maas|Maas]] authorized the conditions, [[Manny Bunting|Bunting]] performed it, [[Gerry Fitch|Fitch]] routed the paper, [[Mickey Shale|Shale]] supplied the tip, [[Walt Herzog|Herzog]] relayed the tip, [[Roy Pruitt|Pruitt]] supplies the surveillance for the next one. Lupo, Sato, Pell, Brogan, Milner, and Day are innocent of murder.
+**GM key — the actual structure:** [[Vivian Weaver|Weaver]] built the harvest and knows what it is; [[Gerry Fitch|Fitch]] knows too, worships her, and pressed the Piper to kill Vera so Vera wouldn't expose [[Sterling Maas|Maas]] and stop the project; Maas wanted Vera dealt with and knows nothing past the project; [[Manny Bunting|Bunting]] performed it; [[Mickey Shale|Shale]] supplied the tip, [[Walt Herzog|Herzog]] relayed it, [[Roy Pruitt|Pruitt]] supplies the surveillance for the next one. Lupo, Sato, Pell, Brogan, Milner, and Day are innocent of murder. The web: [[The Case#The Web]].
 
 ## The victim
 - [[Vera Kestrel]] — she is the case.

@@ -15,9 +15,9 @@ It sorts by **who wants them gone**, not by method, because the three principals
 
 **Maas kills nobody.** He wants people *gone*, believes the relocation program is real, and declines to check. His threat is institutional: lawyers, hearings, delay, an inquest rescheduled, a career ended, a contract not renewed. If someone in his way is physically harmed, it genuinely wasn't him — and that fact is an instrument the players can use, because it is the one thing about himself he can be made to prove.
 
-**Weaver kills records.** People are incidental to her. She would always rather buy a record, burn it, or discredit its holder, and she reaches for water only when the record is *inseparable from the person holding it.* That is the whole selection principle: Okafor **is** his recitation, Cutty **is** his account, Mabel **is** the calls she remembers, Vera **was** the only person who could operate her own archive. Anything that can be bought gets bought.
+**Weaver harvests.** People are the crop and the web is the machine. A relocated soul rides the publicity of its own death into her wires and she takes what it knew. So she wants the docket to run, the paper to print, and the program to air, on schedule, every time. She kills to protect the web's integrity: anyone who can hear it, print against it, or speak what it can't carry. Records she can buy, she buys; records that are people, she has walked in, and takes what they knew on the way through.
 
-The two interlock: Weaver decides, Bunting performs. A name on her water column becomes a job on his docket, through Fitch. He never hears her name.
+The two interlock: Weaver decides, Fitch routes, Bunting performs. A name on her water column becomes a job on his docket. He never hears her name. Every collection makes her stronger.
 
 ## Bunting's docket — what runs whether he's scared or not
 
@@ -31,9 +31,9 @@ The two interlock: Weaver decides, Bunting performs. A name on her water column 
 
 **The complication:** Okafor is the only living person who knows what the tune is, and Bunting doesn't know that. When the Authority puts Okafor on the docket for emptying blocks early, Bunting will go to the barbershop with the case, and Okafor will *name it* to his face. That is the first time anyone has told Bunting what he is. If the players are present, it is the best window they will ever get into how he can be stopped.
 
-## Weaver's collection — records she can't buy or burn
+## Weaver's collection — what threatens the web
 
-**Water** — commissioned to Bunting, because the record and the person can't be separated:
+**Water** — through Fitch to Bunting, because these people *are* records the wire can't carry, and walking them in turns them into ones it can:
 
 | Name | The record | Trigger |
 |---|---|---|

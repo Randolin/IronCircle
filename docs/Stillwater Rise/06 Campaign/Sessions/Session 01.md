@@ -12,7 +12,7 @@ exposure: secret
 
 ## What this session is for
 
-They leave with **three usual suspects, a tune nobody can place, rats where rats don't go, and the knowledge that somebody else is asking about a sax player.** They should be arguing about Lupo. They should not have a name for the Piper, and they should not know there's a machine.
+They leave with **three usual suspects, a tune nobody can place, rats where rats don't go, and the knowledge that somebody else is asking about a sax player.** They should be arguing about Lupo. They should not have a name for the Piper, and they should not know there's a machine, and nothing about the web. One seed only: every room they enter has a radio on.
 
 Still open, Aaron's call: the sympathetic face at the encampment. Default below is [[Herminia Vega]] through Toby, on the walk home.
 

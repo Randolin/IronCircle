@@ -6,7 +6,7 @@ aliases: ["Read-Aloud", "Boxed Text", "Location Descriptions"]
 ---
 # Read-Aloud
 
-Boxed text for the key locations. Each block stands alone and is written to be read as is. No named characters, no clues; sensory only. Pick one on arrival, another when they move through, another when they linger. Clues and people are in [[Crime Scene]], [[Session 01]], and the place notes.
+Boxed text for the key locations. Each block stands alone and is written to be read as is. No named characters, no clues; sensory only. Pick one on arrival, another when they move through, another when they linger. Most blocks have a radio, a telephone, or newsprint in them somewhere; that's on purpose and never remarked on. Clues and people are in [[Crime Scene]], [[Session 01]], and the place notes.
 
 ---
 

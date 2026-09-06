@@ -28,6 +28,8 @@ aliases:
 - **Her mother** is in the Little China temple's care. Mabel visits Sundays. Zu Cheng's route to her.
 - **Day 9 onward:** anyone reconstructing who fed Vera reaches her. Weaver's water column.
 - **On Rimm:** 'Bring something worth trading. He doesn't want money.'
+- **The disconnected numbers:** she's started getting calls from lines that were cut off when the tenant vanished. No voice on them. She hasn't told anyone. It's the web.
+- **The disconnected numbers:** she's started getting calls from lines that were cut off when the tenant vanished. No voice on them. She hasn't told anyone. It's the web.
 
 **Voice:**
 - [deciding to talk]: "I hear forty conversations an hour. I only ever repeated them to one person. Give me a reason to make it two."

@@ -7,7 +7,7 @@ aliases: ["The Rat Line", "draft-2", "Original Campaign Doc"]
 # The Rat Line (draft-2)
 
 > [!note] Archived verbatim on 2026-09-05
-> The original campaign doc, recovered. It predates the 2026-08-22 restructure (tiers, danger board, Herminia Vega) and the 2026-09-04 court layer (the Coroner, Pearl, the Half Note cast). Where it disagrees with [[The Case]], The Case is current; where The Case was silent, this is canon. Do not edit this note; it is the record.
+> The original campaign doc, recovered. It predates the 2026-08-22 restructure (tiers, danger board, Herminia Vega) and the 2026-09-04 court layer (the Coroner, Pearl, the Half Note cast). Where it disagrees with [[The Case]], The Case is current; where The Case was silent, this is canon. Superseded outright on 2026-09-06: Weaver's motive (the web and the harvest replace "owning stories"), Fitch's role (she pressed the Piper herself), Maas's knowledge (none past the project), and the SCHULD material. Do not edit this note; it is the record.
 
 
 ## The Rat Line

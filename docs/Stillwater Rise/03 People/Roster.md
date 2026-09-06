@@ -20,7 +20,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *The Piper · Tier A chain · Mythos: the Pied Piper*
 - **Traits:** courteous, precise, avoids conflict, doesn't ask questions he can't afford the answers to.
 - **Logos wants:** public: to be left alone and paid on Thursday. Private: to be hired for the horn again, once, by someone who heard him.
-- **Mythos wants:** to be paid for the music. It never has been; it takes the removal instead. It doesn't know it's a rule.
+- **Mythos wants:** to be paid for the music. It never has been; it takes the removal instead. It doesn't know it's a rule. He has never asked where they go.
 - **Works on him:** sincerity; asking about the music; giving him a way to pay something back. **Doesn't:** threats (he goes quiet and the rats come); bribes (he'll take it and feel worse); appeals to the victims (he's built a wall there).
 - **Logos:** T1 Social · 12 · 4/8 · HP 3 · Stress 4 · ATK −3 · .38 revolver: Close · 1d8+1 phy · Exp: Session Man +3, Relocation Program +2.
 - **Mythos (Surfaced): The Piper.** T2 Solo · 15 · 10/20 · HP 9 · Stress 5 · ATK +2 · The Four Notes: Far · 2d6+2 magic (direct; targets Stress, not HP: on a success the target marks 2 Stress instead of taking damage).
@@ -31,35 +31,40 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 
 ### Vivian Weaver
 *Anansi · Tier A chain · the author*
-- **Traits:** charming, curious, never lies, never answers, treats every person as a story she hasn't bought yet.
-- **Logos wants:** public: the City's future, beautifully covered. Private: to find out who aimed the agency at her and own them.
-- **Mythos wants:** every story. The Flats keeps its own; that's a gap in the collection. Vera was writing it down.
-- **Works on her:** curiosity (a story she hasn't heard); being interesting; giving her something to own. **Doesn't:** accusation (she agrees and reframes); intimidation (she has more cameras than you have fists); evidence (she signed nothing). The only wound is her name said on a platform she doesn't own.
+- **Traits:** charming, curious, never lies, never answers, treats every person as something she'll know eventually.
+- **Logos wants:** public: the City's future, beautifully covered. Private: to find out who aimed the agency at her.
+- **Mythos wants:** to know the whole City. The relocation program is a harvest she built; every soul through her wires is one more thing she knows. The web's integrity at any cost. She doesn't fully understand the current she's sitting in and doesn't care where the souls go after.
+- **Works on her:** curiosity (a story she hasn't heard); being interesting; anything said face to face that she couldn't have known. **Doesn't:** accusation (she agrees and reframes); intimidation; evidence (she signed nothing); anything said near a wire (she already knows it).
 - **Logos:** T2 Social · 15 · 6/12 · HP 4 · Stress 5 · ATK −4 · Cigarette holder: Melee · 1d4 phy · Exp: Everybody's Name +3, On the Air +3.
 - **Mythos: Anansi.** T3 Solo (Social) · 18 · 15/28 · HP 8 · Stress 6 · ATK — (never attacks).
   - **Never Lies – Passive:** Rolls to detect deception against her automatically fail. Rolls to get a straight answer are at Difficulty 20.
+  - **The Web – Passive:** She knows anything the PCs have said on a telephone, near a radio, or in print. Each collection since Day 1 adds one more thing she knows (GM's choice). Face to face and handwritten are outside the web.
   - **Owns the Story – Action:** Spend a Fear. Name a fact the PCs established this session. Until they produce a second independent source for it, NPCs remember it her way.
   - **The Column – Reaction:** When a PC succeeds on a Presence roll against her, mark a Stress to offer them something (a column, a favor, a name). If they take it, she gains a hold on them: once per session she may force a Presence Reaction Roll (15) or that PC does her one small favor.
-  - She never surfaces in the players' presence. Use the Mythos block for the war of stories, not a fight.
+  - **Integrity – Reaction:** When a PC damages the web (a line cut, a reel played, a record printed against it), spend a Fear: Fitch, the fixer, or Authority security arrive at the scene within the hour.
+  - She never surfaces in the players' presence. The fight is the web, not her body.
 
 ### Sterling Maas
 *Midas · Tier A chain · the authorizer*
-- **Traits:** sincere, monumental, warm to children and secretaries, can't retain a tenant's name, can't tell good counsel from bad.
-- **Logos wants:** public: Stillwater Rise, the ribbon, the future. Private: his daughter back, "after the project."
+- **Traits:** sincere, monumental, greedy in the way of visionaries, warm to children and secretaries, can't retain a tenant's name, can't tell good counsel from bad.
+- **Logos wants:** public: Stillwater Rise, the ribbon, the future. Private: the money, and his daughter back "after the project."
 - **Mythos wants:** everything he touches to become plan. The price is that he can't see people.
-- **Works on him:** the tour (let him give it); the invoice (make him touch the paper himself); betrayal (Fitch is Weaver's). **Doesn't:** guilt (he'll ask you to apologize for the future); the victims by name (he says "who?"); threats (he has lawyers).
-- **Logos:** T2 Social · 14 · 6/12 · HP 4 · Stress 4 · ATK −4 · Exp: The Model +3, Legal Department +3.
+- **Knows:** the relocation contractor exists and that he asked for Vera to be dealt with. Nothing past that. He is the machine's engine and its alibi.
+- **Works on him:** the tour (let him give it); the invoice (make him touch the paper himself); betrayal (Fitch is Weaver's, and the project was never his). **Doesn't:** guilt; the victims by name ("who?"); the web (he genuinely doesn't understand you).
+- **Logos:** T2 Social · 14 · 6/12 · HP 4 · Stress 4 · ATK −4 · Exp: The Model +3, Legal Department +3. In the last week he's on site with crews; see [[Adversaries]] for the muscle.
 - **Mythos: Midas.** Same block plus:
   - **Golden Touch – Passive:** Any document he signs becomes policy. Undoing it requires a hearing, not an argument.
-  - **Donkey Ears – Passive:** Presence rolls to persuade him are at Difficulty 12 if Fitch is in the room and 16 if she isn't. He can't tell the difference between good advice and bad; he trusts whoever spoke last.
+  - **Donkey Ears – Passive:** Presence rolls to persuade him are at Difficulty 12 if Fitch is in the room and 16 if she isn't. He trusts whoever spoke last.
 
 ### Gerry Fitch
 *The second hand · Tier A chain · no Mythos*
-- **Traits:** helpful before asked, ambitious, precise, repeats your last three words, touches her collar when improvising.
-- **Logos wants:** public: full cooperation with the investigation. Private: to be seen; to stand above Maas in the new org chart; to manage this to a safe verdict.
-- **Works on her:** flattery from someone who matters; being asked her opinion; proof Weaver finds her disposable. **Doesn't:** pressure (she escalates, doesn't fold); Maas's authority (she's already past him); the routing stamps alone (she'll bury them in a hundred clerks).
-- **Logos:** T1 Social · 13 · 4/8 · HP 3 · Stress 4 · ATK −4 · Exp: Everything Relevant +3, Routing +2.
+- **Traits:** helpful before asked, precise, devout, repeats your last three words, touches her collar when improvising, hates Maas.
+- **Logos wants:** public: full cooperation with the investigation. Private: to be seen by Weaver; to keep the harvest running; to be rid of Maas when he stops being useful.
+- **Knows:** everything Weaver knows. Pressed the Piper to kill Vera to protect Maas because Maas exposed stops the project and the project feeds the web. Keeps the notices, dockets, and page-seven paragraphs on schedule; that's the thread.
+- **Works on her:** proof Weaver finds her disposable; nothing else. **Doesn't:** pressure (she escalates); Maas's authority; the routing stamps alone; appeals to the dead.
+- **Logos:** T1 Social · 13 · 4/8 · HP 3 · Stress 4 · ATK −2 · Small revolver: Close · 1d6+1 phy · Exp: Everything Relevant +3, Routing +2. Commands Authority Site Security and Weaver's Fixer ([[Adversaries]]); when she fights, they fight.
   - **Liaison – Action:** Offer sanitized records. A PC who accepts them without a Knowledge roll (13) believes one false thing.
+  - **Keep It Turning – Action:** Mark a Stress. A countdown named *Page Seven* (3) starts or advances; when it completes, the last collection's soul has gone through and Weaver knows one more thing.
 
 ### Mickey Shale
 *The Judas · Tier A chain · Mythos: none active (the betrayer whose money never spends clean)*
@@ -141,7 +146,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *Ratatoskr · Tier A next · the apprentice*
 - **Traits:** talks in headlines, never still, bilingual, editorializes, hums.
 - **Logos wants:** public: to sell papers and help. Private: to be somebody's apprentice again; to find who killed Miss Vera.
-- **Mythos wants:** to carry the message between the top of the tree and the roots. He carries the tune without knowing.
+- **Mythos wants:** to carry the message between the top of the tree and the roots. He carries Weaver's paper by dawn, Vera's by dusk, and the tune without knowing.
 - **Works on him:** being taken seriously; a job; sandwiches. **Doesn't:** being sent home; being lied to (he knows every stoop).
 - **Stat:** — Never a combatant. If dice touch Toby, something has gone wrong on purpose.
 
@@ -178,7 +183,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *The Griot · Tier B · the barbershop*
 - **Traits:** cuts through the conversation, answers with genealogy, places you before he speaks, carries guilt about Vera.
 - **Logos wants:** public: the shop and the district. Private: to have told Vera what the tune was.
-- **Mythos wants:** the recitation intact, spoken, unwritten. Not on paper.
+- **Mythos wants:** the recitation intact, spoken, unwritten. Not on paper, and not on the wire: a name said in his chair is a name the web can't take.
 - **Works on him:** being placed (who are your people); a promise, out loud; sitting in the chair. **Doesn't:** notebooks; strangers asking for names; hurry.
 - **Logos:** T1 Social · 13 · 5/9 · HP 4 · Stress 4 · ATK −2 · Straight razor: Melee · 1d6+2 phy · Exp: The District +3.
 - **Mythos: the Griot.** Same block plus:
@@ -189,7 +194,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *The Golem · Tier B · the print shop*
 - **Traits:** deaf, writes in block capitals, watches mouths then eyes then hands, stands up first when he's decided.
 - **Logos wants:** public: to print what Vera left, correctly. Private: to protect the shop, the roll, and the boy.
-- **Mythos wants:** written truth preserved. The word in his pocket animates him; destroy the words and he wakes.
+- **Mythos wants:** written truth preserved. The word in his pocket animates him; destroy the words and he wakes. The web runs on written lies and has no door into him; the archive is the record the wire can't carry.
 - **Works on him:** writing; the cigarette note; the names spelled right. **Doesn't:** shouting (he can't hear it); threats to the archive (the Golem wakes); hurry.
 - **Logos:** T1 Bruiser · 13 · 8/15 · HP 7 · Stress 3 · ATK −2 · Fists: Melee · 1d10+3 phy · Exp: The Roll +3, Type +2.
 - **Mythos (Surfaced): the Golem.** T3 Solo · 17 · 20/32 · HP 12 · Stress 4 · ATK +2 · Press-Hands: Melee · 3d10+4 phy.
@@ -368,7 +373,7 @@ Every named NPC on one page, for running them. Each entry: traits, what the Logo
 *County Coroner · Mythos: Enma-ō*
 - **Traits:** never present. Paper, a stamp, cold in the office.
 - **Logos wants:** public: inquests referred. Private: none; there is no private Yanagi.
-- **Mythos wants:** every death named on the record. The unnamed never reach him, and something else is collecting them.
+- **Mythos wants:** every death named on the record. The dead are being carried down a line out of the City; he knows it's happening and not how or why.
 - **Works on him:** a name read aloud on the record. **Doesn't:** anything else. Never in the room.
 - **Stat:** — Never.
 

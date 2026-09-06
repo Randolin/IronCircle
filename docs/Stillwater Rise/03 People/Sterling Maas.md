@@ -16,17 +16,18 @@ aliases:
 
 > *Midas.*
 
-**Pitch:** The Commissioner behind Stillwater Rise. Signs the clearance orders every Tuesday and knows enough not to read them.
+**Pitch:** The Commissioner behind Stillwater Rise. Wants the project finished for the money and the vision, signs the clearance orders every Tuesday, and told Fitch to deal with Vera because she was in the way. Believes the relocated are relocated. Knows nothing about the web.
 **Wants:** The ribbon-cutting, with the Flats already leveled.
-**Threat:** lawyers, hearings, budgets. Never violence. He breaks when he learns Weaver went around him to his daughter.
+**Threat:** lawyers, hearings, budgets, and in the last week the crews themselves. He breaks when he learns the project was never his: that Fitch runs him and the harvest runs through his signature.
 
 ## Detail
 
 - **Look:** Broad white man, sixty, expensive gray suit, gold everywhere small. Silver hair worn long over the ears. Stands like a statue of himself.
 - **Manner:** Gives tours of the model reflexively. Handles gold objects while talking. Says 'relocation' a half-beat slower than the rest. Warm to children and secretaries; can't retain a tenant's name.
 - **Midas:** everything he touches becomes plan. Things left overnight in the Model Room come back with a sheen. Donkey ears: he can't tell good counsel from bad, which is why Fitch owns his ear. Television made him golden; the price is his daughter Ida, the locked drawer.
-- **He knows.** Authorizes the disappearances as a necessary evil behind the word 'relocation.' Asked about Vera, his honest answer is 'who?'
-- **The wedge:** the invoice. He has to touch it with his own hands. Learning Weaver went around him to Ida is what breaks him.
+- **What he knows:** that people who won't leave get relocated by a contractor, and that he asked for Vera to be dealt with. He has never asked how either happens. Asked about the web, he has no idea what you mean, and that's true.
+- **Fitch:** owns his ear (donkey ears). He thinks she's loyal. She hates him.
+- **The wedge:** the invoice, in his hands. Then the truth: Fitch is Weaver's, and his project is a harvest he's been signing for. He turns on Weaver out of pride, not guilt, and cooperates only in ways that protect the machine.
 - **Stat block:** institutional adversary; lawyers and hearings; physically nothing.
 
 **Voice:**

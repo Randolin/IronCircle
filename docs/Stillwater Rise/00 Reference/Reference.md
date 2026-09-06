@@ -42,7 +42,7 @@ The tiers sort by **relationship to the killings**, not by importance or screen 
 - **Tier C — the world.** Incidental texture. Promote anyone who earns a third scene.
 - **Agency** and **victim** are their own tiers so they never sort into the board.
 
-The [[Danger Board]] cuts across all three and sorts by *actor*: Bunting kills entries; Maas kills nobody (institutional threat only); Weaver kills records, using water only when record and person are inseparable.
+The [[Danger Board]] cuts across all three and sorts by *actor*: Bunting kills entries; Maas kills nobody (institutional threat only); Weaver harvests: the relocation feeds a web of wire and print she sits at the center of, and she kills whatever threatens the web's integrity.
 
 ## Callout types
 

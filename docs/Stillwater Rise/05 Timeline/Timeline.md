@@ -29,8 +29,8 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 | −3 weeks | Vera confronts [[Nathaniel Pell]] for the claim records, with witnesses |
 | −19 days | Vera hires [[Arthur Rook]] to find who's following her. He spots [[Ray Sato]], calls it harmless, never tells her |
 | −14 days | Shale tells [[Walt Herzog]] about the list, gin-warm, at the Half Note. Weaver hears by lunch and checks the morgue log |
-| −13 days | Weaver signals Fitch obliquely. Fitch drafts the abatement line item naming Vera |
-| −12 days | Maas signs the docket. Bunting receives the work order: name, address, abatement by month's end |
+| −13 days | Fitch, knowing what Vera's issue would do to the project and the harvest, gets Maas's "deal with it" and drafts the abatement line item naming Vera |
+| −12 days | Maas signs the docket. Fitch takes the paper and the money to Bunting herself and presses |
 | −10 days (Thu) | Vera surveils the Half Note. Bunting plants the tune in a solo. Shale sees them notice each other. Sato photographs it through the window |
 | −9 days | Vera asks [[Greta Milner]] about the flagged payment chain |
 | −9 to −4 | Incubation. Vera investigates her own humming: Mabel, Okafor (recognizes it, throws her out: the second falling-out), Klein (the notation on the roll) |
@@ -60,7 +60,7 @@ Days are relative to **Day 1**, the morning the body came up. **Day 1 is the 1st
 
 | Day | What fires | Who |
 |---|---|---|
-| 1 | Body found. Logged as a jumper. Coroner's referral at the agency by 8:40. Pruitt's first report on the players tonight. Weaver: page 7, a joke in the monologue. Shale's honest obituary spiked. Klein's shop closed. Tin City locks down. Rimm pulls the reels | everyone |
+| 1 | Body found. Logged as a jumper. Coroner's referral at the agency by 8:40. Pruitt's first report on the players tonight. Weaver: page 7, a joke in the monologue (the thread; Fitch makes sure it runs). Shale's honest obituary spiked. Klein's shop closed. Tin City locks down. Rimm pulls the reels | everyone |
 | 2 (Tue) | Herminia's name findable in Vera's notebook at Klein's. Fitch arrives as liaison; site security (Padgett's crew) at the pier and the shop "for trespass" by noon. A feature writer starts asking about the agency. Bunting sits in for one number at the Half Note, plays it wrong, leaves his hat | [[August Klein]], [[Gerry Fitch]], [[Lou Padgett]], [[Manny Bunting]] |
 | 2–3 | **The Next Pile.** A holdout block clears on schedule. A name from Vera's archive leaves folded clothes on a shore. The pattern is running, not historical | [[Manny Bunting]] |
 | 3 | Requests touching the Authority start stalling. Weaver's paper offers Teddy ten a print for the crowd frames | [[Maeve Brogan]], [[Teddy Ferrante]] |

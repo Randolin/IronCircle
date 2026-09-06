@@ -50,7 +50,7 @@ Read `docs/Stillwater Rise/00 Reference/Reference.md` and `Schema.md` before edi
 - **Reference material is dry.** Roster entries, design docs, tables: plain, pragmatic, no atmosphere. Stylized prose belongs only in in-world content (voice lines, read-aloud text).
 - **Deduction over revelation.** The prior arc (Heliakros) was well-paced but revealed rather than deduced. Every design choice here serves players working it out: three-tier culprit structure, suspects who deflate slowly, sources distinguished by *access cost* not payload.
 - **Tiers sort by relationship to the killings, not importance.** Tier A = suspect board (chain + decoys + next victims). Tier B = routes into Tier A. Tier C = texture.
-- **Danger board sorts by actor.** Bunting kills entries; Maas kills nobody (institutional threat only); Weaver kills records, using water only when record and person are inseparable.
+- **Danger board sorts by actor.** Bunting kills entries; Maas kills nobody (institutional threat only); Weaver harvests: the relocation feeds a web of wire and print she sits at the center of, and she kills whatever threatens the web's integrity.
 - **Image prompts** are style-free subject cores for ComfyUI. Headshot: opens "Bust-length view, cropped just below the collarbone", closes "At the bottom edge of the frame only: [collar]". Body: standing, no furniture, face unspecified. See `00 Reference/Reference.md`.
 - **Suno cues** live in each character note under `## Theme (Suno)` and end with the locked spine string, byte-identical across all tracks. Don't edit it per-track. See `00 Reference/Themes.md`.
 - No predominantly Greek cast; no music-heavy theming beyond the Piper; diversity is an active priority (the Flats is a Black and Puerto Rican district).

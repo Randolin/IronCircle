@@ -27,6 +27,8 @@ aliases:
 - **The guilt:** Vera hummed him eight bars and he put her on the sidewalk. He knew in eight bars.
 - **Two fallings-out** with Vera (six weeks: refused the families' stories; days before: recognized the tune). Witnesses conflate them.
 - **Threat to him:** mobilizes the whole district.
+- **Against the web:** the recitation is spoken and never written. It doesn't travel the wire. A name said in his chair is a name the web can't take.
+- **Against the web:** the recitation is spoken and never written. It doesn't travel the wire. A name said in his chair is a name the web can't take.
 
 **Voice:**
 - [gatekeeping]: "I know who you are. Question's who your people are. Sit. Talk. The cut's a dollar; the rest gets earned."

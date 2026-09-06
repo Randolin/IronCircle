@@ -15,7 +15,7 @@ aliases:
 
 > *City editor, the Weaver morning paper.*
 
-**Pitch:** City editor who passed Shale's bar gossip upstairs to Weaver.
+**Pitch:** City editor who passed Shale's bar gossip upstairs and runs the page-seven paragraphs on schedule. He doesn't know the paragraphs are the thread.
 **Wants:** To not do the math on when she died.
 **Gives:** the relay, on the record, if shown the timeline with his name in it.
 

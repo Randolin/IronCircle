@@ -16,16 +16,18 @@ aliases:
 
 > *The second hand.*
 
-**Pitch:** Maas's assistant and Weaver's real courier. Her initials are on the routing stamps.
-**Wants:** To be seen as more than 'my girl.'
-**Threat:** steers the investigation to a safe verdict. Cracks when she hears what Weaver said about her on air.
+**Pitch:** Maas's assistant and Weaver's true believer. She knows the relocation is a harvest and worships Weaver for it. She pressed the Piper to kill Vera because Vera's issue would have exposed Maas, and Maas exposed stops the project, and the project feeds the web. Her initials are on the routing stamps.
+**Wants:** To be seen by Weaver. To keep the harvest running. To be rid of Maas the moment he's no longer useful.
+**Threat:** the operator. Routes the paper, escorts the docket, keeps the publicity cycle turning after each collection so the web catches. Commands Authority security and Weaver's fixer. Fights. Cracks only on proof Weaver finds her disposable.
 
 ## Detail
 
 - **Look:** White woman, late thirties, tailored skirt suits a notch too sharp for a contracts office. Neat short dark hair. Fountain pen always visible.
 - **Manner:** Volunteers help before it's asked. Repeats the last three words of powerful people's sentences. Never lends the pen. Touches her collar when improvising.
 - **Recruited** by Weaver learning her first name and quoting her on TV. Maas calls her 'my girl.'
-- **The line item:** she drafted the abatement entry naming Vera and forged the routing to look Authority-internal. The one arrestable neck in the chain.
+- **The line item:** she drafted the abatement entry naming Vera, forged the routing to look Authority-internal, got Maas's 'deal with it,' and took the paper and the money to the Piper herself. The one arrestable neck in the chain.
+- **What she knows:** everything Weaver knows about the web. She keeps the notices, the dockets, the page-seven paragraphs on schedule; that's the thread the souls travel.
+- **Maas:** she hates him and keeps him running because the project is the harvest.
 - **Under pressure she doesn't fold, she gets ambitious.** Liaison, sanitized records, then obstruction. Dangerous branch: she warns Bunting. Cracks only on proof Weaver finds her disposable.
 - **Money:** dresses above her salary on a Milner loan. Looks like conspiracy; is a lender spotting a climber.
 - **Stat block:** minion-tier schemer; obstruction, paperwork, panic.

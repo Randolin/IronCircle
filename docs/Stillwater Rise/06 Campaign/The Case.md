@@ -10,9 +10,11 @@ The campaign doc, current. Rebuilt 2026-09-04 from memory, then reconciled 2026-
 
 **Theme:** the disappeared were people with no story, so nobody missed them. The victim died trying to give them one.
 
+**The truth under the case (2026-09-06):** the relocation program is a harvest. The Piper walks people into the river; the paperwork and publicity around each death carry the soul into the City's wires, telephone, radio, television, newsprint, which Weaver owns; she takes what each soul knew as it passes through and lets it go on down a line she has never looked at. She is becoming all-knowing, and stronger by the day. Maas knows none of this. Fitch knows all of it. See [[The Case#The Web]].
+
 ## What actually happened
 
-**The setup.** Six months out, the Span's approach ramp was routed onto the Flats' core blocks and the clearances accelerated: monthly, then biweekly, then weekly. [[Vera Kestrel]] connected the folded-clothes "suicides" to the demolition schedule. Six weeks out she filed a photo request at the Weaver morgue; her name was now in the one building where names are inventory. Day −14, [[Mickey Shale|Shale]] told [[Walt Herzog|Herzog]] he was helping her with something big, gin-warm, at the [[The Half Note|Half Note]]. Weaver heard by lunch, checked the morgue log, and understood. She told [[Gerry Fitch|Fitch]] a true anecdote over drinks. Fitch drafted an abatement line item naming Vera and routed it to look Authority-internal. [[Sterling Maas|Maas]] signed the docket on Day −12 without reading page 31, which changes nothing about what he knew the docket was for. [[Manny Bunting|Bunting]] got a name, an address, and a deadline.
+**The setup.** Six months out, the Span's approach ramp was routed onto the Flats' core blocks and the clearances accelerated: monthly, then biweekly, then weekly. [[Vera Kestrel]] connected the folded-clothes "suicides" to the demolition schedule. Six weeks out she filed a photo request at the Weaver morgue; her name was now in the one building where names are inventory. Day −14, [[Mickey Shale|Shale]] told [[Walt Herzog|Herzog]] he was helping her with something big, gin-warm, at the [[The Half Note|Half Note]]. Herzog passed it up. [[Gerry Fitch|Fitch]] heard it from Weaver by lunch and understood what Weaver understood: Vera's issue would expose Maas, and Maas exposed means the project stops, and the project is the harvest. Fitch went to [[Sterling Maas|Maas]] with a problem and Maas, who wanted the woman out of the way and has never once asked how, said *deal with it*. That's his whole part. Fitch drafted an abatement line item naming Vera, routed it to look Authority-internal, and Maas signed the docket on Day −12 without reading page 31. Then Fitch went to [[Manny Bunting|Bunting]] herself, with the paper and more money than the job was worth, and pressed. He took it because the rent was due.
 
 **Day −10, Thursday.** Vera came to the Half Note to surveil the "relocation man" she'd connected to the clearances. Bunting recognized her from the stand and played for her. He doesn't know what the playing does beyond *they leave*. Shale, at the bar, saw them notice each other. [[Ray Sato|Sato]] photographed it through the window.
 
@@ -28,7 +30,9 @@ Bunting's been in his room since, the .38 in a coffee can. Day 2 (Tuesday) he ca
 
 **Why it went wrong.** Vera had a Mythos nobody knew about, including her: the child from *The Emperor's New Clothes*. The tune could take her walking, but at the waterline the glamour didn't hold. She is the only one of twelve who didn't finish, and the only one the river returned. See [[Mythos]].
 
-**What that did to the machine.** [[Gerry Fitch|Fitch]] reads Pruitt's Day 1 report and understands the hit man botched it and a body came up. She can't tell Maas; he doesn't know Vera was a hit. She sends Authority site security to the pier and the print shop on Day 2 "for trespass," which is [[Lou Padgett|Padgett]]'s crew, who think it's a trespass matter. Weaver, separately, sends a feature writer to find out who the agency is. **Nobody sends anyone to help Bunting.** He is alone, and the players will figure that out before he does.
+**What that did to the machine.** A body came up, which has never happened, and a body is a record the web didn't make. [[Gerry Fitch|Fitch]] reads Pruitt's Day 1 report, understands the hit man botched it, and can't tell Maas, who thinks Vera was dealt with the ordinary way. She sends Authority site security to the pier and the print shop on Day 2 "for trespass" ([[Lou Padgett|Padgett]]'s crew, who think it's a trespass matter), and she gets the page-seven paragraph and the afternoon joke run on schedule anyway, because the publicity is what carries the soul and Weaver wants Vera's badly. Weaver sends a feature writer to find out who the agency is. **Nobody sends anyone to help Bunting.** He is alone, and the players will figure that out before he does.
+
+**And Vera didn't go through clean.** Her Rift broke the glamour at the water and it's still broken: the web took her and she's *in it wrong*, a knot. The hum in the spot, the rats that drowned facing in, the river giving her back, the green in her eyes: those are the web failing to close over her. Weaver can feel the knot and doesn't know yet that it's Vera.
 
 ## The crime scene
 
@@ -60,7 +64,7 @@ Three sessions, not one. Nobody says his name on Day 1.
 |---|---|---|---|
 | **The hand** | [[Manny Bunting]] | Identity, method, and that he was *hired* | Identity, any 2: Grosz's ledger; Ottilie's people describing the relocation man; Half Note staff placing Vera watching a sax man Day −10; the black-eyes vision. Method, any 2: the notation on Klein's roll; Okafor's reaction to the hummed tune; Toby humming it; Cutty's "she hummed while she walked." Mandate, any 1: the abatement work order; Bunting's own ledger; Fitch's routing stamp on anything |
 | **The authorizer** | [[Sterling Maas]] | The disappearances are policy, he runs it knowingly, and one line item didn't originate inside the Authority | Signature, any 1: the signed docket; Ida on the Tuesday routine. Knowledge, any 2: years of abatement line items with no receiving records; his budget notes pricing removals above any legitimate service; Ida's account of why she left; Ottilie on Authority men watching a clearance. Pattern, any 2: vanishings mapped to demolition eves; folded-clothes files on cleared blocks accelerating with the Span; the Model Room running ahead of reality |
-| **The author** | [[Vivian Weaver]] | Intent, motive, and the voice on the wire | The hand, any 2: Fitch's payments traced to a Weaver subsidiary (via Milner); Shale's confession of the slip; Ida's documents; Fitch cracked. The motive, any 2: Vera's photo request in the morgue log; the recovered card-drawer file; the morgue's Flats-shaped gaps. The voice, any 1: Rimm's reel of the ordering call; Weaver's own slip on her program |
+| **The author** | [[Vivian Weaver]] | That the relocation is a harvest, that she built it, and how the web carries the dead | The hand, any 2: Fitch's payments traced to a Weaver subsidiary (via Milner); Shale's confession of the slip; Ida's documents; Fitch cracked. The motive, any 2: Vera's photo request in the morgue log; the recovered card-drawer file; the morgue's Flats-shaped gaps. The web, any 1: Rimm's tapes of the district going silent, played against the docket dates; Mabel's calls from disconnected numbers; a thing Weaver says on air that only a dead person knew |
 
 Every resolution needs its findings in concert. Every finding has two or three sources. Every tier is reachable by two paths. Order is flexible.
 
@@ -138,16 +142,36 @@ Every resolution needs its findings in concert. Every finding has two or three s
 | She was always like this, before the money | Little China | [[Fen Baiyun]], if [[Zu Cheng]] kneels |
 | She never lies. She never hums. Her heels sound like more than two feet | Any room she's in | [[Zu Cheng]] sees it; [[Jack Rivers]] smells nothing at all |
 
-## The Mythos war
+## The Web
 
-The surface story is a redevelopment murder. Underneath, a bargain coming due. See [[Mythos]].
+The surface story is a redevelopment murder. Underneath, a harvest. See [[Mythos]].
 
-- **Weaver doesn't want the land.** She wants the telling. The Flats is the last district that keeps its own record out loud. Renewal burns the library. Vera was committing organized, publishable theft: writing it down.
-- **Bunting can't get paid for the music.** Rift rule: only for the removal. He doesn't know it's a rule. He takes jobs on people who owe because that's the line he can live with, and Vera was the first job that wasn't a debt. The rats protect him whether he wants it or not.
-- **Maas has donkey ears.** He can't tell good counsel from bad, which is why Fitch owns his ear. The Model Room touch is marginally literal.
-- **The tune is a beacon as well as a weapon.** Hummed, it does nothing (table rule). Heard by Bunting, it says where the story is.
-- **The river takes sides.** It gave Vera back.
-- **The court is older than the case.** The agency works for the County Coroner, who is [[The Judge]]: Enma-ō, whose court should hear every death in the City. Twelve went unheard, and unheard souls don't stay lost; something else is collecting them. Where the collected *go* is deliberately unresolved. Bunting may believe something about it ("resettled") he's never verified either.
+**The mechanism.** A person is put on the docket. The Piper knocks, plays, and days later they walk into the river. Around that death the project makes paper and noise: the condemnation notice, the routing stamp, the harbor log that says jumper, the four inches on page seven, the joke on the afternoon program. That publicity is the thread. The soul rides it into the City's wires, telephone, radio, television, newsprint, and Weaver owns all four. She sits at the center and takes what the soul knew as it passes. Then it goes on, down a line out of the City, to something that was receiving the dead before she was born. She has never looked. She doesn't care where. She cares about the yield and the web's integrity.
+
+**Why the disappeared leave no trace.** The record of them travels with them. A file that would have named them goes quiet the way the district's phone lines have been going quiet: block by block, call by call. Rimm has been recording the silence for months.
+
+**Why it's accelerating.** The Span schedule compresses the dockets, so the collections come faster, so Weaver knows more sooner. By the ribbon-cutting she means to have the whole district.
+
+**Who knows what.**
+- **Weaver** built it and knows exactly what it is, and doesn't fully understand the current she's sitting in.
+- **Fitch** knows everything Weaver knows and worships her for it. Keeps the paper and the publicity cycle turning after each collection. Hates Maas; keeps him running because the project is the harvest.
+- **Maas** knows nothing past the project. Relocation is relocation. He asked for Vera to be dealt with because she was in the way.
+- **Bunting** doesn't know where they go and has never asked.
+- **The Judge** knows the City's dead are going somewhere that isn't his court, and not how or why. He put the agency on it to find out.
+- **Rimm** has the silence on tape and doesn't know what it is until someone tells him.
+- **Klein** runs on written truth; the web runs on written lies. The archive is the one record in the district the web didn't make and can't carry.
+- **Okafor** keeps the district's memory spoken. Spoken doesn't travel the wire.
+- **Toby** carries Weaver's own morning paper by dawn and Vera's by dusk: he walks the web's edge every day and doesn't know it.
+
+**What the players can do about it.** Not arrest her. Understand the web, then dismantle it with the people who can: Rimm can hear it and map it and cut it; Klein can print against it; Okafor's recitation and Cutty's account are records the wire can't carry; the Piper can be turned, because nobody above him ever told him what he's for. The end state is Weaver cut off from her own web, not Weaver in a cell.
+
+**The tier above.** The line goes somewhere. Whatever is at the far end has been taking the City's unnamed dead for a century. Weaver thinks the current is hers. It isn't. Nobody finds out what it is this arc.
+
+**Table rules that follow.**
+- The tune is inert when hummed. Only Bunting playing it does anything. The spot where he played holds it.
+- The rats are his without his consent.
+- The river takes sides; it gave Vera back.
+- The web listens. Anything said on a telephone, near a radio, or in print reaches Weaver eventually. Anything said face to face, or written by hand and never mailed, doesn't. This is a rule the players can learn and use.
 
 ## The case watches back
 
@@ -164,7 +188,7 @@ After each scene: *who saw this, and who do they tell?* Then move a clock.
 | [[Teddy Ferrante|Teddy]] | The pier, on film | Whoever pays ten a print | The crowd frames change hands Day 3 |
 | [[Amalia Reyes|Doc Reyes]] | Who drinks with whom | Jack, once | Bunting counts them from the stand the first Thursday they're in the room |
 
-**Weaver's moves, in order.** Day 1: page-7 drowning, "local character," a light joke in the afternoon monologue. Days 2–4: learns via Pruitt and Fitch that an agency, not Homicide, holds it; a friendly feature writer starts asking who these investigators are. Day 3: her paper buys Teddy's crowd frames. Day 5: the invitation, Studio B, a column offered to Jack. Day 7: the call to [[Whitcombe Ard]]. Weeks 3–4 if pressed: narrative violence, never physical. Cutty smeared in print, Halloran's competence questioned, the agency's mandate challenged. Fitch treated as disposable, which is what cracks her. Day 9, if Herminia is saved, Weaver stops being careful.
+**Weaver's moves, in order.** She knows more each week; by Day 10 she knows things the players said on a telephone. Day 1: page-7 drowning, "local character," a light joke in the afternoon monologue. Days 2–4: learns via Pruitt and Fitch that an agency, not Homicide, holds it; a friendly feature writer starts asking who these investigators are. Day 3: her paper buys Teddy's crowd frames. Day 5: the invitation, Studio B, a column offered to Jack. Day 7: the call to [[Whitcombe Ard]]. Weeks 3–4 if pressed: narrative violence, never physical. Cutty smeared in print, Halloran's competence questioned, the agency's mandate challenged. Fitch treated as disposable, which is what cracks her. Day 9, if Herminia is saved, Weaver stops being careful.
 
 ## Reactive schedules
 
@@ -209,7 +233,7 @@ Drop when momentum dips. Each delivers a clue.
 
 ## Endgame shape
 
-Not scripted. Three platforms exist for a name to be read aloud on the record: the inquest (~Day 10; Halloran with her spine located, Blum recasting it, [[Adaeze Okonkwo|Okonkwo]] typing), the pulpit (Prosper, four hundred on a Sunday), and the ribbon-cutting (~Day 37; Rimm's horn, Day's microphone, Weaver's own cameras). Maas breaks on betrayal. Bunting stops when the ledger is settled or when someone finally listens to the solo. Weaver signed nothing; she is never arrested. She is *named*, and the legend collects from the true debtor.
+Not scripted. The players win by degrees: the murder solved (the Piper), the machine proved (Maas, the docket, the pattern), the harvest understood (the web), and the web dismantled. Dismantling needs allies: Rimm to hear and cut the wire, Klein to print against the paper, Okafor and Cutty as records the wire can't carry, Mabel inside the Exchange, the Piper turned if they can. Maas ends broken by the truth that his project was never his. Fitch is the arrestable neck and the one who will fight. Weaver is never arrested; she is cut off, and what she already took she keeps. The ribbon-cutting is her deadline, not the players': it's when she means to have the whole district in her.
 
 ## Deliberately unresolved
 
@@ -219,4 +243,5 @@ Not scripted. Three platforms exist for a name to be read aloud on the record: t
 - What Weaver traded the sky god, and whether the sky god remembers.
 - Whether Rimm's horn, blown, is only a testimony.
 - What Bunting believes happens to the people he walks.
-- What is collecting the unheard dead, across arcs.
+- What is at the far end of the line, and whether Weaver was ever more than a tick on it.
+- What Weaver already knows about the players from what they've said near a wire.

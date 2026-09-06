@@ -20,7 +20,7 @@ aliases:
 > *The Coroner. Nobody remembers voting for him.*
 
 **Pitch:** The County Coroner. Elected unopposed forever, never photographed, paper only. Enma-ō, judge of the dead. The agency works for him and doesn't know it.
-**Wants:** Every death named on the record. Souls that die unnamed never reach him, and something else is collecting them.
+**Wants:** Every death named on the record. The City's dead are being carried somewhere that isn't his court. He knows it's happening and not how or why. The agency is how he finds out.
 **Gives:** the referral. Never in the room. The long game across arcs.
 
 ## Detail
@@ -31,7 +31,7 @@ aliases:
 - **How he chose the three:** his mirror shows anyone who stood at the river and was sent back. Rook, Cheng, and Rivers each nearly died once. The list came to Cole as a hiring memo.
 - **What he writes:** the referral (*Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.*); the closing notice (*Heard.*); once, on the back of one: *Eleven outstanding. They are not lost.*
 - **The cover:** the office is a county budget line and he lets it be cut. A coroner nobody could lean on would be noticed.
-- **Beyond the arc:** whatever is collecting the unnamed dead is the long villain. Weaver and Bunting feed it without knowing. No name yet.
+- **Beyond the arc:** Weaver is a tick on a current. The line goes somewhere out of the City, and whatever is at the far end has been receiving the dead for a century. No name yet. He doesn't know it either.
 
 **Voice:** None spoken. Written:
 - [the referral]: *Kestrel, Vera. F. 38. Flats. Inquest referred. Unheard.*

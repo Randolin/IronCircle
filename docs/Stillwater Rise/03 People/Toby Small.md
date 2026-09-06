@@ -26,6 +26,8 @@ aliases:
 - **Manner:** Talks in headlines. Editorializes every message. Never still. Trades cigarettes he doesn't smoke. Switches languages when excited. Hums.
 - **Mythos:** Ratatoskr, the message-runner between the top of the tree and the roots, in both languages.
 - **The hum:** inert on its own. Tells Bunting where the story is.
+- **The web's edge:** he carries Weaver's morning paper by dawn and Vera's by dusk. He walks the line between the web and the one record it can't carry every day, and doesn't know it.
+- **The web's edge:** he carries Weaver's morning paper by dawn and Vera's by dusk. He walks the line between the web and the one record it can't carry every day, and doesn't know it.
 - **His date:** his block's demolition eve, ~Day 18–20 at first posting, and the enemy can move it up. Final week: distraction, the tune constant, one night found at the canal rail confused about how he got there.
 - **Rule:** nobody rolls dice at Toby.
 

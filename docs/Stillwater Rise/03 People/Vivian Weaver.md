@@ -17,19 +17,22 @@ aliases:
 
 > *Anansi.*
 
-**Pitch:** Young television star who built a media empire in six years. She ordered Vera's death. Nobody can prove it because she signs nothing.
-**Wants:** To own every story in the City. The Flats is the last place that tells its own.
-**Threat:** buys or burns records. Drowns people only when the record is the person. Weaver decides, Bunting performs.
+**Pitch:** Young television star who owns the paper, the radio, and the TV channel. The City's wires are her web. The relocation program is a harvest she built: every person walked into the river passes through her lines and she takes what they knew. She's getting stronger by the day.
+**Wants:** To know the whole City. Every soul through the web is one more thing she knows. And the web's integrity, at any cost.
+**Threat:** anything that threatens the web. She knows more each week, including what's said near a wire. She doesn't dirty her hands; Fitch and the fixer do. Can't be arrested; can be cut off.
 
 ## Detail
 
 - **Look:** Chinese-American, late twenties, sleek black chignon, red lipstick, eight-strand pearl choker, scarlet silk. Long cigarette holder. Never photographed badly.
 - **Manner:** Answers every question with a true story that's beside the point. Remembers your name and one embarrassing fact. Never hums. Her heels on marble sound like more than two feet.
-- **Empire:** paper, radio hour, afternoon TV, Channel 6, assembled from silk money in six years through acquisitions nobody can reconstruct. Real name Vivian Zhu; Little China's old money paid for a temple roof in 1957.
+- **Empire:** paper, radio hour, afternoon TV, Channel 6, assembled from silk money in six years. Real name Vivian Zhu; Little China's old money paid for a temple roof in 1957.
+- **The web:** telephone, radio, television, newsprint. She owns all four. A relocated soul rides the publicity of its own death (notice, docket, page seven, the afternoon joke) into the wires, and she takes what it knew as it passes. Then it goes on down a line she has never looked at. She latched onto a current older than her and doesn't fully understand it.
+- **What she knows:** more every week. By Day 10, things the players said on a telephone. Face to face and handwritten don't reach her.
+- **Vera:** a knot. Vera went in with her Rift broken and the web hasn't closed over her. Weaver can feel it and doesn't know yet that it's Vera.
 - **Her moves:** Day 2 Fitch as liaison; Day 3 buys Teddy's crowd frames; Day 5 tea and a column for Jack; Day 7 the call to Ard; Day 9 if Herminia is saved, she stops being careful.
 - **She never lies.** Every question gets a true story that leads elsewhere. Interviews feel like winning until the transcript is read back.
-- **Ending:** never arrested. Named, out loud, on a platform she doesn't own.
-- **Stat block:** endgame; narrative warfare; never initiates violence.
+- **Ending:** never arrested. Cut off from the web by people who can hear it, print against it, and speak what the wire can't carry. What she already took, she keeps.
+- **Stat block:** endgame; never initiates violence; the web is the fight. See [[Roster]].
 
 **Voice:**
 - [welcoming investigators]: "Sit, sit. You know, the last man who came to me with questions left with a column. Ask Mickey Shale what became of him. No — ask him. He tells it well, when he's been watered."

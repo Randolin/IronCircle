@@ -22,7 +22,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 
 #### The old report
 > From a drawer under the counter: a carbon of a letter to the precinct, eighteen months old, in block capitals, describing a man in a coat walking into the river at Pier 9 at two in the morning "WITHOUT HURRY," and a reply clipped to it on precinct letterhead, two lines long, thanking the writer for his concern.
-*Klein saw a walker and was laughed off. Background on the pattern; true lead that the precinct has known for a year and a half.*
+*Klein saw a walker and was laughed off. Background on the pattern; true lead that the precinct has known for a year and a half. Note the carbon: he wrote it by hand and it never went anywhere a wire could carry it, which is why it still exists.*
 
 #### The card drawers
 > Filing cabinets to the ceiling, every drawer labeled by street. Pull one: index cards, one per family, name, address, date of the notice, date they left, and where they went. On maybe one card in five the last line is blank. On maybe one in ten it says a street that isn't on the map on the wall.
@@ -172,7 +172,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 
 #### The call slip
 > A slip of switchboard paper, folded twice, passed under a cup: a date, 2:45 AM, an exchange number that belongs to the Authority's night line, connected to the precinct's shift supervisor, three minutes. In the corner, a set of initials that aren't the operator's.
-*Mabel, end of week one. True lead on the disregard and the Authority.*
+*Mabel, end of week one. True lead on the disregard and the Authority. If they've earned more, she adds: calls coming in from numbers that were disconnected when the tenant vanished, with nobody on the line.*
 
 ## The Span Field Office
 
@@ -194,7 +194,7 @@ Read-aloud clue blocks at the follow-up locations. Each is one thing to look at,
 
 #### Page seven
 > Yesterday's morning edition, page seven, below the fold, four inches: LOCAL CHARACTER DROWNS. It uses the nickname in the first sentence and her name in the last. There is no byline.
-*Weaver's paper shaped it. Background on how the City will remember her unless someone reads a name aloud.*
+*Weaver's paper shaped it, and the paragraph is the thread: this is how a soul rides into the wire. Background now; the mechanism later. Fitch made sure it ran on schedule.*
 
 #### The spike
 > On the city desk, a spike with a sheaf of copy on it, and near the top, six typed pages with a byline and a red grease-pencil line through the slug. The first sentence uses her name.
