@@ -122,7 +122,42 @@ Let them choose. One fight is guaranteed (the print shop). Two doors is a full n
 
 Toby: knows her route, knows she'd been "watching somebody" for two weeks and wouldn't say who, hums. If asked: "This? The sax man taught me. The one that knocks on doors. It's pretty, ain't it?" Move on fast. Don't let anyone connect it tonight.
 
-**The fight (guaranteed).** [[Sal Lupo|Lupo]]'s crew is upstairs tossing Vera's rooms for the "relocation man's" paperwork. Four men, crowbars, a foreman with a cigar. Mundane. They leave marks. Klein hasn't heard them; he's about to. Pull him before the Golem shows; that's not a Day 1 reveal. Afterward, one of them, bleeding: "Sal just wants the guy. Same as you. He'll pay." Lupo wants to *hire* them.
+**The fight (guaranteed).** [[Sal Lupo|Lupo]]'s crew is upstairs *right now*, and has been for about twenty minutes.
+
+**Why they're here.** Two errands, one trip. Vera photographed one of Lupo's illegal evictions and the paper ran it with his company named, which is prison and not embarrassment, so he wants the negatives. And blocks have been clearing ahead of his crews with no billable incidents, so he wants anything in her files that names the man undercutting him. They have found neither, because the camera, the film, and the card-drawer file went off-site on Day −3. Twenty minutes of finding nothing is why they're being destructive.
+
+**The tell, before anyone goes up.** Klein is deaf and has his back to the room and the press running. Pick one: dust sifting down between the ceiling boards; the bare bulb over the counter swinging very slightly; a drawer hitting a floor two rooms above; Toby stopping mid-sentence and looking up.
+
+**The choice.** Back stairs are steep with a rope for a rail and a door at the top that sticks, so quiet is possible but not free. Three ways in, and the players pick:
+- **Quiet:** an Agility roll (14) each on the stairs; success means one free round.
+- **Loud:** through the shop door and up. The crew scatters to the two rooms and the window.
+- **Get Klein out first:** the humane play and the slow one. Writing on the roll takes time; the crew hears the shouting; they're at the top of the stairs before the party is.
+
+**The fight.** Four **Lupo Brothers Crew** and the **Foreman** ([[Adversaries]]). Crowbars, a sap, no guns. Mundane, on the easy side, and they fight to leave rather than to win: two rounds in, whoever is worst hurt goes out the window onto the fire escape. Klein comes up the stairs on round two. **Pull him out before he decides anything.** If the archive is threatened in front of him, the Golem surfaces, which is a Day 8 reveal arriving on Day 1 and ends the session in the wrong place.
+
+**Afterward.** One of them, bleeding, sitting on the stairs: *"Sal just wants the guy. Same as you. He'll pay."* By tomorrow morning Lupo knows who they are and wants a meeting. He is not sorry.
+
+**If they arrive after.** If they went somewhere else first, the crew is gone by evening and Klein is standing in the wreckage with the roll under his arm, having found it himself. Everything below still applies; the fight moves to the yard on Day 2, where Lupo is expecting them.
+
+### Vera's rooms, after
+
+Two rooms up the back stairs. What survives the search matters more than what doesn't.
+
+**Wrecked:** the mattress is cut open, the corkboard is off the wall, the card drawers are pulled and dumped, and the district map is face-down on the floor with the pins still in it. Nothing is burned. Nothing is taken.
+
+**Intact, because the crew didn't know what they were looking at:**
+- **The card files**, scattered but complete: one card per family, name, address, date of the notice, date they left, and where they went. One card in five has the last line blank. One in ten names a street that isn't on any map. Restoring them is hours of work, or an evening with [[George Oyama|Oyama]].
+- **The map and its pins**, if anyone picks it up: red on the river blocks, blue following a month behind, white on blocks not gone yet, and one white pin on the block outside the window.
+- **The kitchen table:** oilcloth, one chair pulled out and turned toward the window, a bottle with the cap off, one glass with a finger of rye in it. The window looks at the white fence.
+- **Her cardigan** over the back of the chair. She wore one every day and she changed clothes before she left.
+- **The framed first issue** by the stairs, eleven years old, purple gone gray: THE PLAIN TRUTH. PRINTED WEEKLY. RIGHT EVENTUALLY.
+
+**The absences, which are the actual leads:**
+- **One drawer empty** and clean on the runners, the one labeled with the pier's street. Emptied on purpose three days ago.
+- **The camera and the film gone** from the shelf downstairs, where there is a cleared space in the ink-dust the size of a shoebox, a developing tray, and an empty clothesline.
+- Both go wherever the small new key on her ring fits, and nobody has found that yet.
+
+Full read-aloud and the GM lines for each item are in [[Leads#Klein Job Printing]].
 
 ### Tin City
 
