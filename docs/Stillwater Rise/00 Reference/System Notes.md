@@ -27,7 +27,7 @@ Character builds borrow **Daggerheart** structure for both halves. Each side get
 | Logos | one Daggerheart class, human-scale only | what the mundane self has done | read literally (a Ranger's aim, a Bard's patter) |
 | Mythos | one Daggerheart class (Void classes and transformation templates allowed) | what the legend knows | read mythically (a Wizard's *Fireball* is the Tower falling) |
 
-The Hope/Fear economy is the table's read on Logos/Mythos tension. A Daggerheart / Fabula Ultima hybrid was discussed and set aside; Daggerheart as written is the rules. Stat blocks are built as scenes need them; each character note says what the block should do.
+Each PC runs two sheets, a level 1 Logos and a level 4 Mythos, as one character. The Mythos sheet comes in by **surfacing**: a 3-box per-session track, free surfaces on Severe damage or last Stress or GM offer, a 6-Hope surge for a scene, and Incarnation in place of Avoid Death and Risk It All, with a Scar after. Every surface costs the GM side 1 Fear or a clock tick. The full rules block is in [[Session 00#Two Sheets (house rules)]]. Stat blocks are built as scenes need them.
 
 ## Conventions
 

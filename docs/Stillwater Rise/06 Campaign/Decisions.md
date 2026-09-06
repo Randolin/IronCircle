@@ -92,3 +92,7 @@ Dated record of what's locked and why. Newest at the bottom. Reconstructed from 
 - **Aggressive false leads:** Lupo's crew tossing Vera's rooms is the Session 1 fight; Sato is a standoff if the door is kicked; Pell runs.
 - **[[Session 00]] created** as the table tracking sheet: players, session-zero answers, connections, contacts, and running logs (facts revealed, NPCs met, clues found, suspects in the players' words, marks left, promises, clocks, loose ends).
 - Still open: the sympathetic face at the encampment (default: Herminia via Toby on the walk home); stat blocks for Lupo's crew and the rat swarm; the clue handout.
+
+## 2026-09-06 — Two Sheets
+
+- **House rules locked** ([[Session 00#Two Sheets (house rules)]]): each PC is a level 1 Logos sheet and a level 4 Mythos sheet, one body (HP, Stress, Armor, Hope shared). **Surfacing** = one action or reaction on the Mythos sheet. A 3-box Surface track per session; free surfaces on Severe damage, last Stress, or GM offer; **Surge** = spend 6 Hope for a scene; **Incarnation** replaces Avoid Death and Risk It All (surface for the scene, clear HP and Stress), followed by a **Scar** (cross a Hope slot, record a tell). Every surface costs the GM side 1 Fear or one clock tick. Death moves as written apply only while already incarnated. No tuning section; the GM decides.
