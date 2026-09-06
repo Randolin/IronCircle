@@ -43,6 +43,7 @@ The GM hub. Everything in this folder except [[Party]] and the player characters
 | [[Session 00]] | The table sheet: players, contacts, and the running log of what the table knows |
 | [[Session 01]] | Per-session plans and recaps live in `Sessions/` |
 | [[People]] | The cast, with the cross-cutting tables |
+| [[Roster]] | Every named NPC on one page: traits, motives, social angle, stat lines and Mythos blocks |
 | [[Themes]] | Suno spine and settings |
 
 ## Session workflow

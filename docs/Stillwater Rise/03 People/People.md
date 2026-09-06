@@ -7,6 +7,8 @@ aliases: ["People", "Roster", "The Cast"]
 
 One note per character. The tiers sort by **relationship to the killings**, not importance — see [[Reference#The tiers]]. The [[Danger Board]] says who's at risk; the [[Timeline]] says when.
 
+**For running them at the table, use [[Roster]]:** every named NPC on one page with traits, Logos and Mythos motives, what works on them and what doesn't, and stat lines (Mythos blocks where they have one).
+
 **GM key — the actual structure:** [[Vivian Weaver|Weaver]] authored it, [[Sterling Maas|Maas]] authorized the conditions, [[Manny Bunting|Bunting]] performed it, [[Gerry Fitch|Fitch]] routed the paper, [[Mickey Shale|Shale]] supplied the tip, [[Walt Herzog|Herzog]] relayed the tip, [[Roy Pruitt|Pruitt]] supplies the surveillance for the next one. Lupo, Sato, Pell, Brogan, Milner, and Day are innocent of murder.
 
 ## The victim
