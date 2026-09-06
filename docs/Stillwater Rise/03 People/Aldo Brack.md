@@ -35,3 +35,7 @@ aliases:
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a florid, heavy white desk sergeant in his fifties with a fleshy face, a wattled neck, and a thinning comb-over. Sparse, grizzled eyebrows; small, suspicious, quick-moving eyes; a large bulbous nose; a downturned defensive mouth; half-glasses shoved up onto his forehead. Guarded, put-upon expression, facing the viewer. At the bottom edge of the frame only: a desk sergeant's uniform collar cinched tight at a fleshy neck.
 
 **Image prompt — full body & wardrobe:** Full-figure view of a heavy, florid white desk sergeant in his fifties standing with arms crossed over his chest. He wears a slightly strained 1962 sergeant's uniform with the collar tight, half-glasses pushed up on his forehead, and a pencil tucked behind one ear.
+
+## Theme (Suno)
+
+Uses the Tier C precinct bed in [[Themes]] with `+ raise the telephones over the band`.

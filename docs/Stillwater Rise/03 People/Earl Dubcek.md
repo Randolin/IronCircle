@@ -36,3 +36,7 @@ aliases:
 **Image prompt — headshot:** Bust-length view, cropped just below the collarbone, of a weathered white harbor patrolman in his sixties with a face like cracked leather and deep squint folds around pale gray eyes. Heavy white eyebrows; a thick, magnificent white walrus mustache completely covering the upper lip; a broad wind-reddened nose; a dark knit watch cap pulled low. Steady, salt-cured, unshakable expression, facing the viewer. At the bottom edge of the frame only: the high buttoned collar of black oilskins over a cable-knit sweater.
 
 **Image prompt — full body & wardrobe:** Full-figure view of a solid white harbor patrolman in his sixties standing square, enormous weathered hands at his sides. He wears black oilskins over a cable-knit sweater, heavy rubber boots, and a dark knit watch cap.
+
+## Theme (Suno)
+
+Uses the Tier C precinct bed in [[Themes]] with `+ replace the radiator with harbor water and a distant bell`.
